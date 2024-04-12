@@ -1,11 +1,11 @@
 {
     "Name": "Menglish - английский для детей и взрослых",
-    "Notes": "Добавлены основные модули",
+    "Notes": "Добавлен алфавит и обновлены цвета",
     "Version": 1,
     "DownloadSizeMB": 50,
     "DownloadLinks": [
         
-           "https://anton-dot.github.io/meweb/dict.zip","https://anton-dot.github.io/meweb/img.zip"
+           "https://anton-dot.github.io/meweb/all.zip" 
         
     ]
      

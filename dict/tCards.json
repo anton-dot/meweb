@@ -1,0 +1,28 @@
+{
+  "name": "test",
+  "nameA": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "test",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "Doll",
+      "nameA": null,
+      "image": "/img/dict/shapes/rectangle.png",
+      "bg": "white",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "кукла",
+          "nameA": null
+        }
+      ]
+    }
+    
+  ]
+}

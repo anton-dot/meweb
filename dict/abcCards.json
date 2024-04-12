@@ -1,0 +1,210 @@
+{
+  "name": "Alphabet",
+  "nameA": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "name": "Alphabet",
+      "nameA": null,
+      "image": "/img/dict/abc/abc.png",
+      "bg": "transparent",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Алфавит",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "name": "A",
+      "nameA": null,
+      "image": "/img/dict/abc/a.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "b",
+      "nameA": null,
+      "image": "/img/dict/abc/b.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "c",
+      "nameA": null,
+      "image": "/img/dict/abc/c.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "d",
+      "nameA": null,
+      "image": "/img/dict/abc/d.png",
+      "bg": "transparent",
+      "translates": []
+    },
+   
+    {
+      "name": "e",
+      "nameA": null,
+      "image": "/img/dict/abc/e.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "f",
+      "nameA": null,
+      "image": "/img/dict/abc/f.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "g",
+      "nameA": null,
+      "image": "/img/dict/abc/g.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "h",
+      "nameA": null,
+      "image": "/img/dict/abc/h.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "i",
+      "nameA": null,
+      "image": "/img/dict/abc/i.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "j",
+      "nameA": null,
+      "image": "/img/dict/abc/j.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "k",
+      "nameA": null,
+      "image": "/img/dict/abc/k.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "l",
+      "nameA": null,
+      "image": "/img/dict/abc/l.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "m",
+      "nameA": null,
+      "image": "/img/dict/abc/m.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "n",
+      "nameA": null,
+      "image": "/img/dict/abc/n.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "o",
+      "nameA": null,
+      "image": "/img/dict/abc/o.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "p",
+      "nameA": null,
+      "image": "/img/dict/abc/p.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "q",
+      "nameA": null,
+      "image": "/img/dict/abc/q.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "r",
+      "nameA": null,
+      "image": "/img/dict/abc/r.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "s",
+      "nameA": null,
+      "image": "/img/dict/abc/s.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "t",
+      "nameA": null,
+      "image": "/img/dict/abc/t.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "u",
+      "nameA": null,
+      "image": "/img/dict/abc/u.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "v",
+      "nameA": null,
+      "image": "/img/dict/abc/v.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "w",
+      "nameA": null,
+      "image": "/img/dict/abc/w.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "x",
+      "nameA": null,
+      "image": "/img/dict/abc/x.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "y",
+      "nameA": null,
+      "image": "/img/dict/abc/y.png",
+      "bg": "transparent",
+      "translates": []
+    },
+    {
+      "name": "z",
+      "nameA": null,
+      "image": "/img/dict/abc/z.png",
+      "bg": "transparent",
+      "translates": []
+    }
+
+  ]
+}
