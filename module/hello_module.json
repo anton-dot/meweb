@@ -53,9 +53,9 @@
 
         {
           "name": "Head",
-          
+
           "aType": "UNIVERSAL",
-          "img": "/img/dict/head/head.png",
+          "img": "/img/dict/body/head.png",
           "rUrl": "headCards"
 
         },
