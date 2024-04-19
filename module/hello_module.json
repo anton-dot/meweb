@@ -14,6 +14,14 @@
 
         },
         {
+          "name": "1-10",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/numbers/10.png",
+          "bgColor": "dodgerblue",
+          "rUrl": "tenCards"
+
+        },
+        {
           "name": "Colors",
           "aType": "UNIVERSAL",
           "img": "/img/activity/palette.png",
@@ -45,6 +53,7 @@
 
         {
           "name": "Head",
+          
           "aType": "UNIVERSAL",
           "img": "/img/dict/head/head.png",
           "rUrl": "headCards"
@@ -53,6 +62,7 @@
 
         {
           "name": "Body",
+          
           "aType": "UNIVERSAL",
           "img": "/img/dict/body/body.png",
           "rUrl": "bodyCards"
@@ -62,8 +72,25 @@
       ]
     },
     {
-      "name": "School",
+      "name": "Playground",
       "activities": [
+
+
+
+      ]
+    },
+
+    {
+      "name": "Learning",
+      "activities": [
+        {
+          "name": "STUDY",
+          "fordev": true,
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/classroom/classroom.png",
+          "rUrl": "classCards"
+
+        },
         {
           "name": "CLASS",
           "aType": "UNIVERSAL",
@@ -71,35 +98,13 @@
           "rUrl": "classCards"
 
         },
-        {
-          "name": "1-10",
-          "aType": "UNIVERSAL",
-          "img": "/img/dict/numbers/10.png",
-          "bgColor": "dodgerblue",
-          "rUrl": "tenCards"
 
-        },
-        {
-          "name": "Plus",
-          "aType": "SimpleSelect",
-          "img": "/img/dict/numbers/1p1.png",
-          "rUrl": "mathPlusCards",
-          "bgColor": "white"
-
-        },
-        {
-          "name": "Minus",
-          "aType": "SimpleSelect",
-          "img": "/img/dict/numbers/2m1.png",
-          "rUrl": "mathMinusCards",
-          "bgColor": "white"
-
-
-        },
+        
         {
           "name": "Greetings",
           "aType": "Story",
           "img": "/img/story/hi.jpg",
+          "fordev": true,
           "rUrl": "hello",
           "bgColor": "white"
 
@@ -108,6 +113,7 @@
         {
           "name": "Greetings",
           "aType": "Dialog",
+          "fordev": true,
           "img": "/img/story/hi.jpg",
           "rUrl": "hello",
           "bgColor": "white"
@@ -126,6 +132,7 @@
           "name": "farm",
           "aType": "UNIVERSAL",
           "img": "/img/dict/animals/rooster.png",
+          "fordev": true,
           "bgColor": "dodgerblue",
           "rUrl": "animalsFarmCards"
 
@@ -134,6 +141,7 @@
           "name": "PET",
           "aType": "UNIVERSAL",
           "img": "/img/dict/animals/dog.png",
+          "fordev": true,
           "bgColor": "dodgerblue",
           "rUrl": "animalsPetCards"
 
@@ -143,6 +151,7 @@
           "name": "WILD",
           "aType": "UNIVERSAL",
           "img": "/img/dict/animals/tiger.png",
+          "fordev": true,
           "bgColor": "dodgerblue",
           "rUrl": "animalsWildCards"
 
@@ -152,6 +161,7 @@
           "name": "SEA",
           "aType": "UNIVERSAL",
           "img": "/img/dict/animals/crab.png",
+          "fordev": true,
           "bgColor": "dodgerblue",
           "rUrl": "animalsSeaCards"
 
@@ -223,6 +233,30 @@
       ]
     },
     {
+      "name": "math activities",
+      "activities": [
+
+        {
+          "name": "Plus",
+          "aType": "SimpleSelect",
+          "img": "/img/dict/numbers/1p1.png",
+          "rUrl": "mathPlusCards",
+          "bgColor": "white"
+
+        },
+        {
+          "name": "Minus",
+          "aType": "SimpleSelect",
+          "img": "/img/dict/numbers/2m1.png",
+          "rUrl": "mathMinusCards",
+          "bgColor": "white"
+
+
+        }
+
+      ]
+    },
+    {
       "name": "My House",
       "activities": [
 
@@ -264,11 +298,11 @@
     },
     {
       "name": "Phonics",
-      "activities": [
-
-
-
-      ]
+      "activities": []
+    },
+    {
+      "name": "Symbols",
+      "activities": []
     }
 
   ]

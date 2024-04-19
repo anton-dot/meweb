@@ -1,0 +1,108 @@
+{
+  "name": "Sign and Symbols",
+  "nameA": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Знаки и символы",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "name": "Sign",
+      "nameA": null,
+      "image": "/img/dict/signs/sign.png",
+      "bg": "transparent",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Знак",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "name": "Symbol",
+      "nameA": null,
+      "image": "/img/dict/signs/symbol.png",
+      "bg": "transparent",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Символ",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "name": "dot",
+      "nameA": null,
+      "image": "/img/dict/signs/dot.png",
+      "bg": "transparent",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "точка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "name": "comma",
+      "nameA": null,
+      "image": "/img/dict/signs/comma.png",
+      "bg": "transparent",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "запятая",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "name": "plus",
+      "nameA": null,
+      "image": "/img/dict/signs/plus.png",
+      "bg": "transparent",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "плюс",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "name": "minus",
+      "nameA": null,
+      "image": "/img/dict/signs/minus.png",
+      "bg": "transparent",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "минус",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "name": "equals",
+      "nameA": null,
+      "image": "/img/dict/signs/equals.png",
+      "bg": "transparent",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "равно",
+          "nameA": null
+        }
+      ]
+    }
+
+
+
+
+  ]
+}

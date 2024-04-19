@@ -12,6 +12,7 @@
     {
       "id": 0,
       "name": "Circle",
+      "transcription": "[sɜːkl]",
       "nameA": null,
       "image": "/img/dict/shapes/circle.png",
       "bg": "transparent",
@@ -26,6 +27,7 @@
     {
       "id": 0,
       "name": "Oval",
+      "transcription": "[ˈəʊvəl]",
       "nameA": null,
       "image": "/img/dict/shapes/oval.png",
       "bg": "transparent",
@@ -37,10 +39,11 @@
         }
       ]
     },
-    
+
     {
       "id": 0,
       "name": "Triangle",
+      "transcription": "[ˈtraɪæŋgl]",
       "nameA": null,
       "image": "/img/dict/shapes/triangle.png",
       "bg": "transparent",
@@ -55,6 +58,7 @@
     {
       "id": 0,
       "name": "Diamond",
+      "transcription": "[ˈdaɪəmənd]",
       "nameA": null,
       "image": "/img/dict/shapes/diamond.png",
       "bg": "transparent",
@@ -69,6 +73,7 @@
     {
       "id": 0,
       "name": "Star",
+      "transcription": "[stɑː]",
       "nameA": null,
       "image": "/img/dict/shapes/star.png",
       "bg": "transparent",
@@ -83,6 +88,7 @@
     {
       "id": 0,
       "name": "Cloud",
+      "transcription": "[klaʊd]",
       "nameA": null,
       "image": "/img/dict/shapes/cloud.png",
       "bg": "transparent",
@@ -97,6 +103,7 @@
     {
       "id": 0,
       "name": "Square",
+      "transcription": "[skweə]",
       "nameA": null,
       "image": "/img/dict/shapes/square.png",
       "bg": "transparent",
@@ -111,6 +118,7 @@
     {
       "id": 0,
       "name": "Heart",
+      "transcription": "[hɑːt]",
       "nameA": null,
       "image": "/img/dict/shapes/heart.png",
       "bg": "transparent",
@@ -125,6 +133,7 @@
     {
       "id": 0,
       "name": "Rectangle",
+      "transcription": "[ˈrektæŋgl]",
       "nameA": null,
       "image": "/img/dict/shapes/rectangle.png",
       "bg": "transparent",
