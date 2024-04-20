@@ -36,8 +36,7 @@
           "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 0,
       "name": "arm",
@@ -51,8 +50,7 @@
           "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 0,
       "name": "back",
@@ -122,23 +120,7 @@
           "nameA": null
         }
       ]
-    }
-    ,
-    {
-      "id": 0,
-      "name": "knee",
-      "nameA": null,
-      "image": "/img/dict/body/knee.png",
-      "bg": "white",
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Колено",
-          "nameA": null
-        }
-      ]
-    }
-    ,
+    },
     {
       "id": 0,
       "name": "leg",
@@ -163,6 +145,20 @@
         {
           "lang": "ru-RU",
           "name": "палец на ноге",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "knee",
+      "nameA": null,
+      "image": "/img/dict/body/knee.png",
+      "bg": "white",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Колено",
           "nameA": null
         }
       ]

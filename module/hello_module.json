@@ -62,7 +62,7 @@
 
         {
           "name": "Body",
-          
+
           "aType": "UNIVERSAL",
           "img": "/img/dict/body/body.png",
           "rUrl": "bodyCards"
