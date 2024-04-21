@@ -151,7 +151,7 @@
           "name": "WILD",
           "aType": "UNIVERSAL",
           "img": "/img/dict/animals/tiger.png",
-          "fordev": true,
+        
           "bgColor": "dodgerblue",
           "rUrl": "animalsWildCards"
 
