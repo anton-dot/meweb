@@ -132,7 +132,7 @@
           "name": "farm",
           "aType": "UNIVERSAL",
           "img": "/img/dict/animals/rooster.png",
-          "fordev": true,
+          
           "bgColor": "dodgerblue",
           "rUrl": "animalsFarmCards"
 
@@ -141,7 +141,7 @@
           "name": "PET",
           "aType": "UNIVERSAL",
           "img": "/img/dict/animals/dog.png",
-          "fordev": true,
+       
           "bgColor": "dodgerblue",
           "rUrl": "animalsPetCards"
 
@@ -161,7 +161,7 @@
           "name": "SEA",
           "aType": "UNIVERSAL",
           "img": "/img/dict/animals/crab.png",
-          "fordev": true,
+        
           "bgColor": "dodgerblue",
           "rUrl": "animalsSeaCards"
 

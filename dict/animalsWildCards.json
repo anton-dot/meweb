@@ -327,17 +327,7 @@
         }
       ]
     },
-    {
-      "id": 29,
-      "name": "leopard",
-      "image": "/img/dict/animals/leopard.png",
-      "translates": [
-        {
-          "name": "леопард",
-          "lang": "ru-RU"
-        }
-      ]
-    },
+    
     {
       "id": 30,
       "name": "otter",
