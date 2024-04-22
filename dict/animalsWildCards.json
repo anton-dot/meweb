@@ -141,6 +141,17 @@
       ]
     },
     {
+      "id": 11,
+      "name": "Hog",
+      "image": "/img/dict/animals/hog.png",
+      "translates": [
+        {
+          "name": "Кабан",
+          "lang": "ru-RU"
+        }
+      ]
+    },
+    {
       "id": 12,
       "name": "Orangutan",
       "image": "/img/dict/animals/orangutan.png",
@@ -327,7 +338,7 @@
         }
       ]
     },
-    
+
     {
       "id": 30,
       "name": "otter",
@@ -547,8 +558,7 @@
           "lang": "ru-RU"
         }
       ]
-    }
-    ,
+    },
     {
       "id": 50,
       "name": "spider",
