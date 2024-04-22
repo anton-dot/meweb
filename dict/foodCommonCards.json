@@ -11,6 +11,42 @@
   "items": [
     {
       "id": 0,
+      "name": "food",
+      "transcription": "[fuːd]",
+      "image": "/img/dict/food/food.png",
+      "translates": [
+        {
+          "name": "курица",
+          "lang": "ru-RU"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "healthy food",
+
+      "image": "/img/dict/food/healthyfood.png",
+      "translates": [
+        {
+          "name": "здоровая еда",
+          "lang": "ru-RU"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "junk food",
+
+      "image": "/img/dict/food/junkfood.png",
+      "translates": [
+        {
+          "name": "вредная пища",
+          "lang": "ru-RU"
+        }
+      ]
+    },
+    {
+      "id": 0,
       "name": "chicken",
       "image": "/img/dict/food/chicken.png",
       "translates": [
@@ -108,7 +144,7 @@
         }
       ]
     },
-   
+
     {
       "id": 10,
       "name": "cereal",
@@ -120,8 +156,8 @@
         }
       ]
     },
-   
-  
+
+
     {
       "id": 13,
       "name": "corn dog",
@@ -144,8 +180,8 @@
         }
       ]
     },
-   
-   
+
+
     {
       "id": 17,
       "name": "meat",
@@ -236,7 +272,7 @@
     },
     {
       "id": 30,
-      "name": "fruit",
+      "name": "fruits",
       "image": "/img/dict/food/fruit.png",
       "translates": [
         {
@@ -278,8 +314,8 @@
         }
       ]
     },
-    
-    
+
+
     {
       "id": 32,
       "name": "crisps",
@@ -291,7 +327,7 @@
         }
       ]
     },
- 
+
     {
       "id": 34,
       "name": "ham",
@@ -380,7 +416,7 @@
         }
       ]
     },
-    
+
     {
       "id": 42,
       "name": "sauce",
@@ -392,7 +428,7 @@
         }
       ]
     },
-   
+
     {
       "id": 44,
       "name": "salad",
@@ -415,7 +451,7 @@
         }
       ]
     },
-    
+
     {
       "id": 47,
       "name": "kebab",
@@ -427,8 +463,8 @@
         }
       ]
     },
-  
-    
+
+
     {
       "id": 50,
       "name": "toast",
@@ -439,9 +475,8 @@
           "lang": "ru-RU"
         }
       ]
-    }
-    ,
-     {
+    },
+    {
       "id": 51,
       "name": "fried eggs",
       "image": "/img/dict/food/friedeggs.png",
