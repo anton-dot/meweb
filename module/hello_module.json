@@ -79,7 +79,75 @@
 
       ]
     },
+    {
+      "name": "My House",
+      "activities": [
+        {
+          "name": "House",
+          "fordev": true,
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/classroom/house.png",
+          "rUrl": "classCards"
 
+        },
+        {
+          "name": "Rooms",
+          "fordev": true,
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/classroom/rooms.png",
+          "rUrl": "classCards"
+
+        },
+        {
+          "name": "Kitchen",
+          "fordev": true,
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/classroom/kitchen.png",
+          "rUrl": "classCards"
+
+        },
+        {
+          "name": "Bedroom",
+          "fordev": true,
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/classroom/bedroom.png",
+          "rUrl": "classCards"
+
+        },
+        {
+          "name": "Bathroom",
+          "fordev": true,
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/classroom/bathroom.png",
+          "rUrl": "classCards"
+
+        },
+        {
+          "name": "Living room",
+          "fordev": true,
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/classroom/livingroom.png",
+          "rUrl": "classCards"
+
+        },
+        {
+          "name": "Dinning room",
+          "fordev": true,
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/classroom/dinningroom.png",
+          "rUrl": "classCards"
+
+        },
+        {
+          "name": "Nursery",
+          "fordev": true,
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/classroom/nursery.png",
+          "rUrl": "classCards"
+
+        }
+      ]
+    },
     {
       "name": "Learning",
       "activities": [
@@ -99,7 +167,7 @@
 
         },
 
-        
+
         {
           "name": "Greetings",
           "aType": "Story",
@@ -132,7 +200,7 @@
           "name": "farm",
           "aType": "UNIVERSAL",
           "img": "/img/dict/animals/rooster.png",
-          
+
           "bgColor": "dodgerblue",
           "rUrl": "animalsFarmCards"
 
@@ -141,7 +209,7 @@
           "name": "PET",
           "aType": "UNIVERSAL",
           "img": "/img/dict/animals/dog.png",
-       
+
           "bgColor": "dodgerblue",
           "rUrl": "animalsPetCards"
 
@@ -151,7 +219,7 @@
           "name": "WILD",
           "aType": "UNIVERSAL",
           "img": "/img/dict/animals/tiger.png",
-        
+
           "bgColor": "dodgerblue",
           "rUrl": "animalsWildCards"
 
@@ -161,7 +229,7 @@
           "name": "SEA",
           "aType": "UNIVERSAL",
           "img": "/img/dict/animals/crab.png",
-        
+
           "bgColor": "dodgerblue",
           "rUrl": "animalsSeaCards"
 
@@ -256,14 +324,7 @@
 
       ]
     },
-    {
-      "name": "My House",
-      "activities": [
 
-
-
-      ]
-    },
     {
       "name": "STREET",
       "activities": [

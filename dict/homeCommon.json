@@ -1,0 +1,390 @@
+{
+  "name": "Home",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "tags": [
+    "home",
+    "housing"
+  ],
+  "Translations": [],
+  "items": [
+    
+    {
+      "id": 1,
+      "name": "hostel",
+      "transcription": "[hɒstl]",
+      "nameA": null,
+      "image": "/img/dict/home/hostel.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "хостел",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "skyscraper",
+      "transcription": "[ˈskaɪskreɪpə]",
+      "nameA": null,
+      "image": "/img/dict/home/skyscraper.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "небоскреб",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "mansion",
+      "transcription": "[mænʃn]",
+      "nameA": null,
+      "image": "/img/dict/home/mansion.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "особняк",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "motel",
+      "transcription": "[məʊˈtel]",
+      "nameA": null,
+      "image": "/img/dict/home/motel.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "мотель",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "multistoried building",
+      "transcription": "[mʌltɪˈstɔːrɪd ˈbɪldɪŋ]",
+      "nameA": null,
+      "image": "/img/dict/home/multistoried_building.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "многоэтажное здание",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "private residence",
+      "transcription": "[ˈpraɪvɪt ˈrezɪdəns]",
+      "nameA": null,
+      "image": "/img/dict/home/private_residence.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "большой частный дом",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "resort",
+      "transcription": "[rɪˈzɔːt]",
+      "nameA": null,
+      "image": "/img/dict/home/resort.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "курорт",
+          "nameA": null
+        }
+      ]
+    },
+    
+    {
+      "id": 9,
+      "name": "country house",
+      "transcription": "[ˈkʌntrɪ haʊs]",
+      "nameA": null,
+      "image": "/img/dict/home/country_house.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "загородный дом",
+          "nameA": null
+        }
+      ]
+    },
+     
+    {
+      "id": 11,
+      "name": "cottage",
+      "transcription": "[ˈkɒtɪʤ]",
+      "nameA": null,
+      "image": "/img/dict/home/cottage.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "коттедж",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "house",
+      "transcription": "[haʊs]",
+      "nameA": null,
+      "image": "/img/dict/home/house.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "дом",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "camp site",
+      "transcription": "[kæmp saɪt]",
+      "nameA": null,
+      "image": "/img/dict/home/camp_site.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "кемпинг",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "hotel",
+      "transcription": "[həʊˈtel]",
+      "nameA": null,
+      "image": "/img/dict/home/hotel.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "гостиница, отель",
+          "nameA": null
+        }
+      ]
+    },
+     
+    {
+      "id": 16,
+      "name": "guesthouse",
+      "transcription": "[ˈgesthaʊs]",
+      "nameA": null,
+      "image": "/img/dict/home/guesthouse.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "домик для гостей",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "bungalow",
+      "transcription": "[ˈbʌŋgələʊ]",
+      "nameA": null,
+      "image": "/img/dict/home/bungalow.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "бунгало",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "home",
+      "transcription": "[həʊm]",
+      "nameA": null,
+      "image": "/img/dict/home/home.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "дом",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "building",
+      "transcription": "[ˈbɪldɪŋ]",
+      "nameA": null,
+      "image": "/img/dict/home/building.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "здание",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "apartment",
+      "transcription": "[əˈpɑːtmənt]",
+      "nameA": null,
+      "image": "/img/dict/home/apartment.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "апартаменты",
+          "nameA": null
+        }
+      ]
+    } ,
+    {
+      "id": 22,
+      "name": "flat",
+      "transcription": "[flæt]",
+      "nameA": null,
+      "image": "/img/dict/home/flat.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "квартира",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "apartment house",
+      "transcription": "[əˈpɑːtmənt haʊs]",
+      "nameA": null,
+      "image": "/img/dict/home/apartment_house.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "многоквартирный дом",
+          "nameA": null
+        }
+      ]
+    },
+     
+    {
+      "id": 25,
+      "name": "hut",
+      "transcription": "[hʌt]",
+      "nameA": null,
+      "image": "/img/dict/home/hut.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "избушка",
+          "nameA": null
+        }
+      ]
+    },
+
+
+
+
+    {
+      "id": 29,
+      "name": "window",
+      "transcription": "[ˈwɪndəʊ]",
+      "nameA": null,
+      "image": "/img/dict/home/window.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "окно",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "door",
+      "transcription": "[dɔːr]",
+      "nameA": null,
+      "image": "/img/dict/home/door.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "дверь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "stairs",
+      "transcription": "[ˈstɛrz]",
+      "nameA": null,
+      "image": "/img/dict/home/stairs.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "лестница",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}
