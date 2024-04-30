@@ -87,7 +87,7 @@
           "fordev": true,
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/house.png",
-          "rUrl": "classCards"
+          "rUrl": "homeCommon"
 
         },
         {
@@ -95,7 +95,7 @@
           "fordev": true,
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/rooms.png",
-          "rUrl": "classCards"
+          "rUrl": "no"
 
         },
         {
@@ -103,7 +103,7 @@
           "fordev": true,
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/kitchen.png",
-          "rUrl": "classCards"
+          "rUrl": "no"
 
         },
         {
@@ -111,7 +111,7 @@
           "fordev": true,
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/bedroom.png",
-          "rUrl": "classCards"
+          "rUrl": "no"
 
         },
         {
@@ -119,7 +119,7 @@
           "fordev": true,
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/bathroom.png",
-          "rUrl": "classCards"
+          "rUrl": "no"
 
         },
         {
@@ -127,7 +127,7 @@
           "fordev": true,
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/livingroom.png",
-          "rUrl": "classCards"
+          "rUrl": "no"
 
         },
         {
@@ -135,7 +135,7 @@
           "fordev": true,
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/dinningroom.png",
-          "rUrl": "classCards"
+          "rUrl": "no"
 
         },
         {
@@ -143,7 +143,7 @@
           "fordev": true,
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/nursery.png",
-          "rUrl": "classCards"
+          "rUrl": "no"
 
         }
       ]
