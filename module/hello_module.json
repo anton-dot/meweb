@@ -86,7 +86,7 @@
           "name": "House",
           "fordev": true,
           "aType": "UNIVERSAL",
-          "img": "/img/dict/classroom/house.png",
+          "img": "/img/dict/home/house.png",
           "rUrl": "classCards"
 
         },
@@ -94,7 +94,7 @@
           "name": "Rooms",
           "fordev": true,
           "aType": "UNIVERSAL",
-          "img": "/img/dict/classroom/rooms.png",
+          "img": "/img/dict/home/rooms.png",
           "rUrl": "classCards"
 
         },
@@ -102,7 +102,7 @@
           "name": "Kitchen",
           "fordev": true,
           "aType": "UNIVERSAL",
-          "img": "/img/dict/classroom/kitchen.png",
+          "img": "/img/dict/home/kitchen.png",
           "rUrl": "classCards"
 
         },
@@ -110,7 +110,7 @@
           "name": "Bedroom",
           "fordev": true,
           "aType": "UNIVERSAL",
-          "img": "/img/dict/classroom/bedroom.png",
+          "img": "/img/dict/home/bedroom.png",
           "rUrl": "classCards"
 
         },
@@ -118,7 +118,7 @@
           "name": "Bathroom",
           "fordev": true,
           "aType": "UNIVERSAL",
-          "img": "/img/dict/classroom/bathroom.png",
+          "img": "/img/dict/home/bathroom.png",
           "rUrl": "classCards"
 
         },
@@ -126,7 +126,7 @@
           "name": "Living room",
           "fordev": true,
           "aType": "UNIVERSAL",
-          "img": "/img/dict/classroom/livingroom.png",
+          "img": "/img/dict/home/livingroom.png",
           "rUrl": "classCards"
 
         },
@@ -134,7 +134,7 @@
           "name": "Dinning room",
           "fordev": true,
           "aType": "UNIVERSAL",
-          "img": "/img/dict/classroom/dinningroom.png",
+          "img": "/img/dict/home/dinningroom.png",
           "rUrl": "classCards"
 
         },
@@ -142,7 +142,7 @@
           "name": "Nursery",
           "fordev": true,
           "aType": "UNIVERSAL",
-          "img": "/img/dict/classroom/nursery.png",
+          "img": "/img/dict/home/nursery.png",
           "rUrl": "classCards"
 
         }
