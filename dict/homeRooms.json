@@ -1,0 +1,461 @@
+{
+  "name": "Home rooms",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "tags": [
+    "home",
+    "room"
+  ],
+  "Translations": [],
+  "items": [
+    {
+      "id": 17,
+      "name": "kitchen",
+      "transcription": "[ˈkɪʧɪn]",
+      "nameA": null,
+      "image": "/img/dict/home/kitchen.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "кухня, место где готовят еду",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "living room",
+      "transcription": "[ˈlɪvɪŋ ruːm]",
+      "nameA": null,
+      "image": "/img/dict/home/living_room.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "гостиная, место где собираются с друзьями, семьёй",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "bedroom",
+      "transcription": "[ˈbedrum]",
+      "nameA": null,
+      "image": "/img/dict/home/bedroom.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "спальня, место где спят",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "bathroom",
+      "transcription": "[ˈbɑːθrum]",
+      "nameA": null,
+      "image": "/img/dict/home/bathroom.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ванная комната",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "cellar",
+      "transcription": "[ˈselə]",
+      "nameA": null,
+      "image": "/img/dict/home/cellar.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "подвал, помещение под домом",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "study",
+      "transcription": "[ˈstʌdɪ]",
+      "nameA": null,
+      "image": "/img/dict/home/study.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "кабинет",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "cloakroom",
+      "transcription": "[ˈkləʊkrum]",
+      "nameA": null,
+      "image": "/img/dict/home/cloakroom.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "гардеробная",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "toilet",
+      "transcription": "[ˈtɔɪlɪt]",
+      "nameA": null,
+      "image": "/img/dict/home/toilet.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "туалет",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "laundry",
+      "transcription": "[ˈlɔːndrɪ]",
+      "nameA": null,
+      "image": "/img/dict/home/laundry.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "прачечная, место где стирают, глядят и сушат",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "upstairs",
+      "transcription": "[ʌpˈsteəz]",
+      "nameA": null,
+      "image": "/img/dict/home/upstairs.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "верхний этаж",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "downstairs",
+      "transcription": "[daʊnˈsteəz]",
+      "nameA": null,
+      "image": "/img/dict/home/downstairs.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "нижний этаж",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "conservatory",
+      "transcription": "[kənˈsɜːvətrɪ]",
+      "nameA": null,
+      "image": "/img/dict/home/conservatory.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "оранжерея",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "utility room",
+      "transcription": "[juːˈtɪlətɪ ruːm]",
+      "nameA": null,
+      "image": "/img/dict/home/utility_room.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "подсобное помещение, место где размещается оборудование ",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "corridor",
+      "transcription": "[ˈkɒrɪdɔː]",
+      "nameA": null,
+      "image": "/img/dict/home/corridor.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "коридор",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "workshop",
+      "transcription": "[ˈwɜːkʃɒp]",
+      "nameA": null,
+      "image": "/img/dict/home/workshop.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "мастерская, место где что-то делают по дому",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "games room",
+      "transcription": "[ˈɡeɪmz ruːm]",
+      "nameA": null,
+      "image": "/img/dict/home/games_room.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "игровая комната",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "dining room",
+      "transcription": "[ˈdaɪnɪŋ rum]",
+      "nameA": null,
+      "image": "/img/dict/home/dining_room.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "столовая, место где принимают пищу",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "attic",
+      "transcription": "[ˈætɪk]",
+      "nameA": null,
+      "image": "/img/dict/home/attic.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "чердак, место под крышей",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "hall",
+      "transcription": "[hɔːl]",
+      "nameA": null,
+      "image": "/img/dict/home/hall.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "зал",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "balcony",
+      "transcription": "[ˈbælkənɪ]",
+      "nameA": null,
+      "image": "/img/dict/home/balcony.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "балкон",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "library",
+      "transcription": "[ˈlaɪbrərɪ]",
+      "nameA": null,
+      "image": "/img/dict/home/library.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "библиотека",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "hallway",
+      "transcription": "[ˈhɔːlweɪ]",
+      "nameA": null,
+      "image": "/img/dict/home/hallway.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "прихожая",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "sunroom",
+      "transcription": "[ˈsʌnruːm]",
+      "nameA": null,
+      "image": "/img/dict/home/sunroom.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "веранда",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "garage",
+      "transcription": "[ˈgærɑːʒ]",
+      "nameA": null,
+      "image": "/img/dict/home/garage.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "гараж, место где стоит машина",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "nursery",
+      "transcription": "[ˈnɜːsərɪ]",
+      "nameA": null,
+      "image": "/img/dict/home/nursery.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "детская комната, комната малыша",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "pantry",
+      "transcription": "[ˈpæntrɪ]",
+      "nameA": null,
+      "image": "/img/dict/home/pantry.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "кладовая, место где хранятся продукты и припасы",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "backyard",
+      "transcription": "[ˌbækˈjɑːrd]",
+      "nameA": null,
+      "image": "/img/dict/home/backyard.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "задний дворик, придомовая территория",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "swimming pool",
+      "transcription": "[ˈswɪmɪŋ puːl]",
+      "nameA": null,
+      "image": "/img/dict/home/swimmingpool.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "бассейн",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

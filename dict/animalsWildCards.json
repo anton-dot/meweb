@@ -1,572 +1,830 @@
 {
   "name": "Wild animals",
-  "img":"/img/dict/animals/zoo.png",
+  "nameA": null,
+  "img": "/img/dict/animals/zoo.png",
+  "minQuiz": null,
+  "tags": null,
   "Translations": [
     {
+      "lang": "ru-RU",
       "name": "Дикие животные",
-      "lang": "ru-RU"
+      "nameA": null
     }
   ],
   "items": [
     {
       "id": 0,
       "name": "Alligator",
+      "transcription": "[ˈælɪɡeɪtər]",
+      "nameA": null,
       "image": "/img/dict/animals/alligator.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Аллигатор",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 1,
       "name": "Cheetah",
+      "transcription": "[ˈtʃiːtə]",
+      "nameA": null,
       "image": "/img/dict/animals/cheetah.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Гепард",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 2,
       "name": "Chimpanzee",
+      "transcription": "[ˌtʃɪmpænˈziː]",
+      "nameA": null,
       "image": "/img/dict/animals/chimpanzee.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Шимпанзе",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 3,
       "name": "Elephant",
+      "transcription": "[ˈelɪfənt]",
+      "nameA": null,
       "image": "/img/dict/animals/elephant.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Слон",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 4,
       "name": "Flamingo",
+      "transcription": "[fləˈmɪŋɡəʊ]",
+      "nameA": null,
       "image": "/img/dict/animals/flamingo.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Фламинго",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 5,
       "name": "Giraffe",
+      "transcription": "[dʒəˈræf]",
+      "nameA": null,
       "image": "/img/dict/animals/giraffe.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Жирафа",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 6,
       "name": "Gorilla",
+      "transcription": "[ɡəˈrɪlə]",
+      "nameA": null,
       "image": "/img/dict/animals/gorilla.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Горилла",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 7,
       "name": "Hippo",
+      "transcription": "[ˈhɪpəʊ]",
+      "nameA": null,
       "image": "/img/dict/animals/hippo.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Бегемот",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 8,
       "name": "Kangaroo",
+      "transcription": "[ˌkæŋɡəˈruː]",
+      "nameA": null,
       "image": "/img/dict/animals/kangaroo.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Кенгуру",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 9,
       "name": "Leopard",
+      "transcription": "[ˈlepərd]",
+      "nameA": null,
       "image": "/img/dict/animals/leopard.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Леопард",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 10,
       "name": "Lion",
+      "transcription": "[ˈlaɪən]",
+      "nameA": null,
       "image": "/img/dict/animals/lion.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Лев",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 11,
       "name": "Monkey",
+      "transcription": "[ˈmʌŋkɪ]",
+      "nameA": null,
       "image": "/img/dict/animals/monkey.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Обезьяна",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 11,
       "name": "Hog",
+      "transcription": "[hɔːɡ]",
+      "nameA": null,
       "image": "/img/dict/animals/hog.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Кабан",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 12,
       "name": "Orangutan",
+      "transcription": "[ɔːˌræŋətæn]",
+      "nameA": null,
       "image": "/img/dict/animals/orangutan.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Орангутан",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 13,
       "name": "Panda",
+      "transcription": "[ˈpændə]",
+      "nameA": null,
       "image": "/img/dict/animals/panda.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Панда",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 14,
       "name": "Polar Bear",
+      "transcription": "[ˈpəʊlər ber]",
+      "nameA": null,
       "image": "/img/dict/animals/polarbear.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Полярный медведь",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 15,
       "name": "Rhino",
+      "transcription": "[ˈraɪnəʊ]",
+      "nameA": null,
       "image": "/img/dict/animals/rhino.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Носорог",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 16,
       "name": "Tiger",
+      "transcription": "[ˈtaɪɡər]",
+      "nameA": null,
       "image": "/img/dict/animals/tiger.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Тигр",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 17,
       "name": "Zebra",
+      "transcription": "[ˈziːbrə]",
+      "nameA": null,
       "image": "/img/dict/animals/zebra.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Зебра",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 18,
       "name": "fox",
+      "transcription": "[fɑːks]",
+      "nameA": null,
       "image": "/img/dict/animals/fox.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "лиса",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 19,
       "name": "squirrel",
+      "transcription": "[ˈskwɜːrəl]",
+      "nameA": null,
       "image": "/img/dict/animals/squirrel.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "белка",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 20,
       "name": "scorpion",
+      "transcription": "[ˈskɔːrpɪən]",
+      "nameA": null,
       "image": "/img/dict/animals/scorpion.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "скорпион",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 21,
       "name": "chipmunk",
+      "transcription": "[ˈtʃɪpmʌŋk]",
+      "nameA": null,
       "image": "/img/dict/animals/chipmunk.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "бурундук",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 22,
       "name": "camel",
+      "transcription": "[ˈkæml]",
+      "nameA": null,
       "image": "/img/dict/animals/camel.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "верблюд",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 23,
       "name": "deer",
+      "transcription": "[dɪr]",
+      "nameA": null,
       "image": "/img/dict/animals/deer.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "олень",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 24,
       "name": "bison",
+      "transcription": "[ˈbaɪsn]",
+      "nameA": null,
       "image": "/img/dict/animals/bison.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "бизон",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 25,
       "name": "ELK",
+      "transcription": "[elk]",
+      "nameA": null,
       "image": "/img/dict/animals/elk.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "ЛОСЬ",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 26,
       "name": "yak",
+      "transcription": "[jæk]",
+      "nameA": null,
       "image": "/img/dict/animals/yak.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "як",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 27,
       "name": "mouse",
+      "transcription": "[maʊs]",
+      "nameA": null,
       "image": "/img/dict/animals/mouse.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "мышь",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 28,
       "name": "koala",
+      "transcription": "[kəʊˈɑːlə]",
+      "nameA": null,
       "image": "/img/dict/animals/koala.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "коала",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
-
     {
       "id": 30,
       "name": "otter",
+      "transcription": "[ˈɑːtər]",
+      "nameA": null,
       "image": "/img/dict/animals/otter.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "выдра",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 31,
       "name": "wolf",
+      "transcription": "[wʊlf]",
+      "nameA": null,
       "image": "/img/dict/animals/wolf.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "волк",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 32,
       "name": "hare",
+      "transcription": "[her]",
+      "nameA": null,
       "image": "/img/dict/animals/hare.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "заяц",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 33,
       "name": "antelope",
+      "transcription": "[ˈæntɪləʊp]",
+      "nameA": null,
       "image": "/img/dict/animals/antelope.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "антилопа",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 34,
       "name": "snail",
+      "transcription": "[sneɪl]",
+      "nameA": null,
       "image": "/img/dict/animals/snail.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "улитка",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 35,
       "name": "raccoon",
+      "transcription": "[ræˈkuːn]",
+      "nameA": null,
       "image": "/img/dict/animals/raccoon.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "енот",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 36,
       "name": "owl",
+      "transcription": "[aʊl]",
+      "nameA": null,
       "image": "/img/dict/animals/owl.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "сова",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 37,
       "name": "hedgehog",
+      "transcription": "[ˈhedʒhɔːɡ]",
+      "nameA": null,
       "image": "/img/dict/animals/hedgehog.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Ежик",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 38,
       "name": "bear",
+      "transcription": "[ber]",
+      "nameA": null,
       "image": "/img/dict/animals/bear.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "медведь",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 39,
       "name": "ox",
+      "transcription": "[ɑːks]",
+      "nameA": null,
       "image": "/img/dict/animals/ox.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "бык",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 40,
       "name": "snake",
+      "transcription": "[sneɪk]",
+      "nameA": null,
       "image": "/img/dict/animals/snake.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "змея",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 41,
       "name": "ostrich",
+      "transcription": "[ˈɑːstrɪtʃ]",
+      "nameA": null,
       "image": "/img/dict/animals/ostrich.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "страус",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 42,
       "name": "lemur",
+      "transcription": "[ˈliːmər]",
+      "nameA": null,
       "image": "/img/dict/animals/lemur.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "лемур",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 43,
       "name": "vulture",
+      "transcription": "[ˈvʌltʃər]",
+      "nameA": null,
       "image": "/img/dict/animals/vulture.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "стервятник",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 44,
       "name": "lizard",
+      "transcription": "[ˈlɪzərd]",
+      "nameA": null,
       "image": "/img/dict/animals/lizard.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "ящерица",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 45,
       "name": "frog",
+      "transcription": "[frɔːɡ]",
+      "nameA": null,
       "image": "/img/dict/animals/frog.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "лягушка",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 46,
       "name": "eagle",
+      "transcription": "[ˈiːɡl]",
+      "nameA": null,
       "image": "/img/dict/animals/eagle.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "орел",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 47,
       "name": "meerkat",
+      "transcription": "[ˈmɪrkæt]",
+      "nameA": null,
       "image": "/img/dict/animals/meerkat.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "сурикат",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 48,
       "name": "bat",
+      "transcription": "[bæt]",
+      "nameA": null,
       "image": "/img/dict/animals/bat.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "летучая мышь",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 49,
       "name": "penguin",
+      "transcription": "[ˈpeŋɡwɪn]",
+      "nameA": null,
       "image": "/img/dict/animals/penguin.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "пингвин",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 50,
       "name": "spider",
+      "transcription": "[ˈspaɪdər]",
+      "nameA": null,
       "image": "/img/dict/animals/spider.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "паук",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     }

@@ -1,233 +1,336 @@
 {
-  "name": "farm animals", 
-  "img":"/img/dict/animals/farm.png",
+  "name": "farm animals",
+  "nameA": null,
+  "img": "/img/dict/animals/farm.png",
+  "minQuiz": null,
+  "tags": null,
   "Translations": [
     {
       "lang": "ru-RU",
-      "name": "Животные на ферме"       
+      "name": "Животные на ферме",
+      "nameA": null
     }
   ],
   "items": [
     {
       "id": 0,
       "name": "calf",
+      "transcription": "[kæf]",
+      "nameA": null,
       "image": "/img/dict/animals/calf.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Теленок"
+          "name": "Телёнок",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "cat",
+      "transcription": "[kæt]",
+      "nameA": null,
       "image": "/img/dict/animals/cat.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Кошка"
+          "name": "Кошка",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "chicken",
+      "transcription": "[ˈtʃɪkɪn]",
+      "nameA": null,
       "image": "/img/dict/animals/chicken.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "ципленок"
+          "name": "цыпленок",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "cow",
+      "transcription": "[kaʊ]",
+      "nameA": null,
       "image": "/img/dict/animals/cow.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "корова"
+          "name": "корова",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "dog",
+      "transcription": "[dɔːɡ]",
+      "nameA": null,
       "image": "/img/dict/animals/dog.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "собака"
+          "name": "собака",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "donkey",
+      "transcription": "[ˈdɔːŋkɪ]",
+      "nameA": null,
       "image": "/img/dict/animals/donkey.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "осел"
+          "name": "осёл",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "duck",
+      "transcription": "[dʌk]",
+      "nameA": null,
       "image": "/img/dict/animals/duck.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "утка"
+          "name": "утка",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "duckling",
+      "transcription": "[ˈdʌklɪŋ]",
+      "nameA": null,
       "image": "/img/dict/animals/duckling.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "утенок"
+          "name": "утёнок",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "goat",
+      "transcription": "[ɡəʊt]",
+      "nameA": null,
       "image": "/img/dict/animals/goat.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "коза"
+          "name": "коза",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "goose",
+      "transcription": "[ɡuːs]",
+      "nameA": null,
       "image": "/img/dict/animals/goose.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "гусь"
+          "name": "гусь",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "hen",
+      "transcription": "[hen]",
+      "nameA": null,
       "image": "/img/dict/animals/hen.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "курица"
+          "name": "курица",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "ram",
+      "transcription": "[ræm]",
+      "nameA": null,
       "image": "/img/dict/animals/ram.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Баран"
+          "name": "Баран",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "horse",
+      "transcription": "[hɔːrs]",
+      "nameA": null,
       "image": "/img/dict/animals/horse.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "лошадь"
+          "name": "лошадь",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "lamb",
+      "transcription": "[læm]",
+      "nameA": null,
       "image": "/img/dict/animals/lamb.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "ягненок"
+          "name": "ягнёнок",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "pig",
+      "transcription": "[pɪɡ]",
+      "nameA": null,
       "image": "/img/dict/animals/pig.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "свинья"
+          "name": "свинья",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "piglet",
+      "transcription": "[ˈpɪɡlət]",
+      "nameA": null,
       "image": "/img/dict/animals/piglet.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "поросенок"
+          "name": "поросёнок",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "rabbit",
+      "transcription": "[ˈræbɪt]",
+      "nameA": null,
       "image": "/img/dict/animals/rabbit.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "кролик"
+          "name": "кролик",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "rooster",
+      "transcription": "[ˈruːstər]",
+      "nameA": null,
       "image": "/img/dict/animals/rooster.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "петух"
+          "name": "петух",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "sheep",
+      "transcription": "[ʃiːp]",
+      "nameA": null,
       "image": "/img/dict/animals/sheep.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "овца"
+          "name": "овца",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "turkey",
+      "transcription": "[ˈtɜːrkɪ]",
+      "nameA": null,
       "image": "/img/dict/animals/turkey.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "индейка"
+          "name": "индейка",
+          "nameA": null
         }
       ]
     }
-
   ]
 }

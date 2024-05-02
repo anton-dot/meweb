@@ -1,6 +1,9 @@
 {
   "name": "Family",
   "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "tags": null,
   "Translations": [
     {
       "lang": "ru-RU",
@@ -9,13 +12,14 @@
     }
   ],
   "items": [
-    
     {
       "id": 0,
       "name": "Parents",
+      "transcription": "[ˈperənts]",
       "nameA": null,
       "image": "/img/dict/family/parents.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -23,14 +27,15 @@
           "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 0,
       "name": "Family",
+      "transcription": "[ˈfæməlɪ]",
       "nameA": null,
       "image": "/img/dict/family/family.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -42,9 +47,11 @@
     {
       "id": 0,
       "name": "Mum",
+      "transcription": "[mʌm]",
       "nameA": null,
       "image": "/img/dict/family/mother.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -56,9 +63,11 @@
     {
       "id": 0,
       "name": "Dad",
+      "transcription": "[dæd]",
       "nameA": null,
       "image": "/img/dict/family/father.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -66,14 +75,15 @@
           "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 0,
       "name": "Baby",
+      "transcription": "[ˈbeɪbɪ]",
       "nameA": null,
       "image": "/img/dict/family/baby.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -81,14 +91,15 @@
           "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 0,
       "name": "Grandpa",
+      "transcription": "[ˈɡrænpɑː]",
       "nameA": null,
       "image": "/img/dict/family/grandfather.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -96,14 +107,15 @@
           "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 0,
       "name": "Grandma",
+      "transcription": "[ˈɡrænmɑː]",
       "nameA": null,
       "image": "/img/dict/family/grandmother.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -111,14 +123,15 @@
           "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 0,
       "name": "Brother",
+      "transcription": "[ˈbrʌðər]",
       "nameA": null,
       "image": "/img/dict/family/brother.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -126,14 +139,15 @@
           "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 0,
       "name": "Sister",
+      "transcription": "[ˈsɪstər]",
       "nameA": null,
       "image": "/img/dict/family/sister.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -141,14 +155,15 @@
           "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 0,
       "name": "Uncle",
+      "transcription": "[ˈʌŋkl]",
       "nameA": null,
       "image": "/img/dict/family/uncle.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -156,14 +171,15 @@
           "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 0,
       "name": "Aunt",
+      "transcription": "[ænt]",
       "nameA": null,
       "image": "/img/dict/family/aunt.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -172,6 +188,5 @@
         }
       ]
     }
-    
   ]
 }

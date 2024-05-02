@@ -1,6 +1,9 @@
 {
   "name": "Alphabet",
   "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "tags": null,
   "Translations": [
     {
       "lang": "ru-RU",
@@ -10,10 +13,13 @@
   ],
   "items": [
     {
+      "id": 0,
       "name": "Alphabet",
+      "transcription": "[ˈælfəbet]",
       "nameA": null,
       "image": "/img/dict/abc/abc.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -23,188 +29,264 @@
       ]
     },
     {
+      "id": 0,
       "name": "A",
+      "transcription": "[eɪ]",
       "nameA": null,
       "image": "/img/dict/abc/a.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "b",
+      "transcription": "[biː]",
       "nameA": null,
       "image": "/img/dict/abc/b.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "c",
+      "transcription": "[siː]",
       "nameA": null,
       "image": "/img/dict/abc/c.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "d",
+      "transcription": "[diː]",
       "nameA": null,
       "image": "/img/dict/abc/d.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
-   
     {
+      "id": 0,
       "name": "e",
+      "transcription": "[iː]",
       "nameA": null,
       "image": "/img/dict/abc/e.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "f",
+      "transcription": "[ef]",
       "nameA": null,
       "image": "/img/dict/abc/f.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "g",
+      "transcription": "[dʒiː]",
       "nameA": null,
       "image": "/img/dict/abc/g.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "h",
+      "transcription": "[eɪtʃ]",
       "nameA": null,
       "image": "/img/dict/abc/h.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "i",
+      "transcription": "[aɪ]",
       "nameA": null,
       "image": "/img/dict/abc/i.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "j",
+      "transcription": "[dʒeɪ]",
       "nameA": null,
       "image": "/img/dict/abc/j.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "k",
+      "transcription": "[keɪ]",
       "nameA": null,
       "image": "/img/dict/abc/k.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "l",
+      "transcription": "[el]",
       "nameA": null,
       "image": "/img/dict/abc/l.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "m",
+      "transcription": "[em]",
       "nameA": null,
       "image": "/img/dict/abc/m.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "n",
+      "transcription": "[en]",
       "nameA": null,
       "image": "/img/dict/abc/n.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "o",
+      "transcription": "[əʊ]",
       "nameA": null,
       "image": "/img/dict/abc/o.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "p",
+      "transcription": "[piː]",
       "nameA": null,
       "image": "/img/dict/abc/p.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "q",
+      "transcription": "[kjuː]",
       "nameA": null,
       "image": "/img/dict/abc/q.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "r",
+      "transcription": "[ɑːr]",
       "nameA": null,
       "image": "/img/dict/abc/r.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "s",
+      "transcription": "[es]",
       "nameA": null,
       "image": "/img/dict/abc/s.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "t",
+      "transcription": "[tiː]",
       "nameA": null,
       "image": "/img/dict/abc/t.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "u",
+      "transcription": "[juː]",
       "nameA": null,
       "image": "/img/dict/abc/u.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "v",
+      "transcription": "[viː]",
       "nameA": null,
       "image": "/img/dict/abc/v.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "w",
+      "transcription": "[ˈdʌbljuː]",
       "nameA": null,
       "image": "/img/dict/abc/w.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "x",
+      "transcription": "[eks]",
       "nameA": null,
       "image": "/img/dict/abc/x.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "y",
+      "transcription": "[waɪ]",
       "nameA": null,
       "image": "/img/dict/abc/y.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     },
     {
+      "id": 0,
       "name": "z",
+      "transcription": "[ziː]",
       "nameA": null,
       "image": "/img/dict/abc/z.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": []
     }
-
   ]
 }

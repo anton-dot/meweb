@@ -1,119 +1,174 @@
 {
   "name": "Nuts",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "tags": null,
   "Translations": [
     {
+      "lang": "ru-RU",
       "name": "Орехи",
-      "lang": "ru-RU"
+      "nameA": null
     }
   ],
   "items": [
     {
       "id": 0,
       "name": "nuts",
+      "transcription": "[nʌts]",
+      "nameA": null,
       "image": "/img/dict/food/nuts.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "орехи",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 1,
       "name": "almond",
+      "transcription": "[ˈɑːmənd]",
+      "nameA": null,
       "image": "/img/dict/food/almond.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "миндаль",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 2,
       "name": "cashew",
+      "transcription": "[ˈkæʃuː]",
+      "nameA": null,
       "image": "/img/dict/food/cashew.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "кешью",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 3,
       "name": "chestnut",
+      "transcription": "[ˈtʃesnʌt]",
+      "nameA": null,
       "image": "/img/dict/food/chestnut.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "каштан",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 4,
       "name": "hazelnut",
+      "transcription": "[ˈheɪzlnʌt]",
+      "nameA": null,
       "image": "/img/dict/food/hazelnut.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "лесной орех",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 5,
       "name": "nutmeg",
+      "transcription": "[ˈnʌtmeɡ]",
+      "nameA": null,
       "image": "/img/dict/food/nutmeg.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "мускатный орех",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 6,
       "name": "peanut",
+      "transcription": "[ˈpiːnʌt]",
+      "nameA": null,
       "image": "/img/dict/food/peanut.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "арахис",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 7,
       "name": "pine nut",
+      "transcription": "[paɪn nʌt]",
+      "nameA": null,
       "image": "/img/dict/food/pinenut.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "кедровый орех",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 8,
       "name": "pistachio",
+      "transcription": "[pɪˈstæʃɪəʊ]",
+      "nameA": null,
       "image": "/img/dict/food/pistachio.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "фисташка",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 9,
       "name": "walnut",
+      "transcription": "[ˈwɔːlnʌt]",
+      "nameA": null,
       "image": "/img/dict/food/walnut.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "грецкий орех",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     }

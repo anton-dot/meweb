@@ -1,11 +1,14 @@
 {
   "name": "Food",
-  
-
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "tags": null,
   "Translations": [
     {
+      "lang": "ru-RU",
       "name": "Еда",
-      "lang": "ru-RU"
+      "nameA": null
     }
   ],
   "items": [
@@ -13,499 +16,719 @@
       "id": 0,
       "name": "food",
       "transcription": "[fuːd]",
+      "nameA": null,
       "image": "/img/dict/food/food.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "курица",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "healthy food",
-
+      "transcription": "[ˈhelθɪ fuːd]",
+      "nameA": null,
       "image": "/img/dict/food/healthyfood.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "здоровая еда",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "junk food",
-
+      "transcription": "[dʒʌŋk fuːd]",
+      "nameA": null,
       "image": "/img/dict/food/junkfood.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "вредная пища",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "chicken",
+      "transcription": "[ˈtʃɪkɪn]",
+      "nameA": null,
       "image": "/img/dict/food/chicken.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "курица",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 1,
       "name": "sausage",
+      "transcription": "[ˈsɔːsɪdʒ]",
+      "nameA": null,
       "image": "/img/dict/food/sausage.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "колбаса",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 2,
       "name": "bread",
+      "transcription": "[bred]",
+      "nameA": null,
       "image": "/img/dict/food/bread.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "хлеб",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 3,
       "name": "butter",
+      "transcription": "[ˈbʌtər]",
+      "nameA": null,
       "image": "/img/dict/food/butter.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "масло",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 4,
       "name": "pasta",
+      "transcription": "[ˈpɑːstə]",
+      "nameA": null,
       "image": "/img/dict/food/pasta.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "макаронные изделия",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 5,
       "name": "rice",
+      "transcription": "[raɪs]",
+      "nameA": null,
       "image": "/img/dict/food/rice.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "рис",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 6,
       "name": "egg",
+      "transcription": "[eɡ]",
+      "nameA": null,
       "image": "/img/dict/food/egg.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "яйцо",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 7,
       "name": "fish",
+      "transcription": "[fɪʃ]",
+      "nameA": null,
       "image": "/img/dict/food/fish.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "рыба",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 8,
       "name": "bacon",
+      "transcription": "[ˈbeɪkən]",
+      "nameA": null,
       "image": "/img/dict/food/bacon.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "бекон",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
-
     {
       "id": 10,
       "name": "cereal",
+      "transcription": "[ˈsɪrɪəl]",
+      "nameA": null,
       "image": "/img/dict/food/cereal.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "каша",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
-
-
     {
       "id": 13,
       "name": "corn dog",
+      "transcription": "[kɔːrn dɔːɡ]",
+      "nameA": null,
       "image": "/img/dict/food/corndog.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "корн-дог",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 14,
       "name": "hot dog",
+      "transcription": "[hɑːt dɔːɡ]",
+      "nameA": null,
       "image": "/img/dict/food/hotdog.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "хот-дог",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
-
-
     {
       "id": 17,
       "name": "meat",
+      "transcription": "[miːt]",
+      "nameA": null,
       "image": "/img/dict/food/meat.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "мясо",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 18,
       "name": "hamburger",
+      "transcription": "[ˈhæmbɜːrɡər]",
+      "nameA": null,
       "image": "/img/dict/food/hamburger.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "гамбургер",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 19,
       "name": "pizza",
+      "transcription": "[ˈpiːtsə]",
+      "nameA": null,
       "image": "/img/dict/food/pizza.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "пицца",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 20,
       "name": "french fries",
+      "transcription": "[frentʃ fraɪz]",
+      "nameA": null,
       "image": "/img/dict/food/frenchfries.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "картофель фри",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 21,
       "name": "sandwich",
+      "transcription": "[ˈsænwɪtʃ]",
+      "nameA": null,
       "image": "/img/dict/food/sandwich.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "бутерброд",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 22,
       "name": "noodles",
+      "transcription": "[ˈnuːdəlz]",
+      "nameA": null,
       "image": "/img/dict/food/noodles.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "лапша",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 23,
       "name": "cheese",
+      "transcription": "[tʃiːz]",
+      "nameA": null,
       "image": "/img/dict/food/cheese.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "сыр",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 29,
       "name": "vegetables",
+      "transcription": "[ˈvedʒtəbəlz]",
+      "nameA": null,
       "image": "/img/dict/food/vegetables.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "овощи",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 30,
       "name": "fruits",
+      "transcription": "[ˈfruːts]",
+      "nameA": null,
       "image": "/img/dict/food/fruit.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "фрукты",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 28,
       "name": "nuts",
+      "transcription": "[nʌts]",
+      "nameA": null,
       "image": "/img/dict/food/nuts.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "орехи",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 27,
       "name": "berries",
+      "transcription": "[ˈberɪz]",
+      "nameA": null,
       "image": "/img/dict/food/berries.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "ягоды",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 31,
       "name": "sweets",
+      "transcription": "[ˈswiːts]",
+      "nameA": null,
       "image": "/img/dict/food/sweets.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "сладости",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
-
-
     {
       "id": 32,
       "name": "crisps",
+      "transcription": "[krɪsps]",
+      "nameA": null,
       "image": "/img/dict/food/crisps.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "чипсы",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
-
     {
       "id": 34,
       "name": "ham",
+      "transcription": "[hæm]",
+      "nameA": null,
       "image": "/img/dict/food/ham.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "ветчина",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 35,
       "name": "honey",
+      "transcription": "[ˈhʌnɪ]",
+      "nameA": null,
       "image": "/img/dict/food/honey.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "мед",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 36,
       "name": "sugar",
+      "transcription": "[ˈʃʊɡər]",
+      "nameA": null,
       "image": "/img/dict/food/sugar.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "сахар",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 37,
       "name": "salt",
+      "transcription": "[sɔːlt]",
+      "nameA": null,
       "image": "/img/dict/food/salt.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "соль",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 38,
       "name": "mashed potato",
+      "transcription": "[ˈmæʃt pəˈteɪtəʊ]",
+      "nameA": null,
       "image": "/img/dict/food/mashedpotato.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "картофельное пюре",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 39,
       "name": "meatballs",
+      "transcription": "[ˈmiːtˌbɒlz]",
+      "nameA": null,
       "image": "/img/dict/food/meatballs.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "фрикадельки",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 40,
       "name": "soup",
+      "transcription": "[suːp]",
+      "nameA": null,
       "image": "/img/dict/food/soup.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "суп",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 41,
       "name": "omelet",
+      "transcription": "[ˈɑːmlət]",
+      "nameA": null,
       "image": "/img/dict/food/omelet.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "омлет",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
-
     {
       "id": 42,
       "name": "sauce",
+      "transcription": "[sɔːs]",
+      "nameA": null,
       "image": "/img/dict/food/sauce.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "соус",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
-
     {
       "id": 44,
       "name": "salad",
+      "transcription": "[ˈsæləd]",
+      "nameA": null,
       "image": "/img/dict/food/salad.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "салат",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 45,
       "name": "sushi",
+      "transcription": "[ˈsuːʃɪ]",
+      "nameA": null,
       "image": "/img/dict/food/sushi.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "суши",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
-
     {
       "id": 47,
       "name": "kebab",
+      "transcription": "[kɪˈbæb]",
+      "nameA": null,
       "image": "/img/dict/food/kebab.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "кебаб",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
-
-
     {
       "id": 50,
       "name": "toast",
+      "transcription": "[təʊst]",
+      "nameA": null,
       "image": "/img/dict/food/toast.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "тост",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 51,
       "name": "fried eggs",
+      "transcription": "[fraɪd eɡz]",
+      "nameA": null,
       "image": "/img/dict/food/friedeggs.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "яичница",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 52,
       "name": "ketchup",
+      "transcription": "[ˈketʃəp]",
+      "nameA": null,
       "image": "/img/dict/food/ketchup.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "кетчуп",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 53,
       "name": "mayonnaise",
+      "transcription": "[ˈmeɪəneɪz]",
+      "nameA": null,
       "image": "/img/dict/food/mayonnaise.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "майонез",
-          "lang": "ru-RU"
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "mustard",
+      "transcription": "[ˈmʌstərd]",
+      "nameA": null,
+      "image": "/img/dict/food/mustard.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "горчица",
+          "nameA": null
         }
       ]
     }

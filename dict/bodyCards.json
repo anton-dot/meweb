@@ -1,6 +1,9 @@
 {
-  "name": "test",
+  "name": "Body",
   "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "tags": null,
   "Translations": [
     {
       "lang": "ru-RU",
@@ -12,9 +15,11 @@
     {
       "id": 0,
       "name": "Body",
+      "transcription": "[ˈbɑːdɪ]",
       "nameA": null,
       "image": "/img/dict/body/body.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -26,9 +31,11 @@
     {
       "id": 0,
       "name": "ankle",
+      "transcription": "[ˈæŋkl]",
       "nameA": null,
       "image": "/img/dict/body/ankle.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -40,9 +47,11 @@
     {
       "id": 0,
       "name": "arm",
+      "transcription": "[ɑːrm]",
       "nameA": null,
       "image": "/img/dict/body/arm.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -54,9 +63,11 @@
     {
       "id": 0,
       "name": "back",
+      "transcription": "[bæk]",
       "nameA": null,
       "image": "/img/dict/body/back.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -68,9 +79,11 @@
     {
       "id": 0,
       "name": "finger",
+      "transcription": "[ˈfɪŋɡər]",
       "nameA": null,
       "image": "/img/dict/body/finger.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -82,9 +95,11 @@
     {
       "id": 0,
       "name": "foot",
+      "transcription": "[fʊt]",
       "nameA": null,
       "image": "/img/dict/body/foot.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -96,9 +111,11 @@
     {
       "id": 0,
       "name": "hand",
+      "transcription": "[hænd]",
       "nameA": null,
       "image": "/img/dict/body/hand.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -110,9 +127,11 @@
     {
       "id": 0,
       "name": "head",
+      "transcription": "[hed]",
       "nameA": null,
       "image": "/img/dict/body/head.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -124,9 +143,11 @@
     {
       "id": 0,
       "name": "leg",
+      "transcription": "[leɡ]",
       "nameA": null,
       "image": "/img/dict/body/leg.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -138,9 +159,11 @@
     {
       "id": 0,
       "name": "toe",
+      "transcription": "[təʊ]",
       "nameA": null,
       "image": "/img/dict/body/toe.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -152,13 +175,79 @@
     {
       "id": 0,
       "name": "knee",
+      "transcription": "[niː]",
       "nameA": null,
       "image": "/img/dict/body/knee.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
           "name": "Колено",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "belly",
+      "transcription": "[ˈbelɪ]",
+      "nameA": null,
+      "image": "/img/dict/body/belly.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "живот",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "shoulder",
+      "transcription": "[ˈʃəʊldər]",
+      "nameA": null,
+      "image": "/img/dict/body/shoulder.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "живот",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "hip",
+      "transcription": "[hɪp]",
+      "nameA": null,
+      "image": "/img/dict/body/hip.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Бедро",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "elbow",
+      "transcription": "[ˈelbəʊ]",
+      "nameA": null,
+      "image": "/img/dict/body/elbow.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Локоть",
           "nameA": null
         }
       ]

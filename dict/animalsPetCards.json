@@ -14,8 +14,24 @@
   "items": [
     {
       "id": 0,
+      "name": "Pet",
+      "transcription": "[pet]",
+      "nameA": null,
+      "image": "/img/dict/animals/pet.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "домашнее животное",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
       "name": "Adoption",
-      "transcription": null,
+      "transcription": "[əˈdɑːpʃn]",
       "nameA": null,
       "image": "/img/dict/animals/adoption.png",
       "bg": null,
@@ -31,7 +47,7 @@
     {
       "id": 0,
       "name": "Aquarium",
-      "transcription": null,
+      "transcription": "[əˈkwerɪəm]",
       "nameA": null,
       "image": "/img/dict/animals/aquarium.png",
       "bg": null,
@@ -47,7 +63,7 @@
     {
       "id": 0,
       "name": "Shelter",
-      "transcription": null,
+      "transcription": "[ˈʃeltər]",
       "nameA": null,
       "image": "/img/dict/animals/shelter.png",
       "bg": null,
@@ -63,7 +79,7 @@
     {
       "id": 0,
       "name": "Bone",
-      "transcription": null,
+      "transcription": "[bəʊn]",
       "nameA": null,
       "image": "/img/dict/animals/bone.png",
       "bg": null,
@@ -79,7 +95,7 @@
     {
       "id": 0,
       "name": "Cage",
-      "transcription": null,
+      "transcription": "[keɪdʒ]",
       "nameA": null,
       "image": "/img/dict/animals/cage.png",
       "bg": null,
@@ -95,7 +111,7 @@
     {
       "id": 0,
       "name": "Cat",
-      "transcription": null,
+      "transcription": "[kæt]",
       "nameA": null,
       "image": "/img/dict/animals/cat.png",
       "bg": null,
@@ -111,7 +127,7 @@
     {
       "id": 0,
       "name": "Collar",
-      "transcription": null,
+      "transcription": "[ˈkɑːlər]",
       "nameA": null,
       "image": "/img/dict/animals/collar.png",
       "bg": null,
@@ -127,7 +143,7 @@
     {
       "id": 0,
       "name": "Dog",
-      "transcription": null,
+      "transcription": "[dɔːɡ]",
       "nameA": null,
       "image": "/img/dict/animals/dog.png",
       "bg": null,
@@ -143,7 +159,7 @@
     {
       "id": 0,
       "name": "Dog House",
-      "transcription": null,
+      "transcription": "[dɔːɡ haʊs]",
       "nameA": null,
       "image": "/img/dict/animals/doghouse.png",
       "bg": null,
@@ -159,7 +175,7 @@
     {
       "id": 0,
       "name": "Fish",
-      "transcription": null,
+      "transcription": "[fɪʃ]",
       "nameA": null,
       "image": "/img/dict/animals/fish.png",
       "bg": null,
@@ -175,7 +191,7 @@
     {
       "id": 0,
       "name": "Fish Bowl",
-      "transcription": null,
+      "transcription": "[fɪʃ bəʊl]",
       "nameA": null,
       "image": "/img/dict/animals/fishbowl.png",
       "bg": null,
@@ -191,7 +207,7 @@
     {
       "id": 0,
       "name": "Gerbil",
-      "transcription": null,
+      "transcription": "[ˈdʒɜːrbɪl]",
       "nameA": null,
       "image": "/img/dict/animals/gerbil.png",
       "bg": null,
@@ -207,7 +223,7 @@
     {
       "id": 0,
       "name": "Goldfish",
-      "transcription": null,
+      "transcription": "[ˈɡəʊldfɪʃ]",
       "nameA": null,
       "image": "/img/dict/animals/goldfish.png",
       "bg": null,
@@ -223,7 +239,7 @@
     {
       "id": 0,
       "name": "Guinea Pig",
-      "transcription": null,
+      "transcription": "[ˈɡɪnɪ pɪɡ]",
       "nameA": null,
       "image": "/img/dict/animals/guineapig.png",
       "bg": null,
@@ -239,7 +255,7 @@
     {
       "id": 0,
       "name": "Hamster",
-      "transcription": null,
+      "transcription": "[ˈhæmstər]",
       "nameA": null,
       "image": "/img/dict/animals/hamster.png",
       "bg": null,
@@ -255,7 +271,7 @@
     {
       "id": 0,
       "name": "Kitten",
-      "transcription": null,
+      "transcription": "[ˈkɪtn]",
       "nameA": null,
       "image": "/img/dict/animals/kitten.png",
       "bg": null,
@@ -271,7 +287,7 @@
     {
       "id": 0,
       "name": "Leash",
-      "transcription": null,
+      "transcription": "[liːʃ]",
       "nameA": null,
       "image": "/img/dict/animals/leash.png",
       "bg": null,
@@ -287,7 +303,7 @@
     {
       "id": 0,
       "name": "Budgie",
-      "transcription": null,
+      "transcription": "[ˈbʌdʒɪ]",
       "nameA": null,
       "image": "/img/dict/animals/budgie.png",
       "bg": null,
@@ -303,7 +319,7 @@
     {
       "id": 0,
       "name": "Parrot",
-      "transcription": null,
+      "transcription": "[ˈpærət]",
       "nameA": null,
       "image": "/img/dict/animals/parrot.png",
       "bg": null,
@@ -319,7 +335,7 @@
     {
       "id": 0,
       "name": "Pet Store",
-      "transcription": null,
+      "transcription": "[pet stɔːr]",
       "nameA": null,
       "image": "/img/dict/animals/petstore.png",
       "bg": null,
@@ -335,7 +351,7 @@
     {
       "id": 0,
       "name": "Puppy",
-      "transcription": null,
+      "transcription": "[ˈpʌpɪ]",
       "nameA": null,
       "image": "/img/dict/animals/puppy.png",
       "bg": null,
@@ -351,7 +367,7 @@
     {
       "id": 0,
       "name": "Rabbit",
-      "transcription": null,
+      "transcription": "[ˈræbɪt]",
       "nameA": null,
       "image": "/img/dict/animals/rabbit.png",
       "bg": null,
@@ -367,7 +383,7 @@
     {
       "id": 0,
       "name": "Turtle",
-      "transcription": null,
+      "transcription": "[ˈtɜːrtl]",
       "nameA": null,
       "image": "/img/dict/animals/turtle.png",
       "bg": null,
@@ -383,7 +399,7 @@
     {
       "id": 0,
       "name": "Snake",
-      "transcription": null,
+      "transcription": "[sneɪk]",
       "nameA": null,
       "image": "/img/dict/animals/snake.png",
       "bg": null,

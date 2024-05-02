@@ -1,6 +1,9 @@
 {
   "name": "My face",
   "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "tags": null,
   "Translations": [
     {
       "lang": "ru-RU",
@@ -12,9 +15,11 @@
     {
       "id": 0,
       "name": "face",
+      "transcription": "[feɪs]",
       "nameA": null,
       "image": "/img/dict/body/face.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -26,9 +31,11 @@
     {
       "id": 0,
       "name": "Eye",
+      "transcription": "[aɪ]",
       "nameA": null,
       "image": "/img/dict/body/eye.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -40,9 +47,11 @@
     {
       "id": 0,
       "name": "Chin",
+      "transcription": "[tʃɪn]",
       "nameA": null,
       "image": "/img/dict/body/chin.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -54,9 +63,11 @@
     {
       "id": 0,
       "name": "Lip",
+      "transcription": "[lɪp]",
       "nameA": null,
       "image": "/img/dict/body/lip.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -68,9 +79,11 @@
     {
       "id": 0,
       "name": "Mouth",
+      "transcription": "[maʊθ]",
       "nameA": null,
       "image": "/img/dict/body/mouth.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -82,9 +95,11 @@
     {
       "id": 0,
       "name": "nose",
+      "transcription": "[nəʊz]",
       "nameA": null,
       "image": "/img/dict/body/nose.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -96,9 +111,11 @@
     {
       "id": 0,
       "name": "eyebrow",
+      "transcription": "[ˈaɪbraʊ]",
       "nameA": null,
       "image": "/img/dict/body/eyebrow.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -110,9 +127,11 @@
     {
       "id": 0,
       "name": "eyelash",
+      "transcription": "[ˈaɪlæʃ]",
       "nameA": null,
       "image": "/img/dict/body/eyelash.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -124,9 +143,11 @@
     {
       "id": 0,
       "name": "ear",
+      "transcription": "[ɪr]",
       "nameA": null,
       "image": "/img/dict/body/ear.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -138,9 +159,11 @@
     {
       "id": 0,
       "name": "cheek",
+      "transcription": "[tʃiːk]",
       "nameA": null,
       "image": "/img/dict/body/cheek.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -152,9 +175,11 @@
     {
       "id": 0,
       "name": "neck",
+      "transcription": "[nek]",
       "nameA": null,
       "image": "/img/dict/body/neck.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -166,9 +191,11 @@
     {
       "id": 0,
       "name": "hair",
+      "transcription": "[her]",
       "nameA": null,
       "image": "/img/dict/body/hair.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -180,9 +207,11 @@
     {
       "id": 0,
       "name": "teeth",
+      "transcription": "[tiːθ]",
       "nameA": null,
       "image": "/img/dict/body/teeth.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -194,9 +223,11 @@
     {
       "id": 0,
       "name": "throat",
+      "transcription": "[θrəʊt]",
       "nameA": null,
       "image": "/img/dict/body/throat.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -208,9 +239,11 @@
     {
       "id": 0,
       "name": "tongue",
+      "transcription": "[tʌŋ]",
       "nameA": null,
       "image": "/img/dict/body/tongue.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",

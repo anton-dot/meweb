@@ -1,6 +1,9 @@
 {
   "name": "My classrom",
   "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "tags": null,
   "Translations": [
     {
       "lang": "ru-RU",
@@ -12,9 +15,11 @@
     {
       "id": 0,
       "name": "My classrom",
+      "transcription": null,
       "nameA": null,
       "image": "/img/dict/classroom/classroom.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -26,9 +31,11 @@
     {
       "id": 0,
       "name": "Pencil",
+      "transcription": "[ˈpensl]",
       "nameA": null,
       "image": "/img/dict/classroom/pencil.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -40,9 +47,11 @@
     {
       "id": 0,
       "name": "Chair",
+      "transcription": "[tʃer]",
       "nameA": null,
       "image": "/img/dict/classroom/chair.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -50,14 +59,15 @@
           "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 0,
       "name": "Bag",
+      "transcription": "[bæɡ]",
       "nameA": null,
       "image": "/img/dict/classroom/bag.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -65,14 +75,15 @@
           "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 0,
       "name": "Rubber",
+      "transcription": "[ˈrʌbər]",
       "nameA": null,
       "image": "/img/dict/classroom/rubber.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -80,14 +91,15 @@
           "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 0,
       "name": "Book",
+      "transcription": "[bʊk]",
       "nameA": null,
       "image": "/img/dict/classroom/book.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -95,14 +107,15 @@
           "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 0,
       "name": "Desk",
+      "transcription": "[desk]",
       "nameA": null,
       "image": "/img/dict/classroom/desk.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -110,14 +123,15 @@
           "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 0,
       "name": "Pen",
+      "transcription": "[pen]",
       "nameA": null,
       "image": "/img/dict/classroom/pen.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -125,14 +139,15 @@
           "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 0,
       "name": "Pencilcase",
+      "transcription": "[ˈpensl keɪs]",
       "nameA": null,
       "image": "/img/dict/classroom/pencilcase.jpg",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",

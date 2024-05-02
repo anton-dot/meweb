@@ -1,242 +1,334 @@
 {
   "name": "sweets",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "tags": null,
   "Translations": [
     {
+      "lang": "ru-RU",
       "name": "сладости",
-      "lang": "ru-RU"
+      "nameA": null
     }
   ],
   "items": [
- 
- 
     {
       "id": 9,
       "name": "candy",
+      "transcription": "[ˈkændɪ]",
+      "nameA": null,
       "image": "/img/dict/food/candy.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "конфеты",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
- 
     {
       "id": 11,
       "name": "brownie",
+      "transcription": "[ˈbraʊnɪ]",
+      "nameA": null,
       "image": "/img/dict/food/brownie.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "пирожное",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 12,
       "name": "cookie",
+      "transcription": "[ˈkʊkɪ]",
+      "nameA": null,
       "image": "/img/dict/food/cookie.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "печенье",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
- 
- 
     {
       "id": 15,
       "name": "croissant",
+      "transcription": "[kwɑːˈsɑːnt]",
+      "nameA": null,
       "image": "/img/dict/food/croissant.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "круассан",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 16,
       "name": "cupcake",
+      "transcription": "[ˈkʌpkeɪk]",
+      "nameA": null,
       "image": "/img/dict/food/cupcake.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "кекс",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
- 
- 
     {
       "id": 25,
       "name": "ice cream",
+      "transcription": "[aɪs kriːm]",
+      "nameA": null,
       "image": "/img/dict/food/icecream.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "мороженое",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 26,
       "name": "cake",
+      "transcription": "[keɪk]",
+      "nameA": null,
       "image": "/img/dict/food/cake.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "торт",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 27,
       "name": "chocolate",
+      "transcription": "[ˈtʃɑːklət]",
+      "nameA": null,
       "image": "/img/dict/food/chocolate.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "шоколад",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 28,
       "name": "yoghurt",
+      "transcription": "[ˈjɒɡət]",
+      "nameA": null,
       "image": "/img/dict/food/yoghurt.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "йогурт",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 29,
       "name": "donut",
+      "transcription": "[ˈdəʊnʌt]",
+      "nameA": null,
       "image": "/img/dict/food/donut.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "пончик",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 30,
       "name": "pie",
+      "transcription": "[paɪ]",
+      "nameA": null,
       "image": "/img/dict/food/pie.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "пирог",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 31,
       "name": "biscuits",
+      "transcription": "[ˈbɪskəts]",
+      "nameA": null,
       "image": "/img/dict/food/biscuits.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "печенье",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
- 
     {
       "id": 33,
       "name": "jelly",
+      "transcription": "[ˈdʒelɪ]",
+      "nameA": null,
       "image": "/img/dict/food/jelly.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "желе",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
- 
     {
       "id": 34,
       "name": "cracker",
+      "transcription": "[ˈkrækər]",
+      "nameA": null,
       "image": "/img/dict/food/cracker.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "крекер",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 43,
       "name": "pancake",
+      "transcription": "[ˈpænkeɪk]",
+      "nameA": null,
       "image": "/img/dict/food/pancake.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "блин",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
- 
- 
     {
       "id": 46,
       "name": "waffles",
+      "transcription": "[ˈwɑːfəlz]",
+      "nameA": null,
       "image": "/img/dict/food/waffles.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "вафли",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
- 
     {
       "id": 48,
       "name": "popcorn",
+      "transcription": "[ˈpɑːpkɔːrn]",
+      "nameA": null,
       "image": "/img/dict/food/popcorn.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Попкорн",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 49,
       "name": "jam",
+      "transcription": "[dʒæm]",
+      "nameA": null,
       "image": "/img/dict/food/jam.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "варенье",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 50,
       "name": "lollipop",
+      "transcription": "[ˈlɑːlɪpɑːp]",
+      "nameA": null,
       "image": "/img/dict/food/lollipop.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "леденец",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
- 
     {
       "id": 53,
       "name": "gingerbread",
+      "transcription": "[ˈdʒɪndʒərbred]",
+      "nameA": null,
       "image": "/img/dict/food/gingerbread.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "пряник",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     }

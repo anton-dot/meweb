@@ -1,153 +1,222 @@
 {
   "name": "Berries",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "tags": null,
   "Translations": [
     {
+      "lang": "ru-RU",
       "name": "Ягоды",
-      "lang": "ru-RU"
+      "nameA": null
     }
   ],
   "items": [
     {
       "id": 0,
       "name": "Berries",
+      "transcription": "[ˈberɪz]",
+      "nameA": null,
       "image": "/img/dict/food/berries.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Ягоды",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 1,
       "name": "blueberry",
+      "transcription": "[ˈbluːberɪ]",
+      "nameA": null,
       "image": "/img/dict/food/blueberry.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "черника",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
-     
     {
       "id": 3,
       "name": "blackberry",
+      "transcription": "[ˈblækberɪ]",
+      "nameA": null,
       "image": "/img/dict/food/blackberry.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "ежевика",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 4,
       "name": "cherry",
+      "transcription": "[ˈtʃerɪ]",
+      "nameA": null,
       "image": "/img/dict/food/cherry.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "вишня",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 5,
       "name": "currant",
+      "transcription": "[ˈkɜːrənt]",
+      "nameA": null,
       "image": "/img/dict/food/currant.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "смородина",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 6,
       "name": "cranberry",
+      "transcription": "[ˈkrænberɪ]",
+      "nameA": null,
       "image": "/img/dict/food/cranberry.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "клюква",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 7,
       "name": "chokeberry",
+      "transcription": "[ˈtʃoʊk.ber.i]",
+      "nameA": null,
       "image": "/img/dict/food/chokeberry.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "черноплодная рябина",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 8,
       "name": "goji berry",
+      "transcription": "[ˈɡoʊ.dʒi ˌber.i]",
+      "nameA": null,
       "image": "/img/dict/food/gojiberry.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "ягода годжи",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 9,
       "name": "gooseberry",
+      "transcription": "[ˈɡuːsberɪ]",
+      "nameA": null,
       "image": "/img/dict/food/gooseberry.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "крыжовник",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 10,
       "name": "raspberry",
+      "transcription": "[ˈræzberɪ]",
+      "nameA": null,
       "image": "/img/dict/food/raspberry.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "малина",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 11,
       "name": "strawberry",
+      "transcription": "[ˈstrɔːberɪ]",
+      "nameA": null,
       "image": "/img/dict/food/strawberry.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "клубника",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 12,
       "name": "Rowanberry",
+      "transcription": "[ˈrəʊən ˈberɪ]",
+      "nameA": null,
       "image": "/img/dict/food/rowanberry.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Рябина",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 13,
       "name": "Sea buckthorn",
+      "transcription": "[siː ˈbəkˌθɔːrn]",
+      "nameA": null,
       "image": "/img/dict/food/seabuckthorn.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Облепиха",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     }

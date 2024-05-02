@@ -1,311 +1,446 @@
 {
   "name": "Vegetables",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "tags": null,
   "Translations": [
     {
+      "lang": "ru-RU",
       "name": "Овощи",
-      "lang": "ru-RU"
+      "nameA": null
     }
   ],
   "items": [
     {
       "id": 0,
       "name": "onion",
+      "transcription": "[ˈʌnjən]",
+      "nameA": null,
       "image": "/img/dict/food/onion.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "лук",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 1,
       "name": "mushroom",
+      "transcription": "[ˈmʌʃrʊm]",
+      "nameA": null,
       "image": "/img/dict/food/mushroom.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "гриб",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 2,
       "name": "potato",
+      "transcription": "[pəˈteɪtəʊ]",
+      "nameA": null,
       "image": "/img/dict/food/potato.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "картофель",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 3,
       "name": "carrot",
+      "transcription": "[ˈkærət]",
+      "nameA": null,
       "image": "/img/dict/food/carrot.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "морковь",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 4,
       "name": "peas",
+      "transcription": "[ˈpiːz]",
+      "nameA": null,
       "image": "/img/dict/food/peas.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "горох",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 5,
       "name": "broccoli",
+      "transcription": "[ˈbrɑːkəlɪ]",
+      "nameA": null,
       "image": "/img/dict/food/broccoli.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "брокколи",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 6,
       "name": "pepper",
+      "transcription": "[ˈpepər]",
+      "nameA": null,
       "image": "/img/dict/food/pepper.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "перец",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
-   
     {
       "id": 8,
       "name": "cabbage",
+      "transcription": "[ˈkæbɪdʒ]",
+      "nameA": null,
       "image": "/img/dict/food/cabbage.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "капуста",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 9,
       "name": "leeks",
+      "transcription": "[ˈliːks]",
+      "nameA": null,
       "image": "/img/dict/food/leeks.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "лук-порей",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 10,
       "name": "zucchini",
+      "transcription": "[zʊˈkiːnɪ]",
+      "nameA": null,
       "image": "/img/dict/food/zucchini.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "цуккини",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 11,
       "name": "eggplant",
+      "transcription": "[ˈeɡplænt]",
+      "nameA": null,
       "image": "/img/dict/food/eggplant.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "баклажан",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 12,
       "name": "corn",
+      "transcription": "[kɔːrn]",
+      "nameA": null,
       "image": "/img/dict/food/corn.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "кукуруза",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 13,
       "name": "sweet potato",
+      "transcription": "[swiːt pəˈteɪtəʊ]",
+      "nameA": null,
       "image": "/img/dict/food/sweetpotato.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "батат",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 14,
       "name": "cucumber",
+      "transcription": "[ˈkjuːkʌmbər]",
+      "nameA": null,
       "image": "/img/dict/food/cucumber.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "огурец",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 15,
       "name": "lettuce",
+      "transcription": "[ˈletɪs]",
+      "nameA": null,
       "image": "/img/dict/food/lettuce.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "латук",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 16,
       "name": "asparagus",
+      "transcription": "[əˈspærəɡəs]",
+      "nameA": null,
       "image": "/img/dict/food/asparagus.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "спаржа",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 17,
       "name": "ginger",
+      "transcription": "[ˈdʒɪndʒər]",
+      "nameA": null,
       "image": "/img/dict/food/ginger.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "имбирь",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 18,
       "name": "beetroot",
+      "transcription": "[ˈbiːtruːt]",
+      "nameA": null,
       "image": "/img/dict/food/beetroot.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "свекла",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 19,
       "name": "cauliflower",
+      "transcription": "[ˈkɔːlɪflaʊər]",
+      "nameA": null,
       "image": "/img/dict/food/cauliflower.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "цветная капуста",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 20,
       "name": "chili",
+      "transcription": "[ˈtʃɪlɪ]",
+      "nameA": null,
       "image": "/img/dict/food/chili.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "перец чили",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 21,
       "name": "garlic",
+      "transcription": "[ˈɡɑːrlɪk]",
+      "nameA": null,
       "image": "/img/dict/food/garlic.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "чеснок",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 22,
       "name": "pumpkin",
+      "transcription": "[ˈpʌmpkɪn]",
+      "nameA": null,
       "image": "/img/dict/food/pumpkin.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "тыква",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 23,
       "name": "radish",
+      "transcription": "[ˈrædɪʃ]",
+      "nameA": null,
       "image": "/img/dict/food/radish.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "редис",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 24,
       "name": "spinach",
+      "transcription": "[ˈspɪnɪtʃ]",
+      "nameA": null,
       "image": "/img/dict/food/spinach.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "шпинат",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
-     
     {
       "id": 26,
       "name": "tomato",
+      "transcription": "[təˈmeɪtəʊ]",
+      "nameA": null,
       "image": "/img/dict/food/tomato.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "помидор",
-          "lang": "ru-RU"
-        }
-      ]
-    }
-    ,
-     
-    {
-      "id": 27,
-      "name": "dill",
-      "image": "/img/dict/food/dill.png",
-      "translates": [
-        {
-          "name": "укроп",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
-    
+    {
+      "id": 27,
+      "name": "dill",
+      "transcription": "[dɪl]",
+      "nameA": null,
+      "image": "/img/dict/food/dill.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "укроп",
+          "nameA": null
+        }
+      ]
+    },
     {
       "id": 27,
       "name": "parsley",
+      "transcription": "[ˈpɑːrslɪ]",
+      "nameA": null,
       "image": "/img/dict/food/parsley.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "петрушка",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     }

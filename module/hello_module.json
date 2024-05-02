@@ -83,8 +83,7 @@
       "name": "My House",
       "activities": [
         {
-          "name": "House",
-          "fordev": true,
+          "name": "House",          
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/house.png",
           "rUrl": "homeCommon"
@@ -92,10 +91,9 @@
         },
         {
           "name": "Rooms",
-          "fordev": true,
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/rooms.png",
-          "rUrl": "no"
+          "rUrl": "homeRooms"
 
         },
         {

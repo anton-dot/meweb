@@ -1,242 +1,334 @@
 {
   "name": "Sea animals",
-  "img":"/img/dict/animals/sea.png",
+  "nameA": null,
+  "img": "/img/dict/animals/sea.png",
+  "minQuiz": null,
+  "tags": null,
   "Translations": [
     {
       "lang": "ru-RU",
-      "name": "Морские животные"
+      "name": "Морские животные",
+      "nameA": null
     }
   ],
   "items": [
     {
       "id": 0,
       "name": "Dolphin",
+      "transcription": "[ˈdɑːlfɪn]",
+      "nameA": null,
       "image": "/img/dict/animals/dolphin.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Дельфин"
+          "name": "Дельфин",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "Crab",
+      "transcription": "[kræb]",
+      "nameA": null,
       "image": "/img/dict/animals/crab.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Краб"
+          "name": "Краб",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "Eel",
+      "transcription": "[iːl]",
+      "nameA": null,
       "image": "/img/dict/animals/eel.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Угорь"
+          "name": "Угорь",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "Fish",
+      "transcription": "[fɪʃ]",
+      "nameA": null,
       "image": "/img/dict/animals/fish.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Рыба"
+          "name": "Рыба",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "Jellyfish",
+      "transcription": "[ˈdʒelɪfɪʃ]",
+      "nameA": null,
       "image": "/img/dict/animals/jellyfish.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Медуза"
+          "name": "Медуза",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "Lobster",
+      "transcription": "[ˈlɑːbstər]",
+      "nameA": null,
       "image": "/img/dict/animals/lobster.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Лобстер"
+          "name": "Лобстер",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "Manatee",
+      "transcription": "[ˈmænətiː]",
+      "nameA": null,
       "image": "/img/dict/animals/manatee.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Ламантин"
+          "name": "Ламантин",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "Octopus",
+      "transcription": "[ˈɑːktəpəs]",
+      "nameA": null,
       "image": "/img/dict/animals/octopus.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Осьминог"
+          "name": "Осьминог",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "clam",
+      "transcription": "[klæm]",
+      "nameA": null,
       "image": "/img/dict/animals/clam.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "моллюск"
+          "name": "моллюск",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "Oyster",
+      "transcription": "[ˈɔɪstər]",
+      "nameA": null,
       "image": "/img/dict/animals/oyster.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "устрица"
+          "name": "устрица",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "Penguin",
+      "transcription": "[ˈpeŋɡwɪn]",
+      "nameA": null,
       "image": "/img/dict/animals/penguin.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Пингвин"
+          "name": "Пингвин",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "stingray",
+      "transcription": "[ˈstɪŋreɪ]",
+      "nameA": null,
       "image": "/img/dict/animals/stingray.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Скат"
+          "name": "Скат",
+          "nameA": null
         }
       ]
     },
-    {
-      "id": 0,
-      "name": "seaotter",
-      "image": "/img/dict/animals/seaotter.png",
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Морская Выдра"
-        }
-      ]
-    },
-     
     {
       "id": 0,
       "name": "Turtle",
+      "transcription": "[ˈtɜːrtl]",
+      "nameA": null,
       "image": "/img/dict/animals/turtle.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Черепаха"
+          "name": "Черепаха",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "seahorse",
+      "transcription": "[ˈsiːhɔːrs]",
+      "nameA": null,
       "image": "/img/dict/animals/seahorse.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "морской конек"
+          "name": "морской конек",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "Seal",
+      "transcription": "[siːl]",
+      "nameA": null,
       "image": "/img/dict/animals/seal.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Тюллень"
+          "name": "Тюллень",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "Shark",
+      "transcription": "[ʃɑːrk]",
+      "nameA": null,
       "image": "/img/dict/animals/shark.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Акула"
+          "name": "Акула",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "Squid",
+      "transcription": "[skwɪd]",
+      "nameA": null,
       "image": "/img/dict/animals/squid.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "кальмар"
+          "name": "кальмар",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "Starfish",
+      "transcription": "[ˈstɑːrfɪʃ]",
+      "nameA": null,
       "image": "/img/dict/animals/starfish.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "морская звезда"
+          "name": "морская звезда",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "Walrus",
+      "transcription": "[ˈwɔːlrəs]",
+      "nameA": null,
       "image": "/img/dict/animals/walrus.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "морж"
+          "name": "морж",
+          "nameA": null
         }
       ]
     },
     {
       "id": 0,
       "name": "Whale",
+      "transcription": "[weɪl]",
+      "nameA": null,
       "image": "/img/dict/animals/whale.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "кит"
+          "name": "кит",
+          "nameA": null
         }
       ]
     }

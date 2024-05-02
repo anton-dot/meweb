@@ -1,412 +1,590 @@
 {
   "name": "Fruit",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "tags": null,
   "Translations": [
     {
+      "lang": "ru-RU",
       "name": "Фрукты",
-      "lang": "ru-RU"
+      "nameA": null
     }
   ],
   "items": [
     {
       "id": 0,
       "name": "fruit",
+      "transcription": "[fruːt]",
+      "nameA": null,
       "image": "/img/dict/food/fruit.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "фрукты",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 1,
       "name": "apple",
+      "transcription": "[ˈæpl]",
+      "nameA": null,
       "image": "/img/dict/food/apple.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "яблоко",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 2,
       "name": "banana",
+      "transcription": "[bəˈnænə]",
+      "nameA": null,
       "image": "/img/dict/food/banana.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "банан",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 3,
       "name": "grape",
+      "transcription": "[ɡreɪp]",
+      "nameA": null,
       "image": "/img/dict/food/grape.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "виноград",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 4,
       "name": "lemon",
+      "transcription": "[ˈlemən]",
+      "nameA": null,
       "image": "/img/dict/food/lemon.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "лимон",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 5,
       "name": "lime",
+      "transcription": "[laɪm]",
+      "nameA": null,
       "image": "/img/dict/food/lime.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "лайм",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 6,
       "name": "orange",
+      "transcription": "[ˈɔːrɪndʒ]",
+      "nameA": null,
       "image": "/img/dict/food/orange.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "апельсин",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 7,
       "name": "peach",
+      "transcription": "[piːtʃ]",
+      "nameA": null,
       "image": "/img/dict/food/peach.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "персик",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 8,
       "name": "kiwi",
+      "transcription": "[ˈkiːwiː]",
+      "nameA": null,
       "image": "/img/dict/food/kiwi.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "киви",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 9,
       "name": "mango",
+      "transcription": "[ˈmæŋɡəʊ]",
+      "nameA": null,
       "image": "/img/dict/food/mango.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "манго",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 10,
       "name": "watermelon",
+      "transcription": "[ˈwɔːtərmelən]",
+      "nameA": null,
       "image": "/img/dict/food/watermelon.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "арбуз",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 11,
       "name": "melon",
+      "transcription": "[ˈmelən]",
+      "nameA": null,
       "image": "/img/dict/food/melon.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "дыня",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 12,
       "name": "pineapple",
+      "transcription": "[ˈpaɪnæpl]",
+      "nameA": null,
       "image": "/img/dict/food/pineapple.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "ананас",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 13,
       "name": "pear",
+      "transcription": "[per]",
+      "nameA": null,
       "image": "/img/dict/food/pear.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "груша",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 14,
       "name": "avocado",
+      "transcription": "[ˌævəˈkɑːdəʊ]",
+      "nameA": null,
       "image": "/img/dict/food/avocado.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "авокадо",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 15,
       "name": "coconut",
+      "transcription": "[ˈkəʊkənʌt]",
+      "nameA": null,
       "image": "/img/dict/food/coconut.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "кокос",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 16,
       "name": "grapefruit",
+      "transcription": "[ˈɡreɪpfruːt]",
+      "nameA": null,
       "image": "/img/dict/food/grapefruit.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "грейпфрут",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 17,
       "name": "papaya",
+      "transcription": "[pəˈpaɪə]",
+      "nameA": null,
       "image": "/img/dict/food/papaya.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "папайя",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 18,
       "name": "plum",
+      "transcription": "[plʌm]",
+      "nameA": null,
       "image": "/img/dict/food/plum.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "слива",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 19,
       "name": "pomegranate",
+      "transcription": "[ˈpɑːmɪɡrænɪt]",
+      "nameA": null,
       "image": "/img/dict/food/pomegranate.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "гранат",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 20,
       "name": "Pitaya",
+      "transcription": "[pɪˈtaɪ.ə]",
+      "nameA": null,
       "image": "/img/dict/food/pitaya.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Питайя",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 21,
       "name": "fig",
+      "transcription": "[fɪɡ]",
+      "nameA": null,
       "image": "/img/dict/food/fig.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "инжир",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 22,
       "name": "guava",
+      "transcription": "[ˈɡwɑːvə]",
+      "nameA": null,
       "image": "/img/dict/food/guava.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "гуава",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 23,
       "name": "persimmon",
+      "transcription": "[pərˈsɪmən]",
+      "nameA": null,
       "image": "/img/dict/food/persimmon.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "хурма",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 24,
       "name": "tangerine",
+      "transcription": "[ˈtændʒəriːn]",
+      "nameA": null,
       "image": "/img/dict/food/tangerine.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "мандарин",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 25,
       "name": "date",
+      "transcription": "[deɪt]",
+      "nameA": null,
       "image": "/img/dict/food/date.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "финик",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 26,
       "name": "passion fruit",
+      "transcription": "[ˈpæʃn fruːt]",
+      "nameA": null,
       "image": "/img/dict/food/passionfruit.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "маракуйя",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 27,
       "name": "lychee",
+      "transcription": "[ˌlaɪˈtʃiː]",
+      "nameA": null,
       "image": "/img/dict/food/lychee.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "личи",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 28,
       "name": "rambutan",
+      "transcription": "[ræmˈbuːtn]",
+      "nameA": null,
       "image": "/img/dict/food/rambutan.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "рамбутан",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     },
     {
       "id": 29,
       "name": "longan",
+      "transcription": "[ˈlɑːŋ.ɡən]",
+      "nameA": null,
       "image": "/img/dict/food/longan.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "лонган",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 30,
-      "name": "appricot",
+      "name": "apricot",
+      "transcription": "[ˈeɪ.prɪ.kɑːt]",
+      "nameA": null,
       "image": "/img/dict/food/appricot.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "абрикос",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 31,
       "name": "Soursop",
+      "transcription": "[ˈsaʊr.sɑːp]",
+      "nameA": null,
       "image": "/img/dict/food/soursop.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "гравиола",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 32,
       "name": "jackfruit",
+      "transcription": "[ˈdʒækfruːt]",
+      "nameA": null,
       "image": "/img/dict/food/jackfruit.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "джек фрут",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 33,
       "name": "mangosteen",
+      "transcription": "[ˈmæŋɡəstiːn]",
+      "nameA": null,
       "image": "/img/dict/food/mangosteen.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "мангостин",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 34,
-      "name": "durio",
+      "name": "durian",
+      "transcription": "[ˈdʊr.i.ən]",
+      "nameA": null,
       "image": "/img/dict/food/durio.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "дуриан",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
-    }
-    ,
+    },
     {
       "id": 35,
       "name": "carambola",
+      "transcription": "[ˌker.əmˈboʊ.lə]",
+      "nameA": null,
       "image": "/img/dict/food/carambola.png",
+      "bg": null,
+      "nameAnswer": null,
       "translates": [
         {
+          "lang": "ru-RU",
           "name": "Карамбола",
-          "lang": "ru-RU"
+          "nameA": null
         }
       ]
     }
