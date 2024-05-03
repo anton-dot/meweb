@@ -84,7 +84,7 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "небоскреб",
+          "name": "небоскрёб",
           "nameA": null
         }
       ]
@@ -212,7 +212,7 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "стена",
+          "name": "стена\u0027",
           "nameA": null
         }
       ]
@@ -276,7 +276,7 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "кемпинг",
+          "name": "кэмпинг",
           "nameA": null
         }
       ]
@@ -308,7 +308,7 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "дом на колесах, трейлер",
+          "name": "дом на колёсах, трейлер",
           "nameA": null
         }
       ]
