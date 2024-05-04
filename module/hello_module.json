@@ -301,7 +301,14 @@
     {
       "name": "math activities",
       "activities": [
+        {
+          "name": "Compositions",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/math/c4p4.png",
+          "rUrl": "math10CompositionCards",
+          "bgColor": "white"
 
+        },
         {
           "name": "Plus",
           "aType": "SimpleSelect",

@@ -1,0 +1,592 @@
+{
+  "name": "composition of 10",
+  "nameA": null,
+  "img": "/img/dict/math/school.png",
+  "minQuiz": null,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Состав числа до 10",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "Zero is 0 \u002B 0",
+      "transcription": "[ˈzɪərəʊ]",
+      "nameA": null,
+      "image": "/img/dict/math/c0p0.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ноль это 0\u002B0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "One is 1\u002B0",
+      "transcription": "[wʌn]",
+      "nameA": null,
+      "image": "/img/dict/math/c1p0.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "1 это 1\u002B0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Two is 2\u002B0",
+      "transcription": "[tuː]",
+      "nameA": null,
+      "image": "/img/dict/math/c2p0.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "2 это 2\u002B0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Two is 1\u002B1",
+      "transcription": "[tuː]",
+      "nameA": null,
+      "image": "/img/dict/math/c1p1.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "2 это 1\u002B1",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Three is 3\u002B0",
+      "transcription": "[θriː]",
+      "nameA": null,
+      "image": "/img/dict/math/c3p0.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "3 это 3\u002B0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Three is 2\u002B1",
+      "transcription": "[θriː]",
+      "nameA": null,
+      "image": "/img/dict/math/c2p1.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "3 это 2\u002B1",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Four is 4\u002B0",
+      "transcription": "[fɔː]",
+      "nameA": null,
+      "image": "/img/dict/math/c4p0.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "4 это 4\u002B0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Four is 3\u002B1",
+      "transcription": "[fɔː]",
+      "nameA": null,
+      "image": "/img/dict/math/c3p1.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "4 это 3\u002B1",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Four is 2\u002B2",
+      "transcription": "[fɔː]",
+      "nameA": null,
+      "image": "/img/dict/math/c2p2.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "4 это 2\u002B2",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Five is 5\u002B0",
+      "transcription": "[faɪv]",
+      "nameA": null,
+      "image": "/img/dict/math/c5p0.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "5 это 5\u002B0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Five is 4\u002B1",
+      "transcription": "[faɪv]",
+      "nameA": null,
+      "image": "/img/dict/math/c4p1.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "5 это 4\u002B1",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Five is 3\u002B2",
+      "transcription": "[faɪv]",
+      "nameA": null,
+      "image": "/img/dict/math/c3p2.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "5 это 3\u002B2",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Six is 6\u002B0",
+      "transcription": "[sɪks]",
+      "nameA": null,
+      "image": "/img/dict/math/c6p0.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "6 это 6\u002B0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Six is 5\u002B1",
+      "transcription": "[sɪks]",
+      "nameA": null,
+      "image": "/img/dict/math/c5p1.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "6 это 5\u002B1",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Six is 4\u002B2",
+      "transcription": "[sɪks]",
+      "nameA": null,
+      "image": "/img/dict/math/c4p2.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "6 это 4\u002B2",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Six is 3\u002B3",
+      "transcription": "[sɪks]",
+      "nameA": null,
+      "image": "/img/dict/math/c3p3.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "6 это 3\u002B3",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Seven is 7\u002B0",
+      "transcription": "[sevn]",
+      "nameA": null,
+      "image": "/img/dict/math/c7p0.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "7 это 7\u002B0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Seven is 6\u002B1",
+      "transcription": "[sevn]",
+      "nameA": null,
+      "image": "/img/dict/math/c6p1.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "7 это 6\u002B1",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Seven is 5\u002B2",
+      "transcription": "[sevn]",
+      "nameA": null,
+      "image": "/img/dict/math/c5p2.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "7 это 5\u002B2",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Seven is 4\u002B3",
+      "transcription": "[sevn]",
+      "nameA": null,
+      "image": "/img/dict/math/c4p3.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "7 это 4\u002B3",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Eight is 8\u002B0",
+      "transcription": "[eɪt]",
+      "nameA": null,
+      "image": "/img/dict/math/c8p0.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "8 это 8\u002B0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Eight is 7\u002B1",
+      "transcription": "[eɪt]",
+      "nameA": null,
+      "image": "/img/dict/math/c7p1.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "8 это 7\u002B1",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Eight is 6\u002B2",
+      "transcription": "[eɪt]",
+      "nameA": null,
+      "image": "/img/dict/math/c6p2.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "8 это 6\u002B2",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Eight is 5\u002B3",
+      "transcription": "[eɪt]",
+      "nameA": null,
+      "image": "/img/dict/math/c5p3.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "8 это 5\u002B3",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Eight is 4\u002B4",
+      "transcription": "[eɪt]",
+      "nameA": null,
+      "image": "/img/dict/math/c4p4.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "8 это 4\u002B4",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Nine is 9\u002B0",
+      "transcription": "[naɪn]",
+      "nameA": null,
+      "image": "/img/dict/math/c9p0.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "9 это 9\u002B0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Nine is 8\u002B1",
+      "transcription": "[naɪn]",
+      "nameA": null,
+      "image": "/img/dict/math/c8p1.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "9 это 8\u002B1",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Nine is 7\u002B2",
+      "transcription": "[naɪn]",
+      "nameA": null,
+      "image": "/img/dict/math/c7p2.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "9 это 7\u002B2",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Nine is 6\u002B3",
+      "transcription": "[naɪn]",
+      "nameA": null,
+      "image": "/img/dict/math/c6p3.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "9 это 6\u002B3",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Nine is 5\u002B4",
+      "transcription": "[naɪn]",
+      "nameA": null,
+      "image": "/img/dict/math/c5p4.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "9 это 5\u002B4",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Ten is 10\u002B0",
+      "transcription": "[ten]",
+      "nameA": null,
+      "image": "/img/dict/math/c10p0.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "10 это 10\u002B0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Ten is 9\u002B1",
+      "transcription": "[ten]",
+      "nameA": null,
+      "image": "/img/dict/math/c9p1.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "10 это 9\u002B1",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Ten is 8\u002B2",
+      "transcription": "[ten]",
+      "nameA": null,
+      "image": "/img/dict/math/c8p2.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "10 это 8\u002B2",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Ten is 7\u002B3",
+      "transcription": "[ten]",
+      "nameA": null,
+      "image": "/img/dict/math/c7p3.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "10 это 7\u002B3",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Ten is 6\u002B4",
+      "transcription": "[ten]",
+      "nameA": null,
+      "image": "/img/dict/math/c6p4.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "10 это 6\u002B4",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Ten is 5\u002B5",
+      "transcription": "[ten]",
+      "nameA": null,
+      "image": "/img/dict/math/c5p5.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "10 это 5\u002B5",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}
