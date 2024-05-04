@@ -303,7 +303,7 @@
       "activities": [
         {
           "name": "Compositions",
-          "aType": "UNIVERSAL",
+          "aType": "ListSwipe",
           "img": "/img/dict/math/c4p4.png",
           "rUrl": "math10CompositionCards",
           "bgColor": "white"
