@@ -72,7 +72,7 @@
           "name": "My body",
           "fordev": true,
           "aType": "Explore",
-          "img": "/img/dict/body/body_parts.png",
+          "img": "/img/activity/body_parts.png",
           "rUrl": "bodyExplore"
 
         }
