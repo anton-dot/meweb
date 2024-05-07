@@ -1,0 +1,662 @@
+{
+  "name": "Body parts",
+  "items": [
+    {
+      "name": "front",
+      "image": "/img/explore/body/body_front.png",
+      "imageX": 0,
+      "imageY": 0,
+      "imageZ": 0,
+      "imageH": 1080,
+      "imageW": 461,
+      "bgimage": null,
+      "bgcolor": "green",
+      "points": [
+        {
+          "name": "head",
+          "pointX": 222,
+          "pointY": 120.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "[hed]",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "голова",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "chest",
+          "pointX": 229,
+          "pointY": 308.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "[tʃest]",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "грудь",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "navel",
+          "pointX": 228,
+          "pointY": 464.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "[ˈneɪvl]",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "пупок",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "leg",
+          "pointX": 125,
+          "pointY": 666.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "[leɡ]",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "нога",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "ARM",
+          "pointX": 381,
+          "pointY": 375.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "[ɑːrm]",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "рука, до кисти",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "knee",
+          "pointX": 269,
+          "pointY": 731.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "[niː]",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "колено",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "shoulder",
+          "pointX": 161,
+          "pointY": 227.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "[ˈʃəʊldər]",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "плечо",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "hand",
+          "pointX": 385,
+          "pointY": 548.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "[hænd]",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "рука, кисть",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "foot",
+          "pointX": 203,
+          "pointY": 946.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "[fʊt]",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "стопа",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "belly",
+          "pointX": 183,
+          "pointY": 465.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "[ˈbelɪ]",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "живот",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "neck",
+          "pointX": 231,
+          "pointY": 216.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "[nek]",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "шея",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "shin",
+          "pointX": 182,
+          "pointY": 842.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "[ʃɪn]",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "голень",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "axilla",
+          "pointX": 131,
+          "pointY": 337.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "[akˈsɪlə]",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "подмышка",
+              "nameA": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "back",
+      "image": "/img/explore/body/body_back.png",
+      "imageX": 0,
+      "imageY": 0,
+      "imageZ": 0,
+      "imageH": 1080,
+      "imageW": 461,
+      "bgimage": null,
+      "bgcolor": "blue",
+      "points": [
+        {
+          "name": "nape",
+          "pointX": 215,
+          "pointY": 201.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "[neɪp]",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "back",
+          "pointX": 215,
+          "pointY": 355.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": "/img/explore/body/body_back.png",
+          "transcription": "",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "спина",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "elbow",
+          "pointX": 334,
+          "pointY": 418.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "buttocks",
+          "pointX": 176,
+          "pointY": 540.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "thigh",
+          "pointX": 262,
+          "pointY": 649.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "calf",
+          "pointX": 177,
+          "pointY": 825.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "hip",
+          "pointX": 286,
+          "pointY": 502.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "waist",
+          "pointX": 157,
+          "pointY": 452.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "forearm",
+          "pointX": 77,
+          "pointY": 487.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "",
+              "nameA": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "head",
+      "image": "/img/explore/body/body_head.png",
+      "imageX": 0,
+      "imageY": 0,
+      "imageZ": 0,
+      "imageH": 581,
+      "imageW": 640,
+      "bgimage": null,
+      "bgcolor": null,
+      "points": [
+        {
+          "name": "chin",
+          "pointX": 330.19000000000005,
+          "pointY": 556.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "[tʃɪn]",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "pont_new_1",
+          "pointX": 484.19000000000005,
+          "pointY": 346.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "pont_new_2",
+          "pointX": 333.19000000000005,
+          "pointY": 255.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "pont_new_3",
+          "pointX": 87.19000000000005,
+          "pointY": 359.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "pont_new_4",
+          "pointX": 368.19000000000005,
+          "pointY": 75.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "pont_new_5",
+          "pointX": 351.19000000000005,
+          "pointY": 398.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "pont_new_6",
+          "pointX": 214.19000000000005,
+          "pointY": 425.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "pont_new_7",
+          "pointX": 368.19000000000005,
+          "pointY": 474.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "pont_new_8",
+          "pointX": 341.19000000000005,
+          "pointY": 437.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "pont_new_9",
+          "pointX": 228.19000000000005,
+          "pointY": 273.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "",
+              "nameA": null
+            }
+          ]
+        },
+        {
+          "name": "pont_new_10",
+          "pointX": 270.19000000000005,
+          "pointY": 310.12,
+          "pointZ": 0,
+          "pointH": 30,
+          "pointW": 30,
+          "image": null,
+          "transcription": "",
+          "pointType": 10,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "",
+              "nameA": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "hand",
+      "image": null,
+      "imageX": 0,
+      "imageY": 0,
+      "imageZ": 0,
+      "imageH": 200,
+      "imageW": 100,
+      "bgimage": null,
+      "bgcolor": null,
+      "points": []
+    },
+    {
+      "name": "foot",
+      "image": null,
+      "imageX": 0,
+      "imageY": 0,
+      "imageZ": 0,
+      "imageH": 200,
+      "imageW": 100,
+      "bgimage": null,
+      "bgcolor": null,
+      "points": []
+    }
+  ]
+}

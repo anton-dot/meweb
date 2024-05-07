@@ -67,6 +67,14 @@
           "img": "/img/dict/body/body.png",
           "rUrl": "bodyCards"
 
+        },
+        {
+          "name": "My body",
+          "fordev": true,
+          "aType": "Explore",
+          "img": "/img/dict/body/body_paprts.png",
+          "rUrl": "bodyExplore"
+
         }
 
       ]
