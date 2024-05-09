@@ -1,12 +1,13 @@
 {
-    "Name": "Menglish - английский для детей и взрослых",
-    "Notes": "Добавлен алфавит и обновлены цвета",
-    "Version": 1,
-    "DownloadSizeMB": 50,
-    "DownloadLinks": [
-        
-           "https://anton-dot.github.io/meweb/all.zip" 
-        
-    ]
-     
+  "Name": "Menglish - английский для детей и взрослых",
+  "Notes": "Добавлен алфавит и обновлены цвета",
+  "Version": 1,
+  "Appversion": "1.2",
+  "DownloadSizeMB": 52,
+  "DownloadLinks": [
+
+    "https://anton-dot.github.io/meweb/all.zip"
+
+  ]
+
 }
