@@ -1,0 +1,208 @@
+{
+  "name": "Counting to 10",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Числа до десяти",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "Count to 1",
+      "transcription": " ",
+      "nameA": null,
+      "image": "/img/dict/math/ruler10.png",
+      "bg": "white",
+      "nameAnswer": "01",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посчитай от 0 до 1",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Count from 1 to 0",
+      "transcription": " ",
+      "nameA": null,
+      "image": "/img/dict/math/ruler10.png",
+      "bg": "white",
+      "nameAnswer": "10",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посчитай от 1 до 0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Count to 3",
+      "transcription": " ",
+      "nameA": null,
+      "image": "/img/dict/math/ruler10.png",
+      "bg": "white",
+      "nameAnswer": "0123",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посчитай от 0 до 3",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Count to 5",
+      "transcription": " ",
+      "nameA": null,
+      "image": "/img/dict/math/ruler10.png",
+      "bg": "white",
+      "nameAnswer": "012345",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посчитай от 0 до 5",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Count from 3 to 0",
+      "transcription": " ",
+      "nameA": null,
+      "image": "/img/dict/math/ruler10.png",
+      "bg": "white",
+      "nameAnswer": "3210",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посчитай от 3 до 0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Count from 5 to 0",
+      "transcription": " ",
+      "nameA": null,
+      "image": "/img/dict/math/ruler10.png",
+      "bg": "white",
+      "nameAnswer": "543210",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посчитай от 5 до 0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Count to 9",
+      "transcription": " ",
+      "nameA": null,
+      "image": "/img/dict/math/ruler10.png",
+      "bg": "white",
+      "nameAnswer": "0123456789",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посчитай от 0 до 9",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Count from 9 to 0",
+      "transcription": " ",
+      "nameA": null,
+      "image": "/img/dict/math/ruler10.png",
+      "bg": "white",
+      "nameAnswer": "9876543210",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посчитай от 9 до 0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Count to 10",
+      "transcription": " ",
+      "nameA": null,
+      "image": "/img/dict/math/ruler10.png",
+      "bg": "white",
+      "nameAnswer": "01234567898[10]",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посчитай от 0 до 9",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Count from 10 to 0",
+      "transcription": " ",
+      "nameA": null,
+      "image": "/img/dict/math/ruler10.png",
+      "bg": "white",
+      "nameAnswer": "[10]9876543210",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посчитай от 10 до 0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Count to 10",
+      "transcription": " ",
+      "nameA": null,
+      "image": "/img/dict/math/ruler10.png",
+      "bg": "white",
+      "nameAnswer": "567898[10]",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посчитай от 5 до 10",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Count from 10 to 5",
+      "transcription": " ",
+      "nameA": null,
+      "image": "/img/dict/math/ruler10.png",
+      "bg": "white",
+      "nameAnswer": "[10]98765",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посчитай от 10 до 5",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

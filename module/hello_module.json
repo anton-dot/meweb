@@ -310,8 +310,17 @@
       "name": "math activities",
       "activities": [
         {
-          "name": "Compositions",
+          "name": "Counting",
+          "fordev": true,
           "aType": "ListSwipe",
+          "img": "/img/dict/math/ruler10.png",
+          "rUrl": "mathCountingCards",
+          "bgColor": "white"
+
+        },
+        {
+          "name": "Compositions",
+          "aType": "LetterSelect",
           "img": "/img/dict/math/c4p4.png",
           "rUrl": "math10CompositionCards",
           "bgColor": "white"
