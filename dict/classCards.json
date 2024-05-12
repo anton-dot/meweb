@@ -14,59 +14,43 @@
   "items": [
     {
       "id": 0,
-      "name": "My classrom",
-      "transcription": null,
+      "name": "school",
+      "transcription": "[skuːl]",
       "nameA": null,
-      "image": "/img/dict/classroom/classroom.png",
-      "bg": "white",
+      "image": "/img/dict/classroom/school.png",
+      "bg": "",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Мой учебный класс",
+          "name": "школа",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Pencil",
-      "transcription": "[ˈpensl]",
+      "name": "pupil",
+      "transcription": "[ˈpjuːpl]",
       "nameA": null,
-      "image": "/img/dict/classroom/pencil.png",
-      "bg": "white",
+      "image": "/img/dict/classroom/pupil.png",
+      "bg": "",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Карандаш",
+          "name": "Ученик",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Chair",
-      "transcription": "[tʃer]",
+      "name": "Backpack",
+      "transcription": "[ˈbækpæk]",
       "nameA": null,
-      "image": "/img/dict/classroom/chair.png",
-      "bg": "white",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Стул",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Bag",
-      "transcription": "[bæɡ]",
-      "nameA": null,
-      "image": "/img/dict/classroom/bag.png",
-      "bg": "white",
+      "image": "/img/dict/classroom/backpack.png",
+      "bg": "",
       "nameAnswer": null,
       "translates": [
         {
@@ -78,32 +62,176 @@
     },
     {
       "id": 0,
-      "name": "Rubber",
-      "transcription": "[ˈrʌbər]",
+      "name": "schoolgirl",
+      "transcription": "[ˈskuːlɡɜːrl]",
       "nameA": null,
-      "image": "/img/dict/classroom/rubber.png",
-      "bg": "white",
+      "image": "/img/dict/classroom/schoolgirl.png",
+      "bg": "",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Ластик",
+          "name": "школьница",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Book",
-      "transcription": "[bʊk]",
+      "name": "schoolboy",
+      "transcription": "[ˈskuːlbɔɪ]",
       "nameA": null,
-      "image": "/img/dict/classroom/book.png",
-      "bg": "white",
+      "image": "/img/dict/classroom/schoolboy.png",
+      "bg": "",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Книга",
+          "name": "школьник",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "school uniform",
+      "transcription": "[skuːl ˈjuːnɪfɔːrm]",
+      "nameA": null,
+      "image": "/img/dict/classroom/school_uniform.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "школьная форма",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "primary school",
+      "transcription": "[ˈpraɪmerɪ skuːl]",
+      "nameA": null,
+      "image": "/img/dict/classroom/primary _school.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "начальная школа",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "private school",
+      "transcription": "[ˈpraɪvət skuːl]",
+      "nameA": null,
+      "image": "/img/dict/classroom/private_school.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "частная школа",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "classroom",
+      "transcription": "[ˈklæsruːm]",
+      "nameA": null,
+      "image": "/img/dict/classroom/classroom1.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "кабинет,класс",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "class",
+      "transcription": "[ˈblækbɔːrd]",
+      "nameA": null,
+      "image": "/img/dict/classroom/class.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "класс",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "attendance",
+      "transcription": "[əˈtendəns]",
+      "nameA": null,
+      "image": "/img/dict/classroom/attendance.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "посещаемость",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "teacher",
+      "transcription": "[ˈtiːtʃər]",
+      "nameA": null,
+      "image": "/img/dict/classroom/teacher.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "учитель",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "instructor",
+      "transcription": "[ɪnˈstrʌktər]",
+      "nameA": null,
+      "image": "/img/dict/classroom/instructor.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "тренер",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "principal",
+      "transcription": "[ˈprɪnsəpl]",
+      "nameA": null,
+      "image": "/img/dict/classroom/principal.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "дтректор",
           "nameA": null
         }
       ]
@@ -114,7 +242,7 @@
       "transcription": "[desk]",
       "nameA": null,
       "image": "/img/dict/classroom/desk.png",
-      "bg": "white",
+      "bg": "",
       "nameAnswer": null,
       "translates": [
         {
@@ -126,32 +254,304 @@
     },
     {
       "id": 0,
-      "name": "Pen",
-      "transcription": "[pen]",
+      "name": "Chair",
+      "transcription": "[tʃer]",
       "nameA": null,
-      "image": "/img/dict/classroom/pen.png",
-      "bg": "white",
+      "image": "/img/dict/classroom/chair.png",
+      "bg": "",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Ручка",
+          "name": "Стул",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Pencilcase",
-      "transcription": "[ˈpensl keɪs]",
+      "name": "subject",
+      "transcription": "[ˈsʌbdʒekt]",
       "nameA": null,
-      "image": "/img/dict/classroom/pencilcase.jpg",
-      "bg": "white",
+      "image": "/img/dict/classroom/subject.png",
+      "bg": "",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Пенал",
+          "name": "Название предмета",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "timetable",
+      "transcription": "[ˈtaɪmteɪbl]",
+      "nameA": null,
+      "image": "/img/dict/classroom/timetable.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "расписание",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "vacation",
+      "transcription": "[vəˈkeɪʃn]",
+      "nameA": null,
+      "image": "/img/dict/classroom/vacation.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "каникулы",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "mark",
+      "transcription": "[mɑːrk]",
+      "nameA": null,
+      "image": "/img/dict/classroom/mark.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "оценка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "lesson",
+      "transcription": "[ˈlesn]",
+      "nameA": null,
+      "image": "/img/dict/classroom/lesson.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "урок",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bell",
+      "transcription": "[bel]",
+      "nameA": null,
+      "image": "/img/dict/classroom/bell.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "звонок",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "break",
+      "transcription": "[breɪk]",
+      "nameA": null,
+      "image": "/img/dict/classroom/break.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "перемена",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "cafeteria",
+      "transcription": "[ˌkæfəˈtɪrɪə]",
+      "nameA": null,
+      "image": "/img/dict/classroom/cafeteria.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "кафетерий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "homework",
+      "transcription": "[ˈhəʊmwɜːrk]",
+      "nameA": null,
+      "image": "/img/dict/classroom/homework.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "домашнее задание",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "exercise book",
+      "transcription": "[ˈeksərsaɪz bʊk]",
+      "nameA": null,
+      "image": "/img/dict/classroom/exercise_book.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "задачник",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "duster",
+      "transcription": "[ˈdʌstər]",
+      "nameA": null,
+      "image": "/img/dict/classroom/duster.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тряпка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "whiteboard",
+      "transcription": "[ˈwaɪtbɔːrd]",
+      "nameA": null,
+      "image": "/img/dict/classroom/whiteboard.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "маркерная доска",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "blackboard",
+      "transcription": "[ˈblækbɔːrd]",
+      "nameA": null,
+      "image": "/img/dict/classroom/blackboard.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "меловая доска",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "chalk",
+      "transcription": "[tʃɔːk]",
+      "nameA": null,
+      "image": "/img/dict/classroom/chalk.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "мел",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "grade",
+      "transcription": "[ɡreɪd]",
+      "nameA": null,
+      "image": "/img/dict/classroom/grade.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "год обучения",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "test",
+      "transcription": "[test]",
+      "nameA": null,
+      "image": "/img/dict/classroom/test.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "тест",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "exam",
+      "transcription": "[ɪɡˈzæm]",
+      "nameA": null,
+      "image": "/img/dict/classroom/exam.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "экзамен",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "diploma",
+      "transcription": "[dɪˈpləʊmə]",
+      "nameA": null,
+      "image": "/img/dict/classroom/diploma.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "диплом, аттестат",
           "nameA": null
         }
       ]

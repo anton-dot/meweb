@@ -70,7 +70,7 @@
         },
         {
           "name": "My body",
-          "fordev": true,
+          
           "aType": "Explore",
           "img": "/img/activity/body_parts.png",
           "rUrl": "bodyExplore"
@@ -158,20 +158,20 @@
       "name": "Learning",
       "activities": [
         {
-          "name": "STUDY",
-          "fordev": true,
+          "name": "CLASS",          
           "aType": "UNIVERSAL",
           "img": "/img/dict/classroom/classroom.png",
           "rUrl": "classCards"
 
         },
         {
-          "name": "CLASS",
+          "name": "stationery",         
           "aType": "UNIVERSAL",
-          "img": "/img/dict/classroom/classroom.png",
-          "rUrl": "classCards"
+          "img": "/img/dict/classroom/stationery.png",
+          "rUrl": "classStationeryCards"
 
         },
+
 
 
         {

@@ -1,0 +1,445 @@
+{
+  "name": "Subjects",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "tags": [
+    "classes",
+    "education"
+  ],
+  "Translations": [],
+  "items": [
+    {
+      "id": 8,
+      "name": "reading",
+      "transcription": "[ˈriːdɪŋ]",
+      "nameA": null,
+      "image": "/img/dict/classroom/reading.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "чтение",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "sociology",
+      "transcription": "[səʊsɪˈɒləʤɪ]",
+      "nameA": null,
+      "image": "/img/dict/classroom/sociology.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "социология",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "art",
+      "transcription": "[ɑːt]",
+      "nameA": null,
+      "image": "/img/dict/classroom/art.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "изобразительное искусство",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "maths",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/classroom/maths.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "математика",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "music",
+      "transcription": "[ˈmjuːzɪk]",
+      "nameA": null,
+      "image": "/img/dict/classroom/music.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "музыка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "history",
+      "transcription": "[ˈhɪstərɪ]",
+      "nameA": null,
+      "image": "/img/dict/classroom/history.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "история",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "physics",
+      "transcription": "[ˈfɪɪzɪks]",
+      "nameA": null,
+      "image": "/img/dict/classroom/physics.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "физика",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "computer science",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/classroom/computer_science.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "информатика",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "economics",
+      "transcription": "[ekəˈnɒmɪks]",
+      "nameA": null,
+      "image": "/img/dict/classroom/economics.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "экономика",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "physical education",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/classroom/physical_education.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "физкультура",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Foreign language",
+      "transcription": "[ˈfɔːrən ˈlæŋɡwɪdʒ]",
+      "nameA": null,
+      "image": "/img/dict/classroom/foreign_language.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "иностранный язык",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "geography",
+      "transcription": "[ʤɪˈɒgrəfɪ]",
+      "nameA": null,
+      "image": "/img/dict/classroom/geography.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "география",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "algebra",
+      "transcription": "[ˈælʤɪbrə]",
+      "nameA": null,
+      "image": "/img/dict/classroom/algebra.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "алгебра",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "geometry",
+      "transcription": "[ʤɪˈɒmɪtrɪ]",
+      "nameA": null,
+      "image": "/img/dict/classroom/geometry.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "геометрия",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "literature",
+      "transcription": "[ˈlɪt(ə)rəʧə]",
+      "nameA": null,
+      "image": "/img/dict/classroom/literature.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "литература",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "science",
+      "transcription": "[ˈsaɪəns]",
+      "nameA": null,
+      "image": "/img/dict/classroom/science.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "естествознание",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "biology",
+      "transcription": "[baɪˈɒləʤɪ]",
+      "nameA": null,
+      "image": "/img/dict/classroom/biology.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "биология",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "psychology",
+      "transcription": "[saɪˈkɒləʤɪ]",
+      "nameA": null,
+      "image": "/img/dict/classroom/psychology.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "психология",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "chemistry",
+      "transcription": "[ˈkemɪstrɪ]",
+      "nameA": null,
+      "image": "/img/dict/classroom/chemistry.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "химия",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Сitizenship",
+      "transcription": "[ˈsɪtɪzənʃɪp]",
+      "nameA": null,
+      "image": "/img/dict/classroom/Сitizenship.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Право",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Astronomy",
+      "transcription": "[əˈstrɑːnəmɪ]",
+      "nameA": null,
+      "image": "/img/dict/classroom/Astronomy.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Астрономия",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Local Studies",
+      "transcription": "[əˈstrɑːnəmɪ]",
+      "nameA": null,
+      "image": "/img/dict/classroom/local_studies.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Краеведение",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Culture Studies",
+      "transcription": "[əˈstrɑːnəmɪ]",
+      "nameA": null,
+      "image": "/img/dict/classroom/culture_studies.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Культурология",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Handicraft",
+      "transcription": "[ˈhændɪkræft]",
+      "nameA": null,
+      "image": "/img/dict/classroom/handicraft.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Труды",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "social studies",
+      "transcription": "[ˈsəʊʃl ˈstʌdɪz]",
+      "nameA": null,
+      "image": "/img/dict/classroom/social_studies.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Обществознание",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Environmental science",
+      "transcription": "[ɪnˌvaɪrənˈmentl ˈsaɪəns]",
+      "nameA": null,
+      "image": "/img/dict/classroom/environmental_science.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Экология",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Religions",
+      "transcription": "[rɪˈlɪdʒənz]",
+      "nameA": null,
+      "image": "/img/dict/classroom/religions.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "peлигия",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

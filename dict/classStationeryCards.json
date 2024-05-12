@@ -1,0 +1,493 @@
+{
+  "name": "stationery",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "tags": [
+    "stationery",
+    "education"
+  ],
+  "Translations": [],
+  "items": [
+    {
+      "id": 19,
+      "name": "stationery",
+      "transcription": "[ˈsteɪʃən(ə)rɪ]",
+      "nameA": null,
+      "image": "/img/dict/classroom/stationery.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "канцелярские товары",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "pencilcase",
+      "transcription": "[pensl]",
+      "nameA": null,
+      "image": "/img/dict/classroom/pencilcase.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "пенал",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "pen",
+      "transcription": "[pen]",
+      "nameA": null,
+      "image": "/img/dict/classroom/pen.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ручка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "folder",
+      "transcription": "[ˈfəʊldə]",
+      "nameA": null,
+      "image": "/img/dict/classroom/folder.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "папка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "pencil",
+      "transcription": "[pensl]",
+      "nameA": null,
+      "image": "/img/dict/classroom/pencil.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "карандаш",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "eraser",
+      "transcription": "[ɪˈreɪzə]",
+      "nameA": null,
+      "image": "/img/dict/classroom/eraser.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ластик",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "scissors",
+      "transcription": "[ˈsɪzəz]",
+      "nameA": null,
+      "image": "/img/dict/classroom/scissors.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ножницы",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "glue",
+      "transcription": "[gluː]",
+      "nameA": null,
+      "image": "/img/dict/classroom/glue.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "клей",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "scotch tape",
+      "transcription": "[skɒʧ teɪp]",
+      "nameA": null,
+      "image": "/img/dict/classroom/tape.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "скотч",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "envelope",
+      "transcription": "[ˈenvələʊp]",
+      "nameA": null,
+      "image": "/img/dict/classroom/envelope.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "конверт",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "notebook",
+      "transcription": "[ˈnəʊtbʊk]",
+      "nameA": null,
+      "image": "/img/dict/classroom/notebook.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "блокнот",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "ruler",
+      "transcription": "[ˈruːlə]",
+      "nameA": null,
+      "image": "/img/dict/classroom/ruler.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "линейка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "clip",
+      "transcription": "[klɪp]",
+      "nameA": null,
+      "image": "/img/dict/classroom/clip.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "скрепка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "pushpin",
+      "transcription": "[ˈpʊʃpɪn]",
+      "nameA": null,
+      "image": "/img/dict/classroom/pushpin.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "канцелярская кнопка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "paper",
+      "transcription": "[ˈpeɪpə]",
+      "nameA": null,
+      "image": "/img/dict/classroom/paper.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "бумага",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "sticker",
+      "transcription": "[ˈstɪkə]",
+      "nameA": null,
+      "image": "/img/dict/classroom/sticker.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "стикер, наклейка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "clamp",
+      "transcription": "[klæmp]",
+      "nameA": null,
+      "image": "/img/dict/classroom/clamp.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "зажим",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "file",
+      "transcription": "[faɪl]",
+      "nameA": null,
+      "image": "/img/dict/classroom/file.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "файл",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "stapler",
+      "transcription": "[ˈsteɪplə]",
+      "nameA": null,
+      "image": "/img/dict/classroom/stapler.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "степлер",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "correction fluid",
+      "transcription": "[kəˈrekʃn ˈfluːɪd]",
+      "nameA": null,
+      "image": "/img/dict/classroom/correction_fluid.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "корректирующая жидкость",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "puncher",
+      "transcription": "[pʌntʃər]",
+      "nameA": null,
+      "image": "/img/dict/classroom/puncher.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "дырокол",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "clipboard",
+      "transcription": "[ˈklɪpbɔːd]",
+      "nameA": null,
+      "image": "/img/dict/classroom/clipboard.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "планшет с зажимом",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "calculator",
+      "transcription": "[ˈkælkjʊleɪtə]",
+      "nameA": null,
+      "image": "/img/dict/classroom/calculator.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "калькулятор",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "highlighter",
+      "transcription": "[ˈhaɪlaɪtə]",
+      "nameA": null,
+      "image": "/img/dict/classroom/highlighter.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "фломастер",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "marker",
+      "transcription": "[ˈmɑːkə]",
+      "nameA": null,
+      "image": "/img/dict/classroom/marker.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "маркер",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "sharpener",
+      "transcription": "[ˈʃɑrpənər]",
+      "nameA": null,
+      "image": "/img/dict/classroom/sharpener.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "точилка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "paints",
+      "transcription": "[ˈpeɪnts]",
+      "nameA": null,
+      "image": "/img/dict/classroom/paints.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "краски",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "album",
+      "transcription": "[ˈælbəm]",
+      "nameA": null,
+      "image": "/img/dict/classroom/album.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "альбом",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "colored paper",
+      "transcription": "[ˈkʌlərd ˈpeɪpər]",
+      "nameA": null,
+      "image": "/img/dict/classroom/colored_paper.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "цветная бумага",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "paper knife",
+      "transcription": "[ˈpeɪpər naɪf]",
+      "nameA": null,
+      "image": "/img/dict/classroom/paper_knife.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "нож для бумаги",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}
