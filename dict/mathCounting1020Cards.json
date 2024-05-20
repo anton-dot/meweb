@@ -1,0 +1,145 @@
+{
+  "name": "Counting 10-20",
+  "nameA": null,
+  "img": null,
+  "minQuiz": 8,
+  "isRandom": false,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Числа до десяти",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "Count from 10 to 13",
+      "transcription": " ",
+      "nameA": null,
+      "image": "/img/dict/math/ruler1020.png",
+      "bg": "white",
+      "nameAnswer": "[10][11][12][13]",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посчитай от 10 до 13",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Count from 13 to 10",
+      "transcription": " ",
+      "nameA": null,
+      "image": "/img/dict/math/ruler1020.png",
+      "bg": "white",
+      "nameAnswer": "[13][12][11][10]",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посчитай от 13 до 10",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Count from 10 to 15",
+      "transcription": " ",
+      "nameA": null,
+      "image": "/img/dict/math/ruler1020.png",
+      "bg": "white",
+      "nameAnswer": "[10][11][12][13][14][15]",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посчитай от 10 до 15",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Count from 15 to 10",
+      "transcription": " ",
+      "nameA": null,
+      "image": "/img/dict/math/ruler1020.png",
+      "bg": "white",
+      "nameAnswer": "[15][14][13][12][11][10]",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посчитай от 15 до 10",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Count from 15 to 20",
+      "transcription": " ",
+      "nameA": null,
+      "image": "/img/dict/math/ruler1020.png",
+      "bg": "white",
+      "nameAnswer": "[15][16][17][18][19][20]",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посчитай от 15 до 20",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Count from 20 to 15",
+      "transcription": " ",
+      "nameA": null,
+      "image": "/img/dict/math/ruler1020.png",
+      "bg": "white",
+      "nameAnswer": "[20][19][18][17][16][15]",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посчитай от 20 до 15",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Count from 10 to 20",
+      "transcription": " ",
+      "nameA": null,
+      "image": "/img/dict/math/ruler1020.png",
+      "bg": "white",
+      "nameAnswer": "[10][11][12][13][14][15][16][17][18][19][20]",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посчитай от 10 до 20",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Count from 20 to 10",
+      "transcription": " ",
+      "nameA": null,
+      "image": "/img/dict/math/ruler1020.png",
+      "bg": "white",
+      "nameAnswer": "[20][19][18][17][16][15][14][13][12][11][10]",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посчитай от 20 до 10",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

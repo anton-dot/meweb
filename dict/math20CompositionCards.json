@@ -1,0 +1,353 @@
+{
+  "name": "composition of 20",
+  "nameA": null,
+  "img": "/img/dict/math/school.png",
+  "minQuiz": null,
+  "isRandom": true,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Состав числа до 10",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "Ten is 10 \u002B 0",
+      "transcription": "[ten]",
+      "nameA": null,
+      "image": "/img/dict/math/c10p0.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Десять это 10\u002B0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Eleven is 11 \u002B 0",
+      "transcription": "[ɪˈlevn ]",
+      "nameA": null,
+      "image": "/img/dict/math/c11p0.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "11 это 11\u002B0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Eleven is 10 \u002B 1",
+      "transcription": "[ɪˈlevn ]",
+      "nameA": null,
+      "image": "/img/dict/math/c10p1.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "11 это 10\u002B1",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Twelve is 12 \u002B 0",
+      "transcription": "[twelv]",
+      "nameA": null,
+      "image": "/img/dict/math/c12p0.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "12 это 12\u002B0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Twelve is 10 \u002B 2",
+      "transcription": "[twelv]",
+      "nameA": null,
+      "image": "/img/dict/math/c10p2.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "12 это 10\u002B2",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "thirteen is 13 \u002B 0",
+      "transcription": "[ˌθɜːrˈtiːn]",
+      "nameA": null,
+      "image": "/img/dict/math/c13p0.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "13 это 13\u002B0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "thirteen is 10 \u002B 3",
+      "transcription": "[ˌθɜːrˈtiːn]",
+      "nameA": null,
+      "image": "/img/dict/math/c10p3.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "13 это 10\u002B3",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "fourteen is 14 \u002B 0",
+      "transcription": "[ˌfɔːrˈtiːn]",
+      "nameA": null,
+      "image": "/img/dict/math/c14p0.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "14 это 14\u002B0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "fourteen is 10 \u002B 4",
+      "transcription": "[ˌfɔːrˈtiːn]",
+      "nameA": null,
+      "image": "/img/dict/math/c10p4.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "14 это 10\u002B4",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "fifteen is 15 \u002B 0",
+      "transcription": "[ˌfɪfˈtiːn]",
+      "nameA": null,
+      "image": "/img/dict/math/c15p0.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "15 это 15\u002B0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "fifteen is 10 \u002B 5",
+      "transcription": "[ˌfɪfˈtiːn]",
+      "nameA": null,
+      "image": "/img/dict/math/c10p5.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "15 это 10\u002B5",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "sixteen is 16 \u002B 0",
+      "transcription": "[ˌsɪksˈtiːn]",
+      "nameA": null,
+      "image": "/img/dict/math/c16p0.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "16 это 16\u002B0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "sixteen is 10 \u002B 6",
+      "transcription": "[ˌsɪksˈtiːn]",
+      "nameA": null,
+      "image": "/img/dict/math/c10p6.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "16 это 10\u002B6",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "seventeen is 17 \u002B 0",
+      "transcription": "[ˌsevnˈtiːn]",
+      "nameA": null,
+      "image": "/img/dict/math/c17p0.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "17 это 17\u002B0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "seventeen is 10 \u002B 7",
+      "transcription": "[ˌsevnˈtiːn]",
+      "nameA": null,
+      "image": "/img/dict/math/c10p7.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "17 это 10\u002B7",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "eighteen is 18 \u002B 0",
+      "transcription": "[ˌeɪˈtiːn]",
+      "nameA": null,
+      "image": "/img/dict/math/c18p0.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "18 это 18\u002B0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "eighteen is 10 \u002B 8",
+      "transcription": "[ˌeɪˈtiːn]",
+      "nameA": null,
+      "image": "/img/dict/math/c10p8.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "18 это 10\u002B8",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "nineteen is 19 \u002B 0",
+      "transcription": "[ˌnaɪnˈtiːn]",
+      "nameA": null,
+      "image": "/img/dict/math/c19p0.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "19 это 19\u002B0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "nineteen is 10 \u002B 9",
+      "transcription": "[ˌnaɪnˈtiːn]",
+      "nameA": null,
+      "image": "/img/dict/math/c10p9.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "19 это 10\u002B9",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "twenty is 20 \u002B 0",
+      "transcription": "[ˈtwentɪ]",
+      "nameA": null,
+      "image": "/img/dict/math/c20p0.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "20 это 20\u002B0",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "twenty is 10 \u002B 10",
+      "transcription": "[ˈtwentɪ]",
+      "nameA": null,
+      "image": "/img/dict/math/c10p10.png",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "20 это 10\u002B10",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

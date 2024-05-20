@@ -310,7 +310,7 @@
       "name": "math activities",
       "activities": [
         {
-          "name": "Counting to 10",          
+          "name": "Counting to 10",
           "aType": "LetterSelect",
           "img": "/img/dict/math/ruler10.png",
           "rUrl": "mathCountingCards",
@@ -318,28 +318,10 @@
 
         },
         {
-          "name": "Compositions",
+          "name": "Compositions to 10",
           "aType": "ListSwipe",
           "img": "/img/dict/math/c4p4.png",
           "rUrl": "math10CompositionCards",
-          "bgColor": "white"
-
-        },
-        {
-          "name": "Counting from 10 to 20",
-          "fordev": true,
-          "aType": "LetterSelect",
-          "img": "/img/dict/math/ruler1020.png",
-          "rUrl": "mathCounting1020Cards",
-          "bgColor": "white"
-
-        },
-        {
-          "name": "Counting to 20",
-          "fordev": true,
-          "aType": "LetterSelect",
-          "img": "/img/dict/math/ruler20.png",
-          "rUrl": "mathCounting20Cards",
           "bgColor": "white"
 
         },
@@ -359,7 +341,32 @@
           "bgColor": "white"
 
 
+        },
+        {
+          "name": "Counting from 10 to 20",
+          "aType": "LetterSelect",
+          "img": "/img/dict/math/ruler1020.png",
+          "rUrl": "mathCounting1020Cards",
+          "bgColor": "white"
+
+        },
+        {
+          "name": "Compositions 10 to 20",
+          "aType": "ListSwipe",
+          "img": "/img/dict/math/c4p4.png",
+          "rUrl": "math20CompositionCards",
+          "bgColor": "white"
+
+        },
+        {
+          "name": "Counting to 20",
+          "aType": "LetterSelect",
+          "img": "/img/dict/math/ruler20.png",
+          "rUrl": "mathCounting20Cards",
+          "bgColor": "white"
+
         }
+
 
       ]
     },

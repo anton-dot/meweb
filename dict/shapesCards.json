@@ -1,6 +1,10 @@
 {
   "name": "Shapes",
   "nameA": null,
+  "img": null,
+  "minQuiz": 15,
+  "isRandom": true,
+  "tags": null,
   "Translations": [
     {
       "lang": "ru-RU",
@@ -16,6 +20,7 @@
       "nameA": null,
       "image": "/img/dict/shapes/circle.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -31,6 +36,7 @@
       "nameA": null,
       "image": "/img/dict/shapes/oval.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -39,7 +45,6 @@
         }
       ]
     },
-
     {
       "id": 0,
       "name": "Triangle",
@@ -47,6 +52,7 @@
       "nameA": null,
       "image": "/img/dict/shapes/triangle.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -62,6 +68,7 @@
       "nameA": null,
       "image": "/img/dict/shapes/diamond.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -77,6 +84,7 @@
       "nameA": null,
       "image": "/img/dict/shapes/star.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -92,6 +100,7 @@
       "nameA": null,
       "image": "/img/dict/shapes/cloud.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -107,6 +116,7 @@
       "nameA": null,
       "image": "/img/dict/shapes/square.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -122,6 +132,7 @@
       "nameA": null,
       "image": "/img/dict/shapes/heart.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -137,10 +148,187 @@
       "nameA": null,
       "image": "/img/dict/shapes/rectangle.png",
       "bg": "transparent",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
           "name": "Прямоугольник",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "trapezium",
+      "transcription": "[trəˈpiːzɪəm]",
+      "nameA": null,
+      "image": "/img/dict/shapes/trapezium.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Трапеция",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "helix",
+      "transcription": "[ˈhiːlɪks]",
+      "nameA": null,
+      "image": "/img/dict/shapes/helix.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "спираль",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "point",
+      "transcription": "[pɔɪnt]",
+      "nameA": null,
+      "image": "/img/dict/shapes/point.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "точка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "line",
+      "transcription": "[laɪn]",
+      "nameA": null,
+      "image": "/img/dict/shapes/line.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "линия",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "sphere",
+      "transcription": "[sfɪr]",
+      "nameA": null,
+      "image": "/img/dict/shapes/sphere.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "сфера",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "cube",
+      "transcription": "[kjuːb]",
+      "nameA": null,
+      "image": "/img/dict/shapes/cube.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "куб",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "pyramid",
+      "transcription": "[ˈpɪrəmɪd]",
+      "nameA": null,
+      "image": "/img/dict/shapes/pyramid.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "пирамида",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "cone",
+      "transcription": "[kəʊn]",
+      "nameA": null,
+      "image": "/img/dict/shapes/cone.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "конус",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "cylinder",
+      "transcription": "[ˈsɪlɪndər]",
+      "nameA": null,
+      "image": "/img/dict/shapes/cylinder.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "цилиндр",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "parallelepiped",
+      "transcription": "[pærʌleləˈpaɪpɪd]",
+      "nameA": null,
+      "image": "/img/dict/shapes/parallelepiped.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "параллелепипед",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "prism",
+      "transcription": "[ˈprɪzəm]",
+      "nameA": null,
+      "image": "/img/dict/shapes/prism.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "призма",
           "nameA": null
         }
       ]
