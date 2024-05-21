@@ -329,7 +329,7 @@
           "name": "Fill the gaps (to 10)",
           "aType": "InlineSelect",
           "fordev": true,
-          "img": "/img/dict/math/c4p4.png",
+          "img": "",
           "rUrl": "mathCountingSpaceCards",
           "bgColor": "white"
 
@@ -362,7 +362,7 @@
         {
           "name": "Compositions 10 to 20",
           "aType": "ListSwipe",
-          "img": "/img/dict/math/c4p4.png",
+          "img": "/img/dict/math/c10p10.png",
           "rUrl": "math20CompositionCards",
           "bgColor": "white"
 
