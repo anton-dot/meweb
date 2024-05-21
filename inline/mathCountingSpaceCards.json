@@ -1,0 +1,151 @@
+{
+  "name": "Counting to 10",
+  "nameA": null,
+  "img": null,
+  "minQuiz": 12,
+  "isRandom": false,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Числа до десяти",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "name": "name_inline",
+      "taskMask": "0 {txt:1} 23erer dfd {txt:2}.",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "a",
+          "nameA": null,
+          "image": null,
+          "answerType": 2
+        },
+        {
+          "name": " ",
+          "nameA": null,
+          "image": null,
+          "answerType": 2
+        },
+        {
+          "name": "b",
+          "nameA": null,
+          "image": null,
+          "answerType": 2
+        },
+        {
+          "name": "answer_0",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "answer_1",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "answer_2",
+          "nameA": null,
+          "image": null,
+          "answerType": 1
+        },
+        {
+          "name": "answer_3",
+          "nameA": null,
+          "image": null,
+          "answerType": 1
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 2,
+      "multianswer": false
+    },
+    {
+      "name": "Fill the gaps 0 -7",
+      "taskMask": "0 {txt:1} 2 3 {txt:4} 5 6 {txt:7} ",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "answer_0",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "multianswer": true
+    },
+    {
+      "name": "Fill the gaps 0 - 10",
+      "taskMask": "0 {txt:1} 2 3 {txt:4} 5 6 {txt:7} 8  {txt:9} 10",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "answer_0",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 0,
+      "verticalAlign": 0,
+      "textSize": 2,
+      "multianswer": true
+    }
+  ]
+}

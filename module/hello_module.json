@@ -326,6 +326,15 @@
 
         },
         {
+          "name": "Fill the gaps (to 10)",
+          "aType": "InlineSelect",
+          "fordev": true,
+          "img": "/img/dict/math/c4p4.png",
+          "rUrl": "mathCountingSpaceCards",
+          "bgColor": "white"
+
+        },
+        {
           "name": "Plus",
           "aType": "SimpleSelect",
           "img": "/img/dict/numbers/1p1.png",
@@ -364,7 +373,6 @@
           "img": "/img/dict/math/ruler20.png",
           "rUrl": "mathCounting20Cards",
           "bgColor": "white"
-
         }
 
 
