@@ -1,0 +1,59 @@
+﻿{
+  "name": "Hello",
+  "description": "",
+  "version": "2",
+  "cats": [
+    {
+      "name": "Level 1",
+      "activities": [
+        {
+          "id": 1,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "Alphabet",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/abc/abc.png",
+          "rUrl": "abcCards"
+
+        }
+
+
+
+      ]
+    },
+    {
+      "name": "Level 2",
+      "activities": [
+        {
+          "minunlockid": 200,
+          "unlockid": 201,
+          "name": "Alphabet",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/abc/abc.png",
+          "rUrl": "abcCards"
+
+        }
+
+
+
+      ]
+    },
+    {
+      "name": "Level 3",
+      "activities": [
+        {
+          "minunlockid": 300,
+          "unlockid": 301,
+          "name": "Alphabet",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/abc/abc.png",
+          "rUrl": "abcCards"
+
+        }
+
+
+
+      ]
+    }
+  ]
+}
