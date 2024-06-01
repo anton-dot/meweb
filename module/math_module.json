@@ -8,7 +8,34 @@
       "activities": [
 
         {
-          "name": "1-10",
+          "name": "0-10",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/numbers/10.png",
+          "bgColor": "dodgerblue",
+          "rUrl": "tenCards"
+
+        },
+        {
+          "name": "11-20",
+          "aType": "UNIVERSAL",
+          "fordev": true,
+          "img": "/img/dict/numbers/10.png",
+          "bgColor": "dodgerblue",
+          "rUrl": "tenCards"
+
+        },
+        {
+          "name": "21-29",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/numbers/10.png",
+          "fordev": true,
+          "bgColor": "dodgerblue",
+          "rUrl": "tenCards"
+
+        },
+        {
+          "name": "10,100,1000",
+          "fordev": true,
           "aType": "UNIVERSAL",
           "img": "/img/dict/numbers/10.png",
           "bgColor": "dodgerblue",
@@ -30,7 +57,7 @@
 
         },
         {
-          "name": "Compositions to 10",
+          "name": "Compositions",
           "aType": "ListSwipe",
           "img": "/img/dict/math/c4p4.png",
           "rUrl": "math10CompositionCards",
@@ -38,10 +65,10 @@
 
         },
         {
-          "name": "Fill the gaps (to 10)",
+          "name": "gaps (to 10)",
           "aType": "InlineSelect",
           "fordev": true,
-          "img": "",
+          "img": "/img/activity/gaps_10.png",
           "rUrl": "mathCountingSpaceCards",
           "bgColor": "white"
 
