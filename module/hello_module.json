@@ -1,5 +1,5 @@
 ﻿{
-  "name": "Hello",
+  "name": "All cards",
   "description": "",
   "version": "2",
   "cats": [
@@ -306,78 +306,7 @@
 
       ]
     },
-    {
-      "name": "math activities",
-      "activities": [
-        {
-          "name": "Counting to 10",
-          "aType": "LetterSelect",
-          "img": "/img/dict/math/ruler10.png",
-          "rUrl": "mathCountingCards",
-          "bgColor": "white"
-
-        },
-        {
-          "name": "Compositions to 10",
-          "aType": "ListSwipe",
-          "img": "/img/dict/math/c4p4.png",
-          "rUrl": "math10CompositionCards",
-          "bgColor": "white"
-
-        },
-        {
-          "name": "Fill the gaps (to 10)",
-          "aType": "InlineSelect",
-          "fordev": true,
-          "img": "",
-          "rUrl": "mathCountingSpaceCards",
-          "bgColor": "white"
-
-        },
-        {
-          "name": "Plus",
-          "aType": "SimpleSelect",
-          "img": "/img/dict/numbers/1p1.png",
-          "rUrl": "mathPlusCards",
-          "bgColor": "white"
-
-        },
-        {
-          "name": "Minus",
-          "aType": "SimpleSelect",
-          "img": "/img/dict/numbers/2m1.png",
-          "rUrl": "mathMinusCards",
-          "bgColor": "white"
-
-
-        },
-        {
-          "name": "Counting from 10 to 20",
-          "aType": "LetterSelect",
-          "img": "/img/dict/math/ruler1020.png",
-          "rUrl": "mathCounting1020Cards",
-          "bgColor": "white"
-
-        },
-        {
-          "name": "Compositions 10 to 20",
-          "aType": "ListSwipe",
-          "img": "/img/dict/math/c10p10.png",
-          "rUrl": "math20CompositionCards",
-          "bgColor": "white"
-
-        },
-        {
-          "name": "Counting to 20",
-          "aType": "LetterSelect",
-          "img": "/img/dict/math/ruler20.png",
-          "rUrl": "mathCounting20Cards",
-          "bgColor": "white"
-        }
-
-
-      ]
-    },
+   
 
     {
       "name": "STREET",
