@@ -1,0 +1,225 @@
+{
+  "name": "Big numbers",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": true,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Числа до десяти",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "Ten",
+      "transcription": "[ten]",
+      "nameA": null,
+      "image": "/img/dict/numbers/10.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "10",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Twenty",
+      "transcription": "[ˈtwentɪ]",
+      "nameA": null,
+      "image": "/img/dict/numbers/20.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "20",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Thirty",
+      "transcription": "[ˈθɜːrtɪ]",
+      "nameA": null,
+      "image": "/img/dict/numbers/30.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "30",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Forty",
+      "transcription": "[ˈfɔːrtɪ]",
+      "nameA": null,
+      "image": "/img/dict/numbers/40.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "40",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Fifty",
+      "transcription": "[ˈfɪftɪ]",
+      "nameA": null,
+      "image": "/img/dict/numbers/50.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "50",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Sixty",
+      "transcription": "[ˈsɪkstɪ]",
+      "nameA": null,
+      "image": "/img/dict/numbers/60.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "60",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Seventy",
+      "transcription": "[ˈsevntɪ]",
+      "nameA": null,
+      "image": "/img/dict/numbers/70.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "70",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Eighty",
+      "transcription": "[ˈeɪtɪ]",
+      "nameA": null,
+      "image": "/img/dict/numbers/80.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "80",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Ninety",
+      "transcription": "[ˈnaɪntɪ]",
+      "nameA": null,
+      "image": "/img/dict/numbers/90.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "90",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "One hundred",
+      "transcription": "[wʌn ˈhʌndrəd]",
+      "nameA": null,
+      "image": "/img/dict/numbers/100.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "100",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "one thousand",
+      "transcription": "[wʌn ˈθaʊznd]",
+      "nameA": null,
+      "image": "/img/dict/numbers/1000.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "1000",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "one hundred thousand",
+      "transcription": "[wʌn ˈhʌndrəd ˈθaʊznd]",
+      "nameA": null,
+      "image": "/img/dict/numbers/100000.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "100000",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "one million",
+      "transcription": "[wʌn ˈmɪljən]",
+      "nameA": null,
+      "image": "/img/dict/numbers/1000000.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "1000000",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

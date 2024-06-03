@@ -1,0 +1,177 @@
+{
+  "name": "Numbers 11-20",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": true,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Числа до десяти",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "Eleven",
+      "transcription": "[ɪˈlevn]",
+      "nameA": null,
+      "image": "/img/dict/numbers/11.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "11",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Twelve",
+      "transcription": "[twelv]",
+      "nameA": null,
+      "image": "/img/dict/numbers/12.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "12",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Thirteen",
+      "transcription": "[ˌθɜːrˈtiːn]",
+      "nameA": null,
+      "image": "/img/dict/numbers/13.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "13",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Fourteen",
+      "transcription": "[ˌfɔːrˈtiːn]",
+      "nameA": null,
+      "image": "/img/dict/numbers/14.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "14",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Fifteen",
+      "transcription": "[ˌfɪfˈtiːn]",
+      "nameA": null,
+      "image": "/img/dict/numbers/15.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "15",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Sixteen",
+      "transcription": "[ˌsɪksˈtiːn]",
+      "nameA": null,
+      "image": "/img/dict/numbers/16.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "16",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Seventeen",
+      "transcription": "[ˌsevnˈtiːn]",
+      "nameA": null,
+      "image": "/img/dict/numbers/17.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "17",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Eighteen",
+      "transcription": "[ˌeɪˈtiːn]",
+      "nameA": null,
+      "image": "/img/dict/numbers/18.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "18",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Nineteen",
+      "transcription": "[ˌnaɪnˈtiːn]",
+      "nameA": null,
+      "image": "/img/dict/numbers/19.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "19",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Twenty",
+      "transcription": "[ˈtwentɪ]",
+      "nameA": null,
+      "image": "/img/dict/numbers/20.png",
+      "bg": "white",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "20",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}
