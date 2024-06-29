@@ -1,0 +1,828 @@
+{
+  "name": "nature_common.json",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "tags": [
+    "nature"
+  ],
+  "Translations": [],
+  "items": [
+    {
+      "id": 0,
+      "name": "earth",
+      "transcription": "[ɜːθ]",
+      "nameA": null,
+      "image": "/fake_path/earth.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "земля",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "sea",
+      "transcription": "[siː]",
+      "nameA": null,
+      "image": "/fake_path/sea.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "море",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "island",
+      "transcription": "[ˈaɪlənd]",
+      "nameA": null,
+      "image": "/fake_path/island.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "остров",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "river",
+      "transcription": "[ˈrɪvə]",
+      "nameA": null,
+      "image": "/fake_path/river.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "река",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "star",
+      "transcription": "[stɑː]",
+      "nameA": null,
+      "image": "/fake_path/star.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "звезда",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "peninsula",
+      "transcription": "[pɪˈnɪnsjʊlə]",
+      "nameA": null,
+      "image": "/fake_path/peninsula.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "полуостров",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "stream",
+      "transcription": "[striːm]",
+      "nameA": null,
+      "image": "/fake_path/stream.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "ручей",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "rain",
+      "transcription": "[reɪn]",
+      "nameA": null,
+      "image": "/fake_path/rain.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "дождь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "water",
+      "transcription": "[ˈwɔːtə]",
+      "nameA": null,
+      "image": "/fake_path/water.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "вода",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "lake",
+      "transcription": "[leɪk]",
+      "nameA": null,
+      "image": "/fake_path/lake.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "озеро",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "fog",
+      "transcription": "[fɒg]",
+      "nameA": null,
+      "image": "/fake_path/fog.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "туман",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "ice",
+      "transcription": "[aɪs]",
+      "nameA": null,
+      "image": "/fake_path/ice.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "лед",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "bay",
+      "transcription": "[beɪ]",
+      "nameA": null,
+      "image": "/fake_path/bay.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "залив",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "wind",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/wind.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "ветер",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "snow",
+      "transcription": "[snəʊ]",
+      "nameA": null,
+      "image": "/fake_path/snow.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "снег",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "pond",
+      "transcription": "[pɒnd]",
+      "nameA": null,
+      "image": "/fake_path/pond.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "пруд",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "grass",
+      "transcription": "[grɑːs]",
+      "nameA": null,
+      "image": "/fake_path/grass.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "трава",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "snowdrift",
+      "transcription": "[ˈsnəʊdrɪft]",
+      "nameA": null,
+      "image": "/fake_path/snowdrift.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "сугроб",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "lightning",
+      "transcription": "[ˈlaɪtnɪŋ]",
+      "nameA": null,
+      "image": "/fake_path/lightning.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "молния",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "nature",
+      "transcription": "[ˈneɪʧə]",
+      "nameA": null,
+      "image": "/fake_path/nature.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "природа",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "fire",
+      "transcription": "[ˈfaɪə]",
+      "nameA": null,
+      "image": "/fake_path/fire.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "огонь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "birds",
+      "transcription": "[bɜːdz]",
+      "nameA": null,
+      "image": "/fake_path/birds.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "птицы",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "climate",
+      "transcription": "[ˈklaɪmɪt]",
+      "nameA": null,
+      "image": "/fake_path/climate.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "климат",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "stone",
+      "transcription": "[stəʊn]",
+      "nameA": null,
+      "image": "/fake_path/stone.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "камень",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "animals",
+      "transcription": "[ˈænɪməlz]",
+      "nameA": null,
+      "image": "/fake_path/animals.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "животные",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "weather",
+      "transcription": "[ˈweðə]",
+      "nameA": null,
+      "image": "/fake_path/weather.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "погода",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "sand",
+      "transcription": "[sænd]",
+      "nameA": null,
+      "image": "/fake_path/sand.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "песок",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "insects",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/insects.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "насекомые",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "air",
+      "transcription": "[eə]",
+      "nameA": null,
+      "image": "/fake_path/air.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "воздух",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "ocean",
+      "transcription": "[əʊʃn]",
+      "nameA": null,
+      "image": "/fake_path/ocean.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "океан",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "desert",
+      "transcription": "[ˈdezət]",
+      "nameA": null,
+      "image": "/fake_path/desert.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "пустыня",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "hill",
+      "transcription": "[hɪl]",
+      "nameA": null,
+      "image": "/fake_path/hill.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "холм",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "sky",
+      "transcription": "[skaɪ]",
+      "nameA": null,
+      "image": "/fake_path/sky.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "небо",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "volcano",
+      "transcription": "[vɒlˈkeɪnəʊ]",
+      "nameA": null,
+      "image": "/fake_path/volcano.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "вулкан",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "cloud",
+      "transcription": "[klaʊd]",
+      "nameA": null,
+      "image": "/fake_path/cloud.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "облако",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "valley",
+      "transcription": "[ˈvælɪ]",
+      "nameA": null,
+      "image": "/fake_path/valley.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "долина",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "rainbow",
+      "transcription": "[ˈreɪnbəʊ]",
+      "nameA": null,
+      "image": "/fake_path/rainbow.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "радуга",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "forest",
+      "transcription": "[ˈfɒrɪst]",
+      "nameA": null,
+      "image": "/fake_path/forest.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "лес",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "sun",
+      "transcription": "[sʌn]",
+      "nameA": null,
+      "image": "/fake_path/sun.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "солнце",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "jungle",
+      "transcription": "[ʤʌŋgl]",
+      "nameA": null,
+      "image": "/fake_path/jungle.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "джунгли",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "moon",
+      "transcription": "[muːn]",
+      "nameA": null,
+      "image": "/fake_path/moon.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "луна",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "tree",
+      "transcription": "[triː]",
+      "nameA": null,
+      "image": "/fake_path/tree.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "дерево",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "bog",
+      "transcription": "[bɒg]",
+      "nameA": null,
+      "image": "/fake_path/bog.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "болото",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "plant",
+      "transcription": "[plɑːnt]",
+      "nameA": null,
+      "image": "/fake_path/plant.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "растение",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "waterfall",
+      "transcription": "[ˈwɔːtəfɔːl]",
+      "nameA": null,
+      "image": "/fake_path/waterfall.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "водопад",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "flower",
+      "transcription": "[ˈflaʊə]",
+      "nameA": null,
+      "image": "/fake_path/flower.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "цветок",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "wave",
+      "transcription": "[weɪv]",
+      "nameA": null,
+      "image": "/fake_path/wave.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "волна",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "meadow",
+      "transcription": "[ˈmedəʊ]",
+      "nameA": null,
+      "image": "/fake_path/meadow.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "луг",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "coast",
+      "transcription": "[kəʊst]",
+      "nameA": null,
+      "image": "/fake_path/coast.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "побережье",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "field",
+      "transcription": "[fiːld]",
+      "nameA": null,
+      "image": "/fake_path/field.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "поле",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "mountain",
+      "transcription": "[ˈmaʊntɪn]",
+      "nameA": null,
+      "image": "/fake_path/mountain.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "гора",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

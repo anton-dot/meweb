@@ -1,0 +1,257 @@
+{
+  "name": "reptiles",
+  "nameA": null,
+  "img": "/img/dict/animals/desert.jpg",
+  "minQuiz": null,
+  "isRandom": true,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Дикие животные",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 47,
+      "name": "reptile",
+      "transcription": "[ˈreptaɪl]",
+      "nameA": null,
+      "image": "/img/dict/animals/reptile.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "рептилия",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Alligator",
+      "transcription": "[ˈælɪɡeɪtər]",
+      "nameA": null,
+      "image": "/img/dict/animals/alligator.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Аллигатор",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "snake",
+      "transcription": "[sneɪk]",
+      "nameA": null,
+      "image": "/img/dict/animals/snake.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "змея",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "lizard",
+      "transcription": "[ˈlɪzərd]",
+      "nameA": null,
+      "image": "/img/dict/animals/lizard.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ящерица",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "frog",
+      "transcription": "[frɔːɡ]",
+      "nameA": null,
+      "image": "/img/dict/animals/frog.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "лягушка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "turtle",
+      "transcription": "[ˈtɜːrtl]",
+      "nameA": null,
+      "image": "/img/dict/animals/turtle.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "черепаха",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "dinosaur",
+      "transcription": "[ˈdaɪnəsɔːr]",
+      "nameA": null,
+      "image": "/img/dict/animals/dinosaur.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "динозавр",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "python",
+      "transcription": "[ˈpaɪθɑːn]",
+      "nameA": null,
+      "image": "/img/dict/animals/python.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "питон",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "cobra",
+      "transcription": "[ˈkəʊbrə]",
+      "nameA": null,
+      "image": "/img/dict/animals/cobra.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "кобра",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "chameleon",
+      "transcription": "[kəˈmiːlɪən]",
+      "nameA": null,
+      "image": "/img/dict/animals/chameleon.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "хамелеон",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "salamander",
+      "transcription": "[ˈsæləmændər]",
+      "nameA": null,
+      "image": "/img/dict/animals/salamander.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "саламандра",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "iguana",
+      "transcription": "[ɪˈɡwɑːnə]",
+      "nameA": null,
+      "image": "/img/dict/animals/iguana.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "игуана",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "varan",
+      "transcription": "[ˈværən]",
+      "nameA": null,
+      "image": "/img/dict/animals/varan.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "варан",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "gecko",
+      "transcription": "[ˈɡekəʊ]",
+      "nameA": null,
+      "image": "/img/dict/animals/gecko.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Геккон",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "monitor lizard",
+      "transcription": "[ˈmɑːnɪtər ˈlɪzərd]",
+      "nameA": null,
+      "image": "/img/dict/animals/monitor_lizard.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "варан",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

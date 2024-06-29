@@ -1,0 +1,545 @@
+{
+  "name": "Birds",
+  "nameA": null,
+  "img": "/img/dict/animals/forest.jpg",
+  "minQuiz": null,
+  "isRandom": true,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Дикие животные",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 4,
+      "name": "Flamingo",
+      "transcription": "[fləˈmɪŋɡəʊ]",
+      "nameA": null,
+      "image": "/img/dict/animals/flamingo.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Фламинго",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "owl",
+      "transcription": "[aʊl]",
+      "nameA": null,
+      "image": "/img/dict/animals/owl.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "сова",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "ostrich",
+      "transcription": "[ˈɑːstrɪtʃ]",
+      "nameA": null,
+      "image": "/img/dict/animals/ostrich.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "страус",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "vulture",
+      "transcription": "[ˈvʌltʃər]",
+      "nameA": null,
+      "image": "/img/dict/animals/vulture.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "стервятник",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "eagle",
+      "transcription": "[ˈiːɡl]",
+      "nameA": null,
+      "image": "/img/dict/animals/eagle.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "орел",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "penguin",
+      "transcription": "[ˈpeŋɡwɪn]",
+      "nameA": null,
+      "image": "/img/dict/animals/penguin.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "пингвин",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "duck",
+      "transcription": "[dʌk]",
+      "nameA": null,
+      "image": "/img/dict/animals/duck.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "утка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "goldfinch",
+      "transcription": "[ˈɡəʊldfɪntʃ]",
+      "nameA": null,
+      "image": "/img/dict/animals/goldfinch.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "щегол",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "pelican",
+      "transcription": "[ˈpelɪkən]",
+      "nameA": null,
+      "image": "/img/dict/animals/pelican.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "пеликан",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "pigeon",
+      "transcription": "[ˈpɪdʒɪn]",
+      "nameA": null,
+      "image": "/img/dict/animals/pigeon.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "голубь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "goose",
+      "transcription": "[ɡuːs]",
+      "nameA": null,
+      "image": "/img/dict/animals/goose.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "гусь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "stork",
+      "transcription": "[stɔːrk]",
+      "nameA": null,
+      "image": "/img/dict/animals/stork.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "аист",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "crane",
+      "transcription": "[kreɪn]",
+      "nameA": null,
+      "image": "/img/dict/animals/crane.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "журавль",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "nest",
+      "transcription": "[nest]",
+      "nameA": null,
+      "image": "/img/dict/animals/nest.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "гнездо",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "woodpecker",
+      "transcription": "[ˈwʊdpekər]",
+      "nameA": null,
+      "image": "/img/dict/animals/woodpecker.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "дятел",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "crow",
+      "transcription": "[krəʊ]",
+      "nameA": null,
+      "image": "/img/dict/animals/crow.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ворона",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "sparrow",
+      "transcription": "[ˈspærəʊ]",
+      "nameA": null,
+      "image": "/img/dict/animals/sparrow.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "воробей",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "swan",
+      "transcription": "[swɑːn]",
+      "nameA": null,
+      "image": "/img/dict/animals/swan.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "лебедь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "swallow",
+      "transcription": "[ˈswɑːləʊ]",
+      "nameA": null,
+      "image": "/img/dict/animals/swallow.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ласточка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "canary",
+      "transcription": "[kəˈnerɪ]",
+      "nameA": null,
+      "image": "/img/dict/animals/canary.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "канарейка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "turkey",
+      "transcription": "[ˈtɜːrkɪ]",
+      "nameA": null,
+      "image": "/img/dict/animals/turkey.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "индейка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "peacock",
+      "transcription": "[ˈpiːkɑːk]",
+      "nameA": null,
+      "image": "/img/dict/animals/peacock.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "павлин",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "hummingbird",
+      "transcription": "[ˈhʌmɪŋbɜːrd]",
+      "nameA": null,
+      "image": "/img/dict/animals/hummingbird.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "колибри",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "heron",
+      "transcription": "[ˈherən]",
+      "nameA": null,
+      "image": "/img/dict/animals/heron.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "цапля",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "falcon",
+      "transcription": "[ˈfælkən]",
+      "nameA": null,
+      "image": "/img/dict/animals/falcon.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "сокол",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "rooster",
+      "transcription": "[ˈruːstər]",
+      "nameA": null,
+      "image": "/img/dict/animals/rooster.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "петух",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "starling",
+      "transcription": "[ˈstɑːrlɪŋ]",
+      "nameA": null,
+      "image": "/img/dict/animals/starling.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "скворец",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "hawk",
+      "transcription": "[hɔːk]",
+      "nameA": null,
+      "image": "/img/dict/animals/hawk.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ястреб",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "chickadee",
+      "transcription": "[ˈtʃɪkədiː]",
+      "nameA": null,
+      "image": "/img/dict/animals/chickadee.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "синица",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "parrot",
+      "transcription": "[ˈpærət]",
+      "nameA": null,
+      "image": "/img/dict/animals/parrot.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "попугай",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "seagull",
+      "transcription": "[ˈsiːɡʌl]",
+      "nameA": null,
+      "image": "/img/dict/animals/seagull.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "чайка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "toucan",
+      "transcription": "[ˈtuːkæn]",
+      "nameA": null,
+      "image": "/img/dict/animals/toucan.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "тукан",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "hen",
+      "transcription": "[hen]",
+      "nameA": null,
+      "image": "/img/dict/animals/hen.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "курица",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

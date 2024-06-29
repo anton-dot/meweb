@@ -1,0 +1,2717 @@
+{
+  "name": "nature_weather.json",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "tags": [
+    "nature",
+    "weather"
+  ],
+  "Translations": [],
+  "items": [
+    {
+      "id": 0,
+      "name": "cold biting wind",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/cold_biting_wind.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "холодный резкий ветер",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "pleasant",
+      "transcription": "[pleznt]",
+      "nameA": null,
+      "image": "/fake_path/pleasant.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "приятный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "foggy",
+      "transcription": "[ˈfɒgɪ]",
+      "nameA": null,
+      "image": "/fake_path/foggy.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "туманный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "it lightens",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/it_lightens.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "сверкает молния",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "good",
+      "transcription": "[gʊd]",
+      "nameA": null,
+      "image": "/fake_path/good.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "хороший",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "weather forecast",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/weather_forecast.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "прогноз погоды",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "thunderbolt",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/thunderbolt.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "удар молнии",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "lighten",
+      "transcription": "[laɪtn]",
+      "nameA": null,
+      "image": "/fake_path/lighten.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "светлеть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "squall",
+      "transcription": "[skwɔːl]",
+      "nameA": null,
+      "image": "/fake_path/squall.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "шквал",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "pouring",
+      "transcription": "[ˈpɔːrɪŋ]",
+      "nameA": null,
+      "image": "/fake_path/pouring.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "проливной",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "temperate",
+      "transcription": "[ˈtempərɪt]",
+      "nameA": null,
+      "image": "/fake_path/temperate.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "умеренный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "fierce",
+      "transcription": "[fɪəs]",
+      "nameA": null,
+      "image": "/fake_path/fierce.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "свирепый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "gale-force",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/gale-force.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "шквальный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "heavy rain",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/heavy_rain.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "проливной дождь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "hurricane",
+      "transcription": "[ˈhʌrɪkən]",
+      "nameA": null,
+      "image": "/fake_path/hurricane.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "ураган",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "strong",
+      "transcription": "[strɒŋ]",
+      "nameA": null,
+      "image": "/fake_path/strong.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "сильный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "storm",
+      "transcription": "[stɔːm]",
+      "nameA": null,
+      "image": "/fake_path/storm.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "шторм",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "cool",
+      "transcription": "[kuːl]",
+      "nameA": null,
+      "image": "/fake_path/cool.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "прохладный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "strengthen",
+      "transcription": "[ˈstreŋθən]",
+      "nameA": null,
+      "image": "/fake_path/strengthen.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "усиливаться",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "strong wind",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/strong_wind.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "сильный ветер",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "temperature",
+      "transcription": "[ˈtemp(ə)rəʧə]",
+      "nameA": null,
+      "image": "/fake_path/temperature.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "температура",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "clear up",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/clear_up.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "проясняться",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "drop",
+      "transcription": "[drɒp]",
+      "nameA": null,
+      "image": "/fake_path/drop.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "успокаиваться",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "synoptic",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/synoptic.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "синоптик",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "warm",
+      "transcription": "[wɔːm]",
+      "nameA": null,
+      "image": "/fake_path/warm.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "теплый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "rainbow",
+      "transcription": "[ˈreɪnbəʊ]",
+      "nameA": null,
+      "image": "/fake_path/rainbow.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "радуга",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "set in",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "установиться",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "gentle",
+      "transcription": "[ʤentl]",
+      "nameA": null,
+      "image": "/fake_path/gentle.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "слабый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "warm wind",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/warm_wind.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "теплый ветер",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "thunderclap",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/thunderclap.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "раскат грома",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "pour down",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/pour_down.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "хлынуть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "mud",
+      "transcription": "[mʌd]",
+      "nameA": null,
+      "image": "/fake_path/mud.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "слякоть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "tornado",
+      "transcription": "[tɔːˈneɪdəʊ]",
+      "nameA": null,
+      "image": "/fake_path/tornado.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "торнадо",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "biting",
+      "transcription": "[ˈbaɪtɪŋ]",
+      "nameA": null,
+      "image": "/fake_path/biting.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "резкий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "cold",
+      "transcription": "[kəʊld]",
+      "nameA": null,
+      "image": "/fake_path/cold.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "холодный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "lovely",
+      "transcription": "[ˈlʌvlɪ]",
+      "nameA": null,
+      "image": "/fake_path/lovely.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "прекрасный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "tropical",
+      "transcription": "[ˈtrɒpɪkəl]",
+      "nameA": null,
+      "image": "/fake_path/tropical.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "тропический",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "dew",
+      "transcription": "[djuː]",
+      "nameA": null,
+      "image": "/fake_path/dew.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "роса",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "cold wind",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/cold_wind.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "холодный ветер",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "cease",
+      "transcription": "[siːs]",
+      "nameA": null,
+      "image": "/fake_path/cease.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "прекратиться",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "fog",
+      "transcription": "[fɒg]",
+      "nameA": null,
+      "image": "/fake_path/fog.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "туман",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "breezy",
+      "transcription": "[ˈbriːzɪ]",
+      "nameA": null,
+      "image": "/fake_path/breezy.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "свежий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "pour",
+      "transcription": "[pɔː]",
+      "nameA": null,
+      "image": "/fake_path/pour.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "лить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "thunder",
+      "transcription": "[ˈθʌndə]",
+      "nameA": null,
+      "image": "/fake_path/thunder.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "гром",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "drizzle",
+      "transcription": "[drɪzl]",
+      "nameA": null,
+      "image": "/fake_path/drizzle.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "моросить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "blow",
+      "transcription": "[bləʊ]",
+      "nameA": null,
+      "image": "/fake_path/blow.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "дуть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "puddle",
+      "transcription": "[pʌdl]",
+      "nameA": null,
+      "image": "/fake_path/puddle.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "лужа",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "dense",
+      "transcription": "[dens]",
+      "nameA": null,
+      "image": "/fake_path/dense.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "густой",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "maritime",
+      "transcription": "[ˈmærɪtaɪm]",
+      "nameA": null,
+      "image": "/fake_path/maritime.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "морской",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "mist",
+      "transcription": "[mɪst]",
+      "nameA": null,
+      "image": "/fake_path/mist.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "дымка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "moon",
+      "transcription": "[muːn]",
+      "nameA": null,
+      "image": "/fake_path/moon.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "луна",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "thick fog",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/thick_fog.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "густой туман",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "thundery",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/thundery.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "мрачный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "heat",
+      "transcription": "[hiːt]",
+      "nameA": null,
+      "image": "/fake_path/heat.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "жара",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "sunburst",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/sunburst.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "лучи солнца из-за туч",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "dense clouds",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/dense_clouds.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "густые облака",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "mild",
+      "transcription": "[maɪld]",
+      "nameA": null,
+      "image": "/fake_path/mild.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "мягкий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "sticky",
+      "transcription": "[ˈstɪkɪ]",
+      "nameA": null,
+      "image": "/fake_path/sticky.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "жаркий и влажный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "snowstorm",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/snowstorm.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "метель",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "persistent",
+      "transcription": "[pəˈsɪstənt]",
+      "nameA": null,
+      "image": "/fake_path/persistent.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "длительный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "slight wind",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/slight_wind.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "легкий ветерок",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "hail",
+      "transcription": "[heɪl]",
+      "nameA": null,
+      "image": "/fake_path/hail.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "град",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "weatherman",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/weatherman.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "метеоролог",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "rain clouds",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/rain_clouds.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "дождевые тучи",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "icy",
+      "transcription": "[ˈaɪsɪ]",
+      "nameA": null,
+      "image": "/fake_path/icy.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "ледяной",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "hailstone",
+      "transcription": "[ˈheɪlstəʊn]",
+      "nameA": null,
+      "image": "/fake_path/hailstone.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "градина",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "weather station",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/weather_station.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "метеорологическая станция",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "name": "wet",
+      "transcription": "[wet]",
+      "nameA": null,
+      "image": "/fake_path/wet.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "дождливая погода",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "lie",
+      "transcription": "[laɪ]",
+      "nameA": null,
+      "image": "/fake_path/lie.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "лежать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "degrees",
+      "transcription": "[dɪˈgriːz]",
+      "nameA": null,
+      "image": "/fake_path/degrees.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "градусы",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "name": "wet snow",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/wet_snow.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "мокрый снег",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "name": "rainy",
+      "transcription": "[ˈreɪnɪ]",
+      "nameA": null,
+      "image": "/fake_path/rainy.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "дождливый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "name": "shower",
+      "transcription": "[ˈʃaʊə]",
+      "nameA": null,
+      "image": "/fake_path/shower.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "ливень",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "name": "it thunders",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/it_thunders.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "гремит гром",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "name": "lightning",
+      "transcription": "[ˈlaɪtnɪŋ]",
+      "nameA": null,
+      "image": "/fake_path/lightning.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "молния",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "name": "rain",
+      "transcription": "[reɪn]",
+      "nameA": null,
+      "image": "/fake_path/rain.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "дождь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "rainstorm",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/rainstorm.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "ливень с ураганом",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "thunderstorm",
+      "transcription": "[ˈθʌndəstɔːm]",
+      "nameA": null,
+      "image": "/fake_path/thunderstorm.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "гроза",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "name": "frost",
+      "transcription": "[frɒst]",
+      "nameA": null,
+      "image": "/fake_path/frost.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "мороз",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "name": "sleet",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/sleet.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "дождь со снегом",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "driving",
+      "transcription": "[ˈdraɪvɪŋ]",
+      "nameA": null,
+      "image": "/fake_path/driving.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "ливневый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "name": "thunder-cloud",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/thunder-cloud.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "грозовая туча",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "name": "frosty",
+      "transcription": "[ˈfrɒstɪ]",
+      "nameA": null,
+      "image": "/fake_path/frosty.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "морозный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "name": "breath of air",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/breath_of_air.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "дуновение ветерка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "name": "stormy",
+      "transcription": "[ˈstɔːmɪ]",
+      "nameA": null,
+      "image": "/fake_path/stormy.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "штормовой",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "name": "bright",
+      "transcription": "[braɪt]",
+      "nameA": null,
+      "image": "/fake_path/bright.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "ясный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "name": "rise",
+      "transcription": "[raɪz]",
+      "nameA": null,
+      "image": "/fake_path/rise.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "возрастать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "name": "unpleasant",
+      "transcription": "[ʌnˈpleznt]",
+      "nameA": null,
+      "image": "/fake_path/unpleasant.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "неприятный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "name": "beat",
+      "transcription": "[biːt]",
+      "nameA": null,
+      "image": "/fake_path/beat.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "бить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "name": "sandstorm",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/sandstorm.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "песчаная буря",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "name": "sunrise",
+      "transcription": "[ˈsʌnraɪz]",
+      "nameA": null,
+      "image": "/fake_path/sunrise.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "восход",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "name": "below freezing",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/below_freezing.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "ниже нуля",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "name": "fertile",
+      "transcription": "[ˈfɜːtaɪl]",
+      "nameA": null,
+      "image": "/fake_path/fertile.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "благоприятный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "name": "thick",
+      "transcription": "[θɪk]",
+      "nameA": null,
+      "image": "/fake_path/thick.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "плотный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "name": "occasional",
+      "transcription": "[əˈkeɪʒ(ə)nəl]",
+      "nameA": null,
+      "image": "/fake_path/occasional.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "временами",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "name": "cloud",
+      "transcription": "[klaʊd]",
+      "nameA": null,
+      "image": "/fake_path/cloud.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "облако",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "name": "breeze",
+      "transcription": "[briːz]",
+      "nameA": null,
+      "image": "/fake_path/breeze.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "бриз",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "name": "weather",
+      "transcription": "[ˈweðə]",
+      "nameA": null,
+      "image": "/fake_path/weather.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "погода",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "name": "deep snow",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/deep_snow.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "глубокий снег",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "name": "cloudy",
+      "transcription": "[ˈklaʊdɪ]",
+      "nameA": null,
+      "image": "/fake_path/cloudy.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "облачный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "name": "blinding snowstorm",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/blinding_snowstorm.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "буран",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "name": "cover up",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/cover_up.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "покрывать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Indian summer",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/indian_summer.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "бабье лето",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "name": "heavy grey clouds",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/heavy_grey_clouds.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "огромные темные тучи",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "name": "wind",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/wind.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "ветер",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "name": "favourable",
+      "transcription": "[ˈfeɪv(ə)rəb(ə)l]",
+      "nameA": null,
+      "image": "/fake_path/favourable.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "попутный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "name": "air pressure",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/air_pressure.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "атмосферное давление",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "name": "roll",
+      "transcription": "[rəʊl]",
+      "nameA": null,
+      "image": "/fake_path/roll.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "окутывать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "name": "windy",
+      "transcription": "[ˈwɪndɪ]",
+      "nameA": null,
+      "image": "/fake_path/windy.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "ветреный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "name": "gust of wind",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/gust_of_wind.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "порыв ветра",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "name": "patter",
+      "transcription": "[ˈpætə]",
+      "nameA": null,
+      "image": "/fake_path/patter.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "стук дождя",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "name": "precipitation",
+      "transcription": "[prɪsɪpɪˈteɪʃn]",
+      "nameA": null,
+      "image": "/fake_path/precipitation.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "осадки",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "name": "whirlwind",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/whirlwind.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "вихрь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "name": "gusty",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/gusty.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "порывистый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "name": "drum on",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/drum_on.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "барабанить по",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "name": "muggy",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/muggy.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "влажная",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "name": "deluge",
+      "transcription": "[ˈdeljuːʤ]",
+      "nameA": null,
+      "image": "/fake_path/deluge.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "наводнение",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "name": "barometer",
+      "transcription": "[bəˈrɒmɪtə]",
+      "nameA": null,
+      "image": "/fake_path/barometer.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "барометр",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "name": "open",
+      "transcription": "[ˈəʊpən]",
+      "nameA": null,
+      "image": "/fake_path/open.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "открытое",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "name": "humidity",
+      "transcription": "[hjuːˈmɪdɪtɪ]",
+      "nameA": null,
+      "image": "/fake_path/humidity.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "влажность",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "name": "black ice",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/black_ice.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "наледь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "name": "windless",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/windless.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "безветренный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "name": "fall",
+      "transcription": "[fɔːl]",
+      "nameA": null,
+      "image": "/fake_path/fall.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "падать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "name": "humid",
+      "transcription": "[ˈhjuːmɪd]",
+      "nameA": null,
+      "image": "/fake_path/humid.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "влажный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "name": "sky",
+      "transcription": "[skaɪ]",
+      "nameA": null,
+      "image": "/fake_path/sky.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "небо",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "name": "cloudless",
+      "transcription": "[ˈklaʊdlɪs]",
+      "nameA": null,
+      "image": "/fake_path/cloudless.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "безоблачное",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "name": "scorching",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/scorching.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "палящий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "name": "hot",
+      "transcription": "[hɒt]",
+      "nameA": null,
+      "image": "/fake_path/hot.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "жарко",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "name": "starry",
+      "transcription": "[ˈstɑːrɪ]",
+      "nameA": null,
+      "image": "/fake_path/starry.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "звездное",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "name": "cloud over",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/cloud_over.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "заволакиваться облаками",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "name": "sultry",
+      "transcription": "[ˈsʌltrɪ]",
+      "nameA": null,
+      "image": "/fake_path/sultry.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "знойный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 131,
+      "name": "howl",
+      "transcription": "[haʊl]",
+      "nameA": null,
+      "image": "/fake_path/howl.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "завывать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "name": "drip",
+      "transcription": "[drɪp]",
+      "nameA": null,
+      "image": "/fake_path/drip.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "капать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "name": "howling",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/howling.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "завывающий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "name": "raindrop",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/raindrop.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "капля дождя",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 135,
+      "name": "smoggy",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/smoggy.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "задымленный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "name": "climate",
+      "transcription": "[ˈklaɪmɪt]",
+      "nameA": null,
+      "image": "/fake_path/climate.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "климат",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "name": "sunset",
+      "transcription": "[ˈsʌnset]",
+      "nameA": null,
+      "image": "/fake_path/sunset.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "закат",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 138,
+      "name": "rainfall",
+      "transcription": "[ˈreɪnfɔːl]",
+      "nameA": null,
+      "image": "/fake_path/rainfall.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "количество осадков",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "name": "arid",
+      "transcription": "[ˈærɪd]",
+      "nameA": null,
+      "image": "/fake_path/arid.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "засушливый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 140,
+      "name": "continental",
+      "transcription": "[kɒntɪˈnentl]",
+      "nameA": null,
+      "image": "/fake_path/continental.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "континентальный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "name": "obscure",
+      "transcription": "[əbˈskjʊə]",
+      "nameA": null,
+      "image": "/fake_path/obscure.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "затемнять",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "name": "intermittent",
+      "transcription": "[ɪntəˈmɪtənt]",
+      "nameA": null,
+      "image": "/fake_path/intermittent.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "кратковременный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "name": "steady",
+      "transcription": "[ˈstedɪ]",
+      "nameA": null,
+      "image": "/fake_path/steady.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "затяжной",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "name": "swirl",
+      "transcription": "[swɜːl]",
+      "nameA": null,
+      "image": "/fake_path/swirl.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "кружиться",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "name": "overcast",
+      "transcription": "[ˈəʊvəkɑːst]",
+      "nameA": null,
+      "image": "/fake_path/overcast.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "затянутое облаками",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "name": "slight",
+      "transcription": "[slaɪt]",
+      "nameA": null,
+      "image": "/fake_path/slight.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "легкий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "name": "star",
+      "transcription": "[stɑː]",
+      "nameA": null,
+      "image": "/fake_path/star.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "звезда",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "name": "severe",
+      "transcription": "[sɪˈvɪə]",
+      "nameA": null,
+      "image": "/fake_path/severe.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "суровый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "name": "snowbroth",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/snowbroth.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "снежная слякоть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "name": "dry",
+      "transcription": "[draɪ]",
+      "nameA": null,
+      "image": "/fake_path/dry.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "сухой",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "name": "snowy",
+      "transcription": "[ˈsnəʊɪ]",
+      "nameA": null,
+      "image": "/fake_path/snowy.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "снежный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "name": "melt",
+      "transcription": "[melt]",
+      "nameA": null,
+      "image": "/fake_path/melt.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "таять",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "name": "snow cover",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/snow_cover.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "снежный покров",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "name": "darken",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/darken.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "темнеть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "name": "sunny",
+      "transcription": "[ˈsʌnɪ]",
+      "nameA": null,
+      "image": "/fake_path/sunny.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "солнечный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "name": "dark",
+      "transcription": "[dɑːk]",
+      "nameA": null,
+      "image": "/fake_path/dark.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "темный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "name": "sunlight",
+      "transcription": "[ˈsʌnlaɪt]",
+      "nameA": null,
+      "image": "/fake_path/sunlight.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "солнечный свет",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "name": "smog",
+      "transcription": "[smɒg]",
+      "nameA": null,
+      "image": "/fake_path/smog.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "смог",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "name": "sun",
+      "transcription": "[sʌn]",
+      "nameA": null,
+      "image": "/fake_path/sun.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "солнце",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 160,
+      "name": "snow",
+      "transcription": "[snəʊ]",
+      "nameA": null,
+      "image": "/fake_path/snow.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "снег",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 161,
+      "name": "icicle",
+      "transcription": "[ˈaɪsɪkl]",
+      "nameA": null,
+      "image": "/fake_path/icicle.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "сосулька",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "name": "snow clouds",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/snow_clouds.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "снеговые тучи",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "name": "calm",
+      "transcription": "[kɑːm]",
+      "nameA": null,
+      "image": "/fake_path/calm.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "спокойный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 164,
+      "name": "snowfall",
+      "transcription": "[ˈsnəʊfɔːl]",
+      "nameA": null,
+      "image": "/fake_path/snowfall.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "снегопад",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 165,
+      "name": "subtropical",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/fake_path/subtropical.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "субтропический",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "name": "snowflake",
+      "transcription": "[ˈsnəʊfleɪk]",
+      "nameA": null,
+      "image": "/fake_path/snowflake.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "снежинка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "name": "snowdrift",
+      "transcription": "[ˈsnəʊdrɪft]",
+      "nameA": null,
+      "image": "/fake_path/snowdrift.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "сугроб",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 168,
+      "name": "blizzard",
+      "transcription": "[ˈblɪzəd]",
+      "nameA": null,
+      "image": "/fake_path/blizzard.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "снежная буря",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

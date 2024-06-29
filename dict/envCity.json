@@ -1,0 +1,1470 @@
+{
+  "name": "City",
+  "nameA": null,
+  "img": "/img/dict/home/city.png",
+  "minQuiz": null,
+  "isRandom": true,
+  "tags": [
+    "home",
+    "housing"
+  ],
+  "Translations": [],
+  "items": [
+    {
+      "id": 12,
+      "name": "house",
+      "transcription": "[haʊs]",
+      "nameA": null,
+      "image": "/img/dict/home/house.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "дом, здание",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "building",
+      "transcription": "[ˈbɪldɪŋ]",
+      "nameA": null,
+      "image": "/img/dict/home/building.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "здание, строение",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "multistoried building",
+      "transcription": "[mʌltɪˈstɔːrɪd ˈbɪldɪŋ]",
+      "nameA": null,
+      "image": "/img/dict/home/multistoried_building.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "многоэтажное здание",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "skyscraper",
+      "transcription": "[ˈskaɪskreɪpə]",
+      "nameA": null,
+      "image": "/img/dict/home/skyscraper.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "небоскрёб",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "city",
+      "transcription": "[ˈsɪtɪ]",
+      "nameA": null,
+      "image": "/img/dict/home/city.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "дом, здание",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "town",
+      "transcription": "[taʊn]",
+      "nameA": null,
+      "image": "/img/dict/city/town.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "дом, здание",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "park",
+      "transcription": "[pɑːrk]",
+      "nameA": null,
+      "image": "/img/dict/city/park.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "парк",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "subway",
+      "transcription": "[ˈsʌbweɪ]",
+      "nameA": null,
+      "image": "/img/dict/city/subway.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "метро",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "sidewalk",
+      "transcription": "[ˈsaɪdwɔːk]",
+      "nameA": null,
+      "image": "/img/dict/city/sidewalk.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "тротуар",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "stadium",
+      "transcription": "[ˈsteɪdɪəm]",
+      "nameA": null,
+      "image": "/img/dict/city/stadium.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "стадион",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "toilet",
+      "transcription": "[ˈtɔɪlət]",
+      "nameA": null,
+      "image": "/img/dict/city/toilet.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "туалет",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "bank",
+      "transcription": "[bæŋk]",
+      "nameA": null,
+      "image": "/img/dict/city/bank.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "банк",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "bus station",
+      "transcription": "[bʌs ˈsteɪʃn]",
+      "nameA": null,
+      "image": "/img/dict/city/bus_station.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "автовокзал",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "cafe",
+      "transcription": "[kæˈfeɪ]",
+      "nameA": null,
+      "image": "/img/dict/city/cafe.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "кафе",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "railway station",
+      "transcription": "[ˈreɪlweɪ ˈsteɪʃn]",
+      "nameA": null,
+      "image": "/img/dict/city/railway_station.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "железнодорожный вокзал",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "street",
+      "transcription": "[striːt]",
+      "nameA": null,
+      "image": "/img/dict/city/street.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "улица",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "beach",
+      "transcription": "[biːtʃ]",
+      "nameA": null,
+      "image": "/img/dict/city/beach.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "пляж",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "suburb",
+      "transcription": "[ˈsʌbɜːrb]",
+      "nameA": null,
+      "image": "/img/dict/city/suburb.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "пригород",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "gym",
+      "transcription": "[ˈsʌbɜːrb]",
+      "nameA": null,
+      "image": "/img/dict/city/gym.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "тренажерный зал",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "map",
+      "transcription": "[mæp]",
+      "nameA": null,
+      "image": "/img/dict/city/map.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "карта",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Gas station",
+      "transcription": "[mæp]",
+      "nameA": null,
+      "image": "/img/dict/city/gas_station.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Бензоколонка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "airport",
+      "transcription": "[ˈerpɔːrt]",
+      "nameA": null,
+      "image": "/img/dict/city/airport.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "аэропорт",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "beauty salon",
+      "transcription": "[ˈbjuːtɪ səˈlɑːn]",
+      "nameA": null,
+      "image": "/img/dict/city/airport.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "салон красоты",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "playground",
+      "transcription": "[ˈpleɪɡraʊnd]",
+      "nameA": null,
+      "image": "/img/dict/city/playground.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "игровая детская площадка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "hotel",
+      "transcription": "[həʊˈtel]",
+      "nameA": null,
+      "image": "/img/dict/city/hotel.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "отель, гостиница",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "bus stop",
+      "transcription": "[bʌs stɑːp]",
+      "nameA": null,
+      "image": "/img/dict/city/hotel.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "автобусная остановка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "statue",
+      "transcription": "[ˈstætʃuː]",
+      "nameA": null,
+      "image": "/img/dict/city/statue.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "статуя",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "shopping centre",
+      "transcription": "[ˈʃɑːpɪŋ ˈsentər]",
+      "nameA": null,
+      "image": "/img/dict/city/statue.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "торговый центр",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "postbox",
+      "transcription": "[ˈpəʊstbɑːks]",
+      "nameA": null,
+      "image": "/img/dict/city/postbox.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "почтовый ящик",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "theatre",
+      "transcription": "[ˈθiːətər]",
+      "nameA": null,
+      "image": "/img/dict/city/theatre.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "театр",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "fountain",
+      "transcription": "[ˈfaʊntn]",
+      "nameA": null,
+      "image": "/img/dict/city/fountain.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "фонтан",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "police",
+      "transcription": "[pəˈliːs]",
+      "nameA": null,
+      "image": "/img/dict/city/police.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "полиция",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "car",
+      "transcription": "[kɑːr]",
+      "nameA": null,
+      "image": "/img/dict/city/car.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "машина",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "bus",
+      "transcription": "[bʌs]",
+      "nameA": null,
+      "image": "/img/dict/city/bus.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "машина",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "subway",
+      "transcription": "[ˈmetrəʊ]",
+      "nameA": null,
+      "image": "/img/dict/city/subway.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "метро",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "supermarket",
+      "transcription": "[ˈsuːpərmɑːrkət]",
+      "nameA": null,
+      "image": "/img/dict/city/supermarket.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "супермаркет",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "parking",
+      "transcription": "[ˈpɑrkɪŋ]",
+      "nameA": null,
+      "image": "/img/dict/city/parking.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "парковка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "bench",
+      "transcription": "[bentʃ]",
+      "nameA": null,
+      "image": "/img/dict/city/bench.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "скамья",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "mosque",
+      "transcription": "[mɑːsk]",
+      "nameA": null,
+      "image": "/img/dict/city/mosque.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "мечеть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "synagogue",
+      "transcription": "[ˈsɪnəɡɑːɡ]",
+      "nameA": null,
+      "image": "/img/dict/city/synagogue.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "синагога",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "church",
+      "transcription": "[tʃɜːrtʃ]",
+      "nameA": null,
+      "image": "/img/dict/city/church.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "церковь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "traffic lights",
+      "transcription": "[ˈtræfɪk ˈlaɪts]",
+      "nameA": null,
+      "image": "/img/dict/city/traffic_lights.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "светофор",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "market",
+      "transcription": "[ˈtræfɪk ˈlaɪts]",
+      "nameA": null,
+      "image": "/img/dict/city/market.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "рынок",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "cathedral",
+      "transcription": "[kəˈθiːdrəl]",
+      "nameA": null,
+      "image": "/img/dict/city/cathedral.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "собор",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "restaurant",
+      "transcription": "[ˈrestrɑːnt]",
+      "nameA": null,
+      "image": "/img/dict/city/restaurant.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ресторан",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "circus",
+      "transcription": "[ˈsɜːrkəs]",
+      "nameA": null,
+      "image": "/img/dict/city/circus.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "цирк",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "shoe shop",
+      "transcription": "[ʃuː ʃɑːp]",
+      "nameA": null,
+      "image": "/img/dict/city/shoe_shop.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "магазин обуви",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "bridge",
+      "transcription": "[brɪdʒ]",
+      "nameA": null,
+      "image": "/img/dict/city/bridge.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "мост",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "road",
+      "transcription": "[rəʊd]",
+      "nameA": null,
+      "image": "/img/dict/city/road.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "дорога",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "service centre",
+      "transcription": "[ˈsɜːrvɪs ˈsentər]",
+      "nameA": null,
+      "image": "/img/dict/city/service_centre.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "дом быта",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "shop",
+      "transcription": "[ʃɑːp]",
+      "nameA": null,
+      "image": "/img/dict/city/shop.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "магазин",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "ATM",
+      "transcription": "[ˌeɪ tiː ˈem]",
+      "nameA": null,
+      "image": "/img/dict/city/ATM.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "банкомат",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "pedestrian",
+      "transcription": "[pəˈdestriən]",
+      "nameA": null,
+      "image": "/img/dict/city/pedestrian.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "пешеход",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "cinema",
+      "transcription": "[ˈsɪnəmə]",
+      "nameA": null,
+      "image": "/img/dict/city/cinema.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "кино",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "bookshop",
+      "transcription": "[ˈbʊkʃɑːp]",
+      "nameA": null,
+      "image": "/img/dict/city/bookshop.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "книжный магазин",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "cinema",
+      "transcription": "[ˈsɪnəmə]",
+      "nameA": null,
+      "image": "/img/dict/city/cinema.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "кино",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "crosswalk",
+      "transcription": "[ˈkrɑːs.wɑːk]",
+      "nameA": null,
+      "image": "/img/dict/city/crosswalk.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "пешеходный переход",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "monument",
+      "transcription": "[ˈmɑːnjʊmənt]",
+      "nameA": null,
+      "image": "/img/dict/city/monument.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "памятник",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "flower bed",
+      "transcription": "[ˈflaʊər bed]",
+      "nameA": null,
+      "image": "/img/dict/city/flower_bed.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "клумба",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "jewellery shop",
+      "transcription": "[ˈdʒuːəlrɪ ʃɑːp]",
+      "nameA": null,
+      "image": "/img/dict/city/jewellery_shop.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ювелирный магазин",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "crossroads",
+      "transcription": "[ˈkrɔːsrəʊdz]",
+      "nameA": null,
+      "image": "/img/dict/city/crossroads.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "перекресток",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "cashdesk",
+      "transcription": "[ˈkrɔːsrəʊdz]",
+      "nameA": null,
+      "image": "/img/dict/city/cashdesk.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "касса",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "nightclub",
+      "transcription": "[ˈnaɪtklʌb]",
+      "nameA": null,
+      "image": "/img/dict/city/nightclub.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ночной клуб",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "zoo",
+      "transcription": "[zuː]",
+      "nameA": null,
+      "image": "/img/dict/city/zoo.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "зоопарк",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "traffic",
+      "transcription": "[ˈtræfɪk]",
+      "nameA": null,
+      "image": "/img/dict/city/traffic.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "движение",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "museum",
+      "transcription": "[mjʊˈziːəm]",
+      "nameA": null,
+      "image": "/img/dict/city/museum.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "музей",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "stall",
+      "transcription": "[stɔːl]",
+      "nameA": null,
+      "image": "/img/dict/city/stall.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "киоск",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "shop window",
+      "transcription": "[ʃɑːp ˈwɪndəʊ]",
+      "nameA": null,
+      "image": "/img/dict/city/shop_window.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "витрина",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "square",
+      "transcription": "[skwer]",
+      "nameA": null,
+      "image": "/img/dict/city/square.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "площадь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "traffic jam",
+      "transcription": "[ˈtræfɪk dʒæm]",
+      "nameA": null,
+      "image": "/img/dict/city/traffic_jam.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "пробка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "toyshop",
+      "transcription": "[ˈtɔɪʃɑːp]",
+      "nameA": null,
+      "image": "/img/dict/city/toyshop.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "магазин игрушек",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "post office",
+      "transcription": "[pəʊst ˈɔːfɪs]",
+      "nameA": null,
+      "image": "/img/dict/city/post_office.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "почта",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "bookshop",
+      "transcription": "[ˈbʊkʃɑːp]",
+      "nameA": null,
+      "image": "/img/dict/city/book_shop.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "книжный магазин",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "fire station",
+      "transcription": "[ˈfaɪər ˈsteɪʃn]",
+      "nameA": null,
+      "image": "/img/dict/city/fire_station.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "пожарное депо",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "hairdressing salon",
+      "transcription": "[ˈherdresɪŋ səˈlɑːn]",
+      "nameA": null,
+      "image": "/img/dict/city/hairdressing_salon.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "парикмахерская",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "underpass",
+      "transcription": "[ˈʌndərpæs]",
+      "nameA": null,
+      "image": "/img/dict/city/underpass.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "подземный переход",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "underpass",
+      "transcription": "[ˈʌndərpæs]",
+      "nameA": null,
+      "image": "/img/dict/city/underpass.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "подземный переход",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "road sign",
+      "transcription": "[rəʊd saɪn]",
+      "nameA": null,
+      "image": "/img/dict/city/road_sign.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "дорожный знак",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "arch",
+      "transcription": "[ɑːrtʃ]",
+      "nameA": null,
+      "image": "/img/dict/city/arch.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "арка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "pharmacy",
+      "transcription": "[ˈfɑːrməsɪ]",
+      "nameA": null,
+      "image": "/img/dict/city/pharmacy.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "аптека",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "swimming pool",
+      "transcription": "[ˈfɑːrməsɪ]",
+      "nameA": null,
+      "image": "/img/dict/city/swimming_pool.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "бассейн",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "bakery",
+      "transcription": "[ˈbeɪkərɪ]",
+      "nameA": null,
+      "image": "/img/dict/city/bakery.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "булочная",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "hospital",
+      "transcription": "[ˈhɑːspɪtl]",
+      "nameA": null,
+      "image": "/img/dict/city/hospital.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "больница",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "gate",
+      "transcription": "[ɡeɪt]",
+      "nameA": null,
+      "image": "/img/dict/city/gate.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ворота",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "entrance",
+      "transcription": "[ˈentrəns]",
+      "nameA": null,
+      "image": "/img/dict/city/entrance.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "вход",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "exit",
+      "transcription": "[ˈeksɪt]",
+      "nameA": null,
+      "image": "/img/dict/city/exit.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "выход",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "library",
+      "transcription": "[ˈlaɪbrerɪ]",
+      "nameA": null,
+      "image": "/img/dict/city/library.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "библиотека",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "gallery",
+      "transcription": "[ˈɡælərɪ]",
+      "nameA": null,
+      "image": "/img/dict/city/gallery.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "картинная галерея",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "laundry",
+      "transcription": "[ˈlɔːndrɪ]",
+      "nameA": null,
+      "image": "/img/dict/city/laundry.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "прачечная",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "bar",
+      "transcription": "[bɑːr]",
+      "nameA": null,
+      "image": "/img/dict/city/bar.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "бар",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "vet clinic",
+      "transcription": "[vet ˈklɪnɪk]",
+      "nameA": null,
+      "image": "/img/dict/city/vet_clinic.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ветеринарная клиника",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

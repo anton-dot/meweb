@@ -5,16 +5,27 @@
   "cats": [
     {
       "name": "Welcome",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Старт"           
+        }
+      ],
       "activities": [
         {
           "name": "Alphabet",
           "aType": "UNIVERSAL",
           "img": "/img/dict/abc/abc.png",
-          "rUrl": "abcCards"
-
+          "rUrl": "abcCards",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Алфавит"
+            }
+          ]
         },
         {
-          "name": "1-10",
+          "name": "Numbers 1-10",
           "aType": "UNIVERSAL",
           "img": "/img/dict/numbers/10.png",
           "bgColor": "dodgerblue",
@@ -70,7 +81,7 @@
         },
         {
           "name": "My body",
-          
+
           "aType": "Explore",
           "img": "/img/activity/body_parts.png",
           "rUrl": "bodyExplore"
@@ -237,10 +248,61 @@
           "img": "/img/dict/animals/crab.png",
 
           "bgColor": "dodgerblue",
-          "rUrl": "animalsSeaCards"
+          "rUrl": "animalsSeaCards",
+          "tasks": 0,
 
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Старт"
+            }
+          ]
+        },
+        {
+          "name": "Birds",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/animals/bullfinch.png",
+
+          "bgColor": "dodgerblue",
+          "rUrl": "animalsBirdsCards",
+          "tasks": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Птицы"
+            }
+          ]
+        },
+        {
+          "name": "Insects",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/animals/insects.png",
+
+          "bgColor": "dodgerblue",
+          "rUrl": "animalsInsectsCards",
+          "tasks": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Насекомые"
+            }
+          ]
+        },
+        {
+          "name": "Reptiles",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/animals/gecko.png",
+
+          "bgColor": "dodgerblue",
+          "rUrl": "animalsReptilesCards",
+          "tasks": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Рептилии"
+            }
+          ]
         }
-
       ]
     },
     {
