@@ -265,7 +265,7 @@
 
           "bgColor": "dodgerblue",
           "rUrl": "animalsBirdsCards",
-          "tasks": 0,
+          "tasks": 33,
           "translates": [
             {
               "lang": "ru-RU",
@@ -276,11 +276,11 @@
         {
           "name": "Insects",
           "aType": "UNIVERSAL",
-          "img": "/img/dict/animals/insects.png",
+          "img": "/img/dict/animals/scarab.png",
 
           "bgColor": "dodgerblue",
           "rUrl": "animalsInsectsCards",
-          "tasks": 0,
+          "tasks": 31,
           "translates": [
             {
               "lang": "ru-RU",
@@ -295,7 +295,7 @@
 
           "bgColor": "dodgerblue",
           "rUrl": "animalsReptilesCards",
-          "tasks": 0,
+          "tasks": 14,
           "translates": [
             {
               "lang": "ru-RU",

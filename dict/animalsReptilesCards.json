@@ -207,22 +207,6 @@
     },
     {
       "id": 47,
-      "name": "varan",
-      "transcription": "[ˈværən]",
-      "nameA": null,
-      "image": "/img/dict/animals/varan.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "варан",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 47,
       "name": "gecko",
       "transcription": "[ˈɡekəʊ]",
       "nameA": null,
