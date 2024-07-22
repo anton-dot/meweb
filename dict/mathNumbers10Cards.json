@@ -15,7 +15,7 @@
       "transcription": "[ˈzɪərəʊ]",
       "nameA": null,
       "image": "/img/dict/numbers/0.png",
-      "bg": "white",
+      "bg": "transparent",
       "translates": [
         {
           "lang": "ru-RU",
@@ -30,7 +30,7 @@
       "transcription": "[wʌn]",
       "nameA": null,
       "image": "/img/dict/numbers/1.png",
-      "bg": "white",
+      "bg": "transparent",
       "translates": [
         {
           "lang": "ru-RU",
@@ -45,7 +45,7 @@
       "nameA": null,
       "transcription": "[tuː]",
       "image": "/img/dict/numbers/2.png",
-      "bg": "white",
+      "bg": "transparent",
       "translates": [
         {
           "lang": "ru-RU",
@@ -60,7 +60,7 @@
       "nameA": null,
       "transcription": "[θriː]",
       "image": "/img/dict/numbers/3.png",
-      "bg": "white",
+      "bg": "transparent",
       "translates": [
         {
           "lang": "ru-RU",
@@ -75,7 +75,7 @@
       "transcription": "[fɔː]",
       "nameA": null,
       "image": "/img/dict/numbers/4.png",
-      "bg": "white",
+      "bg": "transparent",
       "translates": [
         {
           "lang": "ru-RU",
@@ -90,7 +90,7 @@
       "transcription": "[faɪv]",
       "nameA": null,
       "image": "/img/dict/numbers/5.png",
-      "bg": "white",
+      "bg": "transparent",
       "translates": [
         {
           "lang": "ru-RU",
@@ -105,7 +105,7 @@
       "transcription": "[sɪks]",
       "nameA": null,
       "image": "/img/dict/numbers/6.png",
-      "bg": "white",
+      "bg": "transparent",
       "translates": [
         {
           "lang": "ru-RU",
@@ -120,7 +120,7 @@
       "transcription": "[sevn]",
       "nameA": null,
       "image": "/img/dict/numbers/7.png",
-      "bg": "white",
+      "bg": "transparent",
       "translates": [
         {
           "lang": "ru-RU",
@@ -135,7 +135,7 @@
       "transcription": "[eɪt]",
       "nameA": null,
       "image": "/img/dict/numbers/8.png",
-      "bg": "white",
+      "bg": "transparent",
       "translates": [
         {
           "lang": "ru-RU",
@@ -150,7 +150,7 @@
       "transcription": "[naɪn]",
       "nameA": null,
       "image": "/img/dict/numbers/9.png",
-      "bg": "white",
+      "bg": "transparent",
       "translates": [
         {
           "lang": "ru-RU",
@@ -165,7 +165,7 @@
       "transcription": "[ten]",
       "nameA": null,
       "image": "/img/dict/numbers/10.png",
-      "bg": "white",
+      "bg": "transparent",
       "translates": [
         {
           "lang": "ru-RU",

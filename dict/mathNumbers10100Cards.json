@@ -19,7 +19,7 @@
       "transcription": "[ten]",
       "nameA": null,
       "image": "/img/dict/numbers/10.png",
-      "bg": "white",
+      "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
@@ -35,7 +35,7 @@
       "transcription": "[ˈtwentɪ]",
       "nameA": null,
       "image": "/img/dict/numbers/20.png",
-      "bg": "white",
+      "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
@@ -51,7 +51,7 @@
       "transcription": "[ˈθɜːrtɪ]",
       "nameA": null,
       "image": "/img/dict/numbers/30.png",
-      "bg": "white",
+      "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
@@ -67,7 +67,7 @@
       "transcription": "[ˈfɔːrtɪ]",
       "nameA": null,
       "image": "/img/dict/numbers/40.png",
-      "bg": "white",
+      "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
@@ -83,7 +83,7 @@
       "transcription": "[ˈfɪftɪ]",
       "nameA": null,
       "image": "/img/dict/numbers/50.png",
-      "bg": "white",
+      "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
@@ -99,7 +99,7 @@
       "transcription": "[ˈsɪkstɪ]",
       "nameA": null,
       "image": "/img/dict/numbers/60.png",
-      "bg": "white",
+      "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
@@ -115,7 +115,7 @@
       "transcription": "[ˈsevntɪ]",
       "nameA": null,
       "image": "/img/dict/numbers/70.png",
-      "bg": "white",
+      "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
@@ -131,7 +131,7 @@
       "transcription": "[ˈeɪtɪ]",
       "nameA": null,
       "image": "/img/dict/numbers/80.png",
-      "bg": "white",
+      "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
@@ -147,7 +147,7 @@
       "transcription": "[ˈnaɪntɪ]",
       "nameA": null,
       "image": "/img/dict/numbers/90.png",
-      "bg": "white",
+      "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
@@ -163,7 +163,7 @@
       "transcription": "[wʌn ˈhʌndrəd]",
       "nameA": null,
       "image": "/img/dict/numbers/100.png",
-      "bg": "white",
+      "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
@@ -179,7 +179,7 @@
       "transcription": "[wʌn ˈθaʊznd]",
       "nameA": null,
       "image": "/img/dict/numbers/1000.png",
-      "bg": "white",
+      "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
@@ -195,7 +195,7 @@
       "transcription": "[wʌn ˈhʌndrəd ˈθaʊznd]",
       "nameA": null,
       "image": "/img/dict/numbers/100000.png",
-      "bg": "white",
+      "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
@@ -211,7 +211,7 @@
       "transcription": "[wʌn ˈmɪljən]",
       "nameA": null,
       "image": "/img/dict/numbers/1000000.png",
-      "bg": "white",
+      "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
