@@ -3,7 +3,9 @@
   "Notes": "Добавлены насекомые, птицы и рептилии",
   "Version": 4,
   "Appversion": "2.1",
-  "AndroidversionNumber": 9,
+  "AndroidversionNumber": 10,
+  "winversionNumber": 12,
+  "webversionNumber": 12,
   "DownloadSizeMB": 63,
   "DownloadLinks": [
 
