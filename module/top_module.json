@@ -13,7 +13,7 @@
           "name": "Top 100",
           "aType": "UNIVERSAL",
           "img": "/img/dict/abc/abc.png",
-          "rUrl": "countable_top_100"
+          "rUrl": "top_countable_top_100"
         }
       ]
     },
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "name": "Level 3",
+      "name": "Exams",
       "activities": [
         {
           "minunlockid": 300,
