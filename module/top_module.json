@@ -1,0 +1,47 @@
+﻿{
+  "name": "Top module",
+  "description": "",
+  "version": "2",
+  "cats": [
+    {
+      "name": "Common",
+      "activities": [
+        {
+          "id": 1,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "Top 100",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/abc/abc.png",
+          "rUrl": "countable_top_100"
+        }
+      ]
+    },
+    {
+      "name": "Exams",
+      "activities": [
+        {
+          "minunlockid": 200,
+          "unlockid": 201,
+          "name": "Alphabet",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/abc/abc.png",
+          "rUrl": "abcCards"
+        }
+      ]
+    },
+    {
+      "name": "Level 3",
+      "activities": [
+        {
+          "minunlockid": 300,
+          "unlockid": 301,
+          "name": "Alphabet",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/abc/abc.png",
+          "rUrl": "abcCards"
+        }
+      ]
+    }
+  ]
+}
