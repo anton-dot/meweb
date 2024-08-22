@@ -4,7 +4,7 @@
   "version": "2",
   "cats": [
     {
-      "name": "Common",
+      "name": "Top words",
       "activities": [
         {
           "id": 1,
@@ -12,13 +12,59 @@
           "unlockid": 1,
           "name": "Top 100",
           "aType": "UNIVERSAL",
-          "img": "/img/dict/abc/abc.png",
+          "img": "/img/dict/top/top_100.png",
           "rUrl": "top_countable_top_100"
+        },
+        {
+          "id": 2,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "Top 1 000",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/top/top_1000.png",
+          "rUrl": "top_countable_top_1000"
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "Top 2 000",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/top/top_2000.png",
+          "rUrl": "top_countable_top_2000"
+        },
+        {
+          "id": 4,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "Top 3 000",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/top/top_3000.png",
+          "rUrl": "top_countable_top_3000"
+        },
+        {
+          "id": 5,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "Top 5 000",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/top/top_5000.png",
+          "rUrl": "top_countable_top_5000"
+        }
+        ,
+        {
+          "id": 6,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "Top 10 000",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/top/top_10000.png",
+          "rUrl": "top_countable_top_10000"
         }
       ]
     },
     {
-      "name": "Exams",
+      "name": "Express",
       "activities": [
         {
           "minunlockid": 200,
@@ -36,10 +82,10 @@
         {
           "minunlockid": 300,
           "unlockid": 301,
-          "name": "Alphabet",
+          "name": "ОГЭ",
           "aType": "UNIVERSAL",
           "img": "/img/dict/abc/abc.png",
-          "rUrl": "abcCards"
+          "rUrl": " "
         }
       ]
     }
