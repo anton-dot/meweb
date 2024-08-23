@@ -66,14 +66,7 @@
     {
       "name": "Express",
       "activities": [
-        {
-          "minunlockid": 200,
-          "unlockid": 201,
-          "name": "Alphabet",
-          "aType": "UNIVERSAL",
-          "img": "/img/dict/abc/abc.png",
-          "rUrl": "abcCards"
-        }
+       
       ]
     },
     {
@@ -82,10 +75,18 @@
         {
           "minunlockid": 300,
           "unlockid": 301,
-          "name": "ОГЭ",
+          "name": "ТОП ОГЭ",
           "aType": "UNIVERSAL",
-          "img": "/img/dict/abc/abc.png",
-          "rUrl": " "
+          "img": "/img/dict/top/top_oge.png",
+          "rUrl": "top_oge"
+        },
+        {
+          "minunlockid": 300,
+          "unlockid": 301,
+          "name": "ТОП ЕГЭ",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/top/topege.jpg",
+          "rUrl": "top_uge"
         }
       ]
     }
