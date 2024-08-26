@@ -4,6 +4,10 @@
   "img": "/img/dict/animals/desert.jpg",
   "minQuiz": null,
   "isRandom": true,
+  "isBlur": true,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 14,
   "tags": null,
   "Translations": [
     {

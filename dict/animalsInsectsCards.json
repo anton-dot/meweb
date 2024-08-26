@@ -4,6 +4,10 @@
   "img": "/img/dict/animals/field.jpg",
   "minQuiz": null,
   "isRandom": true,
+  "isBlur": true,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 31,
   "tags": null,
   "Translations": [
     {
@@ -14,49 +18,65 @@
   ],
   "items": [
     {
-      "id": 4,
-      "name": "insect",
-      "transcription": "[ˈɪnsekt]",
+      "id": 0,
+      "name": "flea",
+      "transcription": "[fliː]",
       "nameA": null,
-      "image": "/img/dict/animals/insect.png",
+      "image": "/img/dict/animals/flea.png",
       "bg": null,
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Насекомое",
+          "name": "блоха",
           "nameA": null
         }
       ]
     },
     {
-      "id": 4,
-      "name": "bee",
-      "transcription": "[biː]",
+      "id": 1,
+      "name": "caterpillar",
+      "transcription": "[ˈkætərpɪlər]",
       "nameA": null,
-      "image": "/img/dict/animals/bee.png",
+      "image": "/img/dict/animals/caterpillar.png",
       "bg": null,
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "пчела",
+          "name": "гусеница",
           "nameA": null
         }
       ]
     },
     {
-      "id": 4,
-      "name": "butterfly",
-      "transcription": "[ˈbʌtərflaɪ]",
+      "id": 2,
+      "name": "mantis",
+      "transcription": "[ˈmæntɪs]",
       "nameA": null,
-      "image": "/img/dict/animals/butterfly.png",
+      "image": "/img/dict/animals/mantis.png",
       "bg": null,
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "бабочка",
+          "name": "богомол",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "millipede",
+      "transcription": "[ˈmɪlɪpiːd]",
+      "nameA": null,
+      "image": "/img/dict/animals/millipede.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "многоножка",
           "nameA": null
         }
       ]
@@ -78,183 +98,7 @@
       ]
     },
     {
-      "id": 4,
-      "name": "ant",
-      "transcription": "[ænt]",
-      "nameA": null,
-      "image": "/img/dict/animals/ant.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "муравей",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "bug",
-      "transcription": "[bʌɡ]",
-      "nameA": null,
-      "image": "/img/dict/animals/bug.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "букашка",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "mosquito",
-      "transcription": "[məˈskiːtəʊ]",
-      "nameA": null,
-      "image": "/img/dict/animals/mosquito.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "комар",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "wasp",
-      "transcription": "[wɑːsp]",
-      "nameA": null,
-      "image": "/img/dict/animals/wasp.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "оса",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "hornet",
-      "transcription": "[ˈhɔːrnɪt]",
-      "nameA": null,
-      "image": "/img/dict/animals/hornet.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "шершень",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "cockroach",
-      "transcription": "[ˈkɑːkrəʊtʃ]",
-      "nameA": null,
-      "image": "/img/dict/animals/cockroach.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "таракан",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "bumblebee",
-      "transcription": "[ˈbʌmblbiː]",
-      "nameA": null,
-      "image": "/img/dict/animals/bumblebee.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "шмель",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "fly",
-      "transcription": "[flaɪ]",
-      "nameA": null,
-      "image": "/img/dict/animals/fly.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "муха",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "dragonfly",
-      "transcription": "[ˈdræɡənflaɪ]",
-      "nameA": null,
-      "image": "/img/dict/animals/dragonfly.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "стрекоза",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "grasshopper",
-      "transcription": "[ˈɡræshɑːpər]",
-      "nameA": null,
-      "image": "/img/dict/animals/grasshopper.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "кузнечек",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "caterpillar",
-      "transcription": "[ˈkætərpɪlər]",
-      "nameA": null,
-      "image": "/img/dict/animals/caterpillar.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "гусеница",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 4,
+      "id": 5,
       "name": "louse",
       "transcription": "[laʊs]",
       "nameA": null,
@@ -270,55 +114,71 @@
       ]
     },
     {
-      "id": 4,
-      "name": "mantis",
-      "transcription": "[ˈmæntɪs]",
+      "id": 6,
+      "name": "butterfly",
+      "transcription": "[ˈbʌtərflaɪ]",
       "nameA": null,
-      "image": "/img/dict/animals/mantis.png",
+      "image": "/img/dict/animals/butterfly.png",
       "bg": null,
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "богомол",
+          "name": "бабочка",
           "nameA": null
         }
       ]
     },
     {
-      "id": 4,
-      "name": "scarab",
-      "transcription": "[ˈskærəb]",
+      "id": 7,
+      "name": "termite",
+      "transcription": "[ˈtɜːrmaɪt]",
       "nameA": null,
-      "image": "/img/dict/animals/scarab.png",
+      "image": "/img/dict/animals/termite.png",
       "bg": null,
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "скарабей",
+          "name": "термит",
           "nameA": null
         }
       ]
     },
     {
-      "id": 4,
-      "name": "spider",
-      "transcription": "[ˈspaɪdər]",
+      "id": 8,
+      "name": "insect",
+      "transcription": "[ˈɪnsekt]",
       "nameA": null,
-      "image": "/img/dict/animals/spider.png",
+      "image": "/img/dict/animals/insect.png",
       "bg": null,
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "паук",
+          "name": "Насекомое",
           "nameA": null
         }
       ]
     },
     {
-      "id": 4,
+      "id": 9,
+      "name": "ant",
+      "transcription": "[ænt]",
+      "nameA": null,
+      "image": "/img/dict/animals/ant.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "муравей",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 10,
       "name": "scorpion",
       "transcription": "[ˈskɔːrpɪən]",
       "nameA": null,
@@ -334,87 +194,87 @@
       ]
     },
     {
-      "id": 4,
-      "name": "millipede",
-      "transcription": "[ˈmɪlɪpiːd]",
+      "id": 11,
+      "name": "mosquito",
+      "transcription": "[məˈskiːtəʊ]",
       "nameA": null,
-      "image": "/img/dict/animals/millipede.png",
+      "image": "/img/dict/animals/mosquito.png",
       "bg": null,
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "многоножка",
+          "name": "комар",
           "nameA": null
         }
       ]
     },
     {
-      "id": 4,
-      "name": "worm",
-      "transcription": "[wɜːrm]",
+      "id": 12,
+      "name": "wasp",
+      "transcription": "[wɑːsp]",
       "nameA": null,
-      "image": "/img/dict/animals/worm.png",
+      "image": "/img/dict/animals/wasp.png",
       "bg": null,
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "червяк",
+          "name": "оса",
           "nameA": null
         }
       ]
     },
     {
-      "id": 4,
-      "name": "snail",
-      "transcription": "[sneɪl]",
+      "id": 13,
+      "name": "grasshopper",
+      "transcription": "[ˈɡræshɑːpər]",
       "nameA": null,
-      "image": "/img/dict/animals/snail.png",
+      "image": "/img/dict/animals/grasshopper.png",
       "bg": null,
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "улитка",
+          "name": "кузнечек",
           "nameA": null
         }
       ]
     },
     {
-      "id": 4,
-      "name": "cricket",
-      "transcription": "[ˈkrɪkɪt]",
+      "id": 14,
+      "name": "bee",
+      "transcription": "[biː]",
       "nameA": null,
-      "image": "/img/dict/animals/cricket.png",
+      "image": "/img/dict/animals/bee.png",
       "bg": null,
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "сверчок",
+          "name": "пчела",
           "nameA": null
         }
       ]
     },
     {
-      "id": 4,
-      "name": "beetle",
-      "transcription": "[ˈbiːtl]",
+      "id": 15,
+      "name": "dragonfly",
+      "transcription": "[ˈdræɡənflaɪ]",
       "nameA": null,
-      "image": "/img/dict/animals/beetle.png",
+      "image": "/img/dict/animals/dragonfly.png",
       "bg": null,
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "жук",
+          "name": "стрекоза",
           "nameA": null
         }
       ]
     },
     {
-      "id": 4,
+      "id": 16,
       "name": "mite",
       "transcription": "[maɪt]",
       "nameA": null,
@@ -430,23 +290,183 @@
       ]
     },
     {
-      "id": 4,
-      "name": "moth",
-      "transcription": "[mɔːθ]",
+      "id": 17,
+      "name": "worm",
+      "transcription": "[wɜːrm]",
       "nameA": null,
-      "image": "/img/dict/animals/moth.png",
+      "image": "/img/dict/animals/worm.png",
       "bg": null,
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "моль",
+          "name": "червяк",
           "nameA": null
         }
       ]
     },
     {
-      "id": 4,
+      "id": 18,
+      "name": "hornet",
+      "transcription": "[ˈhɔːrnɪt]",
+      "nameA": null,
+      "image": "/img/dict/animals/hornet.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "шершень",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "beetle",
+      "transcription": "[ˈbiːtl]",
+      "nameA": null,
+      "image": "/img/dict/animals/beetle.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "жук",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "cricket",
+      "transcription": "[ˈkrɪkɪt]",
+      "nameA": null,
+      "image": "/img/dict/animals/cricket.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "сверчок",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "bug",
+      "transcription": "[bʌɡ]",
+      "nameA": null,
+      "image": "/img/dict/animals/bug.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "букашка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "snail",
+      "transcription": "[sneɪl]",
+      "nameA": null,
+      "image": "/img/dict/animals/snail.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "улитка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "fly",
+      "transcription": "[flaɪ]",
+      "nameA": null,
+      "image": "/img/dict/animals/fly.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "муха",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "bumblebee",
+      "transcription": "[ˈbʌmblbiː]",
+      "nameA": null,
+      "image": "/img/dict/animals/bumblebee.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "шмель",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "scarab",
+      "transcription": "[ˈskærəb]",
+      "nameA": null,
+      "image": "/img/dict/animals/scarab.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "скарабей",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "spider",
+      "transcription": "[ˈspaɪdər]",
+      "nameA": null,
+      "image": "/img/dict/animals/spider.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "паук",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "cockroach",
+      "transcription": "[ˈkɑːkrəʊtʃ]",
+      "nameA": null,
+      "image": "/img/dict/animals/cockroach.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "таракан",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 28,
       "name": "firefly",
       "transcription": "[ˈfaɪərflaɪ]",
       "nameA": null,
@@ -462,23 +482,23 @@
       ]
     },
     {
-      "id": 4,
-      "name": "flea",
-      "transcription": "[fliː]",
+      "id": 29,
+      "name": "moth",
+      "transcription": "[mɔːθ]",
       "nameA": null,
-      "image": "/img/dict/animals/flea.png",
+      "image": "/img/dict/animals/moth.png",
       "bg": null,
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "блоха",
+          "name": "моль",
           "nameA": null
         }
       ]
     },
     {
-      "id": 4,
+      "id": 30,
       "name": "maggot",
       "transcription": "[ˈmæɡət]",
       "nameA": null,
@@ -489,22 +509,6 @@
         {
           "lang": "ru-RU",
           "name": "личинка",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "name": "termite",
-      "transcription": "[ˈtɜːrmaɪt]",
-      "nameA": null,
-      "image": "/img/dict/animals/termite.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "термит",
           "nameA": null
         }
       ]

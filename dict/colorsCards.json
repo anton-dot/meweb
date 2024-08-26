@@ -1,7 +1,14 @@
 {
   "name": "Colors",
   "nameA": null,
-  "transcription": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": true,
+  "isBlur": true,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 13,
+  "tags": null,
   "Translations": [
     {
       "lang": "ru-RU",
@@ -17,6 +24,7 @@
       "nameA": null,
       "image": null,
       "bg": "black",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -33,10 +41,11 @@
     {
       "id": 1,
       "name": "White",
-      "nameA": null,
       "transcription": "[waɪt]",
+      "nameA": null,
       "image": null,
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -57,6 +66,7 @@
       "nameA": null,
       "image": null,
       "bg": "red",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -72,6 +82,7 @@
       "nameA": null,
       "image": null,
       "bg": "blue",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -87,6 +98,7 @@
       "nameA": null,
       "image": null,
       "bg": "Yellow",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -98,10 +110,11 @@
     {
       "id": 5,
       "name": "green",
-      "nameA": null,
       "transcription": "[griːn]",
+      "nameA": null,
       "image": null,
       "bg": "green",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -113,10 +126,11 @@
     {
       "id": 6,
       "name": "purple",
-      "nameA": null,
       "transcription": "[pɜːpl]",
+      "nameA": null,
       "image": null,
       "bg": "purple",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -132,6 +146,7 @@
       "nameA": null,
       "image": null,
       "bg": "DeepPink",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -143,10 +158,11 @@
     {
       "id": 8,
       "name": "orange",
-      "nameA": null,
       "transcription": "[ˈɒrɪnʤ]",
+      "nameA": null,
       "image": null,
       "bg": "orange",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -158,10 +174,11 @@
     {
       "id": 9,
       "name": "brown",
-      "nameA": null,
       "transcription": "[braʊn]",
+      "nameA": null,
       "image": null,
       "bg": "SaddleBrown",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -173,10 +190,11 @@
     {
       "id": 10,
       "name": "gray",
-      "nameA": null,
       "transcription": "[greɪ]",
+      "nameA": null,
       "image": null,
       "bg": "gray",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -192,6 +210,7 @@
       "nameA": null,
       "image": null,
       "bg": "gold",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -207,6 +226,7 @@
       "nameA": null,
       "image": null,
       "bg": "silver",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",

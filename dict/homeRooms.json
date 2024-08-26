@@ -3,6 +3,11 @@
   "nameA": null,
   "img": null,
   "minQuiz": null,
+  "isRandom": true,
+  "isBlur": true,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 28,
   "tags": [
     "home",
     "room"

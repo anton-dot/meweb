@@ -3,6 +3,11 @@
   "nameA": null,
   "img": "/img/dict/animals/house.png",
   "minQuiz": null,
+  "isRandom": true,
+  "isBlur": true,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 25,
   "tags": null,
   "Translations": [
     {
@@ -12,70 +17,6 @@
     }
   ],
   "items": [
-    {
-      "id": 0,
-      "name": "Pet",
-      "transcription": "[pet]",
-      "nameA": null,
-      "image": "/img/dict/animals/pet.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "домашнее животное",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Adoption",
-      "transcription": "[əˈdɑːpʃn]",
-      "nameA": null,
-      "image": "/img/dict/animals/adoption.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Взять из приюта, завести животное",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Aquarium",
-      "transcription": "[əˈkwerɪəm]",
-      "nameA": null,
-      "image": "/img/dict/animals/aquarium.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Аквариум",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Shelter",
-      "transcription": "[ˈʃeltər]",
-      "nameA": null,
-      "image": "/img/dict/animals/shelter.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Приют, убежище",
-          "nameA": null
-        }
-      ]
-    },
     {
       "id": 0,
       "name": "Bone",
@@ -93,39 +34,7 @@
       ]
     },
     {
-      "id": 0,
-      "name": "Cage",
-      "transcription": "[keɪdʒ]",
-      "nameA": null,
-      "image": "/img/dict/animals/cage.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Клетка",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Cat",
-      "transcription": "[kæt]",
-      "nameA": null,
-      "image": "/img/dict/animals/cat.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Кошка",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
+      "id": 1,
       "name": "Collar",
       "transcription": "[ˈkɑːlər]",
       "nameA": null,
@@ -141,247 +50,23 @@
       ]
     },
     {
-      "id": 0,
-      "name": "Dog",
-      "transcription": "[dɔːɡ]",
+      "id": 2,
+      "name": "Cage",
+      "transcription": "[keɪdʒ]",
       "nameA": null,
-      "image": "/img/dict/animals/dog.png",
+      "image": "/img/dict/animals/cage.png",
       "bg": null,
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Собака",
+          "name": "Клетка",
           "nameA": null
         }
       ]
     },
     {
-      "id": 0,
-      "name": "Dog House",
-      "transcription": "[dɔːɡ haʊs]",
-      "nameA": null,
-      "image": "/img/dict/animals/doghouse.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Конура",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Fish",
-      "transcription": "[fɪʃ]",
-      "nameA": null,
-      "image": "/img/dict/animals/fish.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Рыба",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Fish Bowl",
-      "transcription": "[fɪʃ bəʊl]",
-      "nameA": null,
-      "image": "/img/dict/animals/fishbowl.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Ваза для рыб",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Gerbil",
-      "transcription": "[ˈdʒɜːrbɪl]",
-      "nameA": null,
-      "image": "/img/dict/animals/gerbil.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Крыса",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Goldfish",
-      "transcription": "[ˈɡəʊldfɪʃ]",
-      "nameA": null,
-      "image": "/img/dict/animals/goldfish.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Золотая рыбка",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Guinea Pig",
-      "transcription": "[ˈɡɪnɪ pɪɡ]",
-      "nameA": null,
-      "image": "/img/dict/animals/guineapig.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Морская свинка",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Hamster",
-      "transcription": "[ˈhæmstər]",
-      "nameA": null,
-      "image": "/img/dict/animals/hamster.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Хомяк",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Kitten",
-      "transcription": "[ˈkɪtn]",
-      "nameA": null,
-      "image": "/img/dict/animals/kitten.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Котенок",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Leash",
-      "transcription": "[liːʃ]",
-      "nameA": null,
-      "image": "/img/dict/animals/leash.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Поводок",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Budgie",
-      "transcription": "[ˈbʌdʒɪ]",
-      "nameA": null,
-      "image": "/img/dict/animals/budgie.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Волнистый попугайчик",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Parrot",
-      "transcription": "[ˈpærət]",
-      "nameA": null,
-      "image": "/img/dict/animals/parrot.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Попугай",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Pet Store",
-      "transcription": "[pet stɔːr]",
-      "nameA": null,
-      "image": "/img/dict/animals/petstore.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Зоомагазин",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Puppy",
-      "transcription": "[ˈpʌpɪ]",
-      "nameA": null,
-      "image": "/img/dict/animals/puppy.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Щенок",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Rabbit",
-      "transcription": "[ˈræbɪt]",
-      "nameA": null,
-      "image": "/img/dict/animals/rabbit.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Кролик",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
+      "id": 3,
       "name": "Turtle",
       "transcription": "[ˈtɜːrtl]",
       "nameA": null,
@@ -397,7 +82,39 @@
       ]
     },
     {
-      "id": 0,
+      "id": 4,
+      "name": "Aquarium",
+      "transcription": "[əˈkwerɪəm]",
+      "nameA": null,
+      "image": "/img/dict/animals/aquarium.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Аквариум",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Fish",
+      "transcription": "[fɪʃ]",
+      "nameA": null,
+      "image": "/img/dict/animals/fish.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Рыба",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 6,
       "name": "Snake",
       "transcription": "[sneɪk]",
       "nameA": null,
@@ -408,6 +125,294 @@
         {
           "lang": "ru-RU",
           "name": "Змея",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Gerbil",
+      "transcription": "[ˈdʒɜːrbɪl]",
+      "nameA": null,
+      "image": "/img/dict/animals/gerbil.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Крыса",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Puppy",
+      "transcription": "[ˈpʌpɪ]",
+      "nameA": null,
+      "image": "/img/dict/animals/puppy.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Щенок",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Kitten",
+      "transcription": "[ˈkɪtn]",
+      "nameA": null,
+      "image": "/img/dict/animals/kitten.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Котенок",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Hamster",
+      "transcription": "[ˈhæmstər]",
+      "nameA": null,
+      "image": "/img/dict/animals/hamster.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хомяк",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Goldfish",
+      "transcription": "[ˈɡəʊldfɪʃ]",
+      "nameA": null,
+      "image": "/img/dict/animals/goldfish.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Золотая рыбка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Guinea Pig",
+      "transcription": "[ˈɡɪnɪ pɪɡ]",
+      "nameA": null,
+      "image": "/img/dict/animals/guineapig.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Морская свинка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Adoption",
+      "transcription": "[əˈdɑːpʃn]",
+      "nameA": null,
+      "image": "/img/dict/animals/adoption.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Взять из приюта, завести животное",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Dog",
+      "transcription": "[dɔːɡ]",
+      "nameA": null,
+      "image": "/img/dict/animals/dog.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Собака",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Pet Store",
+      "transcription": "[pet stɔːr]",
+      "nameA": null,
+      "image": "/img/dict/animals/petstore.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Зоомагазин",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Fish Bowl",
+      "transcription": "[fɪʃ bəʊl]",
+      "nameA": null,
+      "image": "/img/dict/animals/fishbowl.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ваза для рыб",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Shelter",
+      "transcription": "[ˈʃeltər]",
+      "nameA": null,
+      "image": "/img/dict/animals/shelter.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Приют, убежище",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Leash",
+      "transcription": "[liːʃ]",
+      "nameA": null,
+      "image": "/img/dict/animals/leash.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Поводок",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Rabbit",
+      "transcription": "[ˈræbɪt]",
+      "nameA": null,
+      "image": "/img/dict/animals/rabbit.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кролик",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Parrot",
+      "transcription": "[ˈpærət]",
+      "nameA": null,
+      "image": "/img/dict/animals/parrot.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Попугай",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Cat",
+      "transcription": "[kæt]",
+      "nameA": null,
+      "image": "/img/dict/animals/cat.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кошка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Budgie",
+      "transcription": "[ˈbʌdʒɪ]",
+      "nameA": null,
+      "image": "/img/dict/animals/budgie.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Волнистый попугайчик",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Dog House",
+      "transcription": "[dɔːɡ haʊs]",
+      "nameA": null,
+      "image": "/img/dict/animals/doghouse.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Конура",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Pet",
+      "transcription": "[pet]",
+      "nameA": null,
+      "image": "/img/dict/animals/pet.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "домашнее животное",
           "nameA": null
         }
       ]

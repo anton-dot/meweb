@@ -1,6 +1,14 @@
 {
-  "name": "Math",
+  "name": "Plus to 10",
   "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": true,
+  "isBlur": true,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 66,
+  "tags": null,
   "Translations": [
     {
       "lang": "ru-RU",
@@ -11,594 +19,663 @@
   "items": [
     {
       "id": 0,
-      "name": "1+1",
+      "name": "1\u002B1",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "2",
-      "bg": "white",
       "translates": []
     },
     {
       "id": 1,
-      "name": "1+2",
+      "name": "1\u002B2",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "3",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 2,
-      "name": "1+3",
+      "name": "1\u002B3",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "4",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 3,
-      "name": "1+4",
+      "name": "1\u002B4",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "5",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 4,
-      "name": "1+5",
+      "name": "1\u002B5",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "6",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 5,
-      "name": "1+6",
+      "name": "1\u002B6",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "7",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 6,
-      "name": "1+7",
+      "name": "1\u002B7",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "8",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 7,
-      "name": "1+8",
+      "name": "1\u002B8",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "9",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 8,
-      "name": "1+9",
+      "name": "1\u002B9",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "10",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 9,
-      "name": "2+1",
+      "name": "2\u002B1",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "3",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 10,
-      "name": "2+2",
+      "name": "2\u002B2",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "4",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 11,
-      "name": "2+3",
+      "name": "2\u002B3",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "5",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 12,
-      "name": "2+4",
+      "name": "2\u002B4",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "6",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 13,
-      "name": "2+5",
+      "name": "2\u002B5",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "7",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 14,
-      "name": "2+6",
+      "name": "2\u002B6",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "8",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 15,
-      "name": "2+7",
+      "name": "2\u002B7",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "9",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 16,
-      "name": "2+8",
+      "name": "2\u002B8",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "10",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 17,
-      "name": "3+1",
+      "name": "3\u002B1",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "4",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 18,
-      "name": "3+2",
+      "name": "3\u002B2",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "5",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 19,
-      "name": "3+3",
+      "name": "3\u002B3",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "6",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 20,
-      "name": "3+4",
+      "name": "3\u002B4",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "7",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 21,
-      "name": "3+5",
+      "name": "3\u002B5",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "8",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 22,
-      "name": "3+6",
+      "name": "3\u002B6",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "9",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 23,
-      "name": "3+7",
+      "name": "3\u002B7",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "10",
-      "bg": "white",
       "translates": []
-    }
-    ,
+    },
     {
       "id": 24,
-      "name": "4+1",
+      "name": "4\u002B1",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "5",
-      "bg": "white",
       "translates": []
-    }  
-    ,
+    },
     {
       "id": 25,
-      "name": "4+2",
+      "name": "4\u002B2",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "6",
-      "bg": "white",
       "translates": []
-    }  
-    ,
+    },
     {
       "id": 26,
-      "name": "4+3",
+      "name": "4\u002B3",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "7",
-      "bg": "white",
       "translates": []
-    }  
-    ,
+    },
     {
       "id": 27,
-      "name": "4+4",
+      "name": "4\u002B4",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "8",
-      "bg": "white",
       "translates": []
-    }  
-    ,
+    },
     {
       "id": 28,
-      "name": "4+5",
+      "name": "4\u002B5",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "9",
-      "bg": "white",
       "translates": []
-    }  
-    ,
+    },
     {
       "id": 29,
-      "name": "4+6",
+      "name": "4\u002B6",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "10",
-      "bg": "white",
       "translates": []
-    }  
-    ,
+    },
     {
       "id": 30,
-      "name": "5+1",
+      "name": "5\u002B1",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "6",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 31,
-      "name": "5+2",
+      "name": "5\u002B2",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "7",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 32,
-      "name": "5+3",
+      "name": "5\u002B3",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "8",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 33,
-      "name": "5+4",
+      "name": "5\u002B4",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "9",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 34,
-      "name": "5+5",
+      "name": "5\u002B5",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "10",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 35,
-      "name": "6+1",
+      "name": "6\u002B1",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "7",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 36,
-      "name": "6+2",
+      "name": "6\u002B2",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "8",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 37,
-      "name": "6+3",
+      "name": "6\u002B3",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "9",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 38,
-      "name": "6+4",
+      "name": "6\u002B4",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "10",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 39,
-      "name": "7+1",
+      "name": "7\u002B1",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "8",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 40,
-      "name": "7+2",
+      "name": "7\u002B2",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "9",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 41,
-      "name": "7+3",
+      "name": "7\u002B3",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "10",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 42,
-      "name": "8+1",
+      "name": "8\u002B1",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "9",
-      "bg": "white",
       "translates": []
-    } ,
+    },
     {
       "id": 43,
-      "name": "8+2",
+      "name": "8\u002B2",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "10",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 44,
-      "name": "9+1",
+      "name": "9\u002B1",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "10",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 44,
-      "name": "0+0",
+      "name": "0\u002B0",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "0",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 45,
-      "name": "0+1",
+      "name": "0\u002B1",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "1",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 46,
-      "name": "0+2",
+      "name": "0\u002B2",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "2",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 47,
-      "name": "0+3",
+      "name": "0\u002B3",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "3",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 48,
-      "name": "0+4",
+      "name": "0\u002B4",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "4",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 49,
-      "name": "0+5",
+      "name": "0\u002B5",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "5",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 50,
-      "name": "0+6",
+      "name": "0\u002B6",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "6",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 51,
-      "name": "0+7",
+      "name": "0\u002B7",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "7",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 52,
-      "name": "0+8",
+      "name": "0\u002B8",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "8",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 53,
-      "name": "0+9",
+      "name": "0\u002B9",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "9",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 54,
-      "name": "0+10",
+      "name": "0\u002B10",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "10",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 55,
-      "name": "1+0",
+      "name": "1\u002B0",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "1",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 56,
-      "name": "2+0",
+      "name": "2\u002B0",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "2",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 57,
-      "name": "3+0",
+      "name": "3\u002B0",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "3",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 58,
-      "name": "4+0",
+      "name": "4\u002B0",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "4",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 59,
-      "name": "5+0",
+      "name": "5\u002B0",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "5",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
-      "id":60,
-      "name": "6+0",
+      "id": 60,
+      "name": "6\u002B0",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "6",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 61,
-      "name": "7+0",
+      "name": "7\u002B0",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "7",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
-      "id":62,
-      "name": "8+0",
+      "id": 62,
+      "name": "8\u002B0",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "8",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 63,
-      "name": "9+0",
+      "name": "9\u002B0",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "9",
-      "bg": "white",
       "translates": []
-    } 
-    ,
+    },
     {
       "id": 64,
-      "name": "10+0",
+      "name": "10\u002B0",
+      "transcription": null,
       "nameA": null,
+      "image": null,
+      "bg": "",
       "nameAnswer": "10",
-      "bg": "white",
       "translates": []
-    } 
+    }
   ]
 }

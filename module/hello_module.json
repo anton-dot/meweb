@@ -116,11 +116,10 @@
 
         },
         {
-          "name": "Kitchen",
-          "fordev": true,
+          "name": "Kitchen",           
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/kitchen.png",
-          "rUrl": "no"
+          "rUrl": "homeKitchen"
 
         },
         {

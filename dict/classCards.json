@@ -3,6 +3,11 @@
   "nameA": null,
   "img": null,
   "minQuiz": null,
+  "isRandom": true,
+  "isBlur": true,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 34,
   "tags": null,
   "Translations": [
     {
@@ -159,7 +164,7 @@
     {
       "id": 0,
       "name": "class",
-      "transcription": "[ˈblækbɔːrd]",
+      "transcription": "[klæs]",
       "nameA": null,
       "image": "/img/dict/classroom/class.png",
       "bg": "",

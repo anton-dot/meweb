@@ -14,7 +14,7 @@
   "items": [
     {
       "name": "Fill the gaps 1 to 3",
-      "taskMask": "1 {txt:2} 3",
+      "taskMask": "1, {txt:2}, 3",
       "nameA": null,
       "image": null,
       "bg": null,
@@ -47,7 +47,7 @@
     },
     {
       "name": "Fill the gaps 1 to 3",
-      "taskMask": "1 2 {txt:3}",
+      "taskMask": "1, 2, {txt:3}",
       "nameA": null,
       "image": null,
       "bg": null,
@@ -80,7 +80,7 @@
     },
     {
       "name": "Fill the gaps 3 to 1",
-      "taskMask": "3 2 {txt:1}",
+      "taskMask": "3, 2, {txt:1}",
       "nameA": null,
       "image": null,
       "bg": null,
@@ -113,7 +113,7 @@
     },
     {
       "name": "Fill the gaps 1 to 5",
-      "taskMask": "1 2 {txt:3} 4 {txt:5} ",
+      "taskMask": "1, 2, {txt:3}, 4, {txt:5} ",
       "nameA": null,
       "image": null,
       "bg": null,
@@ -146,7 +146,7 @@
     },
     {
       "name": "Fill the gaps 5 to 1",
-      "taskMask": "5 {txt:4} 3 {txt:2} 1",
+      "taskMask": "5, {txt:4}, 3, {txt:2}, 1",
       "nameA": null,
       "image": null,
       "bg": null,
@@ -179,7 +179,7 @@
     },
     {
       "name": "Fill the gaps 0 to 7",
-      "taskMask": "0 {txt:1} 2 3 {txt:4} 5 6 {txt:7} ",
+      "taskMask": "0, {txt:1}, 2, 3, {txt:4}, 5, 6, {txt:7} ",
       "nameA": null,
       "image": null,
       "bg": null,
@@ -212,7 +212,7 @@
     },
     {
       "name": "Fill the gaps 7 to 0",
-      "taskMask": "7 {txt:6} 5 {txt:4} 3 2 {txt:1}   ",
+      "taskMask": "7, {txt:6}, 5, {txt:4}, 3, 2, {txt:1}   ",
       "nameA": null,
       "image": null,
       "bg": null,
@@ -245,7 +245,7 @@
     },
     {
       "name": "Fill the gaps 0 to 10",
-      "taskMask": "0 {txt:1} 2 3 {txt:4} 5 6 {txt:7} 8  {txt:9} 10",
+      "taskMask": "0, {txt:1}, 2, 3, {txt:4}, 5, 6, {txt:7}, 8, {txt:9}, 10",
       "nameA": null,
       "image": null,
       "bg": null,
@@ -278,7 +278,7 @@
     },
     {
       "name": "Fill the gaps 10 to 0",
-      "taskMask": "10 {txt:9} {txt:8} 7 {txt:6} 5 4 {txt:3} 2 {txt:1} 0",
+      "taskMask": "10, {txt:9}, {txt:8}, 7, {txt:6}, 5, 4, {txt:3}, 2, {txt:1}, 0",
       "nameA": null,
       "image": null,
       "bg": null,

@@ -3,6 +3,11 @@
   "nameA": null,
   "img": "/img/dict/animals/zoo.png",
   "minQuiz": null,
+  "isRandom": true,
+  "isBlur": true,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 51,
   "tags": null,
   "Translations": [
     {

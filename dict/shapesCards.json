@@ -4,6 +4,10 @@
   "img": null,
   "minQuiz": 15,
   "isRandom": true,
+  "isBlur": true,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 20,
   "tags": null,
   "Translations": [
     {

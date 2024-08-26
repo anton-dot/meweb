@@ -1,6 +1,14 @@
 {
   "name": "Toys",
   "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": true,
+  "isBlur": true,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 14,
+  "tags": null,
   "Translations": [
     {
       "lang": "ru-RU",
@@ -12,9 +20,11 @@
     {
       "id": 0,
       "name": "Doll",
+      "transcription": null,
       "nameA": null,
       "image": "/img/dict/toys/doll.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -26,9 +36,11 @@
     {
       "id": 1,
       "name": "Ball",
+      "transcription": null,
       "nameA": null,
       "image": "/img/dict/toys/ball.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -40,9 +52,11 @@
     {
       "id": 0,
       "name": "Jumprope",
+      "transcription": null,
       "nameA": null,
       "image": "/img/dict/toys/jumprope.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -54,9 +68,11 @@
     {
       "id": 0,
       "name": "Plane",
+      "transcription": null,
       "nameA": null,
       "image": "/img/dict/toys/plane.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -68,9 +84,11 @@
     {
       "id": 0,
       "name": "Teddy bear",
+      "transcription": null,
       "nameA": null,
       "image": "/img/dict/toys/teddybear.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -82,9 +100,11 @@
     {
       "id": 0,
       "name": "Blocks",
+      "transcription": null,
       "nameA": null,
       "image": "/img/dict/toys/blocks.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -96,9 +116,11 @@
     {
       "id": 0,
       "name": "Dinosaur",
+      "transcription": null,
       "nameA": null,
       "image": "/img/dict/toys/dinosaur.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -110,9 +132,11 @@
     {
       "id": 0,
       "name": "Train",
+      "transcription": null,
       "nameA": null,
       "image": "/img/dict/toys/train.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -124,9 +148,11 @@
     {
       "id": 0,
       "name": "Robot",
+      "transcription": null,
       "nameA": null,
       "image": "/img/dict/toys/robot.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -138,9 +164,11 @@
     {
       "id": 0,
       "name": "Car",
+      "transcription": null,
       "nameA": null,
       "image": "/img/dict/toys/car.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -152,9 +180,11 @@
     {
       "id": 0,
       "name": "Kite",
+      "transcription": null,
       "nameA": null,
       "image": "/img/dict/toys/kite.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -163,13 +193,14 @@
         }
       ]
     },
-     
     {
       "id": 0,
       "name": "Puzzle",
+      "transcription": null,
       "nameA": null,
       "image": "/img/dict/toys/puzzle.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -181,9 +212,11 @@
     {
       "id": 0,
       "name": "drum",
+      "transcription": null,
       "nameA": null,
       "image": "/img/dict/toys/drum.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
@@ -195,9 +228,11 @@
     {
       "id": 0,
       "name": "Scooter",
+      "transcription": null,
       "nameA": null,
       "image": "/img/dict/toys/scooter.png",
       "bg": "white",
+      "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",

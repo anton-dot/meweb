@@ -3,6 +3,11 @@
   "nameA": null,
   "img": "/img/dict/math/school.png",
   "minQuiz": null,
+  "isRandom": true,
+  "isBlur": true,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 36,
   "tags": null,
   "Translations": [
     {
