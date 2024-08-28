@@ -8,7 +8,7 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Старт"           
+          "name": "Старт"
         }
       ],
       "activities": [
@@ -17,6 +17,7 @@
           "aType": "UNIVERSAL",
           "img": "/img/dict/abc/abc.png",
           "rUrl": "abcCards",
+          "numAct": 27,
           "translates": [
             {
               "lang": "ru-RU",
@@ -29,138 +30,126 @@
           "aType": "UNIVERSAL",
           "img": "/img/dict/numbers/10.png",
           "bgColor": "dodgerblue",
+          "numAct": 11,
           "rUrl": "mathNumbers10Cards"
-
         },
         {
           "name": "Colors",
           "aType": "UNIVERSAL",
           "img": "/img/activity/palette.png",
+          "numAct": 13,
           "rUrl": "colorsCards"
-
         },
         {
           "name": "Shapes",
           "aType": "UNIVERSAL",
           "img": "/img/activity/shapes.png",
+          "numAct": 20,
           "rUrl": "shapesCards"
-
         },
         {
           "name": "Toys",
           "aType": "UNIVERSAL",
           "img": "/img/dict/toys/toys.png",
+          "numAct": 14,
           "rUrl": "toysCards"
-
         },
-
         {
           "name": "Family",
           "aType": "UNIVERSAL",
           "img": "/img/dict/family/family.png",
+          "numAct": 11,
           "rUrl": "familyCards"
-
         },
-
         {
           "name": "Head",
-
           "aType": "UNIVERSAL",
           "img": "/img/dict/body/head.png",
+          "numAct": 15,
           "rUrl": "headCards"
-
         },
-
         {
           "name": "Body",
-
+          "numAct": 15,
           "aType": "UNIVERSAL",
           "img": "/img/dict/body/body.png",
           "rUrl": "bodyCards"
-
         },
         {
           "name": "My body",
-
           "aType": "Explore",
           "img": "/img/activity/body_parts.png",
           "rUrl": "bodyExplore"
-
         }
-
       ]
     },
     {
       "name": "Playground",
-      "activities": [
-
-
-
-      ]
+      "activities": []
     },
     {
       "name": "My House",
       "activities": [
         {
-          "name": "House",          
+          "name": "House",
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/house.png",
+          "numAct": 19,
           "rUrl": "homeCommon"
-
         },
         {
           "name": "Rooms",
           "aType": "UNIVERSAL",
+          "numAct": 26,
           "img": "/img/dict/home/rooms.png",
           "rUrl": "homeRooms"
-
         },
         {
-          "name": "Kitchen",           
+          "name": "Kitchen",
           "aType": "UNIVERSAL",
+          "numAct": 103,
           "img": "/img/dict/home/kitchen.png",
           "rUrl": "homeKitchen"
-
         },
         {
           "name": "Bedroom",
           "fordev": true,
+          "numAct": 0,
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/bedroom.png",
           "rUrl": "no"
-
         },
         {
           "name": "Bathroom",
           "fordev": true,
+          "numAct": 0,
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/bathroom.png",
           "rUrl": "no"
-
         },
         {
           "name": "Living room",
           "fordev": true,
+          "numAct": 0,
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/livingroom.png",
           "rUrl": "no"
-
         },
         {
           "name": "Dinning room",
           "fordev": true,
+          "numAct": 0,
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/dinningroom.png",
           "rUrl": "no"
-
         },
         {
           "name": "Nursery",
           "fordev": true,
+          "numAct": 0,
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/nursery.png",
           "rUrl": "no"
-
         }
       ]
     },
@@ -168,22 +157,19 @@
       "name": "Learning",
       "activities": [
         {
-          "name": "CLASS",          
+          "name": "CLASS",
           "aType": "UNIVERSAL",
+          "numAct": 34,
           "img": "/img/dict/classroom/classroom.png",
           "rUrl": "classCards"
-
         },
         {
-          "name": "stationery",         
+          "name": "stationery",
           "aType": "UNIVERSAL",
+          "numAct": 30,
           "img": "/img/dict/classroom/stationery.png",
           "rUrl": "classStationeryCards"
-
         },
-
-
-
         {
           "name": "Greetings",
           "aType": "Story",
@@ -191,8 +177,6 @@
           "fordev": true,
           "rUrl": "hello",
           "bgColor": "white"
-
-
         },
         {
           "name": "Greetings",
@@ -201,55 +185,44 @@
           "img": "/img/story/hi.jpg",
           "rUrl": "hello",
           "bgColor": "white"
-
-
         }
-
-
       ]
     },
     {
       "name": "Animals",
       "activities": [
-
         {
           "name": "farm",
           "aType": "UNIVERSAL",
           "img": "/img/dict/animals/rooster.png",
-
           "bgColor": "dodgerblue",
+          "numAct": 20,
           "rUrl": "animalsFarmCards"
-
         },
         {
           "name": "PET",
           "aType": "UNIVERSAL",
           "img": "/img/dict/animals/dog.png",
-
           "bgColor": "dodgerblue",
+          "numAct": 25,
           "rUrl": "animalsPetCards"
-
         },
-
         {
           "name": "WILD",
           "aType": "UNIVERSAL",
           "img": "/img/dict/animals/tiger.png",
-
           "bgColor": "dodgerblue",
+          "numAct": 51,
           "rUrl": "animalsWildCards"
-
         },
-
         {
           "name": "SEA",
           "aType": "UNIVERSAL",
           "img": "/img/dict/animals/crab.png",
-
           "bgColor": "dodgerblue",
           "rUrl": "animalsSeaCards",
+          "numAct": 20,
           "tasks": 0,
-
           "translates": [
             {
               "lang": "ru-RU",
@@ -261,9 +234,9 @@
           "name": "Birds",
           "aType": "UNIVERSAL",
           "img": "/img/dict/animals/bullfinch.png",
-
           "bgColor": "dodgerblue",
           "rUrl": "animalsBirdsCards",
+          "numAct": 33,
           "tasks": 33,
           "translates": [
             {
@@ -276,9 +249,9 @@
           "name": "Insects",
           "aType": "UNIVERSAL",
           "img": "/img/dict/animals/scarab.png",
-
           "bgColor": "dodgerblue",
           "rUrl": "animalsInsectsCards",
+          "numAct": 31,
           "tasks": 31,
           "translates": [
             {
@@ -291,10 +264,10 @@
           "name": "Reptiles",
           "aType": "UNIVERSAL",
           "img": "/img/dict/animals/gecko.png",
-
           "bgColor": "dodgerblue",
           "rUrl": "animalsReptilesCards",
           "tasks": 14,
+          "numAct": 14,
           "translates": [
             {
               "lang": "ru-RU",
@@ -307,99 +280,79 @@
     {
       "name": "Food",
       "activities": [
-
         {
           "name": "FOOD",
           "aType": "UNIVERSAL",
           "img": "/img/dict/food/dish.png",
           "bgColor": "#e6fff2",
+          "numAct": 45,
           "rUrl": "foodCommonCards"
-
         },
         {
           "name": "DRINKS",
           "aType": "UNIVERSAL",
           "img": "/img/dict/food/drinks.png",
           "bgColor": "#e6fff2",
+          "numAct": 15,
           "rUrl": "foodDrinksCards"
-
         },
         {
           "name": "sweets",
           "aType": "UNIVERSAL",
           "img": "/img/dict/food/sweets.png",
           "bgColor": "#e6fff2",
+          "numAct": 20,
           "rUrl": "foodSweetsCards"
-
         },
         {
           "name": "nuts",
           "aType": "UNIVERSAL",
           "img": "/img/dict/food/nuts.png",
           "bgColor": "#e6fff2",
+          "numAct": 10,
           "rUrl": "foodNutCards"
-
         },
         {
           "name": "vegetables",
           "aType": "UNIVERSAL",
           "img": "/img/dict/food/vegetables.png",
           "bgColor": "#e6fff2",
+          "numAct": 27,
           "rUrl": "foodVegetablesCards"
-
         },
         {
           "name": "fruit",
           "aType": "UNIVERSAL",
           "img": "/img/dict/food/fruit.png",
           "bgColor": "#e6fff2",
+          "numAct": 36,
           "rUrl": "foodFruitCards"
-
         },
         {
           "name": "berries",
           "aType": "UNIVERSAL",
           "img": "/img/dict/food/berries.png",
           "bgColor": "#e6fff2",
+          "numAct": 13,
           "rUrl": "foodBerriesCards"
-
         }
-
       ]
     },
-   
-
     {
       "name": "STREET",
-      "activities": [
-
-
-
-      ]
+      "activities": []
     },
     {
       "name": "TRANSPORT",
-      "activities": [
-
-
-
-      ]
+      "activities": []
     },
     {
       "name": "VACATION",
-      "activities": [
-
-
-
-      ]
+      "activities": []
     },
     {
       "name": "Seasons",
-      "activities": [
-
-
-
-      ]
+      "activities": []
     },
     {
       "name": "Phonics",
@@ -409,6 +362,5 @@
       "name": "Symbols",
       "activities": []
     }
-
   ]
 }
