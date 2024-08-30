@@ -131,14 +131,14 @@
           "name": "Living room",          
           "numAct": 51,
           "aType": "UNIVERSAL",
-          "img": "/img/dict/home/livingroom.png",
+          "img": "/img/dict/home/living_room.png",
           "rUrl": "homeLiving"
         },
         {
           "name": "Dinning room",          
           "numAct": 49,
           "aType": "UNIVERSAL",
-          "img": "/img/dict/home/dinningroom.png",
+          "img": "/img/dict/home/dinning_room.png",
           "rUrl": "homeDinning"
         },
         {
