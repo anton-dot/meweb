@@ -140,6 +140,8 @@
           "unlockid": 301,
           "name": "ТОП ОГЭ",
           "aType": "UNIVERSAL",
+          "numAct": 1763,
+
           "img": "/img/dict/top/top_oge.png",
           "rUrl": "top_oge"
         },
@@ -149,6 +151,8 @@
           "name": "ТОП ЕГЭ",
           "aType": "UNIVERSAL",
           "img": "/img/dict/top/top_ege.jpg",
+          "numAct": 3233,
+
           "rUrl": "top_uge"
         }
       ]

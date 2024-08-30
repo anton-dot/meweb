@@ -128,20 +128,18 @@
           "rUrl": "no"
         },
         {
-          "name": "Living room",
-          "fordev": true,
-          "numAct": 0,
+          "name": "Living room",          
+          "numAct": 51,
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/livingroom.png",
-          "rUrl": "no"
+          "rUrl": "homeLiving"
         },
         {
-          "name": "Dinning room",
-          "fordev": true,
-          "numAct": 0,
+          "name": "Dinning room",          
+          "numAct": 49,
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/dinningroom.png",
-          "rUrl": "no"
+          "rUrl": "homeDinning"
         },
         {
           "name": "Nursery",
@@ -149,6 +147,15 @@
           "numAct": 0,
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/nursery.png",
+          "rUrl": "no"
+        }
+        ,
+        {
+          "name": "Devices",
+          "fordev": true,
+          "numAct": 0,
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/home/devices.png",
           "rUrl": "no"
         }
       ]

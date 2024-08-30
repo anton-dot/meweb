@@ -1,0 +1,802 @@
+{
+  "name": "Dinnig room",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": true,
+  "isBlur": true,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 49,
+  "tags": [
+    "home",
+    "dining room"
+  ],
+  "Translations": [],
+  "items": [
+    {
+      "id": 21,
+      "name": "bottle opener",
+      "transcription": "[ˈbɑːtl ˈəʊpnər]",
+      "nameA": null,
+      "image": "/img/dict/home/bottle_opener.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "открывашка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "buffet",
+      "transcription": "[ˈbʌfɪt]",
+      "nameA": null,
+      "image": "/img/dict/home/buffet.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "буфет",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "butter dish",
+      "transcription": "[ˈbʌtər dɪʃ]",
+      "nameA": null,
+      "image": "/img/dict/home/butter-dish.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "масленка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "can opener",
+      "transcription": "[ˈəʊpnər]",
+      "nameA": null,
+      "image": "/img/dict/home/can_opener.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "консервный нож",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "candle",
+      "transcription": "[kændl]",
+      "nameA": null,
+      "image": "/img/dict/home/candle.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "свечка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "candlestick",
+      "transcription": "[ˈkændlstɪk]",
+      "nameA": null,
+      "image": "/img/dict/home/candlestick.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "подсвечник",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "centerpiece",
+      "transcription": "[ˈsentəpiːs]",
+      "nameA": null,
+      "image": "/img/dict/home/centerpiece.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "ваза в центре стола",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "chair",
+      "transcription": "[ʧeə]",
+      "nameA": null,
+      "image": "/img/dict/home/chair.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "стул",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "chandelier",
+      "transcription": "[ʃændəˈlɪə]",
+      "nameA": null,
+      "image": "/img/dict/home/chandelier.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "люстра",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "china",
+      "transcription": "[ˈʧaɪnə]",
+      "nameA": null,
+      "image": "/img/dict/home/china.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "фарфоровая посуда",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "china cabinet",
+      "transcription": "[ˈtʃaɪnə ˈkæbɪnət]",
+      "nameA": null,
+      "image": "/img/dict/home/china_cabinet.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "застекленный буфет",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "coffee pot",
+      "transcription": "[ˈkɔːfɪ pɑːt]",
+      "nameA": null,
+      "image": "/img/dict/home/coffee-pot.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "кофейник",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "corkscrew",
+      "transcription": "[ˈkɔːrkskruː]",
+      "nameA": null,
+      "image": "/img/dict/home/corkscrew.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "штопор",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "creamer",
+      "transcription": "[ˈkriːmər]",
+      "nameA": null,
+      "image": "/img/dict/home/creamer.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "кувшин для сливок",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "cruet-stand",
+      "transcription": "[ˈkruːɪt stænd]",
+      "nameA": null,
+      "image": "/img/dict/home/cruet-stand.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "судок для специй",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "cup and saucer",
+      "transcription": "[kʌp ˈsɔːsər]",
+      "nameA": null,
+      "image": "/img/dict/home/cup_and_saucer.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "чашка и блюдце",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "cupboard",
+      "transcription": "[ˈkʌpbəd]",
+      "nameA": null,
+      "image": "/img/dict/home/cupboard.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "шкаф для посуды",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "cutlery",
+      "transcription": "[ˈkʌtlərɪ]",
+      "nameA": null,
+      "image": "/img/dict/home/cutlery.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "столовые приборы",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "decanter",
+      "transcription": "[dɪˈkæntər]",
+      "nameA": null,
+      "image": "/img/dict/home/decanter.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "графин",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "dining room",
+      "transcription": "[ˈdaɪnɪŋ rum]",
+      "nameA": null,
+      "image": "/img/dict/home/dining_room.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "столовая",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "dish",
+      "transcription": "[dɪʃ]",
+      "nameA": null,
+      "image": "/img/dict/home/dish.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "блюдо",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "fork",
+      "transcription": "[fɔːk]",
+      "nameA": null,
+      "image": "/img/dict/home/fork.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "вилка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "glass",
+      "transcription": "[glɑːs]",
+      "nameA": null,
+      "image": "/img/dict/home/glass.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Стакан",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "hot pot",
+      "transcription": "[ˈkʊkɪŋ pɒt]",
+      "nameA": null,
+      "image": "/img/dict/home/hot_pot.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "горячий горшочек",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "jug",
+      "transcription": "[ʤʌg]",
+      "nameA": null,
+      "image": "/img/dict/home/jug.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "кувшин",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "knife",
+      "transcription": "[naɪf]",
+      "nameA": null,
+      "image": "/img/dict/home/knife.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "нож",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "ladle",
+      "transcription": "[leɪdl]",
+      "nameA": null,
+      "image": "/img/dict/home/ladle.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "половник",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "measuring cup",
+      "transcription": "[ˈmeʒərɪŋ kʌp]",
+      "nameA": null,
+      "image": "/img/dict/home/measuring_cup.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "мерная кружка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "mug",
+      "transcription": "[mʌg]",
+      "nameA": null,
+      "image": "/img/dict/home/mug.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "кружка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "napkin",
+      "transcription": "[ˈnæpkɪn]",
+      "nameA": null,
+      "image": "/img/dict/home/napkin.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "салфетка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "pepper shaker",
+      "transcription": "[ˈpepər ˈʃeɪkər]",
+      "nameA": null,
+      "image": "/img/dict/home/pepperbox.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "перечница",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "pitcher",
+      "transcription": "[ˈpɪʧə]",
+      "nameA": null,
+      "image": "/img/dict/home/jug.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "кувшин",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "plate",
+      "transcription": "[pleɪt]",
+      "nameA": null,
+      "image": "/img/dict/home/plate.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "тарелка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "rag",
+      "transcription": "[ræg]",
+      "nameA": null,
+      "image": "/img/dict/home/rag.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "тряпка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "salad bowl",
+      "transcription": "[ˈsæləd bəʊl]",
+      "nameA": null,
+      "image": "/img/dict/home/saladbowl.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "салатница",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "salt shaker",
+      "transcription": "[sɔːlt ˈʃeɪkər]",
+      "nameA": null,
+      "image": "/img/dict/home/salt-cellar.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "солонка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "saucer",
+      "transcription": "[ˈsɔːsər]",
+      "nameA": null,
+      "image": "/img/dict/home/saucer.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "блюдце",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "serving cart",
+      "transcription": "[ˈsɜːrvɪŋ kɑːrt]",
+      "nameA": null,
+      "image": "/img/dict/home/serving_cart.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "тележка для сервировки",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "serving platter",
+      "transcription": "[ˈsɜːrvɪŋ ˈplætər]",
+      "nameA": null,
+      "image": "/img/dict/home/serving_platter.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "блюдо",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "silverware",
+      "transcription": "[ˈsɪlvərwer]",
+      "nameA": null,
+      "image": "/img/dict/home/silverware.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "столовое серебро",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "spoon",
+      "transcription": "[spuːn]",
+      "nameA": null,
+      "image": "/img/dict/home/spoon.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ложка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "straw",
+      "transcription": "[strɔː]",
+      "nameA": null,
+      "image": "/img/dict/home/straw.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "соломинка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "sugar bowl",
+      "transcription": "[ˈʃʊɡər bəʊl]",
+      "nameA": null,
+      "image": "/img/dict/home/sugar_bowl.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "сахарница",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "table",
+      "transcription": "[teɪbl]",
+      "nameA": null,
+      "image": "/img/dict/home/table.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "стол",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "tablecloth",
+      "transcription": "[ˈteɪblklɔːθ]",
+      "nameA": null,
+      "image": "/img/dict/home/tablecloth.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "скатерть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "tableware",
+      "transcription": "[ˈteɪb(ə)lweə]",
+      "nameA": null,
+      "image": "/img/dict/home/tableware.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "посуда",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "tea set",
+      "transcription": "[tiː set]",
+      "nameA": null,
+      "image": "/img/dict/home/tea_set.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "чайный сервиз",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "teapot",
+      "transcription": "[ˈtiːpɒt]",
+      "nameA": null,
+      "image": "/img/dict/home/teapot.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "чайник для заварки",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "tray",
+      "transcription": "[treɪ]",
+      "nameA": null,
+      "image": "/img/dict/home/tray.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "поднос",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

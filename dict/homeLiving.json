@@ -1,0 +1,834 @@
+{
+  "name": "Living room",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": true,
+  "isBlur": true,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 51,
+  "tags": [
+    "home",
+    "living room"
+  ],
+  "Translations": [],
+  "items": [
+    {
+      "id": 36,
+      "name": "air conditioner",
+      "transcription": "[er kənˈdɪʃənər]",
+      "nameA": null,
+      "image": "/img/dict/home/airconditioner.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "окно",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "armchair",
+      "transcription": "[ˈɑːmʧeə]",
+      "nameA": null,
+      "image": "/img/dict/home/armchair.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "кресло",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "ashtray",
+      "transcription": "[ˈæʃtreɪ]",
+      "nameA": null,
+      "image": "/img/dict/home/ashtray.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "пепельница",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "blinds",
+      "transcription": "[ˈblaɪndz]",
+      "nameA": null,
+      "image": "/img/dict/home/blinds.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "жалюзи",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "book",
+      "transcription": "[bʊk]",
+      "nameA": null,
+      "image": "/img/dict/classroom/book.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "книга",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "bookcase",
+      "transcription": "[ˈbʊkkeɪs]",
+      "nameA": null,
+      "image": "/img/dict/home/bookcase.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "книжный шкаф",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "bookshelves",
+      "transcription": "[ˈbʊkˌʃelvz]",
+      "nameA": null,
+      "image": "/img/dict/home/bookshelves.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "книжные полки",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "carpet",
+      "transcription": "[ˈkɑːrpɪt]",
+      "nameA": null,
+      "image": "/img/dict/home/carpet.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "ковер",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "ceiling",
+      "transcription": "[ˈsiːlɪŋ]",
+      "nameA": null,
+      "image": "/img/dict/home/ceiling.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "потолок",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "ceiling fan",
+      "transcription": "[ˈsiːlɪŋ fæn]",
+      "nameA": null,
+      "image": "/img/dict/home/ceiling_fan.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "вентилятор на потолке",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "chair",
+      "transcription": "[ʧeə]",
+      "nameA": null,
+      "image": "/img/dict/home/chair.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "стул",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "clock",
+      "transcription": "[klɒk]",
+      "nameA": null,
+      "image": "/img/dict/home/clock.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "часы",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "coffee table",
+      "transcription": "[ˈkɔːfɪ ˈteɪbl]",
+      "nameA": null,
+      "image": "/img/dict/home/coffee_table.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "кофейный столик",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "couch",
+      "transcription": "[kaʊtʃ]",
+      "nameA": null,
+      "image": "/img/dict/home/couch.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "тахта",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "curtain rod",
+      "transcription": "[ˈkɜːrtn rɑːd]",
+      "nameA": null,
+      "image": "/img/dict/home/curtainrod.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "карниз",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "curtains",
+      "transcription": "[ˈkɜːtənz]",
+      "nameA": null,
+      "image": "/img/dict/home/curtains.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "портьеры",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "end table",
+      "transcription": "[end ˈteɪbl]",
+      "nameA": null,
+      "image": "/img/dict/home/end_table.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "приставной столик",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "fan",
+      "transcription": "[fæn]",
+      "nameA": null,
+      "image": "/img/dict/home/fan.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "вентилятор",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "fireplace",
+      "transcription": "[ˈfaɪəpleɪs]",
+      "nameA": null,
+      "image": "/img/dict/home/fireplace.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "камин",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "fireplace screen",
+      "transcription": "[ˈfaɪərpleɪs skriːn]",
+      "nameA": null,
+      "image": "/img/dict/home/fireplace_screen.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "защитный экран для камина",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "floor",
+      "transcription": "[flɔː]",
+      "nameA": null,
+      "image": "/img/dict/home/floor.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "пол",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "floor lamp",
+      "transcription": "[flɔːr læmp]",
+      "nameA": null,
+      "image": "/img/dict/home/floor_lamp.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "торшер",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "frame",
+      "transcription": "[freɪm]",
+      "nameA": null,
+      "image": "/img/dict/home/frame.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "рамка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "furniture",
+      "transcription": "[ˈfɜːrnɪtʃər]",
+      "nameA": null,
+      "image": "/img/dict/home/furniture.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "мебель",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "heater",
+      "transcription": "[ˈhiːtər]",
+      "nameA": null,
+      "image": "/img/dict/home/heater.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "обогреватель",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "lamp",
+      "transcription": "[læmp]",
+      "nameA": null,
+      "image": "/img/dict/home/lamp.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "лампа",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "lampshade",
+      "transcription": "[ˈlæmpʃeɪd]",
+      "nameA": null,
+      "image": "/img/dict/home/lampshade.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "абажур",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "light switch",
+      "transcription": "[er kənˈdɪʃənər]",
+      "nameA": null,
+      "image": "/img/dict/home/lightswitch.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "выключатель",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "living room",
+      "transcription": "[ˈlɪvɪŋ ruːm]",
+      "nameA": null,
+      "image": "/img/dict/home/living_room.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "гостиная",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "loveseat",
+      "transcription": "[lʌv siːt]",
+      "nameA": null,
+      "image": "/img/dict/home/loveseat.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "двухместный диван",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "magazine",
+      "transcription": "[ˈmæɡəziːn]",
+      "nameA": null,
+      "image": "/img/dict/home/magazine.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "журнал",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "mantel",
+      "transcription": "[ˈman(t)l]",
+      "nameA": null,
+      "image": "/img/dict/home/mantel.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "каминная полка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "newspaper",
+      "transcription": "[ˈmæɡəziːn]",
+      "nameA": null,
+      "image": "/img/dict/home/newspaper.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "газета",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "painting",
+      "transcription": "[ˈpeɪntɪŋ]",
+      "nameA": null,
+      "image": "/img/dict/home/painting.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "картина",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "plant",
+      "transcription": "[plɑːnt]",
+      "nameA": null,
+      "image": "/img/dict/home/plant.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "растение",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "radiator",
+      "transcription": "[ˈreɪdɪeɪtər]",
+      "nameA": null,
+      "image": "/img/dict/home/radiator.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "батарея",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "remote controller",
+      "transcription": "[rɪˈməʊt kənˈtroʊlər]",
+      "nameA": null,
+      "image": "/img/dict/home/remote_controller.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "пульт",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "rocking chair",
+      "transcription": "[ˈrɑːkɪŋ tʃer]",
+      "nameA": null,
+      "image": "/img/dict/home/rocking_chair.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "кресло-качалка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "rug",
+      "transcription": "[rʌg]",
+      "nameA": null,
+      "image": "/img/dict/home/rug.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "коврик",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "shelf",
+      "transcription": "[ʃelf]",
+      "nameA": null,
+      "image": "/img/dict/home/shelf_living.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "книжные полки",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "sofa",
+      "transcription": "[ˈsəʊfə]",
+      "nameA": null,
+      "image": "/img/dict/home/sofa.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "диван",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "speaker",
+      "transcription": "[ˈspiːkə]",
+      "nameA": null,
+      "image": "/img/dict/home/speaker.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "колонка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "stereo system",
+      "transcription": "[ˈsterɪəʊ ˈsɪstəm]",
+      "nameA": null,
+      "image": "/img/dict/home/stereo_system.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "стереосистема",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "table",
+      "transcription": "[teɪbl]",
+      "nameA": null,
+      "image": "/img/dict/home/table.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "стол",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "television",
+      "transcription": "[ˈtelɪvɪʒən]",
+      "nameA": null,
+      "image": "/img/dict/home/television.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "телевизор",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "throw pillow",
+      "transcription": "[θrəʊ ˈpɪloʊ]",
+      "nameA": null,
+      "image": "/img/dict/home/throw_pillow.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "диванная подушка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "vase",
+      "transcription": "[vɑːz]",
+      "nameA": null,
+      "image": "/img/dict/home/vase.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "ваза",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "wall",
+      "transcription": "[wɔːl]",
+      "nameA": null,
+      "image": "/img/dict/home/wall.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "стена",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "wall unit",
+      "transcription": "[wɔːl ˈjuːnɪt]",
+      "nameA": null,
+      "image": "/img/dict/home/wallunit.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "мебельная стенка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "window",
+      "transcription": "[ˈwɪndəʊ]",
+      "nameA": null,
+      "image": "/img/dict/home/window.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "окно",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "window sill",
+      "transcription": "[ˈwɪndəʊ sɪl]",
+      "nameA": null,
+      "image": "/img/dict/home/windowsill.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "подоконник",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}
