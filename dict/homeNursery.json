@@ -1,0 +1,765 @@
+{
+  "name": "home_nursery.json",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "tags": [
+    "home",
+    "nursery"
+  ],
+  "Translations": [],
+  "items": [
+    {
+      "id": 0,
+      "name": "walker",
+      "transcription": "[ˈwɔːkə]",
+      "nameA": null,
+      "image": "/img/dict/home/walker.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "ходунки",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "mobile holder",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/mobile_holder.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "мобиль",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "play mat",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/play_mat.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "игровой коврик",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "nursery",
+      "transcription": "[ˈnɜːsərɪ]",
+      "nameA": null,
+      "image": "/img/dict/home/nursery.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "детская комната",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "walk",
+      "transcription": "[wɔːk]",
+      "nameA": null,
+      "image": "/img/dict/home/walk.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "ходить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "baby front pack",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/baby_front_pack.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "рюкзак-кенгуру",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "cotton swabs",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/cotton_swabs.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "ватные палочки",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "baby lotion",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/baby_lotion.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "детский лосьон",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "cradle",
+      "transcription": "[kreɪdl]",
+      "nameA": null,
+      "image": "/img/dict/home/cradle.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "колыбель",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "baby monitor",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/baby_monitor.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "радионяня",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "crawl",
+      "transcription": "[krɔːl]",
+      "nameA": null,
+      "image": "/img/dict/home/crawl.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "ползать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "baby seat",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/baby_seat.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "детское кресло",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "crib",
+      "transcription": "[krɪb]",
+      "nameA": null,
+      "image": "/img/dict/home/crib.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "детская кроватка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "baby wipes",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/baby_wipes.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "детские влажные салфетки",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "crib bumper",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/crib_bumper.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "перило кроватки",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "bib",
+      "transcription": "[bɪb]",
+      "nameA": null,
+      "image": "/img/dict/home/bib.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "детский нагрудник",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "cry",
+      "transcription": "[kraɪ]",
+      "nameA": null,
+      "image": "/img/dict/home/cry.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "плакать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "bottle",
+      "transcription": "[bɒtl]",
+      "nameA": null,
+      "image": "/img/dict/home/bottle.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "бутылочка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "baby napkin",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/baby_napkin.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "пеленка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "buggy",
+      "transcription": "[ˈbʌgɪ]",
+      "nameA": null,
+      "image": "/img/dict/home/buggy.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "детская коляска",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "diaper pail",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/diaper_pail.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "ведро для подгузников",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "bunk bed",
+      "transcription": "[bʌŋk bed]",
+      "nameA": null,
+      "image": "/img/dict/home/bunk_bed.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "двухъярусная кровать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "diapers",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/diapers.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "подгузники",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "changing table",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/changing_table.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "пеленальный столик",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "baby food",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/baby_food.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "детское питание",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "chest of drawers",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/chest_of_drawers.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "комод",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "toys",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/toys.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "игрушки",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "potty",
+      "transcription": "[ˈpɒtɪ]",
+      "nameA": null,
+      "image": "/img/dict/home/potty.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "ночной горшок",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "trundle bed",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/trundle_bed.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "кровать-раскладушка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "powder",
+      "transcription": "[ˈpaʊdə]",
+      "nameA": null,
+      "image": "/img/dict/home/powder.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "присыпка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "doll",
+      "transcription": "[dɒl]",
+      "nameA": null,
+      "image": "/img/dict/home/doll.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "кукла",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "rattle",
+      "transcription": "[rætl]",
+      "nameA": null,
+      "image": "/img/dict/home/rattle.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "погремушка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "drool",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/drool.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "пускать слюни",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "rocking horse",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/rocking_horse.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "конь-качалка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "fluffy toy",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/fluffy_toy.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "мягкая игрушка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "sleep",
+      "transcription": "[sliːp]",
+      "nameA": null,
+      "image": "/img/dict/home/sleep.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "спать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "high chair",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/high_chair.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "стульчик для кормления",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "stroller",
+      "transcription": "[ˈstrəʊlə]",
+      "nameA": null,
+      "image": "/img/dict/home/stroller.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "летняя коляска",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "infant",
+      "transcription": "[ˈɪnfənt]",
+      "nameA": null,
+      "image": "/img/dict/home/infant.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "младенец",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "swing",
+      "transcription": "[swɪŋ]",
+      "nameA": null,
+      "image": "/img/dict/home/swing.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "качели",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "night light",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/night_light.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "ночник",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "teddy bear",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/teddy_bear.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "плюшевый медвежонок",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "pacifier",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/pacifier.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "соска",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "teething ring",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/teething_ring.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "детское зубное кольцо",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "playpen",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/playpen.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "детский манеж",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "toy chest",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/toy_chest.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "комод для игрушек",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "portable crib",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/portable_crib.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "переносная кроватка",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

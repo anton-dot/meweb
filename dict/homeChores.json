@@ -1,0 +1,317 @@
+{
+  "name": "home_chores.json",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "tags": [
+    "home",
+    "chore"
+  ],
+  "Translations": [],
+  "items": [
+    {
+      "id": 0,
+      "name": "Change the sheets",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/change_the_sheets.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "менять постельное белье",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "dry",
+      "transcription": "[draɪ]",
+      "nameA": null,
+      "image": "/img/dict/home/dry.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "сушить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Make dinner",
+      "transcription": "[meɪk ˈdɪnə]",
+      "nameA": null,
+      "image": "/img/dict/home/make_dinner.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "готовить ужин",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "hang",
+      "transcription": "[hæŋ]",
+      "nameA": null,
+      "image": "/img/dict/home/hang.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "вешать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "tighten",
+      "transcription": "[taɪtn]",
+      "nameA": null,
+      "image": "/img/dict/home/tighten.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "затягивать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "nail",
+      "transcription": "[neɪl]",
+      "nameA": null,
+      "image": "/img/dict/home/nail.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "прибивать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "repair",
+      "transcription": "[rɪˈpeə]",
+      "nameA": null,
+      "image": "/img/dict/home/repair.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "чинить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "fold",
+      "transcription": "[fəʊld]",
+      "nameA": null,
+      "image": "/img/dict/home/fold.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "складывать (одежду)",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "mop the floor",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/mop_the_floor.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "мыть пол",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "drill",
+      "transcription": "[drɪl]",
+      "nameA": null,
+      "image": "/img/dict/home/drill.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "сверлить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Wipe off",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/wipe_off.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "протирать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Do the Vacuuming",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/do_the_vacuuming.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "пылесосить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Do the Washing",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/do_the_washing.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "сделать стирку",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "tidy your room",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/tidy_your_room.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "прибрать в комнате",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Make the bed",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/make_the_bed.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "заправить кровать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Clean the house",
+      "transcription": "[kliːn ðiː haʊs]",
+      "nameA": null,
+      "image": "/img/dict/home/clean_the_house.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "убираться в доме",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Do the Ironing",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/do_the_ironing.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "утюжить (бельё)",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Take the rubbish out",
+      "transcription": "[]",
+      "nameA": null,
+      "image": "/img/dict/home/take_the_rubbish_out.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "выносить мусор",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "scrub",
+      "transcription": "[skrʌb]",
+      "nameA": null,
+      "image": "/img/dict/home/scrub.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "тереть",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

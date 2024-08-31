@@ -112,12 +112,11 @@
           "rUrl": "homeKitchen"
         },
         {
-          "name": "Bedroom",
-          "fordev": true,
-          "numAct": 0,
+          "name": "Bedroom",           
+          "numAct": 41,
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/bedroom.png",
-          "rUrl": "no"
+          "rUrl": "homeBedroom"
         },
         {
           "name": "Bathroom",
@@ -125,7 +124,7 @@
           "numAct": 0,
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/bathroom.png",
-          "rUrl": "no"
+          "rUrl": "homeBath"
         },
         {
           "name": "Living room",          
@@ -138,7 +137,7 @@
           "name": "Dinning room",          
           "numAct": 49,
           "aType": "UNIVERSAL",
-          "img": "/img/dict/home/dinning_room.png",
+          "img": "/img/dict/home/dining_room.png",
           "rUrl": "homeDinning"
         },
         {
@@ -147,7 +146,7 @@
           "numAct": 0,
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/nursery.png",
-          "rUrl": "no"
+          "rUrl": "homeNursery"
         }
         ,
         {
@@ -156,7 +155,16 @@
           "numAct": 0,
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/devices.png",
-          "rUrl": "no"
+          "rUrl": "homeDevices"
+        }
+        ,
+        {
+          "name": "Chores",
+          "fordev": true,
+          "numAct": 0,
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/home/chores.png",
+          "rUrl": "homeChores"
         }
       ]
     },
