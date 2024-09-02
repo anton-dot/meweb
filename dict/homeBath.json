@@ -7,7 +7,7 @@
   "isBlur": true,
   "isForAdult": false,
   "separator": "",
-  "numWords": 107,
+  "numWords": 92,
   "tags": [
     "home",
     "bath",
@@ -59,6 +59,22 @@
         {
           "lang": "ru-Ru",
           "name": "антисептик",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "bandage",
+      "transcription": "[ˈbændɪdʒ]",
+      "nameA": null,
+      "image": "/img/dict/home/bandage.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "пластырь, повязка",
           "nameA": null
         }
       ]
@@ -144,22 +160,6 @@
       ]
     },
     {
-      "id": 22,
-      "name": "bath panel",
-      "transcription": "[bæθ ˈpænl]",
-      "nameA": null,
-      "image": "/img/dict/home/bath_panel.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-Ru",
-          "name": "ванная панель",
-          "nameA": null
-        }
-      ]
-    },
-    {
       "id": 43,
       "name": "bath robe",
       "transcription": "[bæθ rəʊb]",
@@ -171,22 +171,6 @@
         {
           "lang": "ru-Ru",
           "name": "махровый халат",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 108,
-      "name": "bath towel",
-      "transcription": "[bæθ ˈtaʊəl]",
-      "nameA": null,
-      "image": "/img/dict/home/bath_towel.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-Ru",
-          "name": "банное полотенце",
           "nameA": null
         }
       ]
@@ -235,22 +219,6 @@
         {
           "lang": "ru-Ru",
           "name": "напольные весы",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 60,
-      "name": "beaker",
-      "transcription": "[ˈbiːkər]",
-      "nameA": null,
-      "image": "/img/dict/home/beaker.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-Ru",
-          "name": "стакан",
           "nameA": null
         }
       ]
@@ -464,22 +432,6 @@
       ]
     },
     {
-      "id": 76,
-      "name": "disinfectant",
-      "transcription": "[ˌdɪsɪnˈfektənt]",
-      "nameA": null,
-      "image": "/img/dict/home/disinfectant.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-Ru",
-          "name": "дезинфицирующее средство",
-          "nameA": null
-        }
-      ]
-    },
-    {
       "id": 34,
       "name": "drain",
       "transcription": "[dreɪn]",
@@ -512,54 +464,6 @@
       ]
     },
     {
-      "id": 4,
-      "name": "electric razor",
-      "transcription": "[ɪˈlektrɪk ˈreɪzər]",
-      "nameA": null,
-      "image": "/img/dict/home/electric_razor.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-Ru",
-          "name": "электрическая бритва",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 69,
-      "name": "face cloth",
-      "transcription": "[feɪs klɔːθ]",
-      "nameA": null,
-      "image": "/img/dict/home/face_cloth.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-Ru",
-          "name": "салфетка для лица",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 41,
-      "name": "face powder",
-      "transcription": "[feɪs ˈpaʊdə]",
-      "nameA": null,
-      "image": "/img/dict/home/face_powder.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-Ru",
-          "name": "пудра",
-          "nameA": null
-        }
-      ]
-    },
-    {
       "id": 106,
       "name": "fan",
       "transcription": "[fæn]",
@@ -580,7 +484,7 @@
       "name": "faucet",
       "transcription": "[ˈfɔːsɪt]",
       "nameA": null,
-      "image": "/img/dict/home/faucet.png",
+      "image": "/img/dict/home/tap.png",
       "bg": null,
       "nameAnswer": null,
       "translates": [
@@ -602,7 +506,7 @@
       "translates": [
         {
           "lang": "ru-Ru",
-          "name": "промывать",
+          "name": "смывать, промывать",
           "nameA": null
         }
       ]
@@ -640,22 +544,6 @@
       ]
     },
     {
-      "id": 70,
-      "name": "hairspray",
-      "transcription": "[ˈherspreɪ]",
-      "nameA": null,
-      "image": "/img/dict/home/hairspray.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-Ru",
-          "name": "лак для волос",
-          "nameA": null
-        }
-      ]
-    },
-    {
       "id": 7,
       "name": "hand dryer",
       "transcription": "[hænd ˈdraɪər]",
@@ -667,22 +555,6 @@
         {
           "lang": "ru-Ru",
           "name": "сушилка для рук",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 94,
-      "name": "hand towel",
-      "transcription": "[hænd ˈtaʊəl]",
-      "nameA": null,
-      "image": "/img/dict/home/hand_towel.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-Ru",
-          "name": "полотенце для рук",
           "nameA": null
         }
       ]
@@ -715,22 +587,6 @@
         {
           "lang": "ru-Ru",
           "name": "джакузи",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "name": "laundry hamper",
-      "transcription": "[ˈlɔːndrɪ ˈhæmpər]",
-      "nameA": null,
-      "image": "/img/dict/home/laundry_hamper.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-Ru",
-          "name": "корзина для белья",
           "nameA": null
         }
       ]
@@ -992,17 +848,17 @@
       ]
     },
     {
-      "id": 44,
-      "name": "sanitary pads",
-      "transcription": "[ˈsænəterɪ ˈpædz]",
+      "id": 84,
+      "name": "safety pin",
+      "transcription": "[ˈseɪftɪ pɪn]",
       "nameA": null,
-      "image": "/img/dict/home/sanitary_pads.png",
+      "image": "/img/dict/home/safetypin.png",
       "bg": null,
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-Ru",
-          "name": "гигиенические прокладки",
+          "name": "булавка",
           "nameA": null
         }
       ]
@@ -1012,7 +868,7 @@
       "name": "scissors",
       "transcription": "[ˈsɪzəz]",
       "nameA": null,
-      "image": "/img/dict/home/scissors.png",
+      "image": "/img/dict/classroom/scissors.png",
       "bg": null,
       "nameAnswer": null,
       "translates": [
@@ -1121,10 +977,10 @@
     },
     {
       "id": 96,
-      "name": "shower cubicle",
-      "transcription": "[ˈʃaʊər ˈkjuːbɪkl]",
+      "name": "shower cabin",
+      "transcription": "[ˈʃaʊər ˈkæbɪn]",
       "nameA": null,
-      "image": "/img/dict/home/shower_cubicle.png",
+      "image": "/img/dict/home/shower_cabin.png",
       "bg": null,
       "nameAnswer": null,
       "translates": [
@@ -1147,22 +1003,6 @@
         {
           "lang": "ru-Ru",
           "name": "душевая занавеска",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 30,
-      "name": "shower gel",
-      "transcription": "[ˈʃaʊər dʒel]",
-      "nameA": null,
-      "image": "/img/dict/home/shower_gel.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-Ru",
-          "name": "гель для душа",
           "nameA": null
         }
       ]
@@ -1280,38 +1120,6 @@
       ]
     },
     {
-      "id": 67,
-      "name": "styptic pencil",
-      "transcription": "[ˈstɪptɪk ˈpensl]",
-      "nameA": null,
-      "image": "/img/dict/home/styptic_pencil.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-Ru",
-          "name": "кровоостанавливающий карандаш",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "name": "tampons",
-      "transcription": "[ˈtæmpanz]",
-      "nameA": null,
-      "image": "/img/dict/home/tampons.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-Ru",
-          "name": "тампоны",
-          "nameA": null
-        }
-      ]
-    },
-    {
       "id": 102,
       "name": "tile flooring",
       "transcription": "[taɪl ˈflɔːrɪŋ]",
@@ -1344,49 +1152,17 @@
       ]
     },
     {
-      "id": 81,
-      "name": "toilet bowl",
-      "transcription": "[ˈtɔɪlət bəʊl]",
-      "nameA": null,
-      "image": "/img/dict/home/toilet_bowl.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-Ru",
-          "name": "унитаз",
-          "nameA": null
-        }
-      ]
-    },
-    {
       "id": 39,
-      "name": "toilet bowl brush",
-      "transcription": "[ˈtɔɪlət bəʊl brʌʃ]",
+      "name": "toilet brush",
+      "transcription": "[ˈtɔɪlət brʌʃ]",
       "nameA": null,
-      "image": "/img/dict/home/toilet_bowl_brush.png",
+      "image": "/img/dict/home/toiletl_brush.png",
       "bg": null,
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-Ru",
           "name": "щетка для унитаза",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 40,
-      "name": "toilet lid",
-      "transcription": "[ˈtɔɪlət lɪd]",
-      "nameA": null,
-      "image": "/img/dict/home/toilet_lid.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-Ru",
-          "name": "крышка",
           "nameA": null
         }
       ]
@@ -1536,6 +1312,22 @@
       ]
     },
     {
+      "id": 84,
+      "name": "tube",
+      "transcription": "[tuːb]",
+      "nameA": null,
+      "image": "/img/dict/home/tube.png",
+      "bg": null,
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-Ru",
+          "name": "тюбик",
+          "nameA": null
+        }
+      ]
+    },
+    {
       "id": 83,
       "name": "tweezers",
       "transcription": "[ˈtwiːzərz]",
@@ -1595,38 +1387,6 @@
         {
           "lang": "ru-Ru",
           "name": "мыть",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "name": "wash basin",
-      "transcription": "[wɑːʃ ˈbeɪsn]",
-      "nameA": null,
-      "image": "/img/dict/home/wash_basin.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-Ru",
-          "name": "умывальник",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 17,
-      "name": "washcloth",
-      "transcription": "[ˈwɑːʃklɔːθ]",
-      "nameA": null,
-      "image": "/img/dict/home/washcloth.png",
-      "bg": null,
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-Ru",
-          "name": "мочалка из махровой ткани",
           "nameA": null
         }
       ]
