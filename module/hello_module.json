@@ -140,9 +140,8 @@
           "rUrl": "homeDinning"
         },
         {
-          "name": "Nursery",
-          "fordev": true,
-          "numAct": 0,
+          "name": "Nursery",           
+          "numAct": 40,
           "aType": "UNIVERSAL",
           "img": "/img/dict/home/nursery.png",
           "rUrl": "homeNursery"
