@@ -1,0 +1,89 @@
+{
+  "name": "composition of 10",
+  "nameA": null,
+  "img": "/img/dict/math/school.png",
+  "minQuiz": null,
+  "isRandom": true,
+  "isBlur": true,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 36,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Состав числа до 10",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "Make 0",
+      "image": "/img/dict/math/c0p0.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Составь число 0",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "0",
+          "pair2": "0"
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Make 1",
+      "image": "/img/dict/math/c0p0.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Составь число 1",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "0",
+          "pair2": "1"
+        },
+        {
+          "pair1": "1",
+          "pair2": "0"
+        }
+      ]
+    }
+    ,
+    {
+      "id": 0,
+      "name": "Make 2",
+      "image": "/img/dict/math/c0p0.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Составь число 2",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "0",
+          "pair2": "2"
+        },
+        {
+          "pair1": "2",
+          "pair2": "0"
+        }
+        ,
+        {
+          "pair1": "1",
+          "pair2": "1"
+        }
+      ]
+    }
+  ]
+}
