@@ -56,7 +56,7 @@
         {
           "name": "Make number",
           "aType": "MatchSimple",
-          "img": "/img/dict/math/c4p4.png",
+          "img": "/img/dict/math/c5p5.png",
           "rUrl": "match10CompositionCards",
           "bgColor": "white",
           "fordev": true,
