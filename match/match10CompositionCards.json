@@ -19,7 +19,7 @@
   "items": [
     {
       "id": 0,
-      "name": "Make 0",
+      "name": "Make up a number 0",
       "image": "/img/dict/math/c0p0.png",
       "translates": [
         {
@@ -37,7 +37,7 @@
     },
     {
       "id": 0,
-      "name": "Make 1",
+      "name": "Make up a number 1",
       "image": "/img/dict/math/c0p0.png",
       "translates": [
         {
@@ -60,7 +60,7 @@
     ,
     {
       "id": 0,
-      "name": "Make 2",
+      "name": "Make up a number 2",
       "image": "/img/dict/math/c0p0.png",
       "translates": [
         {
@@ -81,6 +81,77 @@
         ,
         {
           "pair1": "1",
+          "pair2": "1"
+        }
+      ]
+    }
+    ,
+    {
+      "id": 0,
+      "name": "Make up a number 3",
+      "image": "/img/dict/math/c0p0.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Составь число 3",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "0",
+          "pair2": "3"
+        },
+        {
+          "pair1": "3",
+          "pair2": "0"
+        }
+        ,
+        {
+          "pair1": "2",
+          "pair2": "1"
+        }
+        ,
+        {
+          "pair1": "1",
+          "pair2": "2"
+        }
+      ]
+    }
+    ,
+    {
+      "id": 0,
+      "name": "Make up a number 4",
+      "image": "/img/dict/math/c0p0.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Составь число 4",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "0",
+          "pair2": "4"
+        },
+        {
+          "pair1": "4",
+          "pair2": "0"
+        }
+        ,
+        {
+          "pair1": "2",
+          "pair2": "2"
+        }
+        ,
+        {
+          "pair1": "1",
+          "pair2": "3"
+        }
+        ,
+        {
+          "pair1": "3",
           "pair2": "1"
         }
       ]
