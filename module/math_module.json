@@ -56,7 +56,7 @@
         {
           "name": "Make up a number (to 10)",
           "aType": "MatchSimple",
-          "img": "/img/dict/math/c10.png",
+          "img": "/img/dict/math/p10.png",
           "rUrl": "match10CompositionCards",
           "bgColor": "white",
            
