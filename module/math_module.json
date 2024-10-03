@@ -59,8 +59,8 @@
           "img": "/img/dict/math/c5p5.png",
           "rUrl": "match10CompositionCards",
           "bgColor": "white",
-          "fordev": true,
-          "numAct": 27,
+           
+          "numAct": 22,
           "translates": [
             {
               "lang": "ru-RU",
