@@ -55,6 +55,13 @@
           "bgColor": "white"
         },
         {
+          "name": "gaps (to 10)",
+          "aType": "InlineSelect",
+          "img": "/img/activity/gaps_10.png",
+          "rUrl": "mathCountingSpaceCards",
+          "bgColor": "white"
+        },
+        {
           "name": "Compositions",
           "aType": "ListSwipe",
           "img": "/img/dict/math/c4p4.png",
@@ -74,13 +81,20 @@
               "name": "Составь число"
             }
           ]
-        },
+        },        
         {
-          "name": "gaps (to 10)",
-          "aType": "InlineSelect",
-          "img": "/img/activity/gaps_10.png",
-          "rUrl": "mathCountingSpaceCards",
-          "bgColor": "white"
+          "name": "Examples (to 10)",
+          "aType": "MatchSimple",
+          "img": "/img/dict/math/gaps_example_10.png",
+          "rUrl": "match10CompositionCards",
+          "bgColor": "white",           
+          "numAct": 22,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Примеры (до10)"
+            }
+          ]
         },
         {
           "name": "Plus (to 10)",
