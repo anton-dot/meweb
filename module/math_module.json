@@ -84,9 +84,9 @@
         },        
         {
           "name": "Examples (to 10)",
-          "aType": "MatchSimple",
+          "aType": "InlineSelect",
           "img": "/img/dict/math/gaps_example_10.png",
-          "rUrl": "match10CompositionCards",
+          "rUrl": "mathPlua10Cards",
           "bgColor": "white",           
           "numAct": 22,
           "translates": [
