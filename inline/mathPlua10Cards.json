@@ -212,7 +212,7 @@
     },
     {
       "name": "fill in the blanks to make the example correct",
-      "taskMask": "5 \u002B {txt:5} = 10\r\n1 \u002B {txt:9} = 10\r\n0 \u002B {txt:0} = 0\r\n{txt:4} \u002B 6 = 10\r\n{txt:3} \u002B 7 = 10\r\n0 \u002B {txt:0} = 0\r\n2 \u002B {txt:8} = 0\r\n{txt:0} \u002B 10 = 10",
+      "taskMask": "5 \u002B {txt:5} = 10\r\n1 \u002B {txt:9} = 10\r\n0 \u002B {txt:0} = 0\r\n{txt:4} \u002B 6 = 10\r\n{txt:3} \u002B 7 = 10\r\n0 \u002B {txt:0} = 0\r\n2 \u002B {txt:8} = 10\r\n{txt:0} \u002B 10 = 10",
       "nameA": null,
       "image": null,
       "bg": null,

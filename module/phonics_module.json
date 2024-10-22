@@ -1,0 +1,123 @@
+﻿{
+  "name": "Phonics",
+  "description": "",
+  "version": "1",
+  "cats": [
+    {
+      "name": "Set 1",
+      "activities": [
+        {
+          "id": 1,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/S/ s, ss, c",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/abc/voice_blue.png",
+          "rUrl": " ",
+          "numAct": 100
+        },
+        {
+          "id": 2,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/a/ a",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/abc/voice_red.png",
+          "rUrl": " ",
+          "numAct": 998
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/t/ t, tt, ed",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/abc/voice_blue.png",
+          "rUrl": " ",
+          "numAct": 2000
+        },
+        {
+          "id": 4,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/i/ i, y, i_e",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/abc/voice_red.png",
+          "rUrl": " ",
+          "numAct": 3001
+        },
+        {
+          "id": 5,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/p/ p, pp",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/abc/voice_blue.png",
+          "rUrl": " ",
+          "numAct": 4999
+        }
+        ,
+        {
+          "id": 5,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/n/ n, nn, kn",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/abc/voice_blue.png",
+          "rUrl": " ",
+          "numAct": 4999
+        }
+         
+      ]
+    }
+    ,
+    
+    {
+      "name": "Set 2",
+      "activities": [
+       
+      ]
+    }
+    ,
+    
+    {
+      "name": "Set 3",
+      "activities": [
+       
+      ]
+    }
+    ,
+    
+    {
+      "name": "Set 4",
+      "activities": [
+       
+      ]
+    }
+    ,
+    
+    {
+      "name": "Set 5",
+      "activities": [
+       
+      ]
+    }
+    ,
+    
+    {
+      "name": "Set 6",
+      "activities": [
+       
+      ]
+    }
+    ,
+    
+    {
+      "name": "Set 7",
+      "activities": [
+       
+      ]
+    }
+   
+  ]
+}
