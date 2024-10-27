@@ -14,7 +14,7 @@
           "aType": "UNIVERSAL",
           "img": "/img/dict/abc/voice_blue.png",
           "rUrl": " ",
-          "numAct": 100
+          "numAct": 1
         },
         {
           "id": 2,
@@ -24,7 +24,7 @@
           "aType": "UNIVERSAL",
           "img": "/img/dict/abc/voice_red.png",
           "rUrl": " ",
-          "numAct": 998
+          "numAct": 1
         },
         {
           "id": 3,
@@ -34,7 +34,7 @@
           "aType": "UNIVERSAL",
           "img": "/img/dict/abc/voice_blue.png",
           "rUrl": " ",
-          "numAct": 2000
+          "numAct": 1
         },
         {
           "id": 4,
@@ -44,7 +44,7 @@
           "aType": "UNIVERSAL",
           "img": "/img/dict/abc/voice_red.png",
           "rUrl": " ",
-          "numAct": 3001
+          "numAct": 1
         },
         {
           "id": 5,
@@ -54,7 +54,7 @@
           "aType": "UNIVERSAL",
           "img": "/img/dict/abc/voice_blue.png",
           "rUrl": " ",
-          "numAct": 4999
+          "numAct": 1
         }
         ,
         {
@@ -65,7 +65,7 @@
           "aType": "UNIVERSAL",
           "img": "/img/dict/abc/voice_blue.png",
           "rUrl": " ",
-          "numAct": 4999
+          "numAct": 1
         }
          
       ]
