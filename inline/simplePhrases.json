@@ -1,0 +1,82 @@
+{
+  "name": "Complete sentences",
+  "nameA": null,
+  "img": null,
+  "minQuiz": 7,
+  "isRandom": false,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Числа до десяти",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "name": "Complete phrase",
+      "taskMask": "1 \u002B {txt:0} = 1\r\n 0 \u002B {txt:1} = 1\r\n{txt:0} \u002B {txt:0} = 0\r\n1 \u002B {txt:1} = 2\r\n{txt:2} \u002B 0 = 2\r\n",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": false,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "составь фразу",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": "У меня есть собака",
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "answer_0",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "fill in the blanks to make the example correct",
+      "taskMask": "3 \u002B {txt:0} = 3\r\n1 \u002B {txt:2} = 3\r\n{txt:2} \u002B 2 = 4\r\n1 \u002B {txt:3} = 4\r\n{txt:4} \u002B 0 = 4",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски, чтобы пример был верным",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "answer_0",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    }
+  ]
+}

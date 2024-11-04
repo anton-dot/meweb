@@ -199,6 +199,13 @@
           "rUrl": "classStationeryCards"
         },
         {
+          "name": "Base phrases",
+          "aType": "LetterSelect",
+          "numAct": 30,
+          "img": "/img/dict/classroom/at_school.jpg",
+          "rUrl": "classBasePhrases"
+        },
+        {
           "name": "Greetings",
           "aType": "Story",
           "img": "/img/story/hi.jpg",

@@ -2,7 +2,7 @@
   "name": "Solve examples",
   "nameA": null,
   "img": null,
-  "minQuiz": 12,
+  "minQuiz": 7,
   "isRandom": false,
   "Translations": [
     {
@@ -47,7 +47,7 @@
     },
     {
       "name": "fill in the blanks to make the example correct",
-      "taskMask": "3 \u002B {txt:0} = 3\r\n1 \u002B {txt:2} = 3\r\n{txt:2} \u002B {txt:2} = 4\r\n1 \u002B {txt:3} = 4\r\n{txt:4} \u002B 0 = 4",
+      "taskMask": "3 \u002B {txt:0} = 3\r\n1 \u002B {txt:2} = 3\r\n{txt:2} \u002B 2 = 4\r\n1 \u002B {txt:3} = 4\r\n{txt:4} \u002B 0 = 4",
       "nameA": null,
       "image": null,
       "bg": null,
@@ -80,7 +80,7 @@
     },
     {
       "name": "fill in the blanks to make the example correct",
-      "taskMask": "3 \u002B {txt:2} = 5\r\n1 \u002B {txt:4} = 5\r\n{txt:3} \u002B {txt:3} = 6\r\n4 \u002B {txt:2} = 6\r\n{txt:0} \u002B 6 = 6",
+      "taskMask": "3 \u002B {txt:2} = 5\r\n1 \u002B {txt:4} = 5\r\n{txt:3} \u002B 3 = 6\r\n4 \u002B {txt:2} = 6\r\n{txt:0} \u002B 6 = 6",
       "nameA": null,
       "image": null,
       "bg": null,
@@ -113,7 +113,7 @@
     },
     {
       "name": "fill in the blanks to make the example correct",
-      "taskMask": "3 \u002B {txt:4} = 7\r\n5 \u002B {txt:2} = 7\r\n{txt:1} \u002B 6 = 7\r\n{txt:4} \u002B {txt:4} = 8",
+      "taskMask": "3 \u002B {txt:4} = 7\r\n5 \u002B {txt:2} = 7\r\n{txt:1} \u002B 6 = 7\r\n{txt:4} \u002B 4 = 8",
       "nameA": null,
       "image": null,
       "bg": null,
@@ -146,7 +146,7 @@
     },
     {
       "name": "fill in the blanks to make the example correct",
-      "taskMask": "5 \u002B {txt:3} = 8\r\n6 \u002B {txt:2} = 8\r\n{txt:4} \u002B {txt:4} = 8\r\n{txt:1} \u002B 7 = 8\r\n{txt:0} \u002B 8 = 8",
+      "taskMask": "5 \u002B {txt:3} = 8\r\n6 \u002B {txt:2} = 8\r\n4 \u002B {txt:4} = 8\r\n{txt:1} \u002B 7 = 8\r\n{txt:0} \u002B 8 = 8",
       "nameA": null,
       "image": null,
       "bg": null,
