@@ -5,6 +5,7 @@
   "minQuiz": 12,
   "isRandom": false,
   "isBlur": true,
+  "isUpper": false,
   "isForAdult": false,
   "separator": " ",
   "numWords": 3,
@@ -19,23 +20,23 @@
   "items": [
     {
       "id": 0,
-      "name": "make a sentence out of words",
+      "name": "Whats\u0027s your name?",
       "transcription": "",
       "nameA": null,
       "image": " ",
-      "bg": "white",
+      "bg": "",
       "nameAnswer": "[Whats\u0027s][your][name]?",
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "составь предложение из слов: как тебя зовут?",
+          "name": "как тебя зовут?",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "make a sentence out of words",
+      "name": "I\u0027am Mike",
       "transcription": "",
       "nameA": null,
       "image": " ",
@@ -44,14 +45,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "составь предложение из слов: меня зовут Майк",
+          "name": "Меня зовут Майк",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "make a sentence out of words",
+      "name": "I\u0027am seven",
       "transcription": "",
       "nameA": null,
       "image": " ",
@@ -60,7 +61,7 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "составь предложение из слов: мне семь лет",
+          "name": "Мне семь лет",
           "nameA": null
         }
       ]
