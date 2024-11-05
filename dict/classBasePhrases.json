@@ -6,9 +6,10 @@
   "isRandom": false,
   "isBlur": true,
   "isUpper": false,
+  "isByWords": true,
   "isForAdult": false,
   "separator": " ",
-  "numWords": 3,
+  "numWords": 28,
   "tags": null,
   "Translations": [
     {
@@ -25,23 +26,23 @@
       "nameA": null,
       "image": " ",
       "bg": "",
-      "nameAnswer": "[Whats\u0027s][your][name]?",
+      "nameAnswer": "",
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "как тебя зовут?",
+          "name": "Как тебя зовут?",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "I\u0027am Mike",
+      "name": "I\u0027m Mike",
       "transcription": "",
       "nameA": null,
       "image": " ",
-      "bg": "white",
-      "nameAnswer": "[I\u0027am][Mike]",
+      "bg": "",
+      "nameAnswer": "",
       "translates": [
         {
           "lang": "ru-RU",
@@ -52,16 +53,416 @@
     },
     {
       "id": 0,
-      "name": "I\u0027am seven",
+      "name": "What a nice name!",
       "transcription": "",
       "nameA": null,
       "image": " ",
-      "bg": "white",
-      "nameAnswer": "[I\u0027am][seven]",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какое приятное имя",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "I\u0027m seven",
+      "transcription": "",
+      "nameA": null,
+      "image": " ",
+      "bg": "",
+      "nameAnswer": "",
       "translates": [
         {
           "lang": "ru-RU",
           "name": "Мне семь лет",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "How old are you?",
+      "transcription": "",
+      "nameA": null,
+      "image": " ",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько тебе лет?",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Look at me!",
+      "transcription": "",
+      "nameA": null,
+      "image": " ",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посмотри на меня",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Listen to me!",
+      "transcription": "",
+      "nameA": null,
+      "image": " ",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Послушай меня",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "My turn",
+      "transcription": "",
+      "nameA": null,
+      "image": " ",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Моя очередь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "What\u0027s this?",
+      "transcription": "",
+      "nameA": null,
+      "image": " ",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что это такое?",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Is it a backpack? Yes, it is!",
+      "transcription": "",
+      "nameA": null,
+      "image": "/img/dict/classroom/backpack.png",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это рюкзак? Да, это он!",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Is it a pen? No, it isn\u0027t! It\u0027s a pencil",
+      "transcription": "",
+      "nameA": null,
+      "image": "/img/dict/classroom/pencil.png",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это ручка? Нет! Это карандаш.",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Sit at your desk, please",
+      "transcription": "",
+      "nameA": null,
+      "image": "/img/dict/classroom/desk.png",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Садитесь за парты, пожалуйста",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Now get a pen",
+      "transcription": "",
+      "nameA": null,
+      "image": "",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А сейчас возьмите ручки",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Open your book, please",
+      "transcription": "",
+      "nameA": null,
+      "image": "/img/dict/classroom/book.png",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Откройте ваши учебники, пожалуйста",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Open your copybook, please",
+      "transcription": "",
+      "nameA": null,
+      "image": "/img/dict/classroom/copybook.png",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Откройте ваши тетради, пожалуйста",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Write this word, please",
+      "transcription": "",
+      "nameA": null,
+      "image": " ",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Запишите это слово, пожалуйста",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Write one to ten",
+      "transcription": "",
+      "nameA": null,
+      "image": "/img/dict/math/ruler10.png",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Напишите от 1 до 10",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Write your name",
+      "transcription": "",
+      "nameA": null,
+      "image": " ",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Напишите ваше имя",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Close your bag, please",
+      "transcription": "",
+      "nameA": null,
+      "image": "",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Закройте ваши сумки пожалуйста",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Pass me a pencil, please",
+      "transcription": "",
+      "nameA": null,
+      "image": "",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Передай мне пожалуйста карандаш",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Here you are",
+      "transcription": "",
+      "nameA": null,
+      "image": " ",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пожалуйста",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Watch out!",
+      "transcription": "",
+      "nameA": null,
+      "image": " ",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Осторожно",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Come back",
+      "transcription": "",
+      "nameA": null,
+      "image": " ",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вернись",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "I\u0027m sorry",
+      "transcription": "",
+      "nameA": null,
+      "image": " ",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я сожалею",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Here\u0027s your ruler",
+      "transcription": "",
+      "nameA": null,
+      "image": "/img/dict/classroom/ruler.png",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вот твоя линейка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "What is it?",
+      "transcription": "",
+      "nameA": null,
+      "image": " ",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что это?",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Put away your book, please",
+      "transcription": "",
+      "nameA": null,
+      "image": " ",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": " Уберите вашу книгу",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Take out your pen, please",
+      "transcription": "",
+      "nameA": null,
+      "image": "",
+      "bg": "",
+      "nameAnswer": "",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Достаньте вашу ручку",
           "nameA": null
         }
       ]
