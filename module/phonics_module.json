@@ -11,7 +11,7 @@
           "minunlockid": 0,
           "unlockid": 1,
           "name": "/S/ s, ss, c",
-          "aType": "UNIVERSAL",
+          "aType": "ListSwipe",
           "img": "/img/dict/abc/voice_blue.png",
           "rUrl": "phon_s",
           "numAct": 1
@@ -21,17 +21,17 @@
           "minunlockid": 0,
           "unlockid": 1,
           "name": "/a/ a",
-          "aType": "UNIVERSAL",
+          "aType": "ListSwipe",
           "img": "/img/dict/abc/voice_red.png",
           "rUrl": "phon_a",
-          "numAct": 1
+          "numAct": 13
         },
         {
           "id": 3,
           "minunlockid": 0,
           "unlockid": 1,
           "name": "/t/ t, tt, ed",
-          "aType": "UNIVERSAL",
+          "aType": "ListSwipe",
           "img": "/img/dict/abc/voice_blue.png",
           "rUrl": "phon_t",
           "numAct": 1
@@ -41,7 +41,7 @@
           "minunlockid": 0,
           "unlockid": 1,
           "name": "/i/ i, y, i_e",
-          "aType": "UNIVERSAL",
+          "aType": "ListSwipe",
           "img": "/img/dict/abc/voice_red.png",
           "rUrl": " ",
           "numAct": 1
@@ -51,7 +51,7 @@
           "minunlockid": 0,
           "unlockid": 1,
           "name": "/p/ p, pp",
-          "aType": "UNIVERSAL",
+          "aType": "ListSwipe",
           "img": "/img/dict/abc/voice_blue.png",
           "rUrl": " ",
           "numAct": 1
@@ -62,7 +62,7 @@
           "minunlockid": 0,
           "unlockid": 1,
           "name": "/n/ n, nn, kn",
-          "aType": "UNIVERSAL",
+          "aType": "ListSwipe",
           "img": "/img/dict/abc/voice_blue.png",
           "rUrl": " ",
           "numAct": 1

@@ -46,7 +46,7 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "",
+          "name": "Муравей",
           "nameA": null
         }
       ]
@@ -62,23 +62,23 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "",
+          "name": "Аллигатор",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Ax",
+      "name": "Axe",
       "transcription": "[æks]",
       "nameA": "",
-      "image": "/img/dict/home/ax.png",
+      "image": "/img/dict/home/axe.png",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "",
+          "name": "Топор",
           "nameA": null
         }
       ]
@@ -94,7 +94,7 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "",
+          "name": "Яблоко",
           "nameA": null
         }
       ]
@@ -110,7 +110,7 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "",
+          "name": "Шляпа",
           "nameA": null
         }
       ]
@@ -126,7 +126,7 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "",
+          "name": "Летучая мышь",
           "nameA": null
         }
       ]
@@ -142,7 +142,7 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "",
+          "name": "Кошка",
           "nameA": null
         }
       ]
@@ -158,7 +158,7 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "",
+          "name": "Крыса",
           "nameA": null
         }
       ]
@@ -174,7 +174,7 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "",
+          "name": "Коврик",
           "nameA": null
         }
       ]
@@ -190,7 +190,7 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "",
+          "name": "Варенье",
           "nameA": null
         }
       ]
@@ -206,7 +206,7 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "",
+          "name": "Лампа",
           "nameA": null
         }
       ]
@@ -216,13 +216,13 @@
       "name": "Stamp",
       "transcription": "[stæmp]",
       "nameA": "",
-      "image": "/img/dict/vacation/stamp.png",
+      "image": "/img/dict/travel/stamp.png",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "",
+          "name": "Марка",
           "nameA": null
         }
       ]
