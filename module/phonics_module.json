@@ -13,7 +13,7 @@
           "name": "/S/ s, ss, c",
           "aType": "UNIVERSAL",
           "img": "/img/dict/abc/voice_blue.png",
-          "rUrl": " ",
+          "rUrl": "phon_s",
           "numAct": 1
         },
         {
@@ -23,7 +23,7 @@
           "name": "/a/ a",
           "aType": "UNIVERSAL",
           "img": "/img/dict/abc/voice_red.png",
-          "rUrl": " ",
+          "rUrl": "phon_a",
           "numAct": 1
         },
         {
@@ -33,7 +33,7 @@
           "name": "/t/ t, tt, ed",
           "aType": "UNIVERSAL",
           "img": "/img/dict/abc/voice_blue.png",
-          "rUrl": " ",
+          "rUrl": "phon_t",
           "numAct": 1
         },
         {

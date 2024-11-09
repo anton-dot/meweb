@@ -1,0 +1,55 @@
+{
+  "name": "Phonics /S/",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 2,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "/S/",
+      "transcription": "",
+      "nameA": "/sound/dict/s.",
+      "image": "/img/dict/abc/S.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Алфавит",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Snake",
+      "transcription": "[sneɪk]",
+      "nameA": "",
+      "image": "/img/dict/animals/snake.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Змея",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}
