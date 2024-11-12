@@ -14,7 +14,7 @@
           "aType": "ListSwipe",
           "img": "/img/dict/abc/voice_blue.png",
           "rUrl": "phon_s",
-          "numAct": 1
+          "numAct": 35
         },
         {
           "id": 2,
@@ -34,7 +34,7 @@
           "aType": "ListSwipe",
           "img": "/img/dict/abc/voice_blue.png",
           "rUrl": "phon_t",
-          "numAct": 1
+          "numAct": 16
         },
         {
           "id": 4,
@@ -43,8 +43,8 @@
           "name": "/i/ i, y, i_e",
           "aType": "ListSwipe",
           "img": "/img/dict/abc/voice_red.png",
-          "rUrl": " ",
-          "numAct": 1
+          "rUrl": "phon_i",
+          "numAct": 17
         },
         {
           "id": 5,

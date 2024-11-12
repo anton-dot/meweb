@@ -1,0 +1,295 @@
+{
+  "name": "Phonics /I/",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 17,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "/I/",
+      "transcription": "",
+      "nameA": "/sound/dict/i.mp3",
+      "image": "",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "internet",
+      "transcription": "[ˈɪntərnet]",
+      "nameA": "",
+      "image": "/img/dict/technology/internet.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Интернет",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Gymnast",
+      "transcription": "[ˈdʒɪmnæst]",
+      "nameA": "",
+      "image": "/img/dict/sports/gymnast.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Гимнаст",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Engine",
+      "transcription": "[ˈendʒɪn]",
+      "nameA": "",
+      "image": "/img/dict/transport/engine.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Двигатель",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Igloo",
+      "transcription": "[ˈɪɡluː]",
+      "nameA": "",
+      "image": "/img/dict/home/Igloo.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Иглу",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ink",
+      "transcription": "[ɪŋk]",
+      "nameA": "",
+      "image": "/img/dict/classroom/ink.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Чернила",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "pig",
+      "transcription": "[pɪɡ]",
+      "nameA": "",
+      "image": "/img/dict/animals/pig.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Свинья",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "brick",
+      "transcription": "[brɪk]",
+      "nameA": "",
+      "image": "/img/dict/home/brick.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кирпич",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "lips",
+      "transcription": "[ˈlɪps]",
+      "nameA": "",
+      "image": "/img/dict/body/lip.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Губы",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "insect",
+      "transcription": "[ˈɪnsekt]",
+      "nameA": "",
+      "image": "/img/dict/animals/insect.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Насекомое",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "gym",
+      "transcription": "[dʒɪm]",
+      "nameA": "",
+      "image": "/img/dict/city/gym.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тренажерный зал",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "pyramid",
+      "transcription": "[ˈpɪrəmɪd]",
+      "nameA": "",
+      "image": "/img/dict/shapes/pyramid.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пирамида",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "puppy",
+      "transcription": "[ˈpʌpɪ]",
+      "nameA": "",
+      "image": "/img/dict/animals/puppy.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Щенок",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "body",
+      "transcription": "[ˈbɑːdɪ]",
+      "nameA": "",
+      "image": "/img/dict/body/body.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тело",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ski",
+      "transcription": "[skiː]",
+      "nameA": "",
+      "image": "/img/dict/sports/ski.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ladybug",
+      "transcription": "[ˈleɪdɪˌbəɡ]",
+      "nameA": "",
+      "image": "/img/dict/animals/ladybug.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Божья коровка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "iguana",
+      "transcription": "[ɪˈɡwɑːnə]",
+      "nameA": "",
+      "image": "/img/dict/animals/iguana.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Игуана",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}
