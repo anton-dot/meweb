@@ -53,19 +53,19 @@
           "name": "/p/ p, pp",
           "aType": "ListSwipe",
           "img": "/img/dict/abc/voice_blue.png",
-          "rUrl": " ",
-          "numAct": 1
+          "rUrl": "phon_p",
+          "numAct": 10
         }
         ,
         {
           "id": 5,
           "minunlockid": 0,
           "unlockid": 1,
-          "name": "/n/ n, nn, kn",
+          "name": "/n/ n, nn, kn, gn",
           "aType": "ListSwipe",
           "img": "/img/dict/abc/voice_blue.png",
-          "rUrl": " ",
-          "numAct": 1
+          "rUrl": "phon_n",
+          "numAct": 14
         }
          
       ]

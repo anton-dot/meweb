@@ -1,0 +1,247 @@
+{
+  "name": "Phonics /N/",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 14,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "/N/",
+      "transcription": "",
+      "nameA": "/sound/dict/n.mp3",
+      "image": "",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Toucan",
+      "transcription": "[ˈtuːkæn]",
+      "nameA": "",
+      "image": "/img/dict/animals/toucan.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тукан",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "Ant",
+      "transcription": "[ænt]",
+      "nameA": "",
+      "image": "/img/dict/animals/ant.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Муравей",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "knee",
+      "transcription": "[niː]",
+      "nameA": "",
+      "image": "/img/dict/body/knee.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Колено",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "knife",
+      "transcription": "[naɪf]",
+      "nameA": "",
+      "image": "/img/dict/home/knife.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Нож",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "knight",
+      "transcription": "[naɪt]",
+      "nameA": "",
+      "image": "/img/dict/profs/knight.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Нож",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "gnome",
+      "transcription": "[nəʊm]",
+      "nameA": "",
+      "image": "/img/dict/home/gnome.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Гном",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "sign",
+      "transcription": "[saɪn]",
+      "nameA": "",
+      "image": "/img/dict/city/sign.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Указатель",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "night",
+      "transcription": "[naɪt]",
+      "nameA": "",
+      "image": "/img/dict/seasons/night.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ночь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "funnel",
+      "transcription": "[ˈfʌnl]",
+      "nameA": "",
+      "image": "/img/dict/home/funnel.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Воронка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "tennis",
+      "transcription": "[ˈtenɪs]",
+      "nameA": "",
+      "image": "/img/dict/sports/tennis.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теннис",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "corn",
+      "transcription": "[kɔːrn]",
+      "nameA": "",
+      "image": "/img/dict/food/corn.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кукуруза",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "nest",
+      "transcription": "[nest]",
+      "nameA": "",
+      "image": "/img/dict/animals/nest.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Гнездо",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "designer",
+      "transcription": "[dɪˈzaɪnər]",
+      "nameA": "",
+      "image": "/img/dict/profs/designer.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дизайнер",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}
