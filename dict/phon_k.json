@@ -1,0 +1,711 @@
+{
+  "name": "Phonics /K/",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 43,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "/k/",
+      "transcription": "",
+      "nameA": "/sound/dict/k.mp3",
+      "image": "",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "kite",
+      "transcription": "[skiː]",
+      "nameA": "",
+      "image": "/img/dict/sports/ski.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "key",
+      "transcription": "[kiː]",
+      "nameA": "",
+      "image": "/img/dict/home/key.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ski",
+      "transcription": "[skiː]",
+      "nameA": "",
+      "image": "/img/dict/sports/ski.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bike",
+      "transcription": "[kiː]",
+      "nameA": "",
+      "image": "/img/dict/home/key.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bork",
+      "transcription": "[kiː]",
+      "nameA": "",
+      "image": "/img/dict/home/key.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ink",
+      "transcription": "[ɪŋk]",
+      "nameA": "",
+      "image": "/img/dict/classroom/ink.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Чернила",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "cactus",
+      "transcription": "[skiː]",
+      "nameA": "",
+      "image": "/img/dict/sports/ski.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "camp",
+      "transcription": "[skiː]",
+      "nameA": "",
+      "image": "/img/dict/sports/ski.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "cat",
+      "transcription": "[skiː]",
+      "nameA": "",
+      "image": "/img/dict/sports/ski.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "picnic",
+      "transcription": "[skiː]",
+      "nameA": "",
+      "image": "/img/dict/sports/ski.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "broccoli",
+      "transcription": "[ˈsɑːks]",
+      "nameA": "",
+      "image": "/img/dict/clothes/socks.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "boudicca",
+      "transcription": "[ˈsɑːks]",
+      "nameA": "",
+      "image": "/img/dict/clothes/socks.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "accomodation",
+      "transcription": "[ˈsɑːks]",
+      "nameA": "",
+      "image": "/img/dict/clothes/socks.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "accasion",
+      "transcription": "[ˈsɑːks]",
+      "nameA": "",
+      "image": "/img/dict/clothes/socks.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "insect",
+      "transcription": "[ˈɪnsekt]",
+      "nameA": "",
+      "image": "/img/dict/animals/insect.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Насекомое",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "brick",
+      "transcription": "[brɪk]",
+      "nameA": "",
+      "image": "/img/dict/home/brick.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кирпич",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "socks",
+      "transcription": "[ˈsɑːks]",
+      "nameA": "",
+      "image": "/img/dict/clothes/socks.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "duck",
+      "transcription": "[kiː]",
+      "nameA": "",
+      "image": "/img/dict/home/key.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bucket",
+      "transcription": "[ˈsɑːks]",
+      "nameA": "",
+      "image": "/img/dict/clothes/socks.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "chicken",
+      "transcription": "[ˈsɑːks]",
+      "nameA": "",
+      "image": "/img/dict/clothes/socks.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "back",
+      "transcription": "[bæk]",
+      "nameA": "",
+      "image": "/img/dict/body/back.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Спина",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "queen",
+      "transcription": "[skiː]",
+      "nameA": "",
+      "image": "/img/dict/sports/ski.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bouquet",
+      "transcription": "[skiː]",
+      "nameA": "",
+      "image": "/img/dict/sports/ski.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "aquarium",
+      "transcription": "[ˈsɑːks]",
+      "nameA": "",
+      "image": "/img/dict/clothes/socks.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "liquid",
+      "transcription": "[ˈsɑːks]",
+      "nameA": "",
+      "image": "/img/dict/clothes/socks.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "squirrel",
+      "transcription": "[ˈsɑːks]",
+      "nameA": "",
+      "image": "/img/dict/animals/squirrel.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Белка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "queue",
+      "transcription": "[kjuː]",
+      "nameA": "",
+      "image": "/img/dict/clothes/socks.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "antique",
+      "transcription": "[kjuː]",
+      "nameA": "",
+      "image": "/img/dict/clothes/socks.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "plaque",
+      "transcription": "[kjuː]",
+      "nameA": "",
+      "image": "/img/dict/clothes/socks.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "cheque",
+      "transcription": "[kjuː]",
+      "nameA": "",
+      "image": "/img/dict/clothes/socks.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "mosquito",
+      "transcription": "[kjuː]",
+      "nameA": "",
+      "image": "/img/dict/clothes/socks.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "quiche",
+      "transcription": "[kjuː]",
+      "nameA": "",
+      "image": "/img/dict/clothes/socks.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "racquet",
+      "transcription": "[ˈrækət]",
+      "nameA": "",
+      "image": "/img/dict/clothes/socks.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "acquit",
+      "transcription": "[ˈrækət]",
+      "nameA": "",
+      "image": "/img/dict/clothes/socks.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "acquire",
+      "transcription": "[ˈrækət]",
+      "nameA": "",
+      "image": "/img/dict/clothes/socks.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "acquaint",
+      "transcription": "[ˈrækət]",
+      "nameA": "",
+      "image": "/img/dict/clothes/socks.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "anchor",
+      "transcription": "[ˈrækət]",
+      "nameA": "",
+      "image": "/img/dict/clothes/socks.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "orchestra",
+      "transcription": "[ˈrækət]",
+      "nameA": "",
+      "image": "/img/dict/clothes/orchestra.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "chemist",
+      "transcription": "[ˈkemɪst]",
+      "nameA": "",
+      "image": "/img/dict/profs/chemist.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Химик",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ache",
+      "transcription": "[ˈrækət]",
+      "nameA": "",
+      "image": "/img/dict/clothes/socks.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "christmas",
+      "transcription": "[skiː]",
+      "nameA": "",
+      "image": "/img/dict/sports/ski.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "box",
+      "transcription": "[skiː]",
+      "nameA": "",
+      "image": "/img/dict/sports/ski.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кататься на лыжах",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}
