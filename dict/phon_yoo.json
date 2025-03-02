@@ -1,0 +1,535 @@
+{
+  "name": "/juː/ -u, -ue, -ew, -iew",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 32,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "argue",
+      "transcription": "[ˈɑːrɡjuː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Спорить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "barbecue",
+      "transcription": "[ˈbɑːrbɪkjuː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Барбекю",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "muesli",
+      "transcription": "[ˈmjuːzli]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мюсли",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rescue",
+      "transcription": "[ˈrɛskjuː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Спасение",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "statue",
+      "transcription": "[ˈstætʃuː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Статуя",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "tuesday",
+      "transcription": "[ˈtjuːzdeɪ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вторник",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "value",
+      "transcription": "[ˈvæljuː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ценность",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ewe",
+      "transcription": "[juː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Овца",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "few",
+      "transcription": "[fjuː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Немного",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "knew",
+      "transcription": "[njuː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Знать (прош. время)",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "new",
+      "transcription": "[njuː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Новый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "newspaper",
+      "transcription": "[ˈnjuːzˌpeɪpər]",
+      "nameA": "",
+      "image": "/img/dict/home/newspaper.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Газета",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "newt",
+      "transcription": "[njuːt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тритон",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "phew",
+      "transcription": "[fjuː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Фух",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "stew",
+      "transcription": "[stjuː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Рагу",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "music",
+      "transcription": "[ˈmjuːzɪk]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Музыка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "tuna",
+      "transcription": "[ˈtjuːnə]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тунец",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "uniform",
+      "transcription": "[ˈjuːnɪfɔːrm]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Униформа",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "unit",
+      "transcription": "[ˈjuːnɪt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Единица",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "usual",
+      "transcription": "[ˈjuːʒuəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Обычный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "utensil",
+      "transcription": "[juːˈtɛnsəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посуда",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "amuse",
+      "transcription": "[əˈmjuːz]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Развлекать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "confuse",
+      "transcription": "[kənˈfjuːz]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Путать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "cube",
+      "transcription": "[kjuːb]",
+      "nameA": "",
+      "image": "/img/dict/shapes/cube.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Куб",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "cute",
+      "transcription": "[kjuːt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Милый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "huge",
+      "transcription": "[hjuːdʒ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Огромный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "tube",
+      "transcription": "[tjuːb]",
+      "nameA": "",
+      "image": "/img/dict/home/tube.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Трубка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "tune",
+      "transcription": "[tjuːn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мелодия",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "use",
+      "transcription": "[juːz]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Использовать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "deuce",
+      "transcription": "[djuːs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Двойка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "feud",
+      "transcription": "[fjuːd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вражда",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "neutral",
+      "transcription": "[ˈnjuːtrəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Нейтральный",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "name": "/iː/ -ee, -ea, -e, -ie, -ey, -ei",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 34,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "bee",
+      "transcription": "[biː]",
+      "nameA": "",
+      "image": "/img/dict/animals/bee.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пчела",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "eel",
+      "transcription": "[iːl]",
+      "nameA": "",
+      "image": "/img/dict/animals/eel.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Угорь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "green",
+      "transcription": "[ɡriːn]",
+      "nameA": "",
+      "image": "/img/dict/colors/green.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Зеленый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "meet",
+      "transcription": "[miːt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Встречать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "see",
+      "transcription": "[siː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Видеть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "sheet",
+      "transcription": "[ʃiːt]",
+      "nameA": "",
+      "image": "/img/dict/home/sheet.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лист",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "tree",
+      "transcription": "[triː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дерево",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "funny",
+      "transcription": "[ˈfʌni]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Смешной",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "happy",
+      "transcription": "[ˈhæpi]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Счастливый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "sunny",
+      "transcription": "[ˈsʌni]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Солнечный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "beach",
+      "transcription": "[biːtʃ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пляж",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "dream",
+      "transcription": "[driːm]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мечта",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "eat",
+      "transcription": "[iːt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Есть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "sea",
+      "transcription": "[siː]",
+      "nameA": "",
+      "image": "/img/dict/animals/sea.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Море",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "season",
+      "transcription": "[ˈsiːzən]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сезон",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "speak",
+      "transcription": "[spiːk]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Говорить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "be",
+      "transcription": "[biː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Быть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "he",
+      "transcription": "[hiː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Он",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "me",
+      "transcription": "[miː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Меня",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "she",
+      "transcription": "[ʃiː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Она",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "we",
+      "transcription": "[wiː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мы",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "athlete",
+      "transcription": "[ˈæθliːt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Спортсмен",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "complete",
+      "transcription": "[kəmˈpliːt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Завершать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "scene",
+      "transcription": "[siːn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сцена",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "theme",
+      "transcription": "[θiːm]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тема",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "donkey",
+      "transcription": "[ˈdɑŋki]",
+      "nameA": "",
+      "image": "/img/dict/animals/donkey.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Осел",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "key",
+      "transcription": "[kiː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ключ",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "money",
+      "transcription": "[ˈmʌni]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Деньги",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "trolley",
+      "transcription": "[ˈtrɑli]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тележка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "belief",
+      "transcription": "[bɪˈliːf]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вера",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "brief",
+      "transcription": "[briːf]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Краткий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "shield",
+      "transcription": "[ʃiːld]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Щит",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "thief",
+      "transcription": "[θiːf]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вор",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "sardine",
+      "transcription": "[sɑrˈdiːn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сардина",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

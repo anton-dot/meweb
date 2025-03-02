@@ -14,7 +14,7 @@
           "aType": "ListSwipe",
           "img": "/img/dict/abc/voice_blue.png",
           "rUrl": "phon_s",
-          "numAct": 35
+          "numAct": 39
         },
         {
           "id": 2,
@@ -115,7 +115,166 @@
     {
       "name": "Set 7",
       "activities": [
-       
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/ai/ ai, -ay, a, a-e, -ae, -ey, eigh, -ea",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_green.png",
+          "rUrl": "phon_ai",
+          "numAct": 34
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/ee/ -ee, -y, ea, -e, e-e, -ey, -ie, -ine",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_green.png",
+          "rUrl": "phon_ee",
+          "numAct": 34
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/igh/ -igh, -y, -ie, i, i-e",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_green.png",
+          "rUrl": "phon_igh",
+          "numAct": 44
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/oa/ oa, ow, o, o-e, -ough, -oe, -eau",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_green.png",
+          "rUrl": "phon_oa",
+          "numAct": 31
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "short /oo/ -oo-, -oul, -u",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_green.png",
+          "rUrl": "phon_soo",
+          "numAct": 13
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "long /oo/ oo, -ue, -ew, -o, -ou, ough, u-e, -ui, -u",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_green.png",
+          "rUrl": "phon_loo",
+          "numAct": 32
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/yoo/  -ue, ew, u, u-e, eu",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_green.png",
+          "rUrl": "phon_yoo",
+          "numAct": 32
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/ar/  ar, -a, -al",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_green.png",
+          "rUrl": "phon_ar",
+          "numAct": 16
+        },
+        {
+          "id": 4,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/or/  or, aw, -our, au, al, oar, -oor, ore, -augh, ough, war, quar,-a",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_green.png",
+          "rUrl": "phon_or",
+          "numAct": 50
+        },
+        {
+          "id": 5,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/ur/ ur, -er, -ir, ear, wor",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_green.png",
+          "rUrl": "phon_ur",
+          "numAct": 35
+        },
+        {
+          "id": 6,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/ou/ ow, ou, -ough",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_green.png",
+          "rUrl": "phon_ou",
+          "numAct": 16
+        },
+        {
+          "id": 6,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/oi/ oi, oy",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_green.png",
+          "rUrl": "phon_oi",
+          "numAct": 14
+        },
+        {
+          "id": 7,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/eer/ ear, eer, -ere, -ier",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_green.png",
+          "rUrl": "phon_eer",
+          "numAct": 17
+        },
+        {
+          "id": 8,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/air/ air, -are, -ear, -ere",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_green.png",
+          "rUrl": "phon_air",
+          "numAct": 9
+        },
+        {
+          "id": 9,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/yoor/ -ure",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_green.png",
+          "rUrl": "phon_yoor",
+          "numAct": 9
+        },
+        {
+          "id": 10,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "Common & Tricky",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_yellow.png",
+          "rUrl": "phon_tricky",
+          "numAct": 106
+        }
       ]
     }
    

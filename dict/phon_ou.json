@@ -1,5 +1,5 @@
 {
-  "name": "Phonics /T/",
+  "name": "/aʊ/ ow, ou, -ough",
   "nameA": null,
   "img": null,
   "minQuiz": null,
@@ -9,7 +9,7 @@
   "isByWords": false,
   "isForAdult": false,
   "separator": "",
-  "numWords": 20,
+  "numWords": 16,
   "tags": null,
   "Translations": [
     {
@@ -21,264 +21,8 @@
   "items": [
     {
       "id": 0,
-      "name": "/T/",
-      "transcription": "",
-      "nameA": "/sound/dict/t.mp3",
-      "image": "",
-      "bg": "",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Tiger",
-      "transcription": "[ˈtaɪɡər]",
-      "nameA": "",
-      "image": "/img/dict/animals/tiger.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Тигр",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Test",
-      "transcription": "[test]",
-      "nameA": "",
-      "image": "/img/dict/classroom/test.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Тест",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Toucan",
-      "transcription": "[ˈtuːkæn]",
-      "nameA": "",
-      "image": "/img/dict/animals/toucan.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Тукан",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Toe",
-      "transcription": "[təʊ]",
-      "nameA": "",
-      "image": "/img/dict/body/toe.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Палец на ноге",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Ant",
-      "transcription": "[ænt]",
-      "nameA": "",
-      "image": "/img/dict/animals/ant.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Муравей",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Hat",
-      "transcription": "[hæt]",
-      "nameA": "",
-      "image": "/img/dict/clothes/hat.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Шляпа",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Bat",
-      "transcription": "[bæt]",
-      "nameA": "",
-      "image": "/img/dict/animals/bat.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Летучая мышь",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Rat",
-      "transcription": "[ræt]",
-      "nameA": "",
-      "image": "/img/dict/animals/rat.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Крыса",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Straw",
-      "transcription": "[strɔː]",
-      "nameA": "",
-      "image": "/img/dict/home/straw.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Соломинка",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Stamp",
-      "transcription": "[stæmp]",
-      "nameA": "",
-      "image": "/img/dict/travel/stamp.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Марка",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Poster",
-      "transcription": "[ˈpəʊstər]",
-      "nameA": "",
-      "image": "/img/dict/home/poster.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Плакат",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Butter",
-      "transcription": "[ˈbʌtər]",
-      "nameA": "",
-      "image": "/img/dict/food/butter.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Масло",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Butterfly",
-      "transcription": "[ˈbʌtərflaɪ]",
-      "nameA": "",
-      "image": "/img/dict/animals/butterfly.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Бабочка",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Kettle",
-      "transcription": "[ˈketl]",
-      "nameA": "",
-      "image": "/img/dict/home/kettle.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Чайник",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Rattle",
-      "transcription": "[ˈketl]",
-      "nameA": "",
-      "image": "/img/dict/home/rattle.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Погремушка",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "Dropped",
-      "transcription": "[ˈdrɑːpt]",
+      "name": "clown",
+      "transcription": "[klaʊn]",
       "nameA": "",
       "image": " ",
       "bg": "transparent",
@@ -286,15 +30,31 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "упавший",
+          "name": "Клоун",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Kicked",
-      "transcription": "[ˈkɪkt]",
+      "name": "cow",
+      "transcription": "[kaʊ]",
+      "nameA": "",
+      "image": "/img/dict/animals/cow.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Корова",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "down",
+      "transcription": "[daʊn]",
       "nameA": "",
       "image": " ",
       "bg": "transparent",
@@ -302,15 +62,15 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Выгнанный",
+          "name": "Вниз",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Jumped",
-      "transcription": "[ˈdʒəmpt]",
+      "name": "flower",
+      "transcription": "[ˈflaʊər]",
       "nameA": "",
       "image": " ",
       "bg": "transparent",
@@ -318,15 +78,15 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Прыгнул",
+          "name": "Цветок",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Stoped",
-      "transcription": "[]",
+      "name": "frown",
+      "transcription": "[fraʊn]",
       "nameA": "",
       "image": " ",
       "bg": "transparent",
@@ -334,7 +94,183 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Остановленный",
+          "name": "Хмуриться",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "owl",
+      "transcription": "[aʊl]",
+      "nameA": "",
+      "image": "/img/dict/animals/owl.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сова",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "power",
+      "transcription": "[ˈpaʊər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сила",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "town",
+      "transcription": "[taʊn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Город",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "about",
+      "transcription": "[əˈbaʊt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "О",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "found",
+      "transcription": "[faʊnd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Найденный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ground",
+      "transcription": "[ɡraʊnd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Земля",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "house",
+      "transcription": "[haʊs]",
+      "nameA": "",
+      "image": "/img/dict/animals/house.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дом",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "mouse",
+      "transcription": "[maʊs]",
+      "nameA": "",
+      "image": "/img/dict/animals/mouse.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мышь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "mouth",
+      "transcription": "[maʊθ]",
+      "nameA": "",
+      "image": "/img/dict/body/mouth.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Рот",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "out",
+      "transcription": "[aʊt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вне",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "plough",
+      "transcription": "[plaʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Плуг",
           "nameA": null
         }
       ]

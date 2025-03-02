@@ -1,0 +1,583 @@
+{
+  "name": "/ɜːr/ -ur, -ir, -er, -or",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 35,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "burn",
+      "transcription": "[bɜːrn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Гореть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "curl",
+      "transcription": "[kɜːrl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Завиток",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "nurse",
+      "transcription": "[nɜːrs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Медсестра",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "purse",
+      "transcription": "[pɜːrs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кошелек",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "turn",
+      "transcription": "[tɜːrn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Поворачивать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "urn",
+      "transcription": "[ɜːrn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Урна",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "fern",
+      "transcription": "[fɜːrn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Папоротник",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "her",
+      "transcription": "[hɜːr]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Её",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "herb",
+      "transcription": "[ɜːrb]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Трава",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "kerb",
+      "transcription": "[kɜːrb]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Бордюр",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "perfect",
+      "transcription": "[ˈpɜːrfɪkt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Идеальный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "stern",
+      "transcription": "[stɜːrn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Строгий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bird",
+      "transcription": "[bɜːrd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Птица",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "birthday",
+      "transcription": "[ˈbɜːrθdeɪ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "День рождения",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "first",
+      "transcription": "[fɜːrst]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Первый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "girl",
+      "transcription": "[ɡɜːrl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Девочка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "shirt",
+      "transcription": "[ʃɜːrt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Рубашка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "skirt",
+      "transcription": "[skɜːrt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Юбка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "stir",
+      "transcription": "[stɜːr]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Размешивать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "thirsty",
+      "transcription": "[ˈθɜːrsti]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Жаждущий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "twirl",
+      "transcription": "[twɜːrl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вращать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "early",
+      "transcription": "[ˈɜːrli]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ранний",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "earn",
+      "transcription": "[ɜːrn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Зарабатывать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "earth",
+      "transcription": "[ɜːrθ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Земля",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "heard",
+      "transcription": "[hɜːrd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Услышанный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "learn",
+      "transcription": "[lɜːrn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Учить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "pearl",
+      "transcription": "[pɜːrl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Жемчуг",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "search",
+      "transcription": "[sɜːrtʃ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Поиск",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "word",
+      "transcription": "[wɜːrd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Слово",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "work",
+      "transcription": "[wɜːrk]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Работа",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "world",
+      "transcription": "[wɜːrld]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мир",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "worm",
+      "transcription": "[wɜːrm]",
+      "nameA": "",
+      "image": "/img/dict/animals/worm.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Червь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "worse",
+      "transcription": "[wɜːrs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хуже",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "worst",
+      "transcription": "[wɜːrst]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Худший",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "worth",
+      "transcription": "[wɜːrθ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Стоимость",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

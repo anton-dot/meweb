@@ -1,5 +1,5 @@
 {
-  "name": "Phonics /P/",
+  "name": "/oi/ oi, oy",
   "nameA": null,
   "img": null,
   "minQuiz": null,
@@ -9,7 +9,7 @@
   "isByWords": false,
   "isForAdult": false,
   "separator": "",
-  "numWords": 11,
+  "numWords": 14,
   "tags": null,
   "Translations": [
     {
@@ -21,176 +21,224 @@
   "items": [
     {
       "id": 0,
-      "name": "/P/",
-      "transcription": "",
-      "nameA": "/sound/dict/p.mp3",
-      "image": "",
-      "bg": "",
+      "name": "coin",
+      "transcription": "[kɔɪn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "",
+          "name": "Монета",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "pig",
-      "transcription": "[pɪɡ]",
+      "name": "foil",
+      "transcription": "[fɔɪl]",
       "nameA": "",
-      "image": "/img/dict/animals/pig.png",
+      "image": "/img/dict/home/foil.png",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Свинья",
+          "name": "Фольга",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "pink",
-      "transcription": "[pɪŋk]",
+      "name": "join",
+      "transcription": "[dʒɔɪn]",
       "nameA": "",
-      "image": "/img/dict/colors/pink.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Розовый",
+          "name": "Присоединиться",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "pyramid",
-      "transcription": "[ˈpɪrəmɪd]",
+      "name": "oil",
+      "transcription": "[ɔɪl]",
       "nameA": "",
-      "image": "/img/dict/shapes/pyramid.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Пирамида",
+          "name": "Масло",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "lips",
-      "transcription": "[ˈlɪps]",
+      "name": "point",
+      "transcription": "[pɔɪnt]",
       "nameA": "",
-      "image": "/img/dict/body/lip.png",
+      "image": "/img/dict/shapes/point.png",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Губы",
+          "name": "Точка",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "newspaper",
-      "transcription": "[ˈnuːzpeɪpər]",
+      "name": "soil",
+      "transcription": "[sɔɪl]",
       "nameA": "",
-      "image": "/img/dict/home/newspaper.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Газета",
+          "name": "Почва",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "puppy",
-      "transcription": "[ˈpʌpɪ]",
+      "name": "spoil",
+      "transcription": "[spɔɪl]",
       "nameA": "",
-      "image": "/img/dict/animals/puppy.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Щенок",
+          "name": "Портить",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "happy",
-      "transcription": "[ˈhæpɪ]",
+      "name": "annoy",
+      "transcription": "[əˈnɔɪ]",
       "nameA": "",
-      "image": "/img/dict/emoji/smile.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Счастливый",
+          "name": "Раздражать",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "slippers",
-      "transcription": "[sˈlɪpərz]",
+      "name": "boy",
+      "transcription": "[bɔɪ]",
       "nameA": "",
-      "image": "/img/dict/home/slippers.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Тапочки",
+          "name": "Мальчик",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "hippo",
-      "transcription": "[ˈhɪpəʊ]",
+      "name": "destroy",
+      "transcription": "[dɪˈstrɔɪ]",
       "nameA": "",
-      "image": "/img/dict/animals/hippo.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Бегемот",
+          "name": "Уничтожать",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "apple",
-      "transcription": "[ˈæpl]",
+      "name": "enjoy",
+      "transcription": "[ɪnˈdʒɔɪ]",
       "nameA": "",
-      "image": "/img/dict/food/apple.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Яблоко",
+          "name": "Наслаждаться",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "oyster",
+      "transcription": "[ˈɔɪstər]",
+      "nameA": "",
+      "image": "/img/dict/animals/oyster.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Устрица",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "royal",
+      "transcription": "[ˈrɔɪəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Королевский",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "toy",
+      "transcription": "[tɔɪ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Игрушка",
           "nameA": null
         }
       ]

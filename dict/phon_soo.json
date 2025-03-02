@@ -1,5 +1,5 @@
 {
-  "name": "Phonics /P/",
+  "name": "/ʊ/ -oo, -oul, -u",
   "nameA": null,
   "img": null,
   "minQuiz": null,
@@ -9,7 +9,7 @@
   "isByWords": false,
   "isForAdult": false,
   "separator": "",
-  "numWords": 11,
+  "numWords": 13,
   "tags": null,
   "Translations": [
     {
@@ -21,176 +21,208 @@
   "items": [
     {
       "id": 0,
-      "name": "/P/",
-      "transcription": "",
-      "nameA": "/sound/dict/p.mp3",
-      "image": "",
-      "bg": "",
+      "name": "book",
+      "transcription": "[bʊk]",
+      "nameA": "",
+      "image": "/img/dict/classroom/book.png",
+      "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "",
+          "name": "Книга",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "pig",
-      "transcription": "[pɪɡ]",
+      "name": "cook",
+      "transcription": "[kʊk]",
       "nameA": "",
-      "image": "/img/dict/animals/pig.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Свинья",
+          "name": "Готовить",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "pink",
-      "transcription": "[pɪŋk]",
+      "name": "foot",
+      "transcription": "[fʊt]",
       "nameA": "",
-      "image": "/img/dict/colors/pink.png",
+      "image": "/img/dict/body/foot.png",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Розовый",
+          "name": "Нога",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "pyramid",
-      "transcription": "[ˈpɪrəmɪd]",
+      "name": "look",
+      "transcription": "[lʊk]",
       "nameA": "",
-      "image": "/img/dict/shapes/pyramid.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Пирамида",
+          "name": "Смотреть",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "lips",
-      "transcription": "[ˈlɪps]",
+      "name": "rook",
+      "transcription": "[rʊk]",
       "nameA": "",
-      "image": "/img/dict/body/lip.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Губы",
+          "name": "Ладья",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "newspaper",
-      "transcription": "[ˈnuːzpeɪpər]",
+      "name": "shook",
+      "transcription": "[ʃʊk]",
       "nameA": "",
-      "image": "/img/dict/home/newspaper.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Газета",
+          "name": "Потрясенный",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "puppy",
-      "transcription": "[ˈpʌpɪ]",
+      "name": "took",
+      "transcription": "[tʊk]",
       "nameA": "",
-      "image": "/img/dict/animals/puppy.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Щенок",
+          "name": "Взял",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "happy",
-      "transcription": "[ˈhæpɪ]",
+      "name": "could",
+      "transcription": "[kʊd]",
       "nameA": "",
-      "image": "/img/dict/emoji/smile.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Счастливый",
+          "name": "Мог",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "slippers",
-      "transcription": "[sˈlɪpərz]",
+      "name": "should",
+      "transcription": "[ʃʊd]",
       "nameA": "",
-      "image": "/img/dict/home/slippers.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Тапочки",
+          "name": "Должен",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "hippo",
-      "transcription": "[ˈhɪpəʊ]",
+      "name": "would",
+      "transcription": "[wʊd]",
       "nameA": "",
-      "image": "/img/dict/animals/hippo.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Бегемот",
+          "name": "Был бы",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "apple",
-      "transcription": "[ˈæpl]",
+      "name": "pull",
+      "transcription": "[pʊl]",
       "nameA": "",
-      "image": "/img/dict/food/apple.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Яблоко",
+          "name": "Тянуть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "push",
+      "transcription": "[pʊʃ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Толкать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "put",
+      "transcription": "[pʊt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Положить",
           "nameA": null
         }
       ]

@@ -1,5 +1,5 @@
 {
-  "name": "Phonics /P/",
+  "name": "/yoor/ -ure",
   "nameA": null,
   "img": null,
   "minQuiz": null,
@@ -9,7 +9,7 @@
   "isByWords": false,
   "isForAdult": false,
   "separator": "",
-  "numWords": 11,
+  "numWords": 9,
   "tags": null,
   "Translations": [
     {
@@ -21,176 +21,144 @@
   "items": [
     {
       "id": 0,
-      "name": "/P/",
-      "transcription": "",
-      "nameA": "/sound/dict/p.mp3",
-      "image": "",
-      "bg": "",
+      "name": "cure",
+      "transcription": "[kjʊr]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "",
+          "name": "Лечение",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "pig",
-      "transcription": "[pɪɡ]",
+      "name": "immature",
+      "transcription": "[ˌɪməˈtʃʊr]",
       "nameA": "",
-      "image": "/img/dict/animals/pig.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Свинья",
+          "name": "Незрелый",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "pink",
-      "transcription": "[pɪŋk]",
+      "name": "impure",
+      "transcription": "[ɪmˈpjʊr]",
       "nameA": "",
-      "image": "/img/dict/colors/pink.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Розовый",
+          "name": "Нечистый",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "pyramid",
-      "transcription": "[ˈpɪrəmɪd]",
+      "name": "insecure",
+      "transcription": "[ˌɪnsɪˈkjʊr]",
       "nameA": "",
-      "image": "/img/dict/shapes/pyramid.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Пирамида",
+          "name": "Неуверенный",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "lips",
-      "transcription": "[ˈlɪps]",
+      "name": "pure",
+      "transcription": "[pjʊr]",
       "nameA": "",
-      "image": "/img/dict/body/lip.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Губы",
+          "name": "Чистый",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "newspaper",
-      "transcription": "[ˈnuːzpeɪpər]",
+      "name": "mature",
+      "transcription": "[məˈtʃʊr]",
       "nameA": "",
-      "image": "/img/dict/home/newspaper.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Газета",
+          "name": "Зрелый",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "puppy",
-      "transcription": "[ˈpʌpɪ]",
+      "name": "obscure",
+      "transcription": "[əbˈskjʊr]",
       "nameA": "",
-      "image": "/img/dict/animals/puppy.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Щенок",
+          "name": "Неясный",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "happy",
-      "transcription": "[ˈhæpɪ]",
+      "name": "secure",
+      "transcription": "[sɪˈkjʊr]",
       "nameA": "",
-      "image": "/img/dict/emoji/smile.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Счастливый",
+          "name": "Безопасный",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "slippers",
-      "transcription": "[sˈlɪpərz]",
+      "name": "nature",
+      "transcription": "[ˈneɪtʃər]",
       "nameA": "",
-      "image": "/img/dict/home/slippers.png",
+      "image": " ",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Тапочки",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "hippo",
-      "transcription": "[ˈhɪpəʊ]",
-      "nameA": "",
-      "image": "/img/dict/animals/hippo.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Бегемот",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "apple",
-      "transcription": "[ˈæpl]",
-      "nameA": "",
-      "image": "/img/dict/food/apple.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Яблоко",
+          "name": "Природа",
           "nameA": null
         }
       ]

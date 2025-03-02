@@ -1,0 +1,519 @@
+{
+  "name": "/oʊ/ -oa, -ow, -o, -oe, -eau",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 31,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "boat",
+      "transcription": "[boʊt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лодка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "croak",
+      "transcription": "[kroʊk]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Квакать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "goat",
+      "transcription": "[ɡoʊt]",
+      "nameA": "",
+      "image": "/img/dict/animals/goat.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Коза",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "oak",
+      "transcription": "[oʊk]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дуб",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "road",
+      "transcription": "[roʊd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дорога",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "toad",
+      "transcription": "[toʊd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Жаба",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bow",
+      "transcription": "[boʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лук (оружие)",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "blow",
+      "transcription": "[bloʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дуть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "follow",
+      "transcription": "[ˈfɑloʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Следовать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "own",
+      "transcription": "[oʊn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Собственный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "snow",
+      "transcription": "[snoʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Снег",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "throw",
+      "transcription": "[θroʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Бросать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "fold",
+      "transcription": "[foʊld]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Складывать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "go",
+      "transcription": "[ɡoʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Идти",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "gold",
+      "transcription": "[ɡoʊld]",
+      "nameA": "",
+      "image": "/img/dict/colors/gold.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Золото",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "no",
+      "transcription": "[noʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Нет",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "old",
+      "transcription": "[oʊld]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Старый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "open",
+      "transcription": "[ˈoʊpən]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Открытый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "so",
+      "transcription": "[soʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Так",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "hope",
+      "transcription": "[hoʊp]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Надежда",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "nose",
+      "transcription": "[noʊz]",
+      "nameA": "",
+      "image": "/img/dict/body/nose.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Нос",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rope",
+      "transcription": "[roʊp]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Веревка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rose",
+      "transcription": "[roʊz]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Роза",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wrote",
+      "transcription": "[roʊt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Написал",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "although",
+      "transcription": "[ɔːlˈðoʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хотя",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "dough",
+      "transcription": "[doʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тесто",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "hoe",
+      "transcription": "[hoʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мотыга",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "toe",
+      "transcription": "[toʊ]",
+      "nameA": "",
+      "image": "/img/dict/body/toe.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Палец ноги",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "beau",
+      "transcription": "[boʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кавалер",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "gateau",
+      "transcription": "[ɡæˈtoʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Торт",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "plateau",
+      "transcription": "[plæˈtoʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Плато",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

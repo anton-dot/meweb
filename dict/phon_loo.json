@@ -1,0 +1,535 @@
+{
+  "name": "/uː/ -oo, -ue, -ew, -ou, -ui",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 32,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "broom",
+      "transcription": "[bruːm]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Метла",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "roof",
+      "transcription": "[ruːf]",
+      "nameA": "",
+      "image": "/img/dict/home/roof.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Крыша",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bloom",
+      "transcription": "[bluːm]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Цветение",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "room",
+      "transcription": "[ruːm]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Комната",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "spoon",
+      "transcription": "[spuːn]",
+      "nameA": "",
+      "image": "/img/dict/home/spoon.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ложка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "too",
+      "transcription": "[tuː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тоже",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "zoo",
+      "transcription": "[zuː]",
+      "nameA": "",
+      "image": "/img/dict/animals/zoo.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Зоопарк",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "blue",
+      "transcription": "[bluː]",
+      "nameA": "",
+      "image": "/img/dict/colors/blue.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Синий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "clue",
+      "transcription": "[kluː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Подсказка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "glue",
+      "transcription": "[ɡluː]",
+      "nameA": "",
+      "image": "/img/dict/classroom/glue.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Клей",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "true",
+      "transcription": "[truː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правда",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "chew",
+      "transcription": "[tʃuː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Жевать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "crew",
+      "transcription": "[kruː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Экипаж",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "screw",
+      "transcription": "[skruː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Винт",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "threw",
+      "transcription": "[θruː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Бросил",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "move",
+      "transcription": "[muːv]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Двигаться",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "to",
+      "transcription": "[tuː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "К",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "who",
+      "transcription": "[huː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кто",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "group",
+      "transcription": "[ɡruːp]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Группа",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "soup",
+      "transcription": "[suːp]",
+      "nameA": "",
+      "image": "/img/dict/food/soup.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Суп",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "you",
+      "transcription": "[juː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "through",
+      "transcription": "[θruː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Через",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "flute",
+      "transcription": "[fluːt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Флейта",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "include",
+      "transcription": "[ɪnˈkluːd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Включать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "parachute",
+      "transcription": "[ˈpærəʃuːt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Парашют",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "pollute",
+      "transcription": "[pəˈluːt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Загрязнять",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "prune",
+      "transcription": "[pruːn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Чернослив",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rule",
+      "transcription": "[ruːl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правило",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bruise",
+      "transcription": "[bruːz]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Синяк",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "fruit",
+      "transcription": "[fruːt]",
+      "nameA": "",
+      "image": "/img/dict/food/fruit.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Фрукт",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "juice",
+      "transcription": "[dʒuːs]",
+      "nameA": "",
+      "image": "/img/dict/food/juice.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сок",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "super",
+      "transcription": "[ˈsuːpər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Супер",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}
