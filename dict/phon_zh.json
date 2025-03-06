@@ -1,0 +1,247 @@
+{
+  "name": "/ʒ/ -s, -si, -ge, -su",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 14,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "leisure",
+      "transcription": "[ˈliːʒər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Досуг",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "measure",
+      "transcription": "[ˈmɛʒər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мера",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "pleasure",
+      "transcription": "[ˈplɛʒər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Удовольствие",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "treasure",
+      "transcription": "[ˈtrɛʒər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сокровище",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "beige",
+      "transcription": "[beɪʒ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Бежевый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "collage",
+      "transcription": "[kəˈlɑːʒ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Коллаж",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "montage",
+      "transcription": "[mɑːnˈtɑːʒ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Монтаж",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "confusion",
+      "transcription": "[kənˈfjuːʒən]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Путаница",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "decision",
+      "transcription": "[dɪˈsɪʒən]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Решение",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "division",
+      "transcription": "[dɪˈvɪʒən]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Разделение",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "illusion",
+      "transcription": "[ɪˈluːʒən]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Иллюзия",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "invasion",
+      "transcription": "[ɪnˈveɪʒən]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вторжение",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "television",
+      "transcription": "[ˈtɛləˌvɪʒən]",
+      "nameA": "",
+      "image": "/img/dict/home/television.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Телевидение",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "vision",
+      "transcription": "[ˈvɪʒən]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Видение",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

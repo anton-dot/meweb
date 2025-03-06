@@ -1,0 +1,823 @@
+{
+  "name": "/sh/",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 50,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "shadow",
+      "transcription": "[ˈʃædoʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тень",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "shake",
+      "transcription": "[ʃeɪk]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Трясти",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "shallow",
+      "transcription": "[ˈʃæloʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мелкий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "shape",
+      "transcription": "[ʃeɪp]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Форма",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "share",
+      "transcription": "[ʃɛr]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Делиться",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "shark",
+      "transcription": "[ʃɑrk]",
+      "nameA": "",
+      "image": "/img/dict/animals/shark.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Акула",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "sharp",
+      "transcription": "[ʃɑrp]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Острый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "shave",
+      "transcription": "[ʃeɪv]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Брить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "shed",
+      "transcription": "[ʃɛd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сарай",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "sheep",
+      "transcription": "[ʃiːp]",
+      "nameA": "",
+      "image": "/img/dict/animals/sheep.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Овца",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "sheet",
+      "transcription": "[ʃiːt]",
+      "nameA": "",
+      "image": "/img/dict/home/sheet.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лист",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "shelf",
+      "transcription": "[ʃɛlf]",
+      "nameA": "",
+      "image": "/img/dict/home/shelf.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Полка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "shell",
+      "transcription": "[ʃɛl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Раковина",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "shine",
+      "transcription": "[ʃaɪn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сиять",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ship",
+      "transcription": "[ʃɪp]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Корабль",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "shiver",
+      "transcription": "[ˈʃɪvər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дрожь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "shoe",
+      "transcription": "[ʃuː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Обувь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "shop",
+      "transcription": "[ʃɑp]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Магазин",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "short",
+      "transcription": "[ʃɔrt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Короткий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "shorts",
+      "transcription": "[ʃɔrts]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Шорты",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "shoulder",
+      "transcription": "[ˈʃoʊldər]",
+      "nameA": "",
+      "image": "/img/dict/body/shoulder.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Плечо",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "shout",
+      "transcription": "[ʃaʊt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кричать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "show",
+      "transcription": "[ʃoʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Показывать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "shower",
+      "transcription": "[ˈʃaʊər]",
+      "nameA": "",
+      "image": "/img/dict/home/shower.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Душ",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "shut",
+      "transcription": "[ʃʌt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Закрывать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "shy",
+      "transcription": "[ʃaɪ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Застенчивый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "chalet",
+      "transcription": "[ʃæˈleɪ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Шале",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "chandelier",
+      "transcription": "[ˌʃændəˈlɪr]",
+      "nameA": "",
+      "image": "/img/dict/home/chandelier.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Люстра",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "chauffeur",
+      "transcription": "[ʃoʊˈfɜːr]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Шофер",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "chef",
+      "transcription": "[ʃɛf]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Шеф-повар",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "chiffon",
+      "transcription": "[ʃɪˈfɑn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Шифон",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "chute",
+      "transcription": "[ʃuːt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Желоб",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "celebration",
+      "transcription": "[ˌsɛlɪˈbreɪʃən]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Празднование",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "cautious",
+      "transcription": "[ˈkɔːʃəs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Осторожный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "lotion",
+      "transcription": "[ˈloʊʃən]",
+      "nameA": "",
+      "image": "/img/dict/home/lotion.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лосьон",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "national",
+      "transcription": "[ˈnæʃənəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Национальный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "potion",
+      "transcription": "[ˈpoʊʃən]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Зелье",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "delicious",
+      "transcription": "[dɪˈlɪʃəs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вкусный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "musician",
+      "transcription": "[mjuˈzɪʃən]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Музыкант",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "precious",
+      "transcription": "[ˈprɛʃəs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Драгоценный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "suspicious",
+      "transcription": "[səˈspɪʃəs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Подозрительный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "vicious",
+      "transcription": "[ˈvɪʃəs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Жестокий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "conscience",
+      "transcription": "[ˈkɑːnʃəns]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Совесть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "conscious",
+      "transcription": "[ˈkɑːnʃəs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сознательный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "unconscious",
+      "transcription": "[ʌnˈkɑːnʃəs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Бессознательный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "confession",
+      "transcription": "[kənˈfɛʃən]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Признание",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "discussion",
+      "transcription": "[dɪˈskʌʃən]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Обсуждение",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "expression",
+      "transcription": "[ɪkˈsprɛʃən]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выражение",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "impression",
+      "transcription": "[ɪmˈprɛʃən]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Впечатление",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "mission",
+      "transcription": "[ˈmɪʃən]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Миссия",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

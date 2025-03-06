@@ -1,0 +1,247 @@
+{
+  "name": "/kw/ ",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 14,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "quack",
+      "transcription": "[kwæk]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Крякать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "qualification",
+      "transcription": "[ˌkwɑlɪfɪˈkeɪʃən]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Квалификация",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "qualify",
+      "transcription": "[ˈkwɑlɪfaɪ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Квалифицировать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "quality",
+      "transcription": "[ˈkwɑlɪti]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Качество",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "quantity",
+      "transcription": "[ˈkwɑntɪti]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Количество",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "quarrel",
+      "transcription": "[ˈkwɔrəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ссора",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "queen",
+      "transcription": "[kwiːn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Королева",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "quest",
+      "transcription": "[kwɛst]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Поиск",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "question",
+      "transcription": "[ˈkwɛstʃən]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вопрос",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "quick",
+      "transcription": "[kwɪk]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Быстрый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "quiet",
+      "transcription": "[ˈkwaɪət]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тихий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "quite",
+      "transcription": "[kwaɪt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Довольно",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "quiz",
+      "transcription": "[kwɪz]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Викторина",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "squirrel",
+      "transcription": "[ˈskwɜːrəl]",
+      "nameA": "",
+      "image": "/img/dict/animals/squirrel.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Белка",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

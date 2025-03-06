@@ -1,0 +1,263 @@
+{
+  "name": "/y/",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 15,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "yacht",
+      "transcription": "[jɑt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Яхта",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "yak",
+      "transcription": "[jæk]",
+      "nameA": "",
+      "image": "/img/dict/animals/yak.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Як",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "yawn",
+      "transcription": "[jɔn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Зевать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "yell",
+      "transcription": "[jɛl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кричать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "yellow",
+      "transcription": "[ˈjɛloʊ]",
+      "nameA": "",
+      "image": "/img/dict/colors/yellow.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Желтый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "yes",
+      "transcription": "[jɛs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "yesterday",
+      "transcription": "[ˈjɛstərdeɪ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вчера",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "yet",
+      "transcription": "[jɛt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Еще",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "yogurt",
+      "transcription": "[ˈjoʊɡərt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Йогурт",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "yolk",
+      "transcription": "[joʊk]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Желток",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "you",
+      "transcription": "[juː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "young",
+      "transcription": "[jʌŋ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Молодой",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "yo-yo",
+      "transcription": "[ˈjoʊjoʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Йо-йо",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "yuck",
+      "transcription": "[jʌk]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Фу",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "yum",
+      "transcription": "[jʌm]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вкусно",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "name": "/ng/",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 9,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "king",
+      "transcription": "[kɪŋ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Король",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "length",
+      "transcription": "[lɛŋθ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Длина",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "sing",
+      "transcription": "[sɪŋ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Петь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "strength",
+      "transcription": "[strɛŋθ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сила",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "string",
+      "transcription": "[strɪŋ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Строка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "strong",
+      "transcription": "[strɔŋ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сильный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "thing",
+      "transcription": "[θɪŋ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вещь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wing",
+      "transcription": "[wɪŋ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Крыло",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ring",
+      "transcription": "[rɪŋ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кольцо",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "name": "/v/",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 19,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "valley",
+      "transcription": "[ˈvæli]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Долина",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "van",
+      "transcription": "[væn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Фургон",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "vase",
+      "transcription": "[veɪs]",
+      "nameA": "",
+      "image": "/img/dict/home/vase.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ваза",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "vegetable",
+      "transcription": "[ˈvɛdʒtəbəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Овощ",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "very",
+      "transcription": "[ˈvɛri]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Очень",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "vest",
+      "transcription": "[vɛst]",
+      "nameA": "",
+      "image": "/img/dict/clothes/vest.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Жилет",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "vet",
+      "transcription": "[vɛt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ветеринар",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "village",
+      "transcription": "[ˈvɪlɪdʒ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Деревня",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "voice",
+      "transcription": "[vɔɪs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Голос",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "volcano",
+      "transcription": "[vɑlˈkeɪnoʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вулкан",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "believe",
+      "transcription": "[bɪˈliːv]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Верить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "deserve",
+      "transcription": "[dɪˈzɜrv]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заслуживать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "glove",
+      "transcription": "[ɡlʌv]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Перчатка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "have",
+      "transcription": "[hæv]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Иметь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "leave",
+      "transcription": "[liːv]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Покидать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "live",
+      "transcription": "[lɪv]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Жить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "serve",
+      "transcription": "[sɜrv]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Служить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "swerve",
+      "transcription": "[swɜrv]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сворачивать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "stove",
+      "transcription": "[stoʊv]",
+      "nameA": "",
+      "image": "/img/dict/home/stove.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Печь",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

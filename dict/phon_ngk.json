@@ -1,0 +1,119 @@
+{
+  "name": "/ngk/",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 6,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "blink",
+      "transcription": "[blɪŋk]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Моргать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "drink",
+      "transcription": "[drɪŋk]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "sink",
+      "transcription": "[sɪŋk]",
+      "nameA": "",
+      "image": "/img/dict/home/sink.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Раковина",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "shrink",
+      "transcription": "[ʃrɪŋk]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сжиматься",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "think",
+      "transcription": "[θɪŋk]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Думать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ink",
+      "transcription": "[ɪŋk]",
+      "nameA": "",
+      "image": "/img/dict/classroom/ink.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Чернила",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

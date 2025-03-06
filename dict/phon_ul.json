@@ -1,0 +1,279 @@
+{
+  "name": "/ul/",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 16,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "bottle",
+      "transcription": "[ˈbɑtəl]",
+      "nameA": "",
+      "image": "/img/dict/home/bottle.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Бутылка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "giggle",
+      "transcription": "[ˈɡɪɡəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хихикать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "little",
+      "transcription": "[ˈlɪtəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Маленький",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "tickle",
+      "transcription": "[ˈtɪkəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Щекотать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "camel",
+      "transcription": "[ˈkæməl]",
+      "nameA": "",
+      "image": "/img/dict/animals/camel.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Верблюд",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "parcel",
+      "transcription": "[ˈpɑrsəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посылка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "towel",
+      "transcription": "[ˈtaʊəl]",
+      "nameA": "",
+      "image": "/img/dict/home/towel.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Полотенце",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "travel",
+      "transcription": "[ˈtrævəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Путешествовать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "animal",
+      "transcription": "[ˈænəməl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Животное",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "equal",
+      "transcription": "[ˈikwəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Равный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "hospital",
+      "transcription": "[ˈhɑspɪtəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Больница",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "petal",
+      "transcription": "[ˈpɛtəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лепесток",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "fossil",
+      "transcription": "[ˈfɑsəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ископаемое",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "pencil",
+      "transcription": "[ˈpɛnsəl]",
+      "nameA": "",
+      "image": "/img/dict/classroom/pencil.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Карандаш",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "stencil",
+      "transcription": "[ˈstɛnsəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Трафарет",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "utensil",
+      "transcription": "[juˈtɛnsəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посуда",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

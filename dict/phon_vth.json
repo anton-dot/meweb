@@ -1,0 +1,359 @@
+{
+  "name": "/th/ (voiced)",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 21,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "that",
+      "transcription": "[ðæt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тот",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "the",
+      "transcription": "[ðə]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Определенный артикль",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "their",
+      "transcription": "[ðɛr]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Их",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "them",
+      "transcription": "[ðɛm]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Их",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "themselves",
+      "transcription": "[ðəmˈsɛlvz]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сами себя",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "then",
+      "transcription": "[ðɛn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тогда",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "there",
+      "transcription": "[ðɛr]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Там",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "therefore",
+      "transcription": "[ˈðɛrˌfɔr]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Поэтому",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "these",
+      "transcription": "[ðiz]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Эти",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "they",
+      "transcription": "[ðeɪ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Они",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "this",
+      "transcription": "[ðɪs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Этот",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "those",
+      "transcription": "[ðoʊz]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Те",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "though",
+      "transcription": "[ðoʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хотя",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "brother",
+      "transcription": "[ˈbrʌðər]",
+      "nameA": "",
+      "image": "/img/dict/family/brother.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Брат",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "father",
+      "transcription": "[ˈfɑðər]",
+      "nameA": "",
+      "image": "/img/dict/family/father.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отец",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "mother",
+      "transcription": "[ˈmʌðər]",
+      "nameA": "",
+      "image": "/img/dict/family/mother.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "other",
+      "transcription": "[ˈʌðər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Другой",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rather",
+      "transcription": "[ˈræðər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Скорее",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "smooth",
+      "transcription": "[smuð]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Гладкий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "with",
+      "transcription": "[wɪð]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "С",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wither",
+      "transcription": "[ˈwɪðər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Увядать",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

@@ -83,7 +83,16 @@
     {
       "name": "Set 3",
       "activities": [
-       
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/l/ -l, -ll",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_blue.png",
+          "rUrl": "phon_l",
+          "numAct": 19
+        }
       ]
     }
     ,
@@ -91,7 +100,77 @@
     {
       "name": "Set 4",
       "activities": [
-       
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/ul/ -le, -el, -al, -il",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_blue.png",
+          "rUrl": "phon_ul",
+          "numAct": 19
+        },
+         
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/j/ j, ge, gi, gy, -dge, -ge",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_blue.png",
+          "rUrl": "phon_j",
+          "numAct": 38
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/v/ v, -ve",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_blue.png",
+          "rUrl": "phon_v",
+          "numAct": 19
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/w/ w, wh, -u",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_blue.png",
+          "rUrl": "phon_w",
+          "numAct": 49
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/ks/ -x,-cks, -ks",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_blue.png",
+          "rUrl": "phon_ks",
+          "numAct": 19
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/y/ y",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_red.png",
+          "rUrl": "phon_y",
+          "numAct": 15
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/z/ z, -zz, -s, -se, -ze",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_blue.png",
+          "rUrl": "phon_z",
+          "numAct": 25
+        }
       ]
     }
     ,
@@ -99,7 +178,56 @@
     {
       "name": "Set 5",
       "activities": [
-       
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/kw/ qu",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_yellow.png",
+          "rUrl": "phon_kw",
+          "numAct": 14
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/сh/ ch, -tch, /chu/, -ture",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_yellow.png",
+          "rUrl": "phon_ch",
+          "numAct": 42
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/sh/ sh, ch, -ti, -ci, -sci, -ssi",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_yellow.png",
+          "rUrl": "phon_sh",
+          "numAct": 50
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "voiced /th/ th",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_yellow.png",
+          "rUrl": "phon_vth",
+          "numAct": 21
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "unvoiced /th/ th",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_yellow.png",
+          "rUrl": "phon_uth",
+          "numAct": 27
+        }
       ]
     }
     ,
@@ -107,7 +235,36 @@
     {
       "name": "Set 6",
       "activities": [
-       
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/ng/ -ng",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_green.png",
+          "rUrl": "phon_ng",
+          "numAct": 9
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/ngk/ -nk",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_green.png",
+          "rUrl": "phon_ngk",
+          "numAct": 6
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/zh/ -s, -ge, -si",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_yellow.png",
+          "rUrl": "phon_zh",
+          "numAct": 14
+        }
       ]
     }
     ,

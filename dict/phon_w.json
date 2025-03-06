@@ -1,0 +1,807 @@
+{
+  "name": "/w/  ",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 49,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "wait",
+      "transcription": "[weɪt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ждать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wake",
+      "transcription": "[weɪk]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Просыпаться",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wall",
+      "transcription": "[wɔl]",
+      "nameA": "",
+      "image": "/img/dict/home/wall.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Стена",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "want",
+      "transcription": "[wɑnt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хотеть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wash",
+      "transcription": "[wɑʃ]",
+      "nameA": "",
+      "image": "/img/dict/home/wash.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мыть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wasp",
+      "transcription": "[wɑsp]",
+      "nameA": "",
+      "image": "/img/dict/animals/wasp.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Оса",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "waste",
+      "transcription": "[weɪst]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отходы",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "watch",
+      "transcription": "[wɑtʃ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Часы",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wave",
+      "transcription": "[weɪv]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Волна",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "way",
+      "transcription": "[weɪ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Путь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wear",
+      "transcription": "[wɛr]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Носить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "weather",
+      "transcription": "[ˈwɛðər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Погода",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "web",
+      "transcription": "[wɛb]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Паутина",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "week",
+      "transcription": "[wik]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Неделя",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "weigh",
+      "transcription": "[weɪ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Взвешивать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "well",
+      "transcription": "[wɛl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wet",
+      "transcription": "[wɛt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мокрый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wide",
+      "transcription": "[waɪd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Широкий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wild",
+      "transcription": "[waɪld]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дикий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "will",
+      "transcription": "[wɪl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Воля",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "win",
+      "transcription": "[wɪn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Побеждать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wind",
+      "transcription": "[wɪnd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ветер",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "window",
+      "transcription": "[ˈwɪndoʊ]",
+      "nameA": "",
+      "image": "/img/dict/home/window.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Окно",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wing",
+      "transcription": "[wɪŋ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Крыло",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "winter",
+      "transcription": "[ˈwɪntər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Зима",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wire",
+      "transcription": "[waɪr]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Проволока",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wish",
+      "transcription": "[wɪʃ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Желание",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "witch",
+      "transcription": "[wɪtʃ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ведьма",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wizard",
+      "transcription": "[ˈwɪzərd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Волшебник",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "woman",
+      "transcription": "[ˈwʊmən]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Женщина",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wood",
+      "transcription": "[wʊd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дерево",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wool",
+      "transcription": "[wʊl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Шерсть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "worry",
+      "transcription": "[ˈwɜri]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Беспокоиться",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "worse",
+      "transcription": "[wɜrs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хуже",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "worst",
+      "transcription": "[wɜrst]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Худший",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "write",
+      "transcription": "[raɪt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Писать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wrong",
+      "transcription": "[rɔŋ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Неправильный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "whale",
+      "transcription": "[weɪl]",
+      "nameA": "",
+      "image": "/img/dict/animals/whale.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кит",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "what",
+      "transcription": "[wɑt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wheel",
+      "transcription": "[wiːl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Колесо",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wheelchair",
+      "transcription": "[ˈwiːltʃɛr]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Инвалидная коляска",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "when",
+      "transcription": "[wɛn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Когда",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "whether",
+      "transcription": "[ˈwɛðər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ли",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "whisper",
+      "transcription": "[ˈwɪspər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Шептать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "whistle",
+      "transcription": "[ˈwɪsəl]",
+      "nameA": "",
+      "image": "/img/dict/actions/whistle.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Свистеть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "white",
+      "transcription": "[waɪt]",
+      "nameA": "",
+      "image": "/img/dict/colors/white.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Белый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "penguin",
+      "transcription": "[ˈpɛŋɡwɪn]",
+      "nameA": "",
+      "image": "/img/dict/animals/penguin.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пингвин",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "persuade",
+      "transcription": "[pərˈsweɪd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Убеждать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "suede",
+      "transcription": "[sweɪd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Замша",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}
