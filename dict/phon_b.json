@@ -1,5 +1,5 @@
 {
-  "name": "/k/",
+  "name": "/b/",
   "nameA": null,
   "img": null,
   "minQuiz": null,
@@ -9,7 +9,7 @@
   "isByWords": false,
   "isForAdult": false,
   "separator": "",
-  "numWords": 111,
+  "numWords": 110,
   "tags": null,
   "Translations": [
     {
@@ -21,1680 +21,16 @@
   "items": [
     {
       "id": 0,
-      "name": "/k/",
-      "transcription": "",
-      "nameA": "/sound/dict/k.mp3",
-      "image": "",
-      "bg": "",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "kangaroo",
-      "transcription": "[ˌkæŋɡəˈruː]",
-      "nameA": "",
-      "image": "/img/dict/animals/kangaroo.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Кенгуру",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "keep",
-      "transcription": "[kiːp]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Держать",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "kettle",
-      "transcription": "[ˈkɛtəl]",
-      "nameA": "",
-      "image": "/img/dict/home/kettle.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Чайник",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "key",
-      "transcription": "[kiː]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Ключ",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "kick",
-      "transcription": "[kɪk]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Пинать",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "kill",
-      "transcription": "[kɪl]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Убивать",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "kind",
-      "transcription": "[kaɪnd]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Добрый",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "king",
-      "transcription": "[kɪŋ]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Король",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "kiss",
-      "transcription": "[kɪs]",
-      "nameA": "",
-      "image": "/img/dict/emoji/kiss.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Поцелуй",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "kitchen",
-      "transcription": "[ˈkɪtʃən]",
-      "nameA": "",
-      "image": "/img/dict/home/kitchen.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Кухня",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cage",
-      "transcription": "[keɪdʒ]",
-      "nameA": "",
-      "image": "/img/dict/animals/cage.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Клетка",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "calculator",
-      "transcription": "[ˈkælkjəˌleɪtər]",
-      "nameA": "",
-      "image": "/img/dict/classroom/calculator.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Калькулятор",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "calendar",
-      "transcription": "[ˈkæləndər]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Календарь",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "call",
-      "transcription": "[kɔːl]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Звонить",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "camera",
-      "transcription": "[ˈkæmərə]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Камера",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "camp",
-      "transcription": "[kæmp]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Лагерь",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "can",
-      "transcription": "[kæn]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Мочь",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "candle",
-      "transcription": "[ˈkændəl]",
-      "nameA": "",
-      "image": "/img/dict/home/candle.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Свеча",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "card",
-      "transcription": "[kɑːrd]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Карта",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cardboard",
-      "transcription": "[ˈkɑːrdbɔːrd]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Картон",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "careful",
-      "transcription": "[ˈkɛrfəl]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Осторожный",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "carpet",
-      "transcription": "[ˈkɑːrpɪt]",
-      "nameA": "",
-      "image": "/img/dict/home/carpet.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Ковер",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "carry",
-      "transcription": "[ˈkæri]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Нести",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cartoon",
-      "transcription": "[kɑːrˈtuːn]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Мультфильм",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "castle",
-      "transcription": "[ˈkæsəl]",
-      "nameA": "",
-      "image": "/img/dict/city/castle.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Замок",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cat",
-      "transcription": "[kæt]",
-      "nameA": "",
-      "image": "/img/dict/animals/cat.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Кошка",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "catch",
-      "transcription": "[kætʃ]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Ловить",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "caterpillar",
-      "transcription": "[ˈkætərˌpɪlər]",
-      "nameA": "",
-      "image": "/img/dict/animals/caterpillar.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Гусеница",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cave",
-      "transcription": "[keɪv]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Пещера",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "clap",
-      "transcription": "[klæp]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Хлопать",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "class",
-      "transcription": "[klæs]",
-      "nameA": "",
-      "image": "/img/dict/classroom/class.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Класс",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "clamp",
-      "transcription": "[klæmp]",
-      "nameA": "",
-      "image": "/img/dict/classroom/clamp.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Зажим",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "camel",
-      "transcription": "[ˈkæməl]",
-      "nameA": "",
-      "image": "/img/dict/animals/camel.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Верблюд",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "clean",
-      "transcription": "[kliːn]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Чистый",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "clear",
-      "transcription": "[klɪr]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Ясный",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "clever",
-      "transcription": "[ˈklɛvər]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Умный",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cliff",
-      "transcription": "[klɪf]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Скала",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "climb",
-      "transcription": "[klaɪm]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Лазить",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "clock",
-      "transcription": "[klɑk]",
-      "nameA": "",
-      "image": "/img/dict/home/clock.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Часы",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "close",
-      "transcription": "[kloʊs]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Закрывать",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cloth",
-      "transcription": "[klɔθ]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Ткань",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "clothes",
-      "transcription": "[kloʊðz]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Одежда",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cloud",
-      "transcription": "[klaʊd]",
-      "nameA": "",
-      "image": "/img/dict/shapes/cloud.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Облако",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "clown",
-      "transcription": "[klaʊn]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Клоун",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "coat",
-      "transcription": "[koʊt]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Пальто",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "coin",
-      "transcription": "[kɔɪn]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Монета",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cold",
-      "transcription": "[koʊld]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Холодный",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "collar",
-      "transcription": "[ˈkɑlər]",
-      "nameA": "",
-      "image": "/img/dict/animals/collar.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Воротник",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "come",
-      "transcription": "[kʌm]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Приходить",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "comfortable",
-      "transcription": "[ˈkʌmfərtəbəl]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Удобный",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "comic",
-      "transcription": "[ˈkɑmɪk]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Комикс",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "computer",
-      "transcription": "[kəmˈpjuːtər]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Компьютер",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "connect",
-      "transcription": "[kəˈnɛkt]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Соединять",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "control",
-      "transcription": "[kənˈtroʊl]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Контроль",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cooker",
-      "transcription": "[ˈkʊkər]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Плита",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cool",
-      "transcription": "[kuːl]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Прохладный",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "copy",
-      "transcription": "[ˈkɑpi]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Копировать",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "corner",
-      "transcription": "[ˈkɔrnər]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Угол",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cost",
-      "transcription": "[kɔst]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Стоимость",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "coast",
-      "transcription": "[koʊst]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Побережье",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cough",
-      "transcription": "[kɔf]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Кашель",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "count",
-      "transcription": "[kaʊnt]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Считать",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "country",
-      "transcription": "[ˈkʌntri]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Страна",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cousin",
-      "transcription": "[ˈkʌzən]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Двоюродный брат/сестра",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cover",
-      "transcription": "[ˈkʌvər]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Накрывать",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cow",
-      "transcription": "[kaʊ]",
-      "nameA": "",
-      "image": "/img/dict/animals/cow.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Корова",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "crack",
-      "transcription": "[kræk]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Трещина",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cracker",
-      "transcription": "[ˈkrækər]",
-      "nameA": "",
-      "image": "/img/dict/food/cracker.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Крекер",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "crane",
-      "transcription": "[kreɪn]",
-      "nameA": "",
-      "image": "/img/dict/animals/crane.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Журавль",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "crash",
-      "transcription": "[kræʃ]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Авария",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "crawl",
-      "transcription": "[krɔːl]",
-      "nameA": "",
-      "image": "/img/dict/home/crawl.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Ползать",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cream",
-      "transcription": "[kriːm]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Крем",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "creature",
-      "transcription": "[ˈkriːtʃər]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Существо",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "creep",
-      "transcription": "[kriːp]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Ползти",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "crocodile",
-      "transcription": "[ˈkrɑkəˌdaɪl]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Крокодил",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cross",
-      "transcription": "[krɔːs]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Пересекать",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "crowd",
-      "transcription": "[kraʊd]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Толпа",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "crown",
-      "transcription": "[kraʊn]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Корона",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "crust",
-      "transcription": "[krʌst]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Корочка",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cuddle",
-      "transcription": "[ˈkʌdəl]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Обнимать",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cup",
-      "transcription": "[kʌp]",
-      "nameA": "",
-      "image": "/img/dict/home/cup.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Чашка",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cupboard",
-      "transcription": "[ˈkʌbərd]",
-      "nameA": "",
-      "image": "/img/dict/home/cupboard.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Шкаф",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "curl",
-      "transcription": "[kɜːrl]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Завиток",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "curtain",
-      "transcription": "[ˈkɜːrtən]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Штора",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "curved",
-      "transcription": "[kɜːrvd]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Изогнутый",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "cut",
-      "transcription": "[kʌt]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Резать",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "chameleon",
-      "transcription": "[kəˈmiːliən]",
-      "nameA": "",
-      "image": "/img/dict/animals/chameleon.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Хамелеон",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "chaos",
-      "transcription": "[ˈkeɪɑːs]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Хаос",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "character",
-      "transcription": "[ˈkærɪktər]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Персонаж",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "chemistry",
-      "transcription": "[ˈkɛmɪstri]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Химия",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "choir",
-      "transcription": "[ˈkwaɪər]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Хор",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "chorus",
-      "transcription": "[ˈkɔːrəs]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Хор",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "chronic",
-      "transcription": "[ˈkrɑnɪk]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Хронический",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "chrysalis",
-      "transcription": "[ˈkrɪsəlɪs]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Куколка",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "quiche",
-      "transcription": "[kiːʃ]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Киш",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "queue",
-      "transcription": "[kjuː]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Очередь",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "anchor",
-      "transcription": "[ˈæŋkər]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Якорь",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "echo",
-      "transcription": "[ˈɛkoʊ]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Эхо",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "orchestra",
-      "transcription": "[ˈɔːrkɪstrə]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Оркестр",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "stomach",
-      "transcription": "[ˈstʌmək]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Желудок",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "mosquito",
-      "transcription": "[məˈskiːtoʊ]",
-      "nameA": "",
-      "image": "/img/dict/animals/mosquito.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Комар",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "antique",
-      "transcription": "[ænˈtiːk]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Антиквариат",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "plaque",
-      "transcription": "[plæk]",
-      "nameA": "",
-      "image": " ",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Пластина",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "technique",
-      "transcription": "[tɛkˈniːk]",
+      "name": "baby",
+      "transcription": "[ˈbeɪbi]",
       "nameA": "",
-      "image": " ",
+      "image": "/img/dict/family/baby.png",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Техника",
+          "name": "Ребенок",
           "nameA": null
         }
       ]
@@ -1717,16 +53,1328 @@
     },
     {
       "id": 0,
-      "name": "neck",
-      "transcription": "[nɛk]",
+      "name": "bed",
+      "transcription": "[bɛd]",
       "nameA": "",
-      "image": "/img/dict/body/neck.png",
+      "image": "/img/dict/home/bed.png",
       "bg": "transparent",
       "nameAnswer": null,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Шея",
+          "name": "Кровать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bag",
+      "transcription": "[bæɡ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сумка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bake",
+      "transcription": "[beɪk]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Печь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "balance",
+      "transcription": "[ˈbæləns]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Баланс",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ball",
+      "transcription": "[bɔl]",
+      "nameA": "",
+      "image": "/img/dict/toys/ball.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мяч",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "balloon",
+      "transcription": "[bəˈluːn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Воздушный шар",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "banana",
+      "transcription": "[bəˈnænə]",
+      "nameA": "",
+      "image": "/img/dict/food/banana.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Банан",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "band",
+      "transcription": "[bænd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Группа",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bank",
+      "transcription": "[bæŋk]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Банк",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bar",
+      "transcription": "[bɑr]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Бар",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bare",
+      "transcription": "[bɛr]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Голый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bark",
+      "transcription": "[bɑrk]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лаять",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "basket",
+      "transcription": "[ˈbæskɪt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Корзина",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bat",
+      "transcription": "[bæt]",
+      "nameA": "",
+      "image": "/img/dict/animals/bat.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Летучая мышь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bath",
+      "transcription": "[bæθ]",
+      "nameA": "",
+      "image": "/img/dict/home/bath.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ванна",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bathroom",
+      "transcription": "[ˈbæθruːm]",
+      "nameA": "",
+      "image": "/img/dict/home/bathroom.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ванная комната",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "battery",
+      "transcription": "[ˈbætəri]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Батарейка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "beach",
+      "transcription": "[biːtʃ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пляж",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "beak",
+      "transcription": "[biːk]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Клюв",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bear",
+      "transcription": "[bɛr]",
+      "nameA": "",
+      "image": "/img/dict/animals/bear.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Медведь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "beard",
+      "transcription": "[bɪrd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Борода",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "beat",
+      "transcription": "[biːt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Бить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "beautiful",
+      "transcription": "[ˈbjuːtɪfəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Красивый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bed",
+      "transcription": "[bɛd]",
+      "nameA": "",
+      "image": "/img/dict/home/bed.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кровать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bedroom",
+      "transcription": "[ˈbɛdruːm]",
+      "nameA": "",
+      "image": "/img/dict/home/bedroom.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Спальня",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bee",
+      "transcription": "[biː]",
+      "nameA": "",
+      "image": "/img/dict/animals/bee.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пчела",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "beetle",
+      "transcription": "[ˈbiːtəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Жук",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "begin",
+      "transcription": "[bɪˈɡɪn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Начинать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "behave",
+      "transcription": "[bɪˈheɪv]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вести себя",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "believe",
+      "transcription": "[bɪˈliːv]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Верить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bell",
+      "transcription": "[bɛl]",
+      "nameA": "",
+      "image": "/img/dict/classroom/bell.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Колокол",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "belong",
+      "transcription": "[bɪˈlɔŋ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Принадлежать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "belt",
+      "transcription": "[bɛlt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ремень",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bench",
+      "transcription": "[bɛntʃ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Скамейка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bend",
+      "transcription": "[bɛnd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сгибать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "best",
+      "transcription": "[bɛst]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лучший",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "better",
+      "transcription": "[ˈbɛtər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лучше",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bicycle",
+      "transcription": "[ˈbaɪsɪkəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Велосипед",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "big",
+      "transcription": "[bɪɡ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Большой",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bin",
+      "transcription": "[bɪn]",
+      "nameA": "",
+      "image": "/img/dict/home/bin.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Корзина",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bird",
+      "transcription": "[bɜrd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Птица",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "birthday",
+      "transcription": "[ˈbɜrθdeɪ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "День рождения",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "biscuit",
+      "transcription": "[ˈbɪskɪt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Печенье",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bit",
+      "transcription": "[bɪt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кусочек",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bite",
+      "transcription": "[baɪt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кусать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "blanket",
+      "transcription": "[ˈblæŋkɪt]",
+      "nameA": "",
+      "image": "/img/dict/home/blanket.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Одеяло",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "blind",
+      "transcription": "[blaɪnd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Слепой",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "block",
+      "transcription": "[blɑk]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Блок",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "blood",
+      "transcription": "[blʌd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кровь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "blow",
+      "transcription": "[bloʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дуть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "blunt",
+      "transcription": "[blʌnt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тупой",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "boat",
+      "transcription": "[boʊt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лодка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "body",
+      "transcription": "[ˈbɑdi]",
+      "nameA": "",
+      "image": "/img/dict/body/body.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тело",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "boil",
+      "transcription": "[bɔɪl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кипеть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bone",
+      "transcription": "[boʊn]",
+      "nameA": "",
+      "image": "/img/dict/animals/bone.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кость",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bonfire",
+      "transcription": "[ˈbɑnfaɪər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Костер",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "book",
+      "transcription": "[bʊk]",
+      "nameA": "",
+      "image": "/img/dict/classroom/book.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Книга",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "boot",
+      "transcription": "[buːt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ботинок",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bore",
+      "transcription": "[bɔr]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Скучать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "born",
+      "transcription": "[bɔrn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Рожденный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "borrow",
+      "transcription": "[ˈbɔroʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Одалживать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bottle",
+      "transcription": "[ˈbɑtəl]",
+      "nameA": "",
+      "image": "/img/dict/home/bottle.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Бутылка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bottom",
+      "transcription": "[ˈbɑtəm]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дно",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bounce",
+      "transcription": "[baʊns]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Прыгать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bow",
+      "transcription": "[baʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лук",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bowl",
+      "transcription": "[boʊl]",
+      "nameA": "",
+      "image": "/img/dict/home/bowl.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Миска",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "box",
+      "transcription": "[bɑks]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Коробка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "brain",
+      "transcription": "[breɪn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мозг",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "branch",
+      "transcription": "[bræntʃ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ветка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "brave",
+      "transcription": "[breɪv]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Храбрый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bread",
+      "transcription": "[brɛd]",
+      "nameA": "",
+      "image": "/img/dict/food/bread.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хлеб",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "break",
+      "transcription": "[breɪk]",
+      "nameA": "",
+      "image": "/img/dict/classroom/break.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ломать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "breakfast",
+      "transcription": "[ˈbrɛkfəst]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Завтрак",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "breath",
+      "transcription": "[brɛθ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дыхание",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "breathe",
+      "transcription": "[briːð]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дышать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "brick",
+      "transcription": "[brɪk]",
+      "nameA": "",
+      "image": "/img/dict/home/brick.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кирпич",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bridge",
+      "transcription": "[brɪdʒ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мост",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bright",
+      "transcription": "[braɪt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Яркий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bring",
+      "transcription": "[brɪŋ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Приносить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "brochure",
+      "transcription": "[broʊˈʃʊr]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Брошюра",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "broom",
+      "transcription": "[bruːm]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Метла",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "brother",
+      "transcription": "[ˈbrʌðər]",
+      "nameA": "",
+      "image": "/img/dict/family/brother.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Брат",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "brush",
+      "transcription": "[brʌʃ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Щетка",
           "nameA": null
         }
       ]
@@ -1749,40 +1397,8 @@
     },
     {
       "id": 0,
-      "name": "chicken",
-      "transcription": "[ˈtʃɪkɪn]",
-      "nameA": "",
-      "image": "/img/dict/animals/chicken.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Курица",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "duck",
-      "transcription": "[dʌk]",
-      "nameA": "",
-      "image": "/img/dict/animals/duck.png",
-      "bg": "transparent",
-      "nameAnswer": null,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Утка",
-          "nameA": null
-        }
-      ]
-    },
-    {
-      "id": 0,
-      "name": "snack",
-      "transcription": "[snæk]",
+      "name": "bulb",
+      "transcription": "[bʌlb]",
       "nameA": "",
       "image": " ",
       "bg": "transparent",
@@ -1790,7 +1406,375 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Закуска",
+          "name": "Лампочка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bull",
+      "transcription": "[bʊl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Бык",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bump",
+      "transcription": "[bʌmp]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Удар",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "burst",
+      "transcription": "[bɜrst]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Взрыв",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bus",
+      "transcription": "[bʌs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Автобус",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bush",
+      "transcription": "[bʊʃ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Куст",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "busy",
+      "transcription": "[ˈbɪzi]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Занятый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "but",
+      "transcription": "[bʌt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Но",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "butter",
+      "transcription": "[ˈbʌtər]",
+      "nameA": "",
+      "image": "/img/dict/food/butter.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Масло",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "butterfly",
+      "transcription": "[ˈbʌtərflaɪ]",
+      "nameA": "",
+      "image": "/img/dict/animals/butterfly.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Бабочка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "button",
+      "transcription": "[ˈbʌtən]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кнопка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "buzz",
+      "transcription": "[bʌz]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Жужжать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "build",
+      "transcription": "[bɪld]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Строить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "building",
+      "transcription": "[ˈbɪldɪŋ]",
+      "nameA": "",
+      "image": "/img/dict/home/building.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Здание",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "buoy",
+      "transcription": "[bɔɪ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Буй",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "buy",
+      "transcription": "[baɪ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Покупать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "abbey",
+      "transcription": "[ˈæbi]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Аббатство",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bubble",
+      "transcription": "[ˈbʌbəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пузырь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "dribble",
+      "transcription": "[ˈdrɪbəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Капать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "pebble",
+      "transcription": "[ˈpɛbəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Галька",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rabbit",
+      "transcription": "[ˈræbɪt]",
+      "nameA": "",
+      "image": "/img/dict/animals/rabbit.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кролик",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ribbon",
+      "transcription": "[ˈrɪbən]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лента",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rubber",
+      "transcription": "[ˈrʌbər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Резина",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "scribble",
+      "transcription": "[ˈskrɪbəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Калякать",
           "nameA": null
         }
       ]

@@ -1,0 +1,759 @@
+{
+  "name": "/g/",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 46,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "game",
+      "transcription": "[ɡeɪm]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Игра",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "gap",
+      "transcription": "[ɡæp]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Промежуток",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "garage",
+      "transcription": "[ɡəˈrɑːʒ]",
+      "nameA": "",
+      "image": "/img/dict/home/garage.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Гараж",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "garden",
+      "transcription": "[ˈɡɑːrdn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сад",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "gas",
+      "transcription": "[ɡæs]",
+      "nameA": "",
+      "image": "/img/dict/home/gas.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Газ",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "gate",
+      "transcription": "[ɡeɪt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ворота",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "gaze",
+      "transcription": "[ɡeɪz]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Взгляд",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "get",
+      "transcription": "[ɡɛt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Получать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "girl",
+      "transcription": "[ɡɜːrl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Девочка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "give",
+      "transcription": "[ɡɪv]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "glass",
+      "transcription": "[ɡlæs]",
+      "nameA": "",
+      "image": "/img/dict/home/glass.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Стекло",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "glove",
+      "transcription": "[ɡlʌv]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Перчатка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "glue",
+      "transcription": "[ɡluː]",
+      "nameA": "",
+      "image": "/img/dict/classroom/glue.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Клей",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "go",
+      "transcription": "[ɡoʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Идти",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "goal",
+      "transcription": "[ɡoʊl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Цель",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "goat",
+      "transcription": "[ɡoʊt]",
+      "nameA": "",
+      "image": "/img/dict/animals/goat.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Коза",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "gold",
+      "transcription": "[ɡoʊld]",
+      "nameA": "",
+      "image": "/img/dict/colors/gold.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Золото",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "goldfish",
+      "transcription": "[ˈɡoʊldfɪʃ]",
+      "nameA": "",
+      "image": "/img/dict/animals/goldfish.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Золотая рыбка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "good",
+      "transcription": "[ɡʊd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хороший",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "goodbye",
+      "transcription": "[ˌɡʊdˈbaɪ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "До свидания",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "goose",
+      "transcription": "[ɡuːs]",
+      "nameA": "",
+      "image": "/img/dict/animals/goose.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Гусь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "grandfather",
+      "transcription": "[ˈɡrændˌfɑːðər]",
+      "nameA": "",
+      "image": "/img/dict/family/grandfather.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дедушка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "grass",
+      "transcription": "[ɡræs]",
+      "nameA": "",
+      "image": "/img/dict/nature/grass.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Трава",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "great",
+      "transcription": "[ɡreɪt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Великий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "greedy",
+      "transcription": "[ˈɡriːdi]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Жадный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ground",
+      "transcription": "[ɡraʊnd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Земля",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "group",
+      "transcription": "[ɡruːp]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Группа",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "grow",
+      "transcription": "[ɡroʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Расти",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ghastly",
+      "transcription": "[ˈɡæstli]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ужасный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "gherkin",
+      "transcription": "[ˈɡɜːrkɪn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Корнишон",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ghost",
+      "transcription": "[ɡoʊst]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Призрак",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "guard",
+      "transcription": "[ɡɑːrd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Охрана",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "guess",
+      "transcription": "[ɡɛs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Догадка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "guest",
+      "transcription": "[ɡɛst]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Гость",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "quest",
+      "transcription": "[kwɛst]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Квест",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "guide",
+      "transcription": "[ɡaɪd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Гид",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "guilty",
+      "transcription": "[ˈɡɪlti]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Виноватый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "guitar",
+      "transcription": "[ɡɪˈtɑːr]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Гитара",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "egg",
+      "transcription": "[ɛɡ]",
+      "nameA": "",
+      "image": "/img/dict/food/egg.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Яйцо",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "giggle",
+      "transcription": "[ˈɡɪɡəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хихикать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "juggle",
+      "transcription": "[ˈdʒʌɡəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Жонглировать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wiggle",
+      "transcription": "[ˈwɪɡəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Шевелить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "catalogue",
+      "transcription": "[ˈkætəlɒɡ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Каталог",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "dialogue",
+      "transcription": "[ˈdaɪəlɒɡ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Диалог",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "intrigue",
+      "transcription": "[ɪnˈtriːɡ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Интрига",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "monologue",
+      "transcription": "[ˈmɒnəlɒɡ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Монолог",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

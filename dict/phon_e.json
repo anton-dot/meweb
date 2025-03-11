@@ -1,0 +1,759 @@
+{
+  "name": "/ɛ/",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 46,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "edge",
+      "transcription": "[ɛdʒ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Край",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "effort",
+      "transcription": "[ˈɛfərt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Усилие",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "egg",
+      "transcription": "[ɛɡ]",
+      "nameA": "",
+      "image": "/img/dict/food/egg.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Яйцо",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "elastic",
+      "transcription": "[ɪˈlæstɪk]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Эластичный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "elbow",
+      "transcription": "[ˈɛlboʊ]",
+      "nameA": "",
+      "image": "/img/dict/body/elbow.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Локоть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "electricity",
+      "transcription": "[ɪˌlɛkˈtrɪsɪti]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Электричество",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "elephant",
+      "transcription": "[ˈɛləfənt]",
+      "nameA": "",
+      "image": "/img/dict/animals/elephant.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Слон",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "empty",
+      "transcription": "[ˈɛmpti]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пустой",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "end",
+      "transcription": "[ɛnd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Конец",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "enemy",
+      "transcription": "[ˈɛnəmi]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Враг",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "energy",
+      "transcription": "[ˈɛnərdʒi]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Энергия",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "engine",
+      "transcription": "[ˈɛndʒɪn]",
+      "nameA": "",
+      "image": "/img/dict/transport/engine.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Двигатель",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "enjoy",
+      "transcription": "[ɪnˈdʒɔɪ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Наслаждаться",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "enter",
+      "transcription": "[ˈɛntər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Входить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "entertainment",
+      "transcription": "[ˌɛntərˈteɪnmənt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Развлечение",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "entrance",
+      "transcription": "[ˈɛntrəns]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вход",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "envelope",
+      "transcription": "[ˈɛnvəloʊp]",
+      "nameA": "",
+      "image": "/img/dict/classroom/envelope.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Конверт",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "environment",
+      "transcription": "[ɪnˈvaɪrənmənt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Окружающая среда",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "escape",
+      "transcription": "[ɪˈskeɪp]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сбежать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "exact",
+      "transcription": "[ɪɡˈzækt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Точный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "exaggerate",
+      "transcription": "[ɪɡˈzædʒəreɪt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Преувеличивать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "excellent",
+      "transcription": "[ˈɛksələnt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отличный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "excited",
+      "transcription": "[ɪkˈsaɪtɪd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Взволнованный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "excuse",
+      "transcription": "[ɪkˈskjuːz]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Извинение",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "exercise",
+      "transcription": "[ˈɛksərsaɪz]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Упражнение",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "expect",
+      "transcription": "[ɪkˈspɛkt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ожидать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "expensive",
+      "transcription": "[ɪkˈspɛnsɪv]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дорогой",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "explain",
+      "transcription": "[ɪkˈspleɪn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Объяснять",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "explode",
+      "transcription": "[ɪkˈsploʊd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Взрываться",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "explore",
+      "transcription": "[ɪkˈsplɔːr]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Исследовать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "extent",
+      "transcription": "[ɪkˈstɛnt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Степень",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "extinct",
+      "transcription": "[ɪkˈstɪŋkt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вымерший",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "extra",
+      "transcription": "[ˈɛkstrə]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дополнительный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "extraordinary",
+      "transcription": "[ɪkˈstrɔːrdənɛri]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Необыкновенный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "bread",
+      "transcription": "[brɛd]",
+      "nameA": "",
+      "image": "/img/dict/food/bread.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хлеб",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "dread",
+      "transcription": "[drɛd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Страх",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "feather",
+      "transcription": "[ˈfɛðər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Перо",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "head",
+      "transcription": "[hɛd]",
+      "nameA": "",
+      "image": "/img/dict/body/head.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Голова",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "instead",
+      "transcription": "[ɪnˈstɛd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вместо",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "jealous",
+      "transcription": "[ˈdʒɛləs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ревнивый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "meadow",
+      "transcription": "[ˈmɛdoʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Луг",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ready",
+      "transcription": "[ˈrɛdi]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Готовый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "spread",
+      "transcription": "[sprɛd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Распространять",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "steady",
+      "transcription": "[ˈstɛdi]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Устойчивый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "thread",
+      "transcription": "[θrɛd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Нить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "weather",
+      "transcription": "[ˈwɛðər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Погода",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

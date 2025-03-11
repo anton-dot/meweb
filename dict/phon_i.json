@@ -9,7 +9,7 @@
   "isByWords": false,
   "isForAdult": false,
   "separator": "",
-  "numWords": 17,
+  "numWords": 36,
   "tags": null,
   "Translations": [
     {
@@ -287,6 +287,310 @@
         {
           "lang": "ru-RU",
           "name": "Игуана",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "if",
+      "transcription": "[ɪf]",
+      "nameA": "",
+      "image": "",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Если",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ill",
+      "transcription": "[ɪl]",
+      "nameA": "",
+      "image": "",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Больной",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "immediate",
+      "transcription": "[ɪˈmiːdiət]",
+      "nameA": "",
+      "image": "",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Немедленный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "important",
+      "transcription": "[ɪmˈpɔːrtənt]",
+      "nameA": "",
+      "image": "",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Важный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "impossible",
+      "transcription": "[ɪmˈpɑːsəbl]",
+      "nameA": "",
+      "image": "",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Невозможный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "in",
+      "transcription": "[ɪn]",
+      "nameA": "",
+      "image": "",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "В",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "information",
+      "transcription": "[ˌɪnfərˈmeɪʃən]",
+      "nameA": "",
+      "image": "",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Информация",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "instruction",
+      "transcription": "[ɪnˈstrʌkʃən]",
+      "nameA": "",
+      "image": "",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Инструкция",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "instrument",
+      "transcription": "[ˈɪnstrəmənt]",
+      "nameA": "",
+      "image": "",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Инструмент",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "into",
+      "transcription": "[ˈɪntuː]",
+      "nameA": "",
+      "image": "",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "В",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "invent",
+      "transcription": "[ɪnˈvent]",
+      "nameA": "",
+      "image": "",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Изобретать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "invisible",
+      "transcription": "[ɪnˈvɪzəbl]",
+      "nameA": "",
+      "image": "",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Невидимый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "invite",
+      "transcription": "[ɪnˈvaɪt]",
+      "nameA": "",
+      "image": "",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Приглашать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "crystal",
+      "transcription": "[ˈkrɪstl]",
+      "nameA": "",
+      "image": "",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кристалл",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "mystery",
+      "transcription": "[ˈmɪstəri]",
+      "nameA": "",
+      "image": "",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тайна",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "physical",
+      "transcription": "[ˈfɪzɪkəl]",
+      "nameA": "",
+      "image": "",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Физический",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rhythm",
+      "transcription": "[ˈrɪðəm]",
+      "nameA": "",
+      "image": "",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ритм",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "symbol",
+      "transcription": "[ˈsɪmbəl]",
+      "nameA": "",
+      "image": "",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Символ",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "system",
+      "transcription": "[ˈsɪstəm]",
+      "nameA": "",
+      "image": "",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Система",
           "nameA": null
         }
       ]

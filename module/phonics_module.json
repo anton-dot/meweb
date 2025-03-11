@@ -44,7 +44,7 @@
           "aType": "ListSwipe",
           "img": "/img/dict/abc/voice_red.png",
           "rUrl": "phon_i",
-          "numAct": 17
+          "numAct": 36
         },
         {
           "id": 5,
@@ -61,11 +61,11 @@
           "id": 5,
           "minunlockid": 0,
           "unlockid": 1,
-          "name": "/n/ n, nn, kn, gn",
+          "name": "/n/ n, -nn, kn, gn",
           "aType": "ListSwipe",
           "img": "/img/dict/abc/voice_blue.png",
           "rUrl": "phon_n",
-          "numAct": 14
+          "numAct": 59
         }
          
       ]
@@ -75,7 +75,66 @@
     {
       "name": "Set 2",
       "activities": [
-       
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/m/ m, -mm, -mb, -mn",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_blue.png",
+          "rUrl": "phon_m",
+          "numAct":76
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/d/ d, -dd, -ed",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_blue.png",
+          "rUrl": "phon_d",
+          "numAct":52
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/g/ g, gh, gu, -gg, -gue",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_blue.png",
+          "rUrl": "phon_g",
+          "numAct":46
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/o/ o, wa, qua, alt",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_red.png",
+          "rUrl": "phon_o",
+          "numAct":21
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/k/ k, c, ch, qu, que, -ck",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_blue.png",
+          "rUrl": "phon_k",
+          "numAct":111
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/e/ e, -ea",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_red.png",
+          "rUrl": "phon_e",
+          "numAct":46
+        }
       ]
     }
     ,
@@ -87,11 +146,61 @@
           "id": 3,
           "minunlockid": 0,
           "unlockid": 1,
+          "name": "/u/ u, o, -ou, -ough, -our, -re",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_red.png",
+          "rUrl": "phon_u",
+          "numAct":23
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/r/ r, rh, wr, -rr",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_blue.png",
+          "rUrl": "phon_r",
+          "numAct":76
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/h/ h, wh",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_blue.png",
+          "rUrl": "phon_h",
+          "numAct":55
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/b/ b, bu, -bb",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_blue.png",
+          "rUrl": "phon_b",
+          "numAct":110
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
+          "name": "/f/ f,ph, -ff, -gh",
+          "aType": "ListSwipe",
+          "img": "/img/dict/abc/voice_blue.png",
+          "rUrl": "phon_f",
+          "numAct":80
+        },
+        {
+          "id": 3,
+          "minunlockid": 0,
+          "unlockid": 1,
           "name": "/l/ -l, -ll",
           "aType": "ListSwipe",
           "img": "/img/dict/abc/voice_blue.png",
           "rUrl": "phon_l",
-          "numAct": 19
+          "numAct": 37
         }
       ]
     }

@@ -1,0 +1,359 @@
+{
+  "name": "/ɒ/",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 21,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "object",
+      "transcription": "[ˈɒbdʒɪkt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Объект",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "obtuse",
+      "transcription": "[əbˈtjuːs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тупой",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "octopus",
+      "transcription": "[ˈɒktəpəs]",
+      "nameA": "",
+      "image": "/img/dict/animals/octopus.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Осьминог",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "odd",
+      "transcription": "[ɒd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Странный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "of",
+      "transcription": "[ɒv]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Из",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "off",
+      "transcription": "[ɒf]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выключен",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "offer",
+      "transcription": "[ˈɒfər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Предложение",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "on",
+      "transcription": "[ɒn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "На",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "opposite",
+      "transcription": "[ˈɒpəzɪt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Противоположный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "orange",
+      "transcription": "[ˈɒrɪndʒ]",
+      "nameA": "",
+      "image": "/img/dict/colors/orange.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Апельсин",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "swan",
+      "transcription": "[swɒn]",
+      "nameA": "",
+      "image": "/img/dict/animals/swan.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лебедь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "want",
+      "transcription": "[wɒnt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хотеть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wash",
+      "transcription": "[wɒʃ]",
+      "nameA": "",
+      "image": "/img/dict/home/wash.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мыть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "watch",
+      "transcription": "[wɒtʃ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Смотреть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "quad",
+      "transcription": "[kwɒd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Квадроцикл",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "quality",
+      "transcription": "[ˈkwɒlɪti]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Качество",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "quarrel",
+      "transcription": "[ˈkwɒrəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ссора",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "squash",
+      "transcription": "[skwɒʃ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сквош",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "alternative",
+      "transcription": "[ɔːlˈtɜːrnətɪv]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Альтернатива",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "halt",
+      "transcription": "[hɔːlt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Остановка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "salt",
+      "transcription": "[sɔːlt]",
+      "nameA": "",
+      "image": "/img/dict/food/salt.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Соль",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

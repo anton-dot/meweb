@@ -1,0 +1,391 @@
+{
+  "name": "/u/",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 23,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "ugly",
+      "transcription": "[ˈʌɡli]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Уродливый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "umbrella",
+      "transcription": "[ʌmˈbrɛlə]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Зонтик",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "uncle",
+      "transcription": "[ˈʌŋkəl]",
+      "nameA": "",
+      "image": "/img/dict/family/uncle.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дядя",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "understand",
+      "transcription": "[ˌʌndərˈstænd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Понимать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "undress",
+      "transcription": "[ʌnˈdrɛs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Раздеваться",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "up",
+      "transcription": "[ʌp]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вверх",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "upset",
+      "transcription": "[ʌpˈsɛt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Расстроенный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "onion",
+      "transcription": "[ˈʌnjən]",
+      "nameA": "",
+      "image": "/img/dict/food/onion.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лук",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "other",
+      "transcription": "[ˈʌðər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Другой",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "enormous",
+      "transcription": "[ɪˈnɔːrməs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Огромный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "enough",
+      "transcription": "[ɪˈnʌf]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Достаточно",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "touch",
+      "transcription": "[tʌtʃ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Касаться",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "tough",
+      "transcription": "[tʌf]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Жесткий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "borough",
+      "transcription": "[ˈbɜːroʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Район",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "thorough",
+      "transcription": "[ˈθɜːroʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тщательный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "colour",
+      "transcription": "[ˈkʌlər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Цвет",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "favour",
+      "transcription": "[ˈfeɪvər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Одолжение",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "flavour",
+      "transcription": "[ˈfleɪvər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вкус",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "humour",
+      "transcription": "[ˈhjuːmər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Юмор",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "centimetre",
+      "transcription": "[ˈsɛntɪˌmiːtər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сантиметр",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "centre",
+      "transcription": "[ˈsɛntər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Центр",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "metre",
+      "transcription": "[ˈmiːtər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Метр",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "theatre",
+      "transcription": "[ˈθiːətər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Театр",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}

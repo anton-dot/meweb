@@ -1,0 +1,1239 @@
+{
+  "name": "/r/",
+  "nameA": null,
+  "img": null,
+  "minQuiz": null,
+  "isRandom": false,
+  "isBlur": false,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 76,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Алфавит",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "rabbit",
+      "transcription": "[ˈræbɪt]",
+      "nameA": "",
+      "image": "/img/dict/animals/rabbit.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кролик",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "race",
+      "transcription": "[reɪs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Гонка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "radiator",
+      "transcription": "[ˈreɪdiˌeɪtər]",
+      "nameA": "",
+      "image": "/img/dict/home/radiator.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Радиатор",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "radio",
+      "transcription": "[ˈreɪdiˌoʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Радио",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "railway",
+      "transcription": "[ˈreɪlweɪ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Железная дорога",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rain",
+      "transcription": "[reɪn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дождь",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rainbow",
+      "transcription": "[ˈreɪnˌboʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Радуга",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rare",
+      "transcription": "[rɛr]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Редкий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rat",
+      "transcription": "[ræt]",
+      "nameA": "",
+      "image": "/img/dict/animals/rat.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Крыса",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "raw",
+      "transcription": "[rɔː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сырой",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "reach",
+      "transcription": "[riːtʃ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Достигать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "read",
+      "transcription": "[riːd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Читать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ready",
+      "transcription": "[ˈrɛdi]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Готовый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "real",
+      "transcription": "[ˈriːəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Настоящий",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "record",
+      "transcription": "[ˈrɛkərd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Запись",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "recorder",
+      "transcription": "[rɪˈkɔːrdər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Диктофон",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "reflections",
+      "transcription": "[rɪˈflɛkʃənz]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отражения",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "remember",
+      "transcription": "[rɪˈmɛmbər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Помнить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "remind",
+      "transcription": "[rɪˈmaɪnd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Напоминать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "remove",
+      "transcription": "[rɪˈmuːv]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Удалять",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "recall",
+      "transcription": "[rɪˈkɔːl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вспоминать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "repair",
+      "transcription": "[rɪˈpɛr]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ремонтировать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "reply",
+      "transcription": "[rɪˈplaɪ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ответить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rescue",
+      "transcription": "[ˈrɛskjuː]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Спасать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rest",
+      "transcription": "[rɛst]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отдых",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "return",
+      "transcription": "[rɪˈtɜːrn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Возвращаться",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "reward",
+      "transcription": "[rɪˈwɔːrd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Награда",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ribbon",
+      "transcription": "[ˈrɪbən]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лента",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rice",
+      "transcription": "[raɪs]",
+      "nameA": "",
+      "image": "/img/dict/food/rice.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Рис",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rich",
+      "transcription": "[rɪtʃ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Богатый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "riddle",
+      "transcription": "[ˈrɪdəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Загадка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ride",
+      "transcription": "[raɪd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ездить",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "right",
+      "transcription": "[raɪt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правильно",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ring",
+      "transcription": "[rɪŋ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кольцо",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rise",
+      "transcription": "[raɪz]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Подниматься",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "river",
+      "transcription": "[ˈrɪvər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Река",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "road",
+      "transcription": "[roʊd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дорога",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "roar",
+      "transcription": "[rɔːr]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Рев",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "robot",
+      "transcription": "[ˈroʊbɑt]",
+      "nameA": "",
+      "image": "/img/dict/toys/robot.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Робот",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rock",
+      "transcription": "[rɑk]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Скала",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rocket",
+      "transcription": "[ˈrɑkɪt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ракета",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "roll",
+      "transcription": "[roʊl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Катиться",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "roof",
+      "transcription": "[ruːf]",
+      "nameA": "",
+      "image": "/img/dict/home/roof.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Крыша",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "room",
+      "transcription": "[ruːm]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Комната",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "root",
+      "transcription": "[ruːt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Корень",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rope",
+      "transcription": "[roʊp]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Веревка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rose",
+      "transcription": "[roʊz]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Роза",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rough",
+      "transcription": "[rʌf]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Грубый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "round",
+      "transcription": "[raʊnd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Круглый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "row",
+      "transcription": "[roʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ряд",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rub",
+      "transcription": "[rʌb]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тереть",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rubber",
+      "transcription": "[ˈrʌbər]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Резина",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rubbish",
+      "transcription": "[ˈrʌbɪʃ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мусор",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rude",
+      "transcription": "[ruːd]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Грубый",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rule",
+      "transcription": "[ruːl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правило",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "ruler",
+      "transcription": "[ˈruːlər]",
+      "nameA": "",
+      "image": "/img/dict/classroom/ruler.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Линейка",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "run",
+      "transcription": "[rʌn]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Бежать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rhinoceros",
+      "transcription": "[raɪˈnɑːsərəs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Носорог",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rhombus",
+      "transcription": "[ˈrɑːmbəs]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ромб",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rhubarb",
+      "transcription": "[ˈruːbɑːrb]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ревень",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rhyme",
+      "transcription": "[raɪm]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Рифма",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "rhythm",
+      "transcription": "[ˈrɪðəm]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ритм",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wrap",
+      "transcription": "[ræp]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заворачивать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wriggle",
+      "transcription": "[ˈrɪɡəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Извиваться",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wrinkle",
+      "transcription": "[ˈrɪŋkəl]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Морщина",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wrist",
+      "transcription": "[rɪst]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Запястье",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "write",
+      "transcription": "[raɪt]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Писать",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "wrong",
+      "transcription": "[rɔːŋ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Неправильный",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "arrow",
+      "transcription": "[ˈæroʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Стрела",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "carry",
+      "transcription": "[ˈkæri]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Нести",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "hurry",
+      "transcription": "[ˈhɜːri]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Торопиться",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "lorry",
+      "transcription": "[ˈlɔːri]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Грузовик",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "marry",
+      "transcription": "[ˈmæri]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Жениться",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "parrot",
+      "transcription": "[ˈpærət]",
+      "nameA": "",
+      "image": "/img/dict/animals/parrot.png",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Попугай",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "sorry",
+      "transcription": "[ˈsɔːri]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Извините",
+          "nameA": null
+        }
+      ]
+    },
+    {
+      "id": 0,
+      "name": "tomorrow",
+      "transcription": "[təˈmɔːroʊ]",
+      "nameA": "",
+      "image": " ",
+      "bg": "transparent",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Завтра",
+          "nameA": null
+        }
+      ]
+    }
+  ]
+}
