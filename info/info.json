@@ -1,8 +1,8 @@
 {
   "Name": "Menglish - английский для детей и взрослых",
   "Notes": "New UI and updated application. Fast and relaible!",
-  "NotesContent": "All phonics added",
-  "Notes_ru": "Новый интерфейс и обновленное приложение. Быстрое и надежное!",
+  "NotesContent": "All phonics",
+  "Notes_ru": "Новый интерфейс и обновленное приложение. \nБыстрое и надежное!",
   "Version": 6,
   "Appversion": "2.1",
   "AndroidversionNumber": 21,
@@ -13,6 +13,13 @@
 
     "https://anton-dot.github.io/meweb/all.zip"
 
+  ],
+  "Notes_content":[
+    {
+      "Version":7,
+      "Notes":"All phonics",
+      "Notes_ru":""
+    }
   ]
 
-}
+} 
