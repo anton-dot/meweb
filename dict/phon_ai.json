@@ -1,5 +1,5 @@
 {
-  "name": "/eɪ/ -ai, -ay, -a, -ea, -ey, -ei, -a_e",
+  "name": "Phonics /ai/",
   "nameA": null,
   "img": null,
   "minQuiz": null,
@@ -19,6 +19,22 @@
     }
   ],
   "items": [
+    {
+      "id": 0,
+      "name": "/ai/",
+      "transcription": "",
+      "nameA": "/sound/dict/ai.mp3",
+      "image": "",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "",
+          "nameA": null
+        }
+      ]
+    },
     {
       "id": 0,
       "name": "aim",

@@ -1,5 +1,5 @@
 {
-  "name": "/air/ air, -are, -ear, -ere",
+  "name": "Phonics /air/",
   "nameA": null,
   "img": null,
   "minQuiz": null,
@@ -19,6 +19,22 @@
     }
   ],
   "items": [
+    {
+      "id": 0,
+      "name": "/air/",
+      "transcription": "",
+      "nameA": "/sound/dict/air.mp3",
+      "image": "",
+      "bg": "",
+      "nameAnswer": null,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "",
+          "nameA": null
+        }
+      ]
+    },
     {
       "id": 0,
       "name": "chair",

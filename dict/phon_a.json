@@ -1,5 +1,5 @@
 {
-  "name": "Phonics /A/",
+  "name": "Phonics /a/",
   "nameA": null,
   "img": null,
   "minQuiz": null,
@@ -21,7 +21,7 @@
   "items": [
     {
       "id": 0,
-      "name": "/A/",
+      "name": "/a/",
       "transcription": "",
       "nameA": "/sound/dict/a.mp3",
       "image": "",
