@@ -5,6 +5,48 @@
   "cats": [
     {
       "name": "Top words",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Топ слов"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Từ thông dụng"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "高频词"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "शीर्ष शब्द"
+        },
+        {
+          "lang": "th-TH",
+          "name": "คำที่ใช้บ่อย"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "En Çok Kullanılan Kelimeler"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Palavras Mais Usadas"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Top Wörter"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Kata Teratas"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Mots les plus utilisés"
+        }
+      ],
       "activities": [
         {
           "id": 1,
@@ -14,7 +56,49 @@
           "aType": "UNIVERSAL",
           "img": "/img/dict/top/top_100.png",
           "rUrl": "top_countable_top_100",
-          "numAct": 100
+          "numAct": 100,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Топ 100"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Top 100"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "前100"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "शीर्ष 100"
+            },
+            {
+              "lang": "th-TH",
+              "name": "100 อันดับแรก"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "En İyi 100"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Top 100"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Top 100"
+            },
+            {
+              "lang": "id-ID",
+              "name": "100 Teratas"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Top 100"
+            }
+          ]
         },
         {
           "id": 2,
@@ -24,7 +108,49 @@
           "aType": "UNIVERSAL",
           "img": "/img/dict/top/top_1000.png",
           "rUrl": "top_countable_top_1000",
-          "numAct": 998
+          "numAct": 998,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Топ 1 000"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Top 1 000"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "前1000"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "शीर्ष 1 000"
+            },
+            {
+              "lang": "th-TH",
+              "name": "1 000 อันดับแรก"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "En İyi 1 000"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Top 1 000"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Top 1 000"
+            },
+            {
+              "lang": "id-ID",
+              "name": "1.000 Teratas"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Top 1 000"
+            }
+          ]
         },
         {
           "id": 3,
@@ -34,7 +160,49 @@
           "aType": "UNIVERSAL",
           "img": "/img/dict/top/top_2000.png",
           "rUrl": "top_countable_top_2000",
-          "numAct": 2000
+          "numAct": 2000,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Топ 2 000"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Top 2 000"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "前2000"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "शीर्ष 2 000"
+            },
+            {
+              "lang": "th-TH",
+              "name": "2 000 อันดับแรก"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "En İyi 2 000"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Top 2 000"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Top 2 000"
+            },
+            {
+              "lang": "id-ID",
+              "name": "2.000 Teratas"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Top 2 000"
+            }
+          ]
         },
         {
           "id": 4,
@@ -44,7 +212,49 @@
           "aType": "UNIVERSAL",
           "img": "/img/dict/top/top_3000.png",
           "rUrl": "top_countable_top_3000",
-          "numAct": 3001
+          "numAct": 3001,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Топ 3 000"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Top 3 000"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "前3000"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "शीर्ष 3 000"
+            },
+            {
+              "lang": "th-TH",
+              "name": "3 000 อันดับแรก"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "En İyi 3 000"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Top 3 000"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Top 3 000"
+            },
+            {
+              "lang": "id-ID",
+              "name": "3.000 Teratas"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Top 3 000"
+            }
+          ]
         },
         {
           "id": 5,
@@ -54,9 +264,50 @@
           "aType": "UNIVERSAL",
           "img": "/img/dict/top/top_5000.png",
           "rUrl": "top_countable_top_5000",
-          "numAct": 4999
-        }
-        ,
+          "numAct": 4999,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Топ 5 000"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Top 5 000"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "前5000"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "शीर्ष 5 000"
+            },
+            {
+              "lang": "th-TH",
+              "name": "5 000 อันดับแรก"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "En İyi 5 000"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Top 5 000"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Top 5 000"
+            },
+            {
+              "lang": "id-ID",
+              "name": "5.000 Teratas"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Top 5 000"
+            }
+          ]
+        },
         {
           "id": 6,
           "minunlockid": 0,
@@ -65,13 +316,96 @@
           "aType": "UNIVERSAL",
           "img": "/img/dict/top/top_10000.png",
           "rUrl": "top_countable_top_10000",
-          "numAct": 9951
+          "numAct": 9951,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Топ 10 000"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Top 10 000"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "前10000"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "शीर्ष 10 000"
+            },
+            {
+              "lang": "th-TH",
+              "name": "10 000 อันดับแรก"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "En İyi 10 000"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Top 10 000"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Top 10 000"
+            },
+            {
+              "lang": "id-ID",
+              "name": "10.000 Teratas"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Top 10 000"
+            }
+          ]
         }
       ]
-    }
-    ,
+    },
     {
       "name": "CEFR",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "CEFR"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Khung CEFR"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "欧标CEFR"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "CEFR"
+        },
+        {
+          "lang": "th-TH",
+          "name": "CEFR"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "CEFR"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "CEFR"
+        },
+        {
+          "lang": "de-DE",
+          "name": "CEFR"
+        },
+        {
+          "lang": "id-ID",
+          "name": "CEFR"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "CEFR"
+        }
+      ],
       "activities": [
         {
           "id": 6,
@@ -81,7 +415,49 @@
           "aType": "UNIVERSAL",
           "img": "/img/dict/top/top_a1.png",
           "rUrl": "top_a1",
-          "numAct": 898
+          "numAct": 898,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "A1 - Начальный"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "A1 - Cơ bản"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "A1 - 初级"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "A1 - प्रारंभिक"
+            },
+            {
+              "lang": "th-TH",
+              "name": "A1 - ขั้นต้น"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "A1 - Başlangıç"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "A1 - Básico"
+            },
+            {
+              "lang": "de-DE",
+              "name": "A1 - Anfänger"
+            },
+            {
+              "lang": "id-ID",
+              "name": "A1 - Pemula"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "A1 - Élémentaire"
+            }
+          ]
         },
         {
           "id": 6,
@@ -91,7 +467,49 @@
           "aType": "UNIVERSAL",
           "img": "/img/dict/top/top_a2.png",
           "rUrl": "top_a2",
-          "numAct": 865
+          "numAct": 865,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "A2 - Предсредний"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "A2 - Sơ trung cấp"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "A2 - 准中级"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "A2 - प्रारंभिक मध्यम"
+            },
+            {
+              "lang": "th-TH",
+              "name": "A2 - ก่อนกลาง"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "A2 - Ön Orta"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "A2 - Pré-intermediário"
+            },
+            {
+              "lang": "de-DE",
+              "name": "A2 - Grundlegende Kenntnisse"
+            },
+            {
+              "lang": "id-ID",
+              "name": "A2 - Pra-menengah"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "A2 - Pré-intermédiaire"
+            }
+          ]
         },
         {
           "id": 6,
@@ -101,7 +519,49 @@
           "aType": "UNIVERSAL",
           "img": "/img/dict/top/top_b1.png",
           "rUrl": "top_b1",
-          "numAct": 804
+          "numAct": 804,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "B1 - Средний"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "B1 - Trung cấp"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "B1 - 中级"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "B1 - मध्यम"
+            },
+            {
+              "lang": "th-TH",
+              "name": "B1 - กลาง"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "B1 - Orta"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "B1 - Intermediário"
+            },
+            {
+              "lang": "de-DE",
+              "name": "B1 - Mittelstufe"
+            },
+            {
+              "lang": "id-ID",
+              "name": "B1 - Menengah"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "B1 - Intermédiaire"
+            }
+          ]
         },
         {
           "id": 6,
@@ -111,9 +571,50 @@
           "aType": "UNIVERSAL",
           "img": "/img/dict/top/top_b2.png",
           "rUrl": "top_b2",
-          "numAct": 1423
-        }
-        ,
+          "numAct": 1423,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "B2 - Выше среднего"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "B2 - Trung cấp nâng cao"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "B2 - 中高级"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "B2 - उच्च मध्यम"
+            },
+            {
+              "lang": "th-TH",
+              "name": "B2 - สูงกลาง"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "B2 - Üst Orta"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "B2 - Intermediário superior"
+            },
+            {
+              "lang": "de-DE",
+              "name": "B2 - Gute Mittelstufe"
+            },
+            {
+              "lang": "id-ID",
+              "name": "B2 - Menengah atas"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "B2 - Intermédiaire supérieur"
+            }
+          ]
+        },
         {
           "id": 6,
           "minunlockid": 0,
@@ -122,18 +623,142 @@
           "aType": "UNIVERSAL",
           "img": "/img/dict/top/top_c1.png",
           "rUrl": "top_c1",
-          "numAct": 1297
+          "numAct": 1297,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "C1 - Продвинутый"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "C1 - Nâng cao"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "C1 - 高级"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "C1 - उन्नत"
+            },
+            {
+              "lang": "th-TH",
+              "name": "C1 - ขั้นสูง"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "C1 - İleri"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "C1 - Avançado"
+            },
+            {
+              "lang": "de-DE",
+              "name": "C1 - Fortgeschritten"
+            },
+            {
+              "lang": "id-ID",
+              "name": "C1 - Lanjutan"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "C1 - Avancé"
+            }
+          ]
         }
       ]
     },
     {
       "name": "Express",
-      "activities": [
-       
-      ]
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Экспресс"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Nhanh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "快速"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "एक्सप्रेस"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ด่วน"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Hızlı"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Expresso"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Express"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Ekspres"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Express"
+        }
+      ],
+      "activities": []
     },
     {
       "name": "Exams",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Экзамены"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Bài thi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "考试"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "परीक्षा"
+        },
+        {
+          "lang": "th-TH",
+          "name": "การสอบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Sınavlar"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Exames"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Prüfungen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Ujian"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Examens"
+        }
+      ],
       "activities": [
         {
           "minunlockid": 300,
@@ -141,9 +766,50 @@
           "name": "ТОП ОГЭ",
           "aType": "UNIVERSAL",
           "numAct": 1763,
-
           "img": "/img/dict/top/top_oge.png",
-          "rUrl": "top_oge"
+          "rUrl": "top_oge",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "ТОП ОГЭ"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "TOP OGE (Nga)"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "OGE考试高频词"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "शीर्ष OGE (रूसी)"
+            },
+            {
+              "lang": "th-TH",
+              "name": "คำศัพท์ OGE (รัสเซีย)"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "OGE Sınavı (Rusça)"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "TOP OGE (Russo)"
+            },
+            {
+              "lang": "de-DE",
+              "name": "TOP OGE (Russisch)"
+            },
+            {
+              "lang": "id-ID",
+              "name": "TOP OGE (Rusia)"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "TOP OGE (Russe)"
+            }
+          ]
         },
         {
           "minunlockid": 300,
@@ -152,8 +818,49 @@
           "aType": "UNIVERSAL",
           "img": "/img/dict/top/top_ege.jpg",
           "numAct": 3233,
-
-          "rUrl": "top_uge"
+          "rUrl": "top_uge",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "ТОП ЕГЭ"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "TOP EGE (Nga)"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "EGE考试高频词"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "शीर्ष EGE (रूसी)"
+            },
+            {
+              "lang": "th-TH",
+              "name": "คำศัพท์ EGE (รัสเซีย)"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "EGE Sınavı (Rusça)"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "TOP EGE (Russo)"
+            },
+            {
+              "lang": "de-DE",
+              "name": "TOP EGE (Russisch)"
+            },
+            {
+              "lang": "id-ID",
+              "name": "TOP EGE (Rusia)"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "TOP EGE (Russe)"
+            }
+          ]
         }
       ]
     }

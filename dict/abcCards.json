@@ -30,6 +30,51 @@
           "lang": "ru-RU",
           "name": "Алфавит",
           "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Bảng chữ cái",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "字母表",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "वर्णमाला",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "ตัวอักษร",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Alfabe",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Alfabeto",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Alphabet",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Alfabet",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Alphabet",
+          "nameA": null
         }
       ]
     },

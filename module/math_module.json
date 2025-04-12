@@ -2,49 +2,385 @@
   "name": "Maths",
   "description": "",
   "version": "2",
+  "translates": [
+    {
+      "lang": "ru-RU",
+      "name": "Математика"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Toán học"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "数学"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "गणित"
+    },
+    {
+      "lang": "th-TH",
+      "name": "คณิตศาสตร์"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Matematik"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Matemática"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Mathematik"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Matematika"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Mathématiques"
+    }
+  ],
   "cats": [
     {
       "name": "Numbers",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Числа"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Số"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ตัวเลข"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Sayılar"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Números"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Zahlen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Angka"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Nombres"
+        }
+      ],
       "activities": [
         {
           "name": "0-10",
           "aType": "UNIVERSAL",
           "img": "/img/dict/numbers/10.png",
           "bgColor": "dodgerblue",
-          "rUrl": "mathNumbers10Cards"
+          "rUrl": "mathNumbers10Cards",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "0-10"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "0-10"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "0-10"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "0-10"
+            },
+            {
+              "lang": "th-TH",
+              "name": "0-10"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "0-10"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "0-10"
+            },
+            {
+              "lang": "de-DE",
+              "name": "0-10"
+            },
+            {
+              "lang": "id-ID",
+              "name": "0-10"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "0-10"
+            }
+          ]
         },
         {
           "name": "11-20",
           "aType": "UNIVERSAL",
           "img": "/img/dict/numbers/20.png",
           "bgColor": "dodgerblue",
-          "rUrl": "mathNumbers1020Cards"
+          "rUrl": "mathNumbers1020Cards",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "11-20"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "11-20"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "11-20"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "11-20"
+            },
+            {
+              "lang": "th-TH",
+              "name": "11-20"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "11-20"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "11-20"
+            },
+            {
+              "lang": "de-DE",
+              "name": "11-20"
+            },
+            {
+              "lang": "id-ID",
+              "name": "11-20"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "11-20"
+            }
+          ]
         },
         {
           "name": "21-29",
           "aType": "UNIVERSAL",
           "img": "/img/dict/numbers/29.png",
           "bgColor": "dodgerblue",
-          "rUrl": "mathNumbers2129Cards"
+          "rUrl": "mathNumbers2129Cards",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "21-29"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "21-29"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "21-29"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "21-29"
+            },
+            {
+              "lang": "th-TH",
+              "name": "21-29"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "21-29"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "21-29"
+            },
+            {
+              "lang": "de-DE",
+              "name": "21-29"
+            },
+            {
+              "lang": "id-ID",
+              "name": "21-29"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "21-29"
+            }
+          ]
         },
         {
           "name": "10,100,1000",
           "aType": "UNIVERSAL",
           "img": "/img/dict/numbers/100.png",
           "bgColor": "dodgerblue",
-          "rUrl": "mathNumbers10100Cards"
+          "rUrl": "mathNumbers10100Cards",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "10,100,1000"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "10,100,1000"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "10,100,1000"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "10,100,1000"
+            },
+            {
+              "lang": "th-TH",
+              "name": "10,100,1000"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "10,100,1000"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "10,100,1000"
+            },
+            {
+              "lang": "de-DE",
+              "name": "10,100,1000"
+            },
+            {
+              "lang": "id-ID",
+              "name": "10,100,1000"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "10,100,1000"
+            }
+          ]
         }
       ]
     },
     {
       "name": "Counting to 10",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Счёт до 10"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Đếm đến 10"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数到10"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "10 तक गिनती"
+        },
+        {
+          "lang": "th-TH",
+          "name": "นับถึง 10"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "10'a Kadar Sayma"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Contar até 10"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bis 10 zählen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Berhitung sampai 10"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Compter jusqu'à 10"
+        }
+      ],
       "activities": [
         {
           "name": "Counting to 10",
           "aType": "LetterSelect",
           "img": "/img/dict/math/ruler10.png",
           "rUrl": "mathCountingCards",
-          "bgColor": "white"
+          "bgColor": "white",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Счёт до 10"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Đếm đến 10"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "数到10"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "10 तक गिनती"
+            },
+            {
+              "lang": "th-TH",
+              "name": "นับถึง 10"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "10'a Kadar Sayma"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Contar até 10"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Bis 10 zählen"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Berhitung sampai 10"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Compter jusqu'à 10"
+            }
+          ]
         },
         {
           "name": "Quantity to 10",
@@ -52,21 +388,147 @@
           "img": "/img/dict/math/c5.png",
           "rUrl": "match10PicCards",
           "numAct": 5,
-          "bgColor": "white"
+          "bgColor": "white",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Количество до 10"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Số lượng đến 10"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "10以内的数量"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "10 तक मात्रा"
+            },
+            {
+              "lang": "th-TH",
+              "name": "ปริมาณถึง 10"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "10'a Kadar Miktar"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Quantidade até 10"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Menge bis 10"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Jumlah sampai 10"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Quantité jusqu'à 10"
+            }
+          ]
         },
         {
           "name": "gaps (to 10)",
           "aType": "InlineSelect",
           "img": "/img/activity/gaps_10.png",
           "rUrl": "mathCountingSpaceCards",
-          "bgColor": "white"
+          "bgColor": "white",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Пропуски (до 10)"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Điền số (đến 10)"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "填空(10以内)"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "रिक्त स्थान (10 तक)"
+            },
+            {
+              "lang": "th-TH",
+              "name": "เติมคำ (ถึง 10)"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Boşluklar (10'a kadar)"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Lacunas (até 10)"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Lücken (bis 10)"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Mengisi (sampai 10)"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Trous (jusqu'à 10)"
+            }
+          ]
         },
         {
           "name": "Compositions",
           "aType": "ListSwipe",
           "img": "/img/dict/math/c4p4.png",
           "rUrl": "math10CompositionCards",
-          "bgColor": "white"
+          "bgColor": "white",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Состав числа"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Thành phần số"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "数字组成"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "संख्या संरचना"
+            },
+            {
+              "lang": "th-TH",
+              "name": "องค์ประกอบของตัวเลข"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Sayı Bileşenleri"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Composições"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Zusammensetzungen"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Komposisi"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Compositions"
+            }
+          ]
         },
         {
           "name": "Make up a number (to 10)",
@@ -78,21 +540,93 @@
           "translates": [
             {
               "lang": "ru-RU",
-              "name": "Составь число"
+              "name": "Составь число (до 10)"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Tạo số (đến 10)"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "组成数字(10以内)"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "संख्या बनाएं (10 तक)"
+            },
+            {
+              "lang": "th-TH",
+              "name": "สร้างตัวเลข (ถึง 10)"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Sayı Oluştur (10'a kadar)"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Formar um número (até 10)"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Zahl bilden (bis 10)"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Buat angka (sampai 10)"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Former un nombre (jusqu'à 10)"
             }
           ]
-        },        
+        },
         {
           "name": "Examples (to 10)",
           "aType": "InlineSelect",
           "img": "/img/dict/math/gaps_example_10.png",
           "rUrl": "mathPlua10Cards",
-          "bgColor": "white",           
+          "bgColor": "white",
           "numAct": 22,
           "translates": [
             {
               "lang": "ru-RU",
-              "name": "Примеры (до10)"
+              "name": "Примеры (до 10)"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Ví dụ (đến 10)"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "例题(10以内)"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "उदाहरण (10 तक)"
+            },
+            {
+              "lang": "th-TH",
+              "name": "ตัวอย่าง (ถึง 10)"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Örnekler (10'a kadar)"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Exemplos (até 10)"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Beispiele (bis 10)"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Contoh (sampai 10)"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Exemples (jusqu'à 10)"
             }
           ]
         },
@@ -101,45 +635,339 @@
           "aType": "SimpleSelect",
           "img": "/img/dict/numbers/1p1.png",
           "rUrl": "mathPlusCards",
-          "bgColor": "white"
+          "bgColor": "white",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Сложение (до 10)"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Phép cộng (đến 10)"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "加法(10以内)"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "जोड़ (10 तक)"
+            },
+            {
+              "lang": "th-TH",
+              "name": "บวก (ถึง 10)"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Toplama (10'a kadar)"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Adição (até 10)"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Plus (bis 10)"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Penjumlahan (sampai 10)"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Addition (jusqu'à 10)"
+            }
+          ]
         },
         {
           "name": "Minus (to 10)",
           "aType": "SimpleSelect",
           "img": "/img/dict/numbers/2m1.png",
           "rUrl": "mathMinusCards",
-          "bgColor": "white"
+          "bgColor": "white",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Вычитание (до 10)"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Phép trừ (đến 10)"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "减法(10以内)"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "घटाव (10 तक)"
+            },
+            {
+              "lang": "th-TH",
+              "name": "ลบ (ถึง 10)"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Çıkarma (10'a kadar)"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Subtração (até 10)"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Minus (bis 10)"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Pengurangan (sampai 10)"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Soustraction (jusqu'à 10)"
+            }
+          ]
         }
       ]
     },
     {
       "name": "Counting to 20",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Счёт до 20"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Đếm đến 20"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数到20"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "20 तक गिनती"
+        },
+        {
+          "lang": "th-TH",
+          "name": "นับถึง 20"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "20'ye Kadar Sayma"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Contar até 20"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bis 20 zählen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Berhitung sampai 20"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Compter jusqu'à 20"
+        }
+      ],
       "activities": [
         {
           "name": "10 to 20",
           "aType": "LetterSelect",
           "img": "/img/dict/math/ruler1020.png",
           "rUrl": "mathCounting1020Cards",
-          "bgColor": "white"
+          "bgColor": "white",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "От 10 до 20"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Từ 10 đến 20"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "10到20"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "10 से 20"
+            },
+            {
+              "lang": "th-TH",
+              "name": "10 ถึง 20"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "10'dan 20'ye"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "10 a 20"
+            },
+            {
+              "lang": "de-DE",
+              "name": "10 bis 20"
+            },
+            {
+              "lang": "id-ID",
+              "name": "10 sampai 20"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "10 à 20"
+            }
+          ]
         },
         {
           "name": "Compositions 10 to 20",
           "aType": "ListSwipe",
           "img": "/img/dict/math/c10p10.png",
           "rUrl": "math20CompositionCards",
-          "bgColor": "white"
+          "bgColor": "white",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Состав числа 10-20"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Thành phần số 10-20"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "10-20的数字组成"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "10-20 की संख्या संरचना"
+            },
+            {
+              "lang": "th-TH",
+              "name": "องค์ประกอบของตัวเลข 10-20"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "10-20 Sayı Bileşenleri"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Composições 10 a 20"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Zusammensetzungen 10-20"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Komposisi 10-20"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Compositions 10-20"
+            }
+          ]
         },
         {
           "name": "Counting to 20",
           "aType": "LetterSelect",
           "img": "/img/dict/math/ruler20.png",
           "rUrl": "mathCounting20Cards",
-          "bgColor": "white"
+          "bgColor": "white",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Счёт до 20"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Đếm đến 20"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "数到20"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "20 तक गिनती"
+            },
+            {
+              "lang": "th-TH",
+              "name": "นับถึง 20"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "20'ye Kadar Sayma"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Contar até 20"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Bis 20 zählen"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Berhitung sampai 20"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Compter jusqu'à 20"
+            }
+          ]
         }
       ]
     },
     {
       "name": "Plus-Minus",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Плюс-Минус"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Cộng-Trừ"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "加减法"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "जोड़-घटाव"
+        },
+        {
+          "lang": "th-TH",
+          "name": "บวกลบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Artı-Eksi"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Mais-Menos"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Plus-Minus"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Tambah-Kurang"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Plus-Moins"
+        }
+      ],
       "activities": []
     }
   ]
