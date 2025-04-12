@@ -12,7 +12,52 @@
   "Translations": [
     {
       "lang": "ru-RU",
-      "name": "Дикие животные",
+      "name": "Птицы",
+      "nameA": null
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Chim",
+      "nameA": null
+    },
+    {
+      "lang": "zh-CN",
+      "name": "鸟类",
+      "nameA": null
+    },
+    {
+      "lang": "hi-IN",
+      "name": "पक्षी",
+      "nameA": null
+    },
+    {
+      "lang": "th-TH",
+      "name": "นก",
+      "nameA": null
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Kuşlar",
+      "nameA": null
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Pássaros",
+      "nameA": null
+    },
+    {
+      "lang": "de-DE",
+      "name": "Vögel",
+      "nameA": null
+    },
+    {
+      "lang": "id-ID",
+      "name": "Burung",
+      "nameA": null
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Oiseaux",
       "nameA": null
     }
   ],
@@ -30,6 +75,51 @@
           "lang": "ru-RU",
           "name": "скворец",
           "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "chim sáo",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "椋鸟",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "मैना",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "นกกิ้งโครง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "sığırcık",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "estorninho",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Star",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "jalak",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "étourneau",
+          "nameA": null
         }
       ]
     },
@@ -45,6 +135,51 @@
         {
           "lang": "ru-RU",
           "name": "аист",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "cò",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "鹳",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "सारस",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "นกกระสา",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "leylek",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "cegonha",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Storch",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "bangau",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "cigogne",
           "nameA": null
         }
       ]
@@ -62,6 +197,51 @@
           "lang": "ru-RU",
           "name": "голубь",
           "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "chim bồ câu",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "鸽子",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "कबूतर",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "นกพิราบ",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "güvercin",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "pombo",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Taube",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "merpati",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "pigeon",
+          "nameA": null
         }
       ]
     },
@@ -77,6 +257,51 @@
         {
           "lang": "ru-RU",
           "name": "стервятник",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "kền kền",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "秃鹫",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "गिद्ध",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "แร้ง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "akbaba",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "abutre",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Geier",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "burung nasar",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "vautour",
           "nameA": null
         }
       ]
@@ -94,6 +319,51 @@
           "lang": "ru-RU",
           "name": "гнездо",
           "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "tổ chim",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "鸟巢",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "घोंसला",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "รังนก",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "yuva",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "ninho",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Nest",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "sarang",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "nid",
+          "nameA": null
         }
       ]
     },
@@ -109,6 +379,51 @@
         {
           "lang": "ru-RU",
           "name": "сокол",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "chim ưng",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "猎鹰",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "बाज",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เหยี่ยว",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "şahin",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "falcão",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Falke",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "elang",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "faucon",
           "nameA": null
         }
       ]
@@ -126,6 +441,51 @@
           "lang": "ru-RU",
           "name": "страус",
           "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "đà điểu",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "鸵鸟",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "शुतुरमुर्ग",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "นกกระจอกเทศ",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "devekuşu",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "avestruz",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Strauß",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "burung unta",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "autruche",
+          "nameA": null
         }
       ]
     },
@@ -141,6 +501,51 @@
         {
           "lang": "ru-RU",
           "name": "ласточка",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "chim én",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "燕子",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "अबाबील",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "นกนางแอ่น",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "kırlangıç",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "andorinha",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Schwalbe",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "burung layang-layang",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "hirondelle",
           "nameA": null
         }
       ]
@@ -158,6 +563,51 @@
           "lang": "ru-RU",
           "name": "пингвин",
           "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "chim cánh cụt",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "企鹅",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "पेंगुइन",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เพนกวิน",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "penguen",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "pinguim",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Pinguin",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "pinguin",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "pingouin",
+          "nameA": null
         }
       ]
     },
@@ -173,6 +623,51 @@
         {
           "lang": "ru-RU",
           "name": "попугай",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "vẹt",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "鹦鹉",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तोता",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "นกแก้ว",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "papağan",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "papagaio",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Papagei",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "nuri",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "perroquet",
           "nameA": null
         }
       ]
@@ -190,6 +685,51 @@
           "lang": "ru-RU",
           "name": "ястреб",
           "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "diều hâu",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "鹰",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "बाज",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เหยี่ยว",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "şahin",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "gavião",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Habicht",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "elang",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "faucon",
+          "nameA": null
         }
       ]
     },
@@ -205,6 +745,51 @@
         {
           "lang": "ru-RU",
           "name": "воробей",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "chim sẻ",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "麻雀",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "गौरैया",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "นกกระจอก",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "serçe",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "pardal",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Spatz",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "burung gereja",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "moineau",
           "nameA": null
         }
       ]
@@ -222,6 +807,51 @@
           "lang": "ru-RU",
           "name": "колибри",
           "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "chim ruồi",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "蜂鸟",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "गुंजन पक्षी",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "นกฮัมมิงเบิร์ด",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "sinek kuşu",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "beija-flor",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Kolibri",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "burung kolibri",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "colibri",
+          "nameA": null
         }
       ]
     },
@@ -237,6 +867,51 @@
         {
           "lang": "ru-RU",
           "name": "петух",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "gà trống",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "公鸡",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "मुर्गा",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "ไก่ตัวผู้",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "horoz",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "galo",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Hahn",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "ayam jago",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "coq",
           "nameA": null
         }
       ]
@@ -254,6 +929,51 @@
           "lang": "ru-RU",
           "name": "павлин",
           "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "công",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "孔雀",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "मोर",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "นกยูง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "tavus kuşu",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "pavão",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Pfau",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "merak",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "paon",
+          "nameA": null
         }
       ]
     },
@@ -269,6 +989,51 @@
         {
           "lang": "ru-RU",
           "name": "чайка",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "mòng biển",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "海鸥",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "समुद्री गल",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "นกนางนวล",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "martı",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "gaivota",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Möwe",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "burung camar",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "mouette",
           "nameA": null
         }
       ]
@@ -286,6 +1051,51 @@
           "lang": "ru-RU",
           "name": "пеликан",
           "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "bồ nông",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "鹈鹕",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "हवासिल",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "นกกระทุง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "pelikan",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "pelicano",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Pelikan",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "pelikan",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "pélican",
+          "nameA": null
         }
       ]
     },
@@ -301,6 +1111,51 @@
         {
           "lang": "ru-RU",
           "name": "сова",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "cú",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "猫头鹰",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "उल्लू",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "นกฮูก",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "baykuş",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "coruja",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Eule",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "burung hantu",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "hibou",
           "nameA": null
         }
       ]
@@ -318,6 +1173,51 @@
           "lang": "ru-RU",
           "name": "щегол",
           "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "chim sẻ thông",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "金翅雀",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "सुनहरी चिड़िया",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "นกฟินช์ทอง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "saka kuşu",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "pintassilgo",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Stieglitz",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "burung goldfinch",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "chardonneret",
+          "nameA": null
         }
       ]
     },
@@ -333,6 +1233,51 @@
         {
           "lang": "ru-RU",
           "name": "цапля",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "diệc",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "苍鹭",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "बगुला",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "นกกระสา",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "balıkçıl",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "garça",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Reiher",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "bangau",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "héron",
           "nameA": null
         }
       ]
@@ -350,6 +1295,51 @@
           "lang": "ru-RU",
           "name": "дятел",
           "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "chim gõ kiến",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "啄木鸟",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "कठफोड़वा",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "นกหัวขวาน",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "ağaçkakan",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "pica-pau",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Specht",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "burung pelatuk",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "pic",
+          "nameA": null
         }
       ]
     },
@@ -366,6 +1356,51 @@
           "lang": "ru-RU",
           "name": "канарейка",
           "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "chim hoàng yến",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "金丝雀",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "कैनरी",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "นกคีรีบูน",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "kanarya",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "canário",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Kanarienvogel",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "kenari",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "canari",
+          "nameA": null
         }
       ]
     },
@@ -380,7 +1415,52 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Фламинго",
+          "name": "фламинго",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "chim hồng hạc",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "火烈鸟",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "राजहंस",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "นกฟลามิงโก",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "flamingo",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "flamingo",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Flamingo",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "flamingo",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "flamant",
           "nameA": null
         }
       ]
@@ -398,6 +1478,51 @@
           "lang": "ru-RU",
           "name": "гусь",
           "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "ngỗng",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "鹅",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "हंस",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "ห่าน",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "kaz",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "ganso",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Gans",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "angsa",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "oie",
+          "nameA": null
         }
       ]
     },
@@ -413,6 +1538,51 @@
         {
           "lang": "ru-RU",
           "name": "синица",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "chim bạc má",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "山雀",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "चिकाडी",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "นกชิกคาดี",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "baştankara",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "chapim",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Meise",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "burung chickadee",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "mésange",
           "nameA": null
         }
       ]
@@ -430,6 +1600,51 @@
           "lang": "ru-RU",
           "name": "утка",
           "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "vịt",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "鸭子",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "बतख",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เป็ด",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "ördek",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "pato",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Ente",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "bebek",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "canard",
+          "nameA": null
         }
       ]
     },
@@ -445,6 +1660,51 @@
         {
           "lang": "ru-RU",
           "name": "лебедь",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "thiên nga",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "天鹅",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "हंस",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "หงส์",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "kuğu",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "cisne",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Schwan",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "angsa",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "cygne",
           "nameA": null
         }
       ]
@@ -462,6 +1722,51 @@
           "lang": "ru-RU",
           "name": "курица",
           "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "gà mái",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "母鸡",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "मुर्गी",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "แม่ไก่",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "tavuk",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "galinha",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Henne",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "ayam betina",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "poule",
+          "nameA": null
         }
       ]
     },
@@ -477,6 +1782,51 @@
         {
           "lang": "ru-RU",
           "name": "тукан",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "chim toucan",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "巨嘴鸟",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "टूकेन",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "นกทูแคน",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "tukan",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "tucano",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Tukan",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "tukan",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "toucan",
           "nameA": null
         }
       ]
@@ -494,6 +1844,51 @@
           "lang": "ru-RU",
           "name": "ворона",
           "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "quạ",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "乌鸦",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "कौआ",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "กา",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "karga",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "corvo",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Krähe",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "gagak",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "corbeau",
+          "nameA": null
         }
       ]
     },
@@ -509,6 +1904,51 @@
         {
           "lang": "ru-RU",
           "name": "журавль",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "sếu",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "鹤",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "सारस",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "นกกระเรียน",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "turna",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "grou",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Kranich",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "bangau",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "grue",
           "nameA": null
         }
       ]
@@ -526,6 +1966,51 @@
           "lang": "ru-RU",
           "name": "орел",
           "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "đại bàng",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "鹰",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "गरुड़",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "นกอินทรี",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "kartal",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "águia",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Adler",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "elang",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "aigle",
+          "nameA": null
         }
       ]
     },
@@ -541,6 +2026,51 @@
         {
           "lang": "ru-RU",
           "name": "индейка",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "gà tây",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "火鸡",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "टर्की",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "ไก่งวง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "hindi",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "peru",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Truthahn",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "kalkun",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "dinde",
           "nameA": null
         }
       ]
