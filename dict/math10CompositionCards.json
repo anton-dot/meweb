@@ -19,7 +19,7 @@
   "items": [
     {
       "id": 0,
-      "name": "Zero is 0 \u002B 0",
+      "name": "Zero is 0 + 0",
       "transcription": "[ˈzɪərəʊ]",
       "nameA": null,
       "image": "/img/dict/math/c0p0.png",
@@ -28,14 +28,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Ноль это 0\u002B0",
+          "name": "Ноль это 0+0",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "One is 1\u002B0",
+      "name": "One is 1+0",
       "transcription": "[wʌn]",
       "nameA": null,
       "image": "/img/dict/math/c1p0.png",
@@ -44,14 +44,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "1 это 1\u002B0",
+          "name": "1 это 1+0",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Two is 2\u002B0",
+      "name": "Two is 2+0",
       "transcription": "[tuː]",
       "nameA": null,
       "image": "/img/dict/math/c2p0.png",
@@ -60,14 +60,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "2 это 2\u002B0",
+          "name": "2 это 2+0",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Two is 1\u002B1",
+      "name": "Two is 1+1",
       "transcription": "[tuː]",
       "nameA": null,
       "image": "/img/dict/math/c1p1.png",
@@ -76,14 +76,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "2 это 1\u002B1",
+          "name": "2 это 1+1",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Three is 3\u002B0",
+      "name": "Three is 3+0",
       "transcription": "[θriː]",
       "nameA": null,
       "image": "/img/dict/math/c3p0.png",
@@ -92,14 +92,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "3 это 3\u002B0",
+          "name": "3 это 3+0",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Three is 2\u002B1",
+      "name": "Three is 2+1",
       "transcription": "[θriː]",
       "nameA": null,
       "image": "/img/dict/math/c2p1.png",
@@ -108,14 +108,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "3 это 2\u002B1",
+          "name": "3 это 2+1",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Four is 4\u002B0",
+      "name": "Four is 4+0",
       "transcription": "[fɔː]",
       "nameA": null,
       "image": "/img/dict/math/c4p0.png",
@@ -124,14 +124,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "4 это 4\u002B0",
+          "name": "4 это 4+0",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Four is 3\u002B1",
+      "name": "Four is 3+1",
       "transcription": "[fɔː]",
       "nameA": null,
       "image": "/img/dict/math/c3p1.png",
@@ -140,14 +140,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "4 это 3\u002B1",
+          "name": "4 это 3+1",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Four is 2\u002B2",
+      "name": "Four is 2+2",
       "transcription": "[fɔː]",
       "nameA": null,
       "image": "/img/dict/math/c2p2.png",
@@ -156,14 +156,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "4 это 2\u002B2",
+          "name": "4 это 2+2",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Five is 5\u002B0",
+      "name": "Five is 5+0",
       "transcription": "[faɪv]",
       "nameA": null,
       "image": "/img/dict/math/c5p0.png",
@@ -172,14 +172,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "5 это 5\u002B0",
+          "name": "5 это 5+0",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Five is 4\u002B1",
+      "name": "Five is 4+1",
       "transcription": "[faɪv]",
       "nameA": null,
       "image": "/img/dict/math/c4p1.png",
@@ -188,14 +188,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "5 это 4\u002B1",
+          "name": "5 это 4+1",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Five is 3\u002B2",
+      "name": "Five is 3+2",
       "transcription": "[faɪv]",
       "nameA": null,
       "image": "/img/dict/math/c3p2.png",
@@ -204,14 +204,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "5 это 3\u002B2",
+          "name": "5 это 3+2",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Six is 6\u002B0",
+      "name": "Six is 6+0",
       "transcription": "[sɪks]",
       "nameA": null,
       "image": "/img/dict/math/c6p0.png",
@@ -220,14 +220,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "6 это 6\u002B0",
+          "name": "6 это 6+0",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Six is 5\u002B1",
+      "name": "Six is 5+1",
       "transcription": "[sɪks]",
       "nameA": null,
       "image": "/img/dict/math/c5p1.png",
@@ -236,14 +236,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "6 это 5\u002B1",
+          "name": "6 это 5+1",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Six is 4\u002B2",
+      "name": "Six is 4+2",
       "transcription": "[sɪks]",
       "nameA": null,
       "image": "/img/dict/math/c4p2.png",
@@ -252,14 +252,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "6 это 4\u002B2",
+          "name": "6 это 4+2",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Six is 3\u002B3",
+      "name": "Six is 3+3",
       "transcription": "[sɪks]",
       "nameA": null,
       "image": "/img/dict/math/c3p3.png",
@@ -268,14 +268,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "6 это 3\u002B3",
+          "name": "6 это 3+3",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Seven is 7\u002B0",
+      "name": "Seven is 7+0",
       "transcription": "[sevn]",
       "nameA": null,
       "image": "/img/dict/math/c7p0.png",
@@ -284,14 +284,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "7 это 7\u002B0",
+          "name": "7 это 7+0",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Seven is 6\u002B1",
+      "name": "Seven is 6+1",
       "transcription": "[sevn]",
       "nameA": null,
       "image": "/img/dict/math/c6p1.png",
@@ -300,14 +300,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "7 это 6\u002B1",
+          "name": "7 это 6+1",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Seven is 5\u002B2",
+      "name": "Seven is 5+2",
       "transcription": "[sevn]",
       "nameA": null,
       "image": "/img/dict/math/c5p2.png",
@@ -316,14 +316,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "7 это 5\u002B2",
+          "name": "7 это 5+2",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Seven is 4\u002B3",
+      "name": "Seven is 4+3",
       "transcription": "[sevn]",
       "nameA": null,
       "image": "/img/dict/math/c4p3.png",
@@ -332,14 +332,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "7 это 4\u002B3",
+          "name": "7 это 4+3",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Eight is 8\u002B0",
+      "name": "Eight is 8+0",
       "transcription": "[eɪt]",
       "nameA": null,
       "image": "/img/dict/math/c8p0.png",
@@ -348,14 +348,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "8 это 8\u002B0",
+          "name": "8 это 8+0",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Eight is 7\u002B1",
+      "name": "Eight is 7+1",
       "transcription": "[eɪt]",
       "nameA": null,
       "image": "/img/dict/math/c7p1.png",
@@ -364,14 +364,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "8 это 7\u002B1",
+          "name": "8 это 7+1",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Eight is 6\u002B2",
+      "name": "Eight is 6+2",
       "transcription": "[eɪt]",
       "nameA": null,
       "image": "/img/dict/math/c6p2.png",
@@ -380,14 +380,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "8 это 6\u002B2",
+          "name": "8 это 6+2",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Eight is 5\u002B3",
+      "name": "Eight is 5+3",
       "transcription": "[eɪt]",
       "nameA": null,
       "image": "/img/dict/math/c5p3.png",
@@ -396,14 +396,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "8 это 5\u002B3",
+          "name": "8 это 5+3",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Eight is 4\u002B4",
+      "name": "Eight is 4+4",
       "transcription": "[eɪt]",
       "nameA": null,
       "image": "/img/dict/math/c4p4.png",
@@ -412,14 +412,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "8 это 4\u002B4",
+          "name": "8 это 4+4",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Nine is 9\u002B0",
+      "name": "Nine is 9+0",
       "transcription": "[naɪn]",
       "nameA": null,
       "image": "/img/dict/math/c9p0.png",
@@ -428,14 +428,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "9 это 9\u002B0",
+          "name": "9 это 9+0",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Nine is 8\u002B1",
+      "name": "Nine is 8+1",
       "transcription": "[naɪn]",
       "nameA": null,
       "image": "/img/dict/math/c8p1.png",
@@ -444,14 +444,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "9 это 8\u002B1",
+          "name": "9 это 8+1",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Nine is 7\u002B2",
+      "name": "Nine is 7+2",
       "transcription": "[naɪn]",
       "nameA": null,
       "image": "/img/dict/math/c7p2.png",
@@ -460,14 +460,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "9 это 7\u002B2",
+          "name": "9 это 7+2",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Nine is 6\u002B3",
+      "name": "Nine is 6+3",
       "transcription": "[naɪn]",
       "nameA": null,
       "image": "/img/dict/math/c6p3.png",
@@ -476,14 +476,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "9 это 6\u002B3",
+          "name": "9 это 6+3",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Nine is 5\u002B4",
+      "name": "Nine is 5+4",
       "transcription": "[naɪn]",
       "nameA": null,
       "image": "/img/dict/math/c5p4.png",
@@ -492,14 +492,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "9 это 5\u002B4",
+          "name": "9 это 5+4",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Ten is 10\u002B0",
+      "name": "Ten is 10+0",
       "transcription": "[ten]",
       "nameA": null,
       "image": "/img/dict/math/c10p0.png",
@@ -508,14 +508,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "10 это 10\u002B0",
+          "name": "10 это 10+0",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Ten is 9\u002B1",
+      "name": "Ten is 9+1",
       "transcription": "[ten]",
       "nameA": null,
       "image": "/img/dict/math/c9p1.png",
@@ -524,14 +524,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "10 это 9\u002B1",
+          "name": "10 это 9+1",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Ten is 8\u002B2",
+      "name": "Ten is 8+2",
       "transcription": "[ten]",
       "nameA": null,
       "image": "/img/dict/math/c8p2.png",
@@ -540,14 +540,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "10 это 8\u002B2",
+          "name": "10 это 8+2",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Ten is 7\u002B3",
+      "name": "Ten is 7+3",
       "transcription": "[ten]",
       "nameA": null,
       "image": "/img/dict/math/c7p3.png",
@@ -556,14 +556,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "10 это 7\u002B3",
+          "name": "10 это 7+3",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Ten is 6\u002B4",
+      "name": "Ten is 6+4",
       "transcription": "[ten]",
       "nameA": null,
       "image": "/img/dict/math/c6p4.png",
@@ -572,14 +572,14 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "10 это 6\u002B4",
+          "name": "10 это 6+4",
           "nameA": null
         }
       ]
     },
     {
       "id": 0,
-      "name": "Ten is 5\u002B5",
+      "name": "Ten is 5+5",
       "transcription": "[ten]",
       "nameA": null,
       "image": "/img/dict/math/c5p5.png",
@@ -588,7 +588,7 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "10 это 5\u002B5",
+          "name": "10 это 5+5",
           "nameA": null
         }
       ]
