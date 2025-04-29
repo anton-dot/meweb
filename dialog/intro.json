@@ -1,0 +1,1004 @@
+{
+    "name": "Intro",
+    "details": "Intro to the game",
+    "translations": [
+        {
+            "lang": "ru-RU",
+            "name": "Введение",
+            "nameA": null
+        },
+        {
+            "lang": "vi-VN",
+            "name": "Giới thiệu",
+            "nameA": null
+        },
+        {
+            "lang": "zh-CN",
+            "name": "介绍",
+            "nameA": null
+        },
+        {
+            "lang": "hi-IN",
+            "name": "परिचय",
+            "nameA": null
+        },
+        {
+            "lang": "th-TH",
+            "name": "บทนำ",
+            "nameA": null
+        },
+        {
+            "lang": "tr-TR",
+            "name": "Giriş",
+            "nameA": null
+        },
+        {
+            "lang": "pt-BR",
+            "name": "Introdução",
+            "nameA": null
+        },
+        {
+            "lang": "de-DE",
+            "name": "Einführung",
+            "nameA": null
+        },
+        {
+            "lang": "id-ID",
+            "name": "Pengantar",
+            "nameA": null
+        },
+        {
+            "lang": "fr-FR",
+            "name": "Introduction",
+            "nameA": null
+        }
+    ],
+    "translations_det": [
+        {
+            "lang": "ru-RU",
+            "name": "Введение в игру",
+            "nameA": null
+        },
+        {
+            "lang": "vi-VN",
+            "name": "Giới thiệu trò chơi",
+            "nameA": null
+        },
+        {
+            "lang": "zh-CN",
+            "name": "游戏介绍",
+            "nameA": null
+        },
+        {
+            "lang": "hi-IN",
+            "name": "खेल का परिचय",
+            "nameA": null
+        },
+        {
+            "lang": "th-TH",
+            "name": "เกมแนะนำ",
+            "nameA": null
+        },
+        {
+            "lang": "tr-TR",
+            "name": "Oyun tanıtımı",
+            "nameA": null
+        },
+        {
+            "lang": "pt-BR",
+            "name": "Introdução ao jogo",
+            "nameA": null
+        },
+        {
+            "lang": "de-DE",
+            "name": "Spieleinführung",
+            "nameA": null
+        },
+        {
+            "lang": "id-ID",
+            "name": "Pengantar permainan",
+            "nameA": null
+        },
+        {
+            "lang": "fr-FR",
+            "name": "Introduction au jeu",
+            "nameA": null
+        }
+    ],
+    "items": [
+        {
+            "id": 0,
+            "name": "Hello",
+            "nameA": null,
+            "image": null,
+            "bg": null,
+            "actor": "Wizard",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Привет",
+                    "nameA": null
+                },
+                {
+                    "lang": "vi-VN",
+                    "name": "Xin chào",
+                    "nameA": null
+                },
+                {
+                    "lang": "zh-CN",
+                    "name": "你好",
+                    "nameA": null
+                },
+                {
+                    "lang": "hi-IN",
+                    "name": "नमस्ते",
+                    "nameA": null
+                },
+                {
+                    "lang": "th-TH",
+                    "name": "สวัสดี",
+                    "nameA": null
+                },
+                {
+                    "lang": "tr-TR",
+                    "name": "Merhaba",
+                    "nameA": null
+                },
+                {
+                    "lang": "pt-BR",
+                    "name": "Olá",
+                    "nameA": null
+                },
+                {
+                    "lang": "de-DE",
+                    "name": "Hallo",
+                    "nameA": null
+                },
+                {
+                    "lang": "id-ID",
+                    "name": "Halo",
+                    "nameA": null
+                },
+                {
+                    "lang": "fr-FR",
+                    "name": "Bonjour",
+                    "nameA": null
+                }
+            ],
+            "actions": [
+                {
+                    "id": 0,
+                    "name": "Hello",
+                    "isCorrect": true,
+                    "score": 1,
+                    "translates": [
+                        {
+                            "lang": "ru-RU",
+                            "name": "Привет",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "vi-VN",
+                            "name": "Xin chào",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "zh-CN",
+                            "name": "你好",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "hi-IN",
+                            "name": "नमस्ते",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "th-TH",
+                            "name": "สวัสดี",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "tr-TR",
+                            "name": "Merhaba",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "pt-BR",
+                            "name": "Olá",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "de-DE",
+                            "name": "Hallo",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "id-ID",
+                            "name": "Halo",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "fr-FR",
+                            "name": "Bonjour",
+                            "nameA": null
+                        }
+                    ]
+                },
+                {
+                    "id": 0,
+                    "name": "Bye",
+                    "isCorrect": false,
+                    "score": 0,
+                    "translates": [
+                        {
+                            "lang": "ru-RU",
+                            "name": "Пока",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "vi-VN",
+                            "name": "Tạm biệt",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "zh-CN",
+                            "name": "再见",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "hi-IN",
+                            "name": "अलविदा",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "th-TH",
+                            "name": "ลาก่อน",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "tr-TR",
+                            "name": "Hoşçakal",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "pt-BR",
+                            "name": "Tchau",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "de-DE",
+                            "name": "Tschüss",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "id-ID",
+                            "name": "Selamat tinggal",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "fr-FR",
+                            "name": "Au revoir",
+                            "nameA": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "I am a Wizard",
+            "nameA": null,
+            "image": null,
+            "bg": null,
+            "actor": "Wizard",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Я волшебник",
+                    "nameA": null
+                },
+                {
+                    "lang": "vi-VN",
+                    "name": "Tôi là phù thủy",
+                    "nameA": null
+                },
+                {
+                    "lang": "zh-CN",
+                    "name": "我是一个巫师",
+                    "nameA": null
+                },
+                {
+                    "lang": "hi-IN",
+                    "name": "मैं एक जादूगर हूँ",
+                    "nameA": null
+                },
+                {
+                    "lang": "th-TH",
+                    "name": "ฉันเป็นพ่อมด",
+                    "nameA": null
+                },
+                {
+                    "lang": "tr-TR",
+                    "name": "Ben bir büyücüyüm",
+                    "nameA": null
+                },
+                {
+                    "lang": "pt-BR",
+                    "name": "Eu sou um Mago",
+                    "nameA": null
+                },
+                {
+                    "lang": "de-DE",
+                    "name": "Ich bin ein Zauberer",
+                    "nameA": null
+                },
+                {
+                    "lang": "id-ID",
+                    "name": "Saya seorang Penyihir",
+                    "nameA": null
+                },
+                {
+                    "lang": "fr-FR",
+                    "name": "Je suis un sorcier",
+                    "nameA": null
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "My name is wiz",
+            "nameA": null,
+            "image": null,
+            "bg": null,
+            "actor": "Wizard",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Меня зовут Виз",
+                    "nameA": null
+                },
+                {
+                    "lang": "vi-VN",
+                    "name": "Tên tôi là Wiz",
+                    "nameA": null
+                },
+                {
+                    "lang": "zh-CN",
+                    "name": "我的名字是威兹",
+                    "nameA": null
+                },
+                {
+                    "lang": "hi-IN",
+                    "name": "मेरा नाम विज़ है",
+                    "nameA": null
+                },
+                {
+                    "lang": "th-TH",
+                    "name": "ฉันชื่อวิซ",
+                    "nameA": null
+                },
+                {
+                    "lang": "tr-TR",
+                    "name": "Benim adım Wiz",
+                    "nameA": null
+                },
+                {
+                    "lang": "pt-BR",
+                    "name": "Meu nome é Wiz",
+                    "nameA": null
+                },
+                {
+                    "lang": "de-DE",
+                    "name": "Mein Name ist Wiz",
+                    "nameA": null
+                },
+                {
+                    "lang": "id-ID",
+                    "name": "Nama saya Wiz",
+                    "nameA": null
+                },
+                {
+                    "lang": "fr-FR",
+                    "name": "Je m'appelle Wiz",
+                    "nameA": null
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "Welcome to our english world",
+            "nameA": null,
+            "image": null,
+            "bg": null,
+            "actor": "Wizard",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Добро пожаловать в наш английский мир",
+                    "nameA": null
+                },
+                {
+                    "lang": "vi-VN",
+                    "name": "Chào mừng đến với thế giới tiếng Anh của chúng tôi",
+                    "nameA": null
+                },
+                {
+                    "lang": "zh-CN",
+                    "name": "欢迎来到我们的英语世界",
+                    "nameA": null
+                },
+                {
+                    "lang": "hi-IN",
+                    "name": "हमारी अंग्रेजी दुनिया में आपका स्वागत है",
+                    "nameA": null
+                },
+                {
+                    "lang": "th-TH",
+                    "name": "ยินดีต้อนรับสู่โลกภาษาอังกฤษของเรา",
+                    "nameA": null
+                },
+                {
+                    "lang": "tr-TR",
+                    "name": "İngilizce dünyamıza hoş geldiniz",
+                    "nameA": null
+                },
+                {
+                    "lang": "pt-BR",
+                    "name": "Bem-vindo ao nosso mundo de inglês",
+                    "nameA": null
+                },
+                {
+                    "lang": "de-DE",
+                    "name": "Willkommen in unserer englischen Welt",
+                    "nameA": null
+                },
+                {
+                    "lang": "id-ID",
+                    "name": "Selamat datang di dunia bahasa Inggris kami",
+                    "nameA": null
+                },
+                {
+                    "lang": "fr-FR",
+                    "name": "Bienvenue dans notre monde anglais",
+                    "nameA": null
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "We are spek english here",
+            "nameA": null,
+            "image": null,
+            "bg": null,
+            "actor": "Wizard",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Мы говорим по-английски здесь",
+                    "nameA": null
+                },
+                {
+                    "lang": "vi-VN",
+                    "name": "Chúng tôi nói tiếng Anh ở đây",
+                    "nameA": null
+                },
+                {
+                    "lang": "zh-CN",
+                    "name": "我们在这里说英语",
+                    "nameA": null
+                },
+                {
+                    "lang": "hi-IN",
+                    "name": "हम यहां अंग्रेजी बोलते हैं",
+                    "nameA": null
+                },
+                {
+                    "lang": "th-TH",
+                    "name": "เราพูดภาษาอังกฤษที่นี่",
+                    "nameA": null
+                },
+                {
+                    "lang": "tr-TR",
+                    "name": "Burada İngilizce konuşuyoruz",
+                    "nameA": null
+                },
+                {
+                    "lang": "pt-BR",
+                    "name": "Nós falamos inglês aqui",
+                    "nameA": null
+                },
+                {
+                    "lang": "de-DE",
+                    "name": "Wir sprechen hier Englisch",
+                    "nameA": null
+                },
+                {
+                    "lang": "id-ID",
+                    "name": "Kami berbicara bahasa Inggris di sini",
+                    "nameA": null
+                },
+                {
+                    "lang": "fr-FR",
+                    "name": "Nous parlons anglais ici",
+                    "nameA": null
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "I will help you to learn english",
+            "nameA": null,
+            "image": null,
+            "bg": null,
+            "actor": "Wizard",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Я помогу вам выучить английский",
+                    "nameA": null
+                },
+                {
+                    "lang": "vi-VN",
+                    "name": "Tôi sẽ giúp bạn học tiếng Anh",
+                    "nameA": null
+                },
+                {
+                    "lang": "zh-CN",
+                    "name": "我会帮你学习英语",
+                    "nameA": null
+                },
+                {
+                    "lang": "hi-IN",
+                    "name": "मैं आपको अंग्रेजी सीखने में मदद करूंगा",
+                    "nameA": null
+                },
+                {
+                    "lang": "th-TH",
+                    "name": "ฉันจะช่วยคุณเรียนภาษาอังกฤษ",
+                    "nameA": null
+                },
+                {
+                    "lang": "tr-TR",
+                    "name": "İngilizce öğrenmenize yardımcı olacağım",
+                    "nameA": null
+                },
+                {
+                    "lang": "pt-BR",
+                    "name": "Eu vou te ajudar a aprender inglês",
+                    "nameA": null
+                },
+                {
+                    "lang": "de-DE",
+                    "name": "Ich werde dir helfen, Englisch zu lernen",
+                    "nameA": null
+                },
+                {
+                    "lang": "id-ID",
+                    "name": "Saya akan membantu Anda belajar bahasa Inggris",
+                    "nameA": null
+                },
+                {
+                    "lang": "fr-FR",
+                    "name": "Je vais vous aider à apprendre l'anglais",
+                    "nameA": null
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "Step by step",
+            "nameA": null,
+            "image": null,
+            "bg": null,
+            "actor": "Wizard",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Шаг за шагом",
+                    "nameA": null
+                },
+                {
+                    "lang": "vi-VN",
+                    "name": "Từng bước một",
+                    "nameA": null
+                },
+                {
+                    "lang": "zh-CN",
+                    "name": "一步一步来",
+                    "nameA": null
+                },
+                {
+                    "lang": "hi-IN",
+                    "name": "क्रमशः",
+                    "nameA": null
+                },
+                {
+                    "lang": "th-TH",
+                    "name": "ทีละขั้นตอน",
+                    "nameA": null
+                },
+                {
+                    "lang": "tr-TR",
+                    "name": "Adım adım",
+                    "nameA": null
+                },
+                {
+                    "lang": "pt-BR",
+                    "name": "Passo a passo",
+                    "nameA": null
+                },
+                {
+                    "lang": "de-DE",
+                    "name": "Schritt für Schritt",
+                    "nameA": null
+                },
+                {
+                    "lang": "id-ID",
+                    "name": "Langkah demi langkah",
+                    "nameA": null
+                },
+                {
+                    "lang": "fr-FR",
+                    "name": "Pas à pas",
+                    "nameA": null
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "Complete the tasks and open new levels",
+            "nameA": null,
+            "image": null,
+            "bg": null,
+            "actor": "Wizard",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Выполняйте задания и открывайте новые уровни",
+                    "nameA": null
+                },
+                {
+                    "lang": "vi-VN",
+                    "name": "Hoàn thành nhiệm vụ và mở khóa cấp độ mới",
+                    "nameA": null
+                },
+                {
+                    "lang": "zh-CN",
+                    "name": "完成任务并解锁新关卡",
+                    "nameA": null
+                },
+                {
+                    "lang": "hi-IN",
+                    "name": "कार्यों को पूरा करें और नए स्तर खोलें",
+                    "nameA": null
+                },
+                {
+                    "lang": "th-TH",
+                    "name": "ทำงานให้เสร็จและปลดล็อกระดับใหม่",
+                    "nameA": null
+                },
+                {
+                    "lang": "tr-TR",
+                    "name": "Görevleri tamamlayın ve yeni seviyeleri açın",
+                    "nameA": null
+                },
+                {
+                    "lang": "pt-BR",
+                    "name": "Complete as tarefas e desbloqueie novos níveis",
+                    "nameA": null
+                },
+                {
+                    "lang": "de-DE",
+                    "name": "Erledige die Aufgaben und schalte neue Level frei",
+                    "nameA": null
+                },
+                {
+                    "lang": "id-ID",
+                    "name": "Selesaikan tugas dan buka level baru",
+                    "nameA": null
+                },
+                {
+                    "lang": "fr-FR",
+                    "name": "Terminez les tâches et débloquez de nouveaux niveaux",
+                    "nameA": null
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "Let us start",
+            "nameA": null,
+            "image": null,
+            "bg": null,
+            "actor": "Wizard",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Давайте начнём",
+                    "nameA": null
+                },
+                {
+                    "lang": "vi-VN",
+                    "name": "Hãy bắt đầu",
+                    "nameA": null
+                },
+                {
+                    "lang": "zh-CN",
+                    "name": "让我们开始吧",
+                    "nameA": null
+                },
+                {
+                    "lang": "hi-IN",
+                    "name": "चलो शुरू करते हैं",
+                    "nameA": null
+                },
+                {
+                    "lang": "th-TH",
+                    "name": "มาเริ่มกันเลย",
+                    "nameA": null
+                },
+                {
+                    "lang": "tr-TR",
+                    "name": "Hadi başlayalım",
+                    "nameA": null
+                },
+                {
+                    "lang": "pt-BR",
+                    "name": "Vamos começar",
+                    "nameA": null
+                },
+                {
+                    "lang": "de-DE",
+                    "name": "Lass uns anfangen",
+                    "nameA": null
+                },
+                {
+                    "lang": "id-ID",
+                    "name": "Mari kita mulai",
+                    "nameA": null
+                },
+                {
+                    "lang": "fr-FR",
+                    "name": "Commençons",
+                    "nameA": null
+                }
+            ],
+            "actions": [
+                {
+                    "id": 0,
+                    "name": "Yes",
+                    "score": 1,
+                    "isCorrect": true,
+                    "translates": [
+                        {
+                            "lang": "ru-RU",
+                            "name": "Да",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "vi-VN",
+                            "name": "Có",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "zh-CN",
+                            "name": "是的",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "hi-IN",
+                            "name": "हाँ",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "th-TH",
+                            "name": "ใช่",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "tr-TR",
+                            "name": "Evet",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "pt-BR",
+                            "name": "Sim",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "de-DE",
+                            "name": "Ja",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "id-ID",
+                            "name": "Ya",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "fr-FR",
+                            "name": "Oui",
+                            "nameA": null
+                        }
+                    ]
+                },
+                {
+                    "id": 0,
+                    "name": "No",
+                    "isCorrect": false,
+                    "score": 0,
+                    "translates": [
+                        {
+                            "lang": "ru-RU",
+                            "name": "Нет",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "vi-VN",
+                            "name": "Không",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "zh-CN",
+                            "name": "不",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "hi-IN",
+                            "name": "नहीं",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "th-TH",
+                            "name": "ไม่",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "tr-TR",
+                            "name": "Hayır",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "pt-BR",
+                            "name": "Não",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "de-DE",
+                            "name": "Nein",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "id-ID",
+                            "name": "Tidak",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "fr-FR",
+                            "name": "Non",
+                            "nameA": null
+                        }
+                    ]
+                },
+                {
+                    "id": 0,
+                    "name": "Sure",
+                    "isCorrect": false,
+                    "score": 2,
+                    "translates": [
+                        {
+                            "lang": "ru-RU",
+                            "name": "Конечно",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "vi-VN",
+                            "name": "Chắc chắn",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "zh-CN",
+                            "name": "当然",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "hi-IN",
+                            "name": "ज़रूर",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "th-TH",
+                            "name": "แน่นอน",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "tr-TR",
+                            "name": "Tabii",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "pt-BR",
+                            "name": "Claro",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "de-DE",
+                            "name": "Sicher",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "id-ID",
+                            "name": "Tentu",
+                            "nameA": null
+                        },
+                        {
+                            "lang": "fr-FR",
+                            "name": "Bien sûr",
+                            "nameA": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "name": "Ok, so let us start from basics - alphabet, numbers, colors and so on",
+            "nameA": null,
+            "image": null,
+            "bg": null,
+            "actor": "Wizard",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Хорошо, давайте начнем с основ - алфавит, цифры, цвета и так далее",
+                    "nameA": null
+                },
+                {
+                    "lang": "vi-VN",
+                    "name": "Được rồi, chúng ta hãy bắt đầu từ những điều cơ bản - bảng chữ cái, số, màu sắc, v.v.",
+                    "nameA": null
+                },
+                {
+                    "lang": "zh-CN",
+                    "name": "好的，让我们从基础开始 - 字母、数字、颜色等等",
+                    "nameA": null
+                },
+                {
+                    "lang": "hi-IN",
+                    "name": "ठीक है, तो आइए बुनियादी बातों से शुरू करते हैं - वर्णमाला, संख्याएँ, रंग इत्यादि",
+                    "nameA": null
+                },
+                {
+                    "lang": "th-TH",
+                    "name": "โอเค เรามาเริ่มจากพื้นฐาน - ตัวอักษร ตัวเลข สี และอื่นๆ",
+                    "nameA": null
+                },
+                {
+                    "lang": "tr-TR",
+                    "name": "Tamam, o halde temellerden başlayalım - alfabe, sayılar, renkler vb.",
+                    "nameA": null
+                },
+                {
+                    "lang": "pt-BR",
+                    "name": "Ok, então vamos começar pelo básico - alfabeto, números, cores e assim por diante",
+                    "nameA": null
+                },
+                {
+                    "lang": "de-DE",
+                    "name": "Ok, also fangen wir mit den Grundlagen an - Alphabet, Zahlen, Farben und so weiter",
+                    "nameA": null
+                },
+                {
+                    "lang": "id-ID",
+                    "name": "Oke, mari kita mulai dari dasar - alfabet, angka, warna, dan sebagainya",
+                    "nameA": null
+                },
+                {
+                    "lang": "fr-FR",
+                    "name": "Ok, commençons par les bases - alphabet, chiffres, couleurs et ainsi de suite",
+                    "nameA": null
+                }
+            ]
+        }
+    ]
+}
