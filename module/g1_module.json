@@ -49,9 +49,9 @@
       ],
       "activities": [
         {
-          "name": "Alphabet",
+          "name": "Intro",
           "aType": "Dialog",
-          "img": "/img/dict/abc/abc.png",
+           
           "rUrl": "intro"
           
            
