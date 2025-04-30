@@ -1,0 +1,503 @@
+﻿{
+  "name": "All cards",
+  "description": "",
+  "version": "2",
+  "cats": [
+    {
+      "name": "Welcome",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Старт"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chào mừng"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "欢迎"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "स्वागत"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ยินดีต้อนรับ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Hoş Geldiniz"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Bem-vindo"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Willkommen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Selamat Datang"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Bienvenue"
+        }
+      ],
+      "activities": [
+        {
+          "name": "Alphabet",
+          "aType": "Dialog",
+          "img": "/img/dict/abc/abc.png",
+          "rUrl": "intro"
+          
+           
+        },
+        {
+          "name": "Alphabet",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/abc/abc.png",
+          "rUrl": "abcCards",
+          "numAct": 27,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Алфавит"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Bảng chữ cái"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "字母表"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "वर्णमाला"
+            },
+            {
+              "lang": "th-TH",
+              "name": "ตัวอักษร"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Alfabe"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Alfabeto"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Alphabet"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Alfabet"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Alphabet"
+            }
+          ]
+        },
+        {
+          "name": "Numbers 1-10",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/numbers/10.png",
+          "bgColor": "dodgerblue",
+          "numAct": 11,
+          "rUrl": "mathNumbers10Cards",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Числа 1-10"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Số từ 1-10"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "数字1-10"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "संख्या 1-10"
+            },
+            {
+              "lang": "th-TH",
+              "name": "ตัวเลข 1-10"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "1-10 Sayılar"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Números 1-10"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Zahlen 1-10"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Angka 1-10"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Nombres 1-10"
+            }
+          ]
+        },
+        {
+          "name": "Colors",
+          "aType": "UNIVERSAL",
+          "img": "/img/activity/palette.png",
+          "numAct": 13,
+          "rUrl": "colorsCards",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Цвета"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Màu sắc"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "颜色"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "रंग"
+            },
+            {
+              "lang": "th-TH",
+              "name": "สี"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Renkler"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Cores"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Farben"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Warna"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Couleurs"
+            }
+          ]
+        },
+        {
+          "name": "Shapes",
+          "aType": "UNIVERSAL",
+          "img": "/img/activity/shapes.png",
+          "numAct": 20,
+          "rUrl": "shapesCards",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Формы"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Hình dạng"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "形状"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "आकार"
+            },
+            {
+              "lang": "th-TH",
+              "name": "รูปทรง"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Şekiller"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Formas"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Formen"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Bentuk"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Formes"
+            }
+          ]
+        },
+        {
+          "name": "Toys",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/toys/toys.png",
+          "numAct": 14,
+          "rUrl": "toysCards",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Игрушки"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Đồ chơi"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "玩具"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "खिलौने"
+            },
+            {
+              "lang": "th-TH",
+              "name": "ของเล่น"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Oyuncaklar"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Brinquedos"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Spielzeuge"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Mainan"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Jouets"
+            }
+          ]
+        },
+        {
+          "name": "Family",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/family/family.png",
+          "numAct": 11,
+          "rUrl": "familyCards",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Семья"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Gia đình"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "家庭"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "परिवार"
+            },
+            {
+              "lang": "th-TH",
+              "name": "ครอบครัว"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Aile"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Família"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Familie"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Keluarga"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Famille"
+            }
+          ]
+        },
+        {
+          "name": "Head",
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/body/head.png",
+          "numAct": 15,
+          "rUrl": "headCards",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Голова"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Đầu"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "头部"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "सिर"
+            },
+            {
+              "lang": "th-TH",
+              "name": "หัว"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Baş"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Cabeça"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Kopf"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Kepala"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Tête"
+            }
+          ]
+        },
+        {
+          "name": "Body",
+          "numAct": 15,
+          "aType": "UNIVERSAL",
+          "img": "/img/dict/body/body.png",
+          "rUrl": "bodyCards",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Тело"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Cơ thể"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "身体"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "शरीर"
+            },
+            {
+              "lang": "th-TH",
+              "name": "ร่างกาย"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Vücut"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Corpo"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Körper"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Tubuh"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Corps"
+            }
+          ]
+        },
+        {
+          "name": "My body",
+          "aType": "Explore",
+          "img": "/img/activity/body_parts.png",
+          "rUrl": "bodyExplore",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Моё тело"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Cơ thể của tôi"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "我的身体"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "मेरा शरीर"
+            },
+            {
+              "lang": "th-TH",
+              "name": "ร่างกายของฉัน"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Vücudum"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Meu corpo"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Mein Körper"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Tubuhku"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Mon corps"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
