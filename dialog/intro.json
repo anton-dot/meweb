@@ -466,7 +466,7 @@
         },
         {
             "id": 0,
-            "name": "We are spek english here",
+            "name": "We speak english here",
             "nameA": null,
             "image": null,
             "bg": null,
@@ -883,7 +883,7 @@
                 {
                     "id": 0,
                     "name": "Sure",
-                    "isCorrect": false,
+                    "isCorrect": true,
                     "score": 2,
                     "translates": [
                         {
