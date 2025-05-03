@@ -1,6 +1,15 @@
 {
     "name": "Intro",
     "details": "Intro to the game",
+    "bg": "/img/story/bg/roads1.png",
+    "actors": [
+        {
+            "id": "Wizard",
+            "name": "Wiz",
+            "image": "/img/story/actors/wiz.png",
+            "s": "u"
+        }
+    ],
     "translations": [
         {
             "lang": "ru-RU",
