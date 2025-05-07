@@ -51,14 +51,11 @@
         {
           "name": "Intro",
           "aType": "Dialog",
-           
           "rUrl": "intro"
-          
-           
         },
         {
           "name": "Alphabet",
-          "aType": "UNIVERSAL",
+          "aType": "ListSwipe",
           "img": "/img/dict/abc/abc.png",
           "rUrl": "abcCards",
           "numAct": 27,
@@ -107,7 +104,7 @@
         },
         {
           "name": "Numbers 1-10",
-          "aType": "UNIVERSAL",
+          "aType": "ListSwipe",
           "img": "/img/dict/numbers/10.png",
           "bgColor": "dodgerblue",
           "numAct": 11,
@@ -157,7 +154,7 @@
         },
         {
           "name": "Colors",
-          "aType": "UNIVERSAL",
+          "aType": "ListSwipe",
           "img": "/img/activity/palette.png",
           "numAct": 13,
           "rUrl": "colorsCards",
@@ -206,7 +203,7 @@
         },
         {
           "name": "Shapes",
-          "aType": "UNIVERSAL",
+          "aType": "ListSwipe",
           "img": "/img/activity/shapes.png",
           "numAct": 20,
           "rUrl": "shapesCards",
@@ -255,7 +252,7 @@
         },
         {
           "name": "Toys",
-          "aType": "UNIVERSAL",
+          "aType": "ListSwipe",
           "img": "/img/dict/toys/toys.png",
           "numAct": 14,
           "rUrl": "toysCards",
@@ -304,7 +301,7 @@
         },
         {
           "name": "Family",
-          "aType": "UNIVERSAL",
+          "aType": "ListSwipe",
           "img": "/img/dict/family/family.png",
           "numAct": 11,
           "rUrl": "familyCards",
@@ -353,7 +350,7 @@
         },
         {
           "name": "Head",
-          "aType": "UNIVERSAL",
+          "aType": "ListSwipe",
           "img": "/img/dict/body/head.png",
           "numAct": 15,
           "rUrl": "headCards",
@@ -403,7 +400,7 @@
         {
           "name": "Body",
           "numAct": 15,
-          "aType": "UNIVERSAL",
+          "aType": "ListSwipe",
           "img": "/img/dict/body/body.png",
           "rUrl": "bodyCards",
           "translates": [
