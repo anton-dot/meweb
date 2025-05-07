@@ -51,7 +51,8 @@
         {
           "name": "Intro",
           "aType": "Dialog",
-          "rUrl": "intro"
+          "rUrl": "intro",
+          "img": "/img/activity/dialog.png"
         },
         {
           "name": "Alphabet",
@@ -251,6 +252,12 @@
           ]
         },
         {
+          "name": "I forget...",
+          "aType": "Dialog",
+          "rUrl": "a1_01_askname",
+          "img": "/img/activity/dialog.png"
+        },
+        {
           "name": "Toys",
           "aType": "ListSwipe",
           "img": "/img/dict/toys/toys.png",
@@ -447,6 +454,12 @@
           ]
         },
         {
+          "name": "New mode",
+          "aType": "Dialog",
+          "rUrl": "a1_02_explore",
+          "img": "/img/activity/dialog.png"
+        },
+        {
           "name": "My body",
           "aType": "Explore",
           "img": "/img/activity/body_parts.png",
@@ -493,6 +506,18 @@
               "name": "Mon corps"
             }
           ]
+        },
+        {
+          "name": "New mode",
+          "aType": "Dialog",
+          "rUrl": "a1_03_check",
+          "img": "/img/activity/dialog.png"
+        },
+        {
+          "name": "Little wins",
+          "aType": "Dialog",
+          "rUrl": "a1_04_finish_welcome",
+          "img": "/img/activity/dialog.png"
         }
       ]
     }
