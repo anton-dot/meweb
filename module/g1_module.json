@@ -254,7 +254,7 @@
         {
           "name": "I forget...",
           "aType": "Dialog",
-          "rUrl": "a1_01_askname",
+          "rUrl": "a1-01-askname",
           "img": "/img/activity/dialog.png"
         },
         {
