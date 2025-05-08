@@ -454,7 +454,7 @@
           ]
         },
         {
-          "name": "New mode",
+          "name": "Explore more",
           "aType": "Dialog",
           "rUrl": "a1_02_explore",
           "img": "/img/activity/dialog.png"
@@ -508,10 +508,108 @@
           ]
         },
         {
-          "name": "New mode",
+          "name": "Little test",
           "aType": "Dialog",
           "rUrl": "a1_03_check",
           "img": "/img/activity/dialog.png"
+        },
+        {
+          "name": "Shapes",
+          "aType": "TFSelect",
+          "img": "/img/activity/shapes.png",
+          "numAct": 20,
+          "rUrl": "shapesCards",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Формы"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Hình dạng"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "形状"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "आकार"
+            },
+            {
+              "lang": "th-TH",
+              "name": "รูปทรง"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Şekiller"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Formas"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Formen"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Bentuk"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Formes"
+            }
+          ]
+        },
+        {
+          "name": "Colors",
+          "aType": "MatchSelect",
+          "img": "/img/activity/palette.png",
+          "numAct": 13,
+          "rUrl": "colorsCards",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Цвета"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Màu sắc"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "颜色"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "रंग"
+            },
+            {
+              "lang": "th-TH",
+              "name": "สี"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Renkler"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Cores"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Farben"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Warna"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Couleurs"
+            }
+          ]
         },
         {
           "name": "Little wins",
