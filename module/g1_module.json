@@ -456,7 +456,7 @@
         {
           "name": "Explore more",
           "aType": "Dialog",
-          "rUrl": "a1_02_explore",
+          "rUrl": "a1-02-explore",
           "img": "/img/activity/dialog.png"
         },
         {
