@@ -1,0 +1,135 @@
+{
+  "name": "Going Outside",
+  "bg": "/img/story/bg/yard2.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Going Outside"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s go outside.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пойдём на улицу."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Wait! I need my hat.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Подожди! Мне нужна шапка."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Here is your hat.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вот твоя шапка."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Thank you!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Спасибо!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Put on your shoes.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Надень туфли."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I put on my shoes.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я надеваю туфли."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Open the door.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Открой дверь."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I open the door.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я открываю дверь."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let’s go!",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пошли!"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Anna",
+      "name": "Anna",
+      "image": "/img/story/npc/anna.png",
+      "s": "f"
+    },
+    {
+      "id": "Mom",
+      "name": "Mom",
+      "image": "/img/story/npc/mom.png",
+      "s": "f"
+    }
+  ]
+}

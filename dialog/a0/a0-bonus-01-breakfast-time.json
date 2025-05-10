@@ -1,0 +1,253 @@
+{
+  "name": "Breakfast Time",
+  "bg": "/img/story/bg/kitchen2.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Breakfast Time"
+    }
+  ],
+  "items": [
+    {
+      "name": "Good morning!",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Доброе утро!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Good morning, Mom!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Доброе утро, мама!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Are you hungry?",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты голодна?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yes, I am!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Do you want eggs or cereal?",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты хочешь яйца или хлопья?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Eggs",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Eggs"
+            }
+          ]
+        },
+        {
+          "name": "Cereal",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Cereal"
+            }
+          ]
+        },
+        {
+          "name": "Nothing",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Nothing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cereal, please.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хлопья, пожалуйста."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Take a spoon.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Возьми ложку."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I take a spoon.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я беру ложку."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Pour the milk.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Налей молоко."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I pour the milk.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я наливаю молоко."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Eat your breakfast.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ешь свой завтрак."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yummy!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вкусно!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Drink your juice.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выпей сок."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I drink juice.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я пью сок."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Ready for school?",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Готова к школе?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yes, let’s go!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да, пойдём!"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Anna",
+      "name": "Anna",
+      "image": "/img/story/npc/anna.png",
+      "s": "f"
+    },
+    {
+      "id": "Mom",
+      "name": "Mom",
+      "image": "/img/story/npc/mom.png",
+      "s": "f"
+    }
+  ]
+}

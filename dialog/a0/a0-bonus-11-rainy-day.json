@@ -1,0 +1,147 @@
+{
+  "name": "Rainy Day",
+  "bg": "/img/story/bg/rainy.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Rainy Day"
+    }
+  ],
+  "items": [
+    {
+      "name": "It’s raining!",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Идёт дождь!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Take your umbrella.",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Возьми зонт."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I take my umbrella.",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я беру зонт."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Wear your boots.",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Надень сапоги."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I wear my boots.",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я надеваю сапоги."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Wear your raincoat too.",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Надень дождевик."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "OK. I’m ready!",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо. Я готов!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let’s go outside!",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пошли на улицу!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Splash!",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Бульк!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Don’t jump too much!",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Не прыгай слишком сильно!"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Dad",
+      "name": "Dad",
+      "image": "/img/story/npc/dad.png",
+      "s": "m"
+    },
+    {
+      "id": "Tom",
+      "name": "Tom",
+      "image": "/img/story/npc/tom.png",
+      "s": "m"
+    }
+  ]
+}

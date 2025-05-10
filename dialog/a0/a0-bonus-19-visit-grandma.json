@@ -1,0 +1,153 @@
+{
+  "name": "Visit Grandma",
+  "bg": "/img/story/bg/grandma.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Visit Grandma"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s visit Grandma.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай навестим бабушку."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yes! I love Grandma.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! Я люблю бабушку."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Hello, my dear!",
+      "actor": "Grandma",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Привет, дорогая!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Hi, Grandma!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Привет, бабушка!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Want some cookies?",
+      "actor": "Grandma",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хочешь печенье?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yes, please!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да, пожалуйста."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Here you go.",
+      "actor": "Grandma",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вот."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yummy!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вкусно!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Give me a hug.",
+      "actor": "Grandma",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Обними меня."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Big hug!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Большие объятия!"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Grandma",
+      "name": "Grandma",
+      "image": "/img/story/npc/grandma.png",
+      "s": "m"
+    },
+    {
+      "id": "Anna",
+      "name": "Anna",
+      "image": "/img/story/npc/anna.png",
+      "s": "f"
+    },
+    {
+      "id": "Mom",
+      "name": "Mom",
+      "image": "/img/story/npc/mom.png",
+      "s": "f"
+    }
+  ]
+}

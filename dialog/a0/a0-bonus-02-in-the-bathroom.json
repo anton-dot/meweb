@@ -1,0 +1,159 @@
+{
+  "name": "In the Bathroom",
+  "bg": "/img/story/bg/bathroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "In the Bathroom"
+    }
+  ],
+  "items": [
+    {
+      "name": "Time to get ready!",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пора собираться!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "OK, Dad!",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо, папа!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Wash your hands.",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Помой руки."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I wash my hands.",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я мою руки."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Brush your teeth.",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Почисти зубы."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I brush my teeth.",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я чищу зубы."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Use a towel.",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Возьми полотенце."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I dry my face.",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я вытираю лицо."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Look in the mirror!",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посмотри в зеркало!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I look good!",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я хорошо выгляжу!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Great, let’s go.",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично, пошли."
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Dad",
+      "name": "Dad",
+      "image": "/img/story/npc/dad.png",
+      "s": "m"
+    },
+    {
+      "id": "Tom",
+      "name": "Tom",
+      "image": "/img/story/npc/tom.png",
+      "s": "m"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "name": "Playing with a Ball",
+  "bg": "/img/story/bg/yard1.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Playing with a Ball"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s play with a ball!",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай играть с мячом!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "OK! I throw the ball.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо! Я бросаю мяч."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I catch it!",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я поймал!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Now you throw!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь ты бросай!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I throw the ball.",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я бросаю мяч."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I catch it!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я ловлю!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let’s kick it.",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай пнем его."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I kick the ball.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я пинаю мяч."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I run after the ball.",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я бегу за мячом."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "This is fun!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это весело!"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Anna",
+      "name": "Anna",
+      "image": "/img/story/npc/anna.png",
+      "s": "f"
+    },
+    {
+      "id": "Tom",
+      "name": "Tom",
+      "image": "/img/story/npc/tom.png",
+      "s": "m"
+    }
+  ]
+}

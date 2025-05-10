@@ -1,0 +1,147 @@
+{
+  "name": "Bath Time",
+  "bg": "/img/story/bg/bathroom2.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Bath Time"
+    }
+  ],
+  "items": [
+    {
+      "name": "Time for your bath!",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Время купаться!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "OK!",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Get in the tub.",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Залезай в ванну."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I get in.",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я залезаю."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Here’s the soap.",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вот мыло."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I wash my arms.",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я мою руки."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Wash your legs too.",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Помой и ноги."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I wash my legs.",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я мою ноги."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "You are clean now!",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь ты чистый!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yay!",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ура!"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Dad",
+      "name": "Dad",
+      "image": "/img/story/npc/dad.png",
+      "s": "m"
+    },
+    {
+      "id": "Tom",
+      "name": "Tom",
+      "image": "/img/story/npc/tom.png",
+      "s": "m"
+    }
+  ]
+}

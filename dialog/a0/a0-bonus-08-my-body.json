@@ -1,0 +1,147 @@
+{
+  "name": "My Body",
+  "bg": "/img/story/bg/clinic.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "My Body"
+    }
+  ],
+  "items": [
+    {
+      "name": "Touch your nose.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Потрогай нос."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I touch my nose.",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я трогаю нос."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Touch your ears.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Потрогай уши."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I touch my ears.",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я трогаю уши."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Where are your eyes?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Где твои глаза?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Here!",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вот!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Good! Blink your eyes.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо! Моргни."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I blink.",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я моргаю."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Open your mouth.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Открой рот."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Aaah!",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ааа!"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/teacher.png",
+      "s": "m"
+    },
+    {
+      "id": "Tom",
+      "name": "Tom",
+      "image": "/img/story/npc/tom.png",
+      "s": "m"
+    }
+  ]
+}

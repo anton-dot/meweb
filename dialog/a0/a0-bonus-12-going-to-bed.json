@@ -1,0 +1,181 @@
+{
+  "name": "Going to Bed",
+  "bg": "/img/story/bg/bedroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Going to Bed"
+    }
+  ],
+  "items": [
+    {
+      "name": "Time for bed!",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пора спать!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I’m not sleepy.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я не хочу спать."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Brush your teeth first.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сначала почисти зубы."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I brush my teeth.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я чищу зубы."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Put on pajamas.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Надень пижаму."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I put on pajamas.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я надеваю пижаму."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Get in bed.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ложись в кровать."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I get in bed.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я ложусь в кровать."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Do you want a story?",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хочешь сказку?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Yes",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Yes"
+            }
+          ]
+        },
+        {
+          "name": "No",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "No"
+            }
+          ]
+        },
+        {
+          "name": "Later",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Later"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yes, please!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да, пожалуйста."
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Anna",
+      "name": "Anna",
+      "image": "/img/story/npc/anna.png",
+      "s": "f"
+    },
+    {
+      "id": "Mom",
+      "name": "Mom",
+      "image": "/img/story/npc/mom.png",
+      "s": "f"
+    }
+  ]
+}

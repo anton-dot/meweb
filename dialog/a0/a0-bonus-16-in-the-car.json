@@ -1,0 +1,181 @@
+{
+  "name": "In the Car",
+  "bg": "/img/story/bg/car.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "In the Car"
+    }
+  ],
+  "items": [
+    {
+      "name": "Buckle your seatbelt.",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пристегни ремень."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I buckle it.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я пристёгиваюсь."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Ready to go?",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Готова ехать?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yes!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let’s drive.",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Поехали."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I see trees!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я вижу деревья!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Do you see the cows?",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты видишь коров?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Yes",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Yes"
+            }
+          ]
+        },
+        {
+          "name": "No",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "No"
+            }
+          ]
+        },
+        {
+          "name": "Maybe",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Maybe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yes, I do!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да, вижу!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "We are almost there.",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мы почти приехали."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yay!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ура!"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Dad",
+      "name": "Dad",
+      "image": "/img/story/npc/dad.png",
+      "s": "m"
+    },
+    {
+      "id": "Anna",
+      "name": "Anna",
+      "image": "/img/story/npc/anna.png",
+      "s": "f"
+    }
+  ]
+}

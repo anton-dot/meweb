@@ -1,0 +1,229 @@
+{
+  "name": "At the Store",
+  "bg": "/img/story/bg/market2.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "At the Store"
+    }
+  ],
+  "items": [
+    {
+      "name": "Hello!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Привет!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Hi! What do you want?",
+      "actor": "Seller",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Привет! Что ты хочешь?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I want a banana.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я хочу банан."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Here you go.",
+      "actor": "Seller",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вот, пожалуйста."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Thank you!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Спасибо!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Do you want an apple too?",
+      "actor": "Seller",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хочешь ещё яблоко?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Yes",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Yes"
+            }
+          ]
+        },
+        {
+          "name": "No",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "No"
+            }
+          ]
+        },
+        {
+          "name": "Maybe",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Maybe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yes, please.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да, пожалуйста."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Take this apple.",
+      "actor": "Seller",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Возьми это яблоко."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "How much is it?",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько это стоит?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "It’s one dollar.",
+      "actor": "Seller",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Один доллар."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Here is one dollar.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вот один доллар."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Thank you!",
+      "actor": "Seller",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Спасибо!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Bye!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пока!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Goodbye!",
+      "actor": "Seller",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "До свидания!"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Anna",
+      "name": "Anna",
+      "image": "/img/story/npc/anna.png",
+      "s": "f"
+    },
+    {
+      "id": "Seller",
+      "name": "Seller",
+      "image": "/img/story/npc/seller.png",
+      "s": "m"
+    }
+  ]
+}

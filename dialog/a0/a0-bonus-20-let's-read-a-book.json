@@ -1,0 +1,147 @@
+{
+  "name": "Let's Read a Book",
+  "bg": "/img/story/bg/bookshelf.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Let's Read a Book"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s read a book.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай почитаем книгу."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "OK! I pick a book.",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо! Я выбираю книгу."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Sit with me.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сядь со мной."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I sit down.",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я сажусь."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Open the book.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Открой книгу."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I open it.",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я открываю её."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Look at the picture.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посмотри на картинку."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I see a dog!",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я вижу собаку!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let’s read.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай читать."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "OK!",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо!"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Mom",
+      "name": "Mom",
+      "image": "/img/story/npc/mom.png",
+      "s": "f"
+    },
+    {
+      "id": "Tom",
+      "name": "Tom",
+      "image": "/img/story/npc/tom.png",
+      "s": "m"
+    }
+  ]
+}

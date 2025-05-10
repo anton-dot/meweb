@@ -1,0 +1,303 @@
+{
+  "name": "In the Kitchen",
+  "bg": "/img/story/bg/kitchen1.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "На кухне"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Trong bếp"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "在厨房里"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "रसोई में"
+    },
+    {
+      "lang": "th-TH",
+      "name": "ในห้องครัว"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Mutfakta"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Na cozinha"
+    },
+    {
+      "lang": "de-DE",
+      "name": "In der Küche"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Di dapur"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Dans la cuisine"
+    }
+  ],
+  "items": [
+    {
+      "name": "Hi, Mom!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Привет, мама!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Hello, Anna! Are you hungry?",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Привет, Анна! Ты голодна?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yes, I am hungry.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да, я голодна."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let’s cook together.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай приготовим вместе."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Great! What can I do?",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Что я могу сделать?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Wash the vegetables, please.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пожалуйста, помой овощи."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "OK. I wash the vegetables.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо. Я мою овощи."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Now, cut the carrots.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь нарежь морковь."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I cut the carrots.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я нарезаю морковь."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Good! Stir the soup.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо! Помешай суп."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I stir the soup.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я мешаю суп."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let’s add some salt.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай добавим немного соли."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I add salt.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я добавляю соль."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Smell the soup!",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Понюхай суп!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Mmm! It smells good!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ммм! Пахнет вкусно!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Time to eat!",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Время кушать!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yay! I love soup.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ура! Я люблю суп."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Eat slowly.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ешь медленно."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I eat slowly.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я ем медленно."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "You did a great job, Anna!",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты хорошо справилась, Анна!"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Anna",
+      "name": "Anna",
+      "image": "/img/story/npc/girl1.png",
+      "s": "f"
+    },
+    {
+      "id": "Mom",
+      "name": "Mom",
+      "image": "/img/story/npc/mom1.png",
+      "s": "f"
+    }
+  ]
+}

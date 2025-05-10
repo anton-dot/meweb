@@ -1,0 +1,157 @@
+{
+  "name": "At the Doctor",
+  "bg": "/img/story/bg/clinic2.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "At the Doctor"
+    }
+  ],
+  "items": [
+    {
+      "name": "Hello!",
+      "actor": "Doctor",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Здравствуйте!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Hi, Doctor.",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Привет, доктор."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "How do you feel?",
+      "actor": "Doctor",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Как ты себя чувствуешь?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Good",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Good"
+            }
+          ]
+        },
+        {
+          "name": "Sick",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Sick"
+            }
+          ]
+        },
+        {
+          "name": "Happy",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Happy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "I feel sick.",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я чувствую себя плохо."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Open your mouth.",
+      "actor": "Doctor",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Открой рот."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Aaah!",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Аааа!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Take this medicine.",
+      "actor": "Doctor",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Прими это лекарство."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "OK, thank you.",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо, спасибо."
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Doctor",
+      "name": "Doctor",
+      "image": "/img/story/npc/doctor.png",
+      "s": "m"
+    },
+    {
+      "id": "Tom",
+      "name": "Tom",
+      "image": "/img/story/npc/tom.png",
+      "s": "m"
+    }
+  ]
+}

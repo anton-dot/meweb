@@ -1,0 +1,147 @@
+{
+  "name": "At the Farm",
+  "bg": "/img/story/bg/farm1.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "At the Farm"
+    }
+  ],
+  "items": [
+    {
+      "name": "Look! A cow!",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Смотри! Корова!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yes. The cow says moo.",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да. Корова говорит му."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "And a sheep!",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А это овца!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "The sheep says baa.",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Овца говорит бе."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Can I feed them?",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Можно я покормлю их?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yes. Take the food.",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да. Возьми корм."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I feed the cow.",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я кормлю корову."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I feed the sheep.",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я кормлю овцу."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Well done!",
+      "actor": "Dad",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Молодец!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Farms are fun!",
+      "actor": "Tom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Фермы — это весело!"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Dad",
+      "name": "Dad",
+      "image": "/img/story/npc/dad.png",
+      "s": "m"
+    },
+    {
+      "id": "Tom",
+      "name": "Tom",
+      "image": "/img/story/npc/tom.png",
+      "s": "m"
+    }
+  ]
+}

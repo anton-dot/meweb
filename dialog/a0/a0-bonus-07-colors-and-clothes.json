@@ -1,0 +1,181 @@
+{
+  "name": "Colors and Clothes",
+  "bg": "/img/story/bg/closet.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Colors and Clothes"
+    }
+  ],
+  "items": [
+    {
+      "name": "What shirt do you want?",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какую рубашку ты хочешь?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I want the red shirt.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я хочу красную рубашку."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Here it is.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вот она."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Thank you!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Спасибо!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Do you want blue pants?",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хочешь синие штаны?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Yes",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Yes"
+            }
+          ]
+        },
+        {
+          "name": "No",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "No"
+            }
+          ]
+        },
+        {
+          "name": "Maybe",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Maybe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yes, blue is my favorite!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да, синий мой любимый!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Put them on.",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Надень их."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I put on my pants.",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я надеваю штаны."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Look in the mirror!",
+      "actor": "Mom",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посмотри в зеркало!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I look nice!",
+      "actor": "Anna",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я хорошо выгляжу!"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Anna",
+      "name": "Anna",
+      "image": "/img/story/npc/anna.png",
+      "s": "f"
+    },
+    {
+      "id": "Mom",
+      "name": "Mom",
+      "image": "/img/story/npc/mom.png",
+      "s": "f"
+    }
+  ]
+}
