@@ -1,0 +1,266 @@
+{
+  "name": "Animal World",
+  "bg": "/img/story/bg/zoo.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Мир животных"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Thế giới động vật"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "动物世界"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "जानवरों की दुनिया"
+    },
+    {
+      "lang": "th-TH",
+      "name": "โลกของสัตว์"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Hayvanlar Dünyası"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Mundo Animal"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Tierwelt"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Dunia Hewan"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Le monde des animaux"
+    }
+  ],
+  "items": [
+    {
+      "name": "Welcome to the animal world!",
+      "actor": "Ranger",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Добро пожаловать в мир животных!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chào mừng đến với thế giới động vật!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "欢迎来到动物世界！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "जानवरों की दुनिया में आपका स्वागत है!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ยินดีต้อนรับสู่โลกของสัตว์!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Hayvanlar dünyasına hoş geldin!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Bem-vindo ao Mundo Animal!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Willkommen in der Tierwelt!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Selamat datang di Dunia Hewan!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Bienvenue dans le monde des animaux !"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let’s meet some animals!",
+      "actor": "Ranger",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давайте познакомимся с животными!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Hãy gặp một số loài động vật nhé!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "让我们认识一些动物吧！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "आओ कुछ जानवरों से मिलें!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "มาทำความรู้จักกับสัตว์กันเถอะ!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Haydi bazı hayvanlarla tanışalım!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Vamos conhecer alguns animais!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Lass uns einige Tiere kennenlernen!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Ayo bertemu beberapa hewan!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Allons rencontrer quelques animaux !"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Which one is a cat?",
+      "actor": "Ranger",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кто из них — кошка?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Con nào là con mèo?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "哪一个是猫？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "बिल्ली कौन सी है?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ตัวไหนคือแมว?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Hangisi kedi?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Qual é o gato?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Welches ist die Katze?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Yang mana kucing?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Lequel est un chat ?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Cat",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Dog",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "Fish",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "hint": "Choose the correct answer"
+    },
+    {
+      "name": "Good job! That is a cat.",
+      "actor": "Ranger",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо! Это кошка."
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Tốt lắm! Đó là con mèo."
+        },
+        {
+          "lang": "zh-CN",
+          "name": "干得好！那是一只猫。"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "शाबाश! यह बिल्ली है।"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เก่งมาก! นั่นคือแมว"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Aferin! Bu bir kedi."
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Bom trabalho! Isso é um gato."
+        },
+        {
+          "lang": "de-DE",
+          "name": "Gut gemacht! Das ist eine Katze."
+        },
+        {
+          "lang": "id-ID",
+          "name": "Kerja bagus! Itu kucing."
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Bravo ! C’est un chat."
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Ranger",
+      "name": "Ranger",
+      "image": "/img/story/npc/ranger.png",
+      "s": "u"
+    }
+  ]
+}

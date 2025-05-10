@@ -1,0 +1,609 @@
+{
+  "name": "Let’s Talk!",
+  "bg": "/img/story/bg/town_square.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Давай поговорим!"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Hãy nói chuyện nào!"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "让我们聊天吧！"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "आइए बात करें!"
+    },
+    {
+      "lang": "th-TH",
+      "name": "มาคุยกันเถอะ!"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Haydi konuşalım!"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Vamos conversar!"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Lass uns reden!"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Ayo bicara!"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Parlons un peu !"
+    }
+  ],
+  "items": [
+    {
+      "name": "Hi $pr_name! Let’s have a talk!",
+      "actor": "Friend",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Привет, $pr_name! Давай поболтаем!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chào $pr_name! Hãy cùng trò chuyện nhé!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "嗨，$pr_name！让我们聊聊吧！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "हाय $pr_name! चलो बात करें!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "สวัสดี $pr_name! มาคุยกันเถอะ!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Merhaba $pr_name! Haydi biraz sohbet edelim!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Oi $pr_name! Vamos conversar!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Hallo $pr_name! Lass uns plaudern!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Hai $pr_name! Ayo ngobrol!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Salut $pr_name ! Parlons un peu !"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "What’s your name?",
+      "actor": "Friend",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Как тебя зовут?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Tên bạn là gì?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "你叫什么名字？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुम्हारा नाम क्या है?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "คุณชื่ออะไร?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Adın ne?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Qual é o seu nome?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wie heißt du?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Siapa namamu?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Comment tu t'appelles ?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Nice to meet you!",
+      "actor": "Friend",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Приятно познакомиться!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Rất vui được gặp bạn!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "很高兴认识你！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "आपसे मिलकर अच्छा लगा!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ยินดีที่ได้รู้จัก!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Tanıştığımıza memnun oldum!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Prazer em conhecê-lo!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Schön dich kennenzulernen!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Senang bertemu denganmu!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Ravi de te rencontrer !"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "How old are you?",
+      "actor": "Friend",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько тебе лет?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Bạn bao nhiêu tuổi?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "你几岁了？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुम्हारी उम्र क्या है?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "คุณอายุเท่าไหร่?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Kaç yaşındasın?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Quantos anos você tem?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wie alt bist du?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Berapa umurmu?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Quel âge as-tu ?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "What do you like to eat?",
+      "actor": "Friend",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что тебе нравится есть?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Bạn thích ăn gì?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "你喜欢吃什么？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "आपको क्या खाना पसंद है?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "คุณชอบกินอะไร?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Ne yemeyi seversin?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "O que você gosta de comer?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Was isst du gerne?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Kamu suka makan apa?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Qu’est-ce que tu aimes manger ?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Do you like animals?",
+      "actor": "Friend",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты любишь животных?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Bạn có thích động vật không?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "你喜欢动物吗？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "क्या आपको जानवर पसंद हैं?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "คุณชอบสัตว์ไหม?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Hayvanları sever misin?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Você gosta de animais?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Magst du Tiere?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Kamu suka hewan?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Tu aimes les animaux ?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Yes",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "No",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "hint": "Choose the correct answer"
+    },
+    {
+      "name": "That’s great! I love animals too.",
+      "actor": "Friend",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Здорово! Я тоже люблю животных."
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Tuyệt quá! Mình cũng thích động vật."
+        },
+        {
+          "lang": "zh-CN",
+          "name": "太好了！我也喜欢动物。"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "बहुत अच्छा! मुझे भी जानवर पसंद हैं।"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เยี่ยมเลย! ฉันก็ชอบสัตว์เหมือนกัน"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Harika! Ben de hayvanları severim."
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Que ótimo! Eu também amo animais."
+        },
+        {
+          "lang": "de-DE",
+          "name": "Das ist toll! Ich liebe auch Tiere."
+        },
+        {
+          "lang": "id-ID",
+          "name": "Bagus! Aku juga suka hewan."
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Génial ! Moi aussi, j’adore les animaux."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "What is your favorite color?",
+      "actor": "Friend",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какой твой любимый цвет?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Màu yêu thích của bạn là gì?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "你最喜欢的颜色是什么？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुम्हारा पसंदीदा रंग कौन सा है?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "สีโปรดของคุณคืออะไร?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "En sevdiğin renk nedir?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Qual é sua cor favorita?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Was ist deine Lieblingsfarbe?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Apa warna favoritmu?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Quelle est ta couleur préférée ?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "What animals do you like?",
+      "actor": "Friend",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какие животные тебе нравятся?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Bạn thích con vật nào?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "你喜欢哪些动物？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "आपको कौन से जानवर पसंद हैं?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "คุณชอบสัตว์อะไร?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Hangi hayvanları seversin?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Quais animais você gosta?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Welche Tiere magst du?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Kamu suka hewan apa?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Quels animaux aimes-tu ?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Can you say 'hello' and 'goodbye'?",
+      "actor": "Friend",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Можешь сказать 'привет' и 'пока'?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Bạn có thể nói 'hello' và 'goodbye' không?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "你会说“你好”和“再见”吗？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "क्या आप 'hello' और 'goodbye' कह सकते हैं?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "คุณพูดว่า 'hello' และ 'goodbye' ได้ไหม?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "'Hello' ve 'Goodbye' diyebilir misin?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Você pode dizer 'hello' e 'goodbye'?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Kannst du 'hello' und 'goodbye' sagen?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Bisakah kamu bilang 'hello' dan 'goodbye'?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Peux-tu dire 'hello' et 'goodbye' ?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Yes, I can!",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Not yet.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "hint": "Choose the correct answer"
+    },
+    {
+      "name": "You’re amazing! You’ve learned a lot!",
+      "actor": "Friend",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты молодец! Ты многому научился!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Bạn thật tuyệt! Bạn đã học được rất nhiều!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "你太棒了！你学了很多！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "आप अद्भुत हैं! आपने बहुत कुछ सीखा है!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "คุณเก่งมาก! คุณได้เรียนรู้มามากมาย!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Harikasın! Çok şey öğrendin!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Você é incrível! Aprendeu muito!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Du bist großartig! Du hast viel gelernt!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Kamu luar biasa! Kamu sudah belajar banyak!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Tu es génial ! Tu as beaucoup appris !"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Friend",
+      "name": "Friend",
+      "image": "/img/story/npc/friend.png",
+      "s": "u"
+    }
+  ]
+}

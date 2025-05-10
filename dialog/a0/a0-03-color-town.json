@@ -1,0 +1,266 @@
+{
+  "name": "Color Town",
+  "bg": "/img/story/bg/color_town.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Город цветов"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Thị trấn màu sắc"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "颜色小镇"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "रंगों का शहर"
+    },
+    {
+      "lang": "th-TH",
+      "name": "เมืองสีสัน"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Renkli Kasaba"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Cidade das Cores"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Farbstadt"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Kota Warna"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Ville de Couleurs"
+    }
+  ],
+  "items": [
+    {
+      "name": "Welcome to Color Town!",
+      "actor": "Painter",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Добро пожаловать в Город цветов!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chào mừng đến Thị trấn màu sắc!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "欢迎来到颜色小镇！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रंगों के शहर में आपका स्वागत है!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ยินดีต้อนรับสู่เมืองสีสัน!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Renkli Kasaba’ya hoş geldin!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Bem-vindo à Cidade das Cores!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Willkommen in der Farbstadt!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Selamat datang di Kota Warna!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Bienvenue à la Ville de Couleurs !"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let’s learn colors!",
+      "actor": "Painter",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай выучим цвета!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Hãy học màu sắc nào!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "让我们学习颜色吧！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "आइए रंगों को सीखें!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "มาเรียนรู้เรื่องสีสันกันเถอะ!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Haydi renkleri öğrenelim!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Vamos aprender as cores!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Lass uns die Farben lernen!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Mari belajar warna-warna!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Apprenons les couleurs !"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "What color is the sun?",
+      "actor": "Painter",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какого цвета солнце?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Mặt trời màu gì?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "太阳是什么颜色？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "सूरज का रंग क्या है?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ดวงอาทิตย์มีสีอะไร?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Güneş ne renk?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "De que cor é o sol?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Welche Farbe hat die Sonne?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Matahari berwarna apa?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "De quelle couleur est le soleil ?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Yellow",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Blue",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "Red",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "hint": "Choose the correct answer"
+    },
+    {
+      "name": "Yes! The sun is yellow!",
+      "actor": "Painter",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! Солнце жёлтое!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Đúng rồi! Mặt trời màu vàng!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "是的！太阳是黄色的！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "हाँ! सूरज पीला है!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ใช่! ดวงอาทิตย์สีเหลือง!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Evet! Güneş sarıdır!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Sim! O sol é amarelo!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Ja! Die Sonne ist gelb!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Ya! Matahari berwarna kuning!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Oui ! Le soleil est jaune !"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Painter",
+      "name": "Painter",
+      "image": "/img/story/npc/painter.png",
+      "s": "u"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Bonus Level 5",
+  "bg": "/img/story/bg/bonus_5.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Bonus Level 5"
+    }
+  ],
+  "items": [
+    {
+      "name": "Welcome to bonus level 5!",
+      "actor": "BonusNPC5",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Добро пожаловать в бонусный уровень 5!"
+        }
+      ]
+    },
+    {
+      "name": "Let’s practice English together!",
+      "actor": "BonusNPC5",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай практиковать английский вместе!"
+        }
+      ]
+    },
+    {
+      "name": "Can you answer this question from level 5?",
+      "actor": "BonusNPC5",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Можешь ответить на вопрос уровня 5?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Yes!",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "No",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "hint": "Choose the correct answer"
+    },
+    {
+      "name": "Great job! You’re getting better!",
+      "actor": "BonusNPC5",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Ты становишься лучше!"
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "BonusNPC5",
+      "name": "Guide 5",
+      "image": "/img/story/npc/bonus_5.png",
+      "s": "u"
+    }
+  ]
+}

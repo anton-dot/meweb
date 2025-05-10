@@ -1,0 +1,90 @@
+{
+  "name": "Bonus: Let's Play!",
+  "bg": "/img/story/bg/playground.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Bonus: Let's Play!"
+    }
+  ],
+  "items": [
+    {
+      "name": "Do you want to play a game?",
+      "actor": "Playmate",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хочешь поиграть?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Yes!",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Maybe later",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "hint": "Choose the correct answer"
+    },
+    {
+      "name": "Let’s jump and run!",
+      "actor": "Playmate",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай прыгать и бегать!"
+        }
+      ]
+    },
+    {
+      "name": "Can you jump three times?",
+      "actor": "Playmate",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Можешь прыгнуть три раза?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Yes, I can!",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "No, I can't",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "hint": "Choose the correct answer"
+    },
+    {
+      "name": "You’re fast! That was fun.",
+      "actor": "Playmate",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты быстрый! Это было весело."
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Playmate",
+      "name": "Playmate",
+      "image": "/img/story/npc/playmate.png"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "Bonus Level 6",
+  "bg": "/img/story/bg/bonus_6.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Bonus Level 6"
+    }
+  ],
+  "items": [
+    {
+      "name": "Welcome to bonus level 6!",
+      "actor": "BonusNPC6",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Добро пожаловать в бонусный уровень 6!"
+        }
+      ]
+    },
+    {
+      "name": "Let’s practice English together!",
+      "actor": "BonusNPC6",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай практиковать английский вместе!"
+        }
+      ]
+    },
+    {
+      "name": "Can you answer this question from level 6?",
+      "actor": "BonusNPC6",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Можешь ответить на вопрос уровня 6?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Yes!",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "No",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "hint": "Choose the correct answer"
+    },
+    {
+      "name": "Great job! You’re getting better!",
+      "actor": "BonusNPC6",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Ты становишься лучше!"
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "BonusNPC6",
+      "name": "Guide 6",
+      "image": "/img/story/npc/bonus_6.png",
+      "s": "u"
+    }
+  ]
+}

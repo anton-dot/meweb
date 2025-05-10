@@ -1,0 +1,251 @@
+{
+    "name": "The First Word",
+    "bg": "/img/story/bg/intro_world.png",
+    "age": 0,
+    "translations": [
+        {
+            "lang": "ru-RU",
+            "name": "Первое слово"
+        },
+        {
+            "lang": "vi-VN",
+            "name": "Từ đầu tiên"
+        },
+        {
+            "lang": "zh-CN",
+            "name": "第一个词"
+        },
+        {
+            "lang": "hi-IN",
+            "name": "पहला शब्द"
+        },
+        {
+            "lang": "th-TH",
+            "name": "คำแรก"
+        },
+        {
+            "lang": "tr-TR",
+            "name": "İlk kelime"
+        },
+        {
+            "lang": "pt-BR",
+            "name": "A primeira palavra"
+        },
+        {
+            "lang": "de-DE",
+            "name": "Das erste Wort"
+        },
+        {
+            "lang": "id-ID",
+            "name": "Kata pertama"
+        },
+        {
+            "lang": "fr-FR",
+            "name": "Le premier mot"
+        }
+    ],
+    "items": [
+        {
+            "name": "Welcome to the English World!",
+            "actor": "Guide",
+            "dialogType": "Normal",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Добро пожаловать в мир английского!"
+                },
+                {
+                    "lang": "vi-VN",
+                    "name": "Chào mừng đến với thế giới tiếng Anh!"
+                },
+                {
+                    "lang": "zh-CN",
+                    "name": "欢迎来到英语世界！"
+                },
+                {
+                    "lang": "hi-IN",
+                    "name": "अंग्रेज़ी दुनिया में आपका स्वागत है!"
+                },
+                {
+                    "lang": "th-TH",
+                    "name": "ยินดีต้อนรับสู่โลกภาษาอังกฤษ!"
+                },
+                {
+                    "lang": "tr-TR",
+                    "name": "İngilizce dünyasına hoş geldiniz!"
+                },
+                {
+                    "lang": "pt-BR",
+                    "name": "Bem-vindo ao mundo do inglês!"
+                },
+                {
+                    "lang": "de-DE",
+                    "name": "Willkommen in der englischen Welt!"
+                },
+                {
+                    "lang": "id-ID",
+                    "name": "Selamat datang di dunia bahasa Inggris!"
+                },
+                {
+                    "lang": "fr-FR",
+                    "name": "Bienvenue dans le monde de l\u0027anglais !"
+                }
+            ],
+            "actions": []
+        },
+        {
+            "name": "What’s your name?",
+            "meta": "pr_name",
+            "actor": "Guide",
+            "dialogType": "ConfigString",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Как тебя зовут?"
+                },
+                {
+                    "lang": "vi-VN",
+                    "name": "Tên bạn là gì?"
+                },
+                {
+                    "lang": "zh-CN",
+                    "name": "你叫什么名字？"
+                },
+                {
+                    "lang": "hi-IN",
+                    "name": "तुम्हारा नाम क्या है?"
+                },
+                {
+                    "lang": "th-TH",
+                    "name": "คุณชื่ออะไร?"
+                },
+                {
+                    "lang": "tr-TR",
+                    "name": "Adın ne?"
+                },
+                {
+                    "lang": "pt-BR",
+                    "name": "Qual é o seu nome?"
+                },
+                {
+                    "lang": "de-DE",
+                    "name": "Wie heißt du?"
+                },
+                {
+                    "lang": "id-ID",
+                    "name": "Siapa namamu?"
+                },
+                {
+                    "lang": "fr-FR",
+                    "name": "Comment tu t\u0027appelles ?"
+                }
+            ],
+            "actions": []
+        },
+        {
+            "name": "Nice to meet you, $pr_name!",
+            "actor": "Guide",
+            "dialogType": "Normal",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Приятно познакомиться, $pr_name!"
+                },
+                {
+                    "lang": "vi-VN",
+                    "name": "Rất vui được gặp bạn, $pr_name!"
+                },
+                {
+                    "lang": "zh-CN",
+                    "name": "很高兴认识你，$pr_name！"
+                },
+                {
+                    "lang": "hi-IN",
+                    "name": "आपसे मिलकर अच्छा लगा, $pr_name!"
+                },
+                {
+                    "lang": "th-TH",
+                    "name": "ยินดีที่ได้รู้จัก, $pr_name!"
+                },
+                {
+                    "lang": "tr-TR",
+                    "name": "Tanıştığımıza memnun oldum, $pr_name!"
+                },
+                {
+                    "lang": "pt-BR",
+                    "name": "Prazer em conhecê-lo, $pr_name!"
+                },
+                {
+                    "lang": "de-DE",
+                    "name": "Schön dich kennenzulernen, $pr_name!"
+                },
+                {
+                    "lang": "id-ID",
+                    "name": "Senang bertemu denganmu, $pr_name!"
+                },
+                {
+                    "lang": "fr-FR",
+                    "name": "Ravi de te rencontrer, $pr_name !"
+                }
+            ],
+            "actions": []
+        },
+        {
+            "name": "Let’s learn your first English word: Hello!",
+            "isHideTransl": false,
+            "actor": "Guide",
+            "dialogType": "Normal",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Давай выучим твоё первое английское слово: Hello!"
+                },
+                {
+                    "lang": "vi-VN",
+                    "name": "Hãy học từ tiếng Anh đầu tiên của bạn: Hello!"
+                },
+                {
+                    "lang": "zh-CN",
+                    "name": "让我们学习你的第一个英文单词：Hello！"
+                },
+                {
+                    "lang": "hi-IN",
+                    "name": "आइए आपका पहला अंग्रेजी शब्द सीखें: Hello!"
+                },
+                {
+                    "lang": "th-TH",
+                    "name": "มาเรียนรู้คำภาษาอังกฤษคำแรกกัน: Hello!"
+                },
+                {
+                    "lang": "tr-TR",
+                    "name": "İlk İngilizce kelimeni öğrenelim: Hello!"
+                },
+                {
+                    "lang": "pt-BR",
+                    "name": "Vamos aprender sua primeira palavra em inglês: Hello!"
+                },
+                {
+                    "lang": "de-DE",
+                    "name": "Lass uns dein erstes englisches Wort lernen: Hello!"
+                },
+                {
+                    "lang": "id-ID",
+                    "name": "Mari belajar kata bahasa Inggrismu yang pertama: Hello!"
+                },
+                {
+                    "lang": "fr-FR",
+                    "name": "Apprenons ton premier mot en anglais : Hello !"
+                }
+            ],
+            "actions": []
+        }
+    ],
+    "actors": [
+        {
+            "id": "Guide",
+            "name": "Guide",
+            "image": "/img/story/npc/guide.png",
+            "s": "u"
+        }
+    ]
+}

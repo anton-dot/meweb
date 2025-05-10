@@ -1,0 +1,286 @@
+{
+  "name": "English A1",
+  "description": "Basic English Course (Level A1)",
+  "cats": [
+    {
+      "name": "Everyday Conversations",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Everyday Conversations"
+        }
+      ],
+      "activities": [
+        {
+          "name": "Greetings and Introductions",
+          "rUrl": "a1/everyday_conversations/lesson-01",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Asking and Answering Questions",
+          "rUrl": "a1/everyday_conversations/lesson-02",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Polite Expressions",
+          "rUrl": "a1/everyday_conversations/lesson-03",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Daily Routines",
+          "rUrl": "a1/everyday_conversations/lesson-04",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Talking about Hobbies",
+          "rUrl": "a1/everyday_conversations/lesson-05",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        }
+      ]
+    },
+    {
+      "name": "At Home and Family",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "At Home and Family"
+        }
+      ],
+      "activities": [
+        {
+          "name": "My Family",
+          "rUrl": "a1/at_home_and_family/lesson-01",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "House and Furniture",
+          "rUrl": "a1/at_home_and_family/lesson-02",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Chores and Activities",
+          "rUrl": "a1/at_home_and_family/lesson-03",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Pets and Animals",
+          "rUrl": "a1/at_home_and_family/lesson-04",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        }
+      ]
+    },
+    {
+      "name": "In the City",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "In the City"
+        }
+      ],
+      "activities": [
+        {
+          "name": "Places Around Town",
+          "rUrl": "a1/in_the_city/lesson-01",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Asking for Directions",
+          "rUrl": "a1/in_the_city/lesson-02",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "At the Restaurant",
+          "rUrl": "a1/in_the_city/lesson-03",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Shopping and Money",
+          "rUrl": "a1/in_the_city/lesson-04",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Using Public Transport",
+          "rUrl": "a1/in_the_city/lesson-05",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        }
+      ]
+    },
+    {
+      "name": "School and Learning",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "School and Learning"
+        }
+      ],
+      "activities": [
+        {
+          "name": "In the Classroom",
+          "rUrl": "a1/school_and_learning/lesson-01",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "School Subjects",
+          "rUrl": "a1/school_and_learning/lesson-02",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Talking to a Teacher",
+          "rUrl": "a1/school_and_learning/lesson-03",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Making Plans",
+          "rUrl": "a1/school_and_learning/lesson-04",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        }
+      ]
+    },
+    {
+      "name": "Time and Weather",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Time and Weather"
+        }
+      ],
+      "activities": [
+        {
+          "name": "Telling the Time",
+          "rUrl": "a1/time_and_weather/lesson-01",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Days and Months",
+          "rUrl": "a1/time_and_weather/lesson-02",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Seasons and Weather",
+          "rUrl": "a1/time_and_weather/lesson-03",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Planning an Event",
+          "rUrl": "a1/time_and_weather/lesson-04",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        }
+      ]
+    },
+    {
+      "name": "Health and Safety",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Health and Safety"
+        }
+      ],
+      "activities": [
+        {
+          "name": "Talking about Feelings",
+          "rUrl": "a1/health_and_safety/lesson-01",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "At the Doctor",
+          "rUrl": "a1/health_and_safety/lesson-02",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Staying Safe",
+          "rUrl": "a1/health_and_safety/lesson-03",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Body and Health",
+          "rUrl": "a1/health_and_safety/lesson-04",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        }
+      ]
+    },
+    {
+      "name": "Review and Roleplay",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Review and Roleplay"
+        }
+      ],
+      "activities": [
+        {
+          "name": "Practice Dialogues",
+          "rUrl": "a1/review_and_roleplay/lesson-01",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Review Quiz",
+          "rUrl": "a1/review_and_roleplay/lesson-02",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Roleplay Scenarios",
+          "rUrl": "a1/review_and_roleplay/lesson-03",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Bonus: Colors and Clothes",
+  "bg": "/img/story/bg/clothes_shop.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Bonus: Colors and Clothes"
+    }
+  ],
+  "items": [
+    {
+      "name": "What color do you like?",
+      "actor": "Shopkeeper",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какой цвет тебе нравится?"
+        }
+      ]
+    },
+    {
+      "name": "I like blue and red.",
+      "actor": "Shopkeeper",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мне нравятся синий и красный."
+        }
+      ]
+    },
+    {
+      "name": "Do you want a red shirt or a blue one?",
+      "actor": "Shopkeeper",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты хочешь красную рубашку или синюю?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Red shirt",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Blue shirt",
+          "isCorrect": true,
+          "score": 1
+        }
+      ],
+      "hint": "Choose the correct answer"
+    },
+    {
+      "name": "Great choice! You look good!",
+      "actor": "Shopkeeper",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отличный выбор! Ты хорошо выглядишь!"
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Shopkeeper",
+      "name": "Shopkeeper",
+      "image": "/img/story/npc/shopkeeper.png"
+    }
+  ]
+}

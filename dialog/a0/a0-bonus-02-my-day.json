@@ -1,0 +1,77 @@
+{
+  "name": "Bonus: My Day",
+  "bg": "/img/story/bg/house_inside.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Bonus: My Day"
+    }
+  ],
+  "items": [
+    {
+      "name": "What do you do in the morning?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что ты делаешь утром?"
+        }
+      ]
+    },
+    {
+      "name": "I brush my teeth and eat breakfast.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я чищу зубы и завтракаю."
+        }
+      ]
+    },
+    {
+      "name": "Do you go to school?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты ходишь в школу?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Yes, I do",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "No, I stay home",
+          "isCorrect": true,
+          "score": 1
+        }
+      ],
+      "hint": "Choose the correct answer"
+    },
+    {
+      "name": "Good! Learning is fun.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Молодец! Учиться — это весело."
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/teacher.png"
+    }
+  ]
+}

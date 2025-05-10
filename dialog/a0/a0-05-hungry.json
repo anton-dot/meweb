@@ -1,0 +1,278 @@
+{
+  "name": "Hungry?",
+  "bg": "/img/story/bg/cafe.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Голоден?"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Đói chưa?"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "饿了吗？"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "भूख लगी है?"
+    },
+    {
+      "lang": "th-TH",
+      "name": "หิวไหม?"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Aç mısın?"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Com fome?"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Hungrig?"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Lapar?"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Tu as faim ?"
+    }
+  ],
+  "items": [
+    {
+      "name": "Welcome to the café!",
+      "actor": "Chef",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Добро пожаловать в кафе!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chào mừng đến quán cà phê!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "欢迎来到咖啡馆！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "कैफ़े में आपका स्वागत है!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ยินดีต้อนรับสู่คาเฟ่!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Kafeye hoş geldin!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Bem-vindo ao café!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Willkommen im Café!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Selamat datang di kafe!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Bienvenue au café !"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Are you hungry, $pr_name?",
+      "actor": "Chef",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты голоден, $pr_name?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Bạn có đói không, $pr_name?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "$pr_name，你饿了吗？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "$pr_name, क्या तुम भूखे हो?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "$pr_name, คุณหิวไหม?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "$pr_name, aç mısın?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "$pr_name, você está com fome?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bist du hungrig, $pr_name?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "$pr_name, apakah kamu lapar?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "$pr_name, tu as faim ?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Yes!",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "No!",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "hint": "Choose the correct answer"
+    },
+    {
+      "name": "What do you want to eat?",
+      "actor": "Chef",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что ты хочешь съесть?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Bạn muốn ăn gì?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "你想吃什么？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "आप क्या खाना चाहेंगे?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "คุณอยากกินอะไร?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Ne yemek istersin?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "O que você quer comer?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Was möchtest du essen?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Kamu ingin makan apa?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Qu’est-ce que tu veux manger ?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Pizza",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Book",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "Cat",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "hint": "Choose the correct answer"
+    },
+    {
+      "name": "Yummy! Pizza is a good choice.",
+      "actor": "Chef",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вкусно! Пицца — хороший выбор."
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Ngon quá! Pizza là một lựa chọn tuyệt vời."
+        },
+        {
+          "lang": "zh-CN",
+          "name": "好吃！披萨是个不错的选择。"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "स्वादिष्ट! पिज्जा अच्छा विकल्प है।"
+        },
+        {
+          "lang": "th-TH",
+          "name": "อร่อย! พิซซ่าเป็นตัวเลือกที่ดี"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Lezzetli! Pizza iyi bir seçim."
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Delícia! Pizza é uma boa escolha."
+        },
+        {
+          "lang": "de-DE",
+          "name": "Lecker! Pizza ist eine gute Wahl."
+        },
+        {
+          "lang": "id-ID",
+          "name": "Lezat! Pizza adalah pilihan yang baik."
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Miam ! La pizza est un bon choix."
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Chef",
+      "name": "Chef",
+      "image": "/img/story/npc/chef.png",
+      "s": "u"
+    }
+  ]
+}

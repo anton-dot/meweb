@@ -1,0 +1,266 @@
+{
+  "name": "My Family",
+  "bg": "/img/story/bg/family_home.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Моя семья"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Gia đình của tôi"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "我的家庭"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "मेरा परिवार"
+    },
+    {
+      "lang": "th-TH",
+      "name": "ครอบครัวของฉัน"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Ailem"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Minha família"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Meine Familie"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Keluargaku"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Ma famille"
+    }
+  ],
+  "items": [
+    {
+      "name": "Welcome to my home!",
+      "actor": "Grandma",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Добро пожаловать в мой дом!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chào mừng đến nhà của bà!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "欢迎来到我家！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "मेरे घर में आपका स्वागत है!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ยินดีต้อนรับสู่บ้านของฉัน!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Evime hoş geldin!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Bem-vindo à minha casa!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Willkommen in meinem Zuhause!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Selamat datang di rumahku!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Bienvenue chez moi !"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "This is my family.",
+      "actor": "Grandma",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это моя семья."
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Đây là gia đình của tôi."
+        },
+        {
+          "lang": "zh-CN",
+          "name": "这是我的家人。"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "यह मेरा परिवार है।"
+        },
+        {
+          "lang": "th-TH",
+          "name": "นี่คือครอบครัวของฉัน"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Bu benim ailem."
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Esta é a minha família."
+        },
+        {
+          "lang": "de-DE",
+          "name": "Das ist meine Familie."
+        },
+        {
+          "lang": "id-ID",
+          "name": "Ini keluargaku."
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Voici ma famille."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Who is he?",
+      "actor": "Grandma",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кто он?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Ông ấy là ai?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "他是谁？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "वह कौन है?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เขาเป็นใคร?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "O kim?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Quem é ele?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wer ist er?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Siapa dia?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Qui est-ce ?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Father",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Sister",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "Dog",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "hint": "Choose the correct answer"
+    },
+    {
+      "name": "Yes! He is my father.",
+      "actor": "Grandma",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! Это мой отец."
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Đúng rồi! Đó là cha tôi."
+        },
+        {
+          "lang": "zh-CN",
+          "name": "对！他是我爸爸。"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "हाँ! वह मेरे पिताजी हैं।"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ใช่! เขาเป็นพ่อของฉัน"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Evet! O benim babam."
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Sim! Ele é meu pai."
+        },
+        {
+          "lang": "de-DE",
+          "name": "Ja! Das ist mein Vater."
+        },
+        {
+          "lang": "id-ID",
+          "name": "Ya! Dia ayahku."
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Oui ! C’est mon père."
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Grandma",
+      "name": "Grandma",
+      "image": "/img/story/npc/grandma.png",
+      "s": "u"
+    }
+  ]
+}

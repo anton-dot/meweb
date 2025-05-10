@@ -1,0 +1,78 @@
+{
+  "name": "Bonus Level 15",
+  "bg": "/img/story/bg/bonus_15.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Bonus Level 15"
+    }
+  ],
+  "items": [
+    {
+      "name": "Welcome to bonus level 15!",
+      "actor": "BonusNPC15",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Добро пожаловать в бонусный уровень 15!"
+        }
+      ]
+    },
+    {
+      "name": "Let’s practice English together!",
+      "actor": "BonusNPC15",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай практиковать английский вместе!"
+        }
+      ]
+    },
+    {
+      "name": "Can you answer this question from level 15?",
+      "actor": "BonusNPC15",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Можешь ответить на вопрос уровня 15?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Yes!",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "No",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "hint": "Choose the correct answer"
+    },
+    {
+      "name": "Great job! You’re getting better!",
+      "actor": "BonusNPC15",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Ты становишься лучше!"
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "BonusNPC15",
+      "name": "Guide 15",
+      "image": "/img/story/npc/bonus_15.png",
+      "s": "u"
+    }
+  ]
+}

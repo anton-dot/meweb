@@ -1,0 +1,78 @@
+{
+  "name": "Bonus Level 7",
+  "bg": "/img/story/bg/bonus_7.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Bonus Level 7"
+    }
+  ],
+  "items": [
+    {
+      "name": "Welcome to bonus level 7!",
+      "actor": "BonusNPC7",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Добро пожаловать в бонусный уровень 7!"
+        }
+      ]
+    },
+    {
+      "name": "Let’s practice English together!",
+      "actor": "BonusNPC7",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай практиковать английский вместе!"
+        }
+      ]
+    },
+    {
+      "name": "Can you answer this question from level 7?",
+      "actor": "BonusNPC7",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Можешь ответить на вопрос уровня 7?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Yes!",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "No",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "hint": "Choose the correct answer"
+    },
+    {
+      "name": "Great job! You’re getting better!",
+      "actor": "BonusNPC7",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Ты становишься лучше!"
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "BonusNPC7",
+      "name": "Guide 7",
+      "image": "/img/story/npc/bonus_7.png",
+      "s": "u"
+    }
+  ]
+}
