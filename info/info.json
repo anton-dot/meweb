@@ -5,16 +5,15 @@
   "Notes_ru": "Новый интерфейс и обновленное приложение. \nБыстрое и надежное!",
   "Version": 9,
   "Appversion": "2.1",
-  "AndroidversionNumber": 26,
+  "AndroidversionNumber": 27,
   "winversionNumber": 15,
-  "webversionNumber": 26,
+  "webversionNumber": 27,
   "DownloadSizeMB": 110,
   "DownloadLinks": [
     "https://anton-dot.github.io/meweb/meweb0.zip",
     "https://anton-dot.github.io/meweb/meweb1.zip"
   ],
   "DownloadLinksDiff": [
-    "https://anton-dot.github.io/meweb/all.zip",
     "https://anton-dot.github.io/meweb/meweb0.zip",
     "https://anton-dot.github.io/meweb/meweb1.zip"
   ],
