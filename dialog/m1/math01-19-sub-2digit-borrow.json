@@ -1,0 +1,193 @@
+{
+  "name": "Subtract 2-Digit (With Borrow)",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Вычитание двузначных (с займом)"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u"
+    }
+  ],
+  "items": [
+    {
+      "name": "Now let’s learn how to subtract when we need to borrow.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь научимся вычитать с переходом через десяток."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Borrow? What does that mean?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Переход? А что это значит?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "It means we take from the tens when the ones aren’t enough.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это значит, что мы берём из десятков, если единиц не хватает."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let’s try 72 - 48. First check ones: 2 - 8? We can’t do that!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Попробуем 72 - 48. Единицы: 2 - 8? Так нельзя!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "We borrow 10 from the 70. Now we have 60 and 12.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Занимаем 10 из 70. Получается 60 и 12."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Now 12 - 8 = 4. And 60 - 40 = 20. Total: 20 + 4 = 24.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь 12 - 8 = 4. А 60 - 40 = 20. В итоге: 20 + 4 = 24."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "So 72 - 48 = 24!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Значит, 72 - 48 = 24!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let’s try 63 - 27 together. 3 - 7? Borrow!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Попробуем 63 - 27 вместе. 3 - 7? Надо занять!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "13 - 7 = 6. 60 becomes 50. 50 - 20 = 30. So, 30 + 6 = 36.",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "13 - 7 = 6. 60 стало 50. 50 - 20 = 30. Значит, 30 + 6 = 36."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Now choose: What is 81 - 46?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь выбери: сколько будет 81 - 46?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "35",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "35"
+            }
+          ]
+        },
+        {
+          "name": "36",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "36"
+            }
+          ]
+        },
+        {
+          "name": "34",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "34"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "You did it! Borrowing makes sense now.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты справился! Переход через десяток теперь понятен."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

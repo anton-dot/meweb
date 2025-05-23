@@ -1,0 +1,181 @@
+{
+  "name": "Subtract 2-Digit (No Borrow)",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Вычитание двузначных (без займа)"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u"
+    }
+  ],
+  "items": [
+    {
+      "name": "Now let’s subtract two-digit numbers without borrowing.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь вычтем двузначные числа без займа."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Okay! Is it like normal subtraction?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо! Это как обычное вычитание?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yes! Let’s try 65 - 42. First subtract tens: 60 - 40 = 20.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! Попробуем 65 - 42. Сначала десятки: 60 - 40 = 20."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Now subtract the ones: 5 - 2 = 3.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь вычтем единицы: 5 - 2 = 3."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Now add both parts: 20 + 3 = 23.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь складываем части: 20 + 3 = 23."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "So 65 - 42 = 23!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Значит, 65 - 42 = 23!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Try 84 - 61. 80 - 60 = 20, 4 - 1 = 3.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Попробуй 84 - 61. 80 - 60 = 20, 4 - 1 = 3."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "20 + 3 = 23 again!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "20 + 3 = снова 23!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Now your turn! What is 73 - 51?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь твоя очередь! Сколько будет 73 - 51?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "32",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "32"
+            }
+          ]
+        },
+        {
+          "name": "22",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "22"
+            }
+          ]
+        },
+        {
+          "name": "24",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Excellent! You’re subtracting like a mathematician!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Ты вычитаешь как настоящий математик!"
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

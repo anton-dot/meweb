@@ -1,0 +1,205 @@
+{
+  "name": "Addition with Carrying",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Сложение через десяток"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u"
+    }
+  ],
+  "items": [
+    {
+      "name": "Now let’s learn how to add two-digit numbers with carrying.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь научимся складывать двузначные числа с переходом через десяток."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "What does 'carrying' mean?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что значит 'переход через десяток'?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "It means the ones add up to more than 10. We move part to the tens.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это значит, что сумма единиц больше 10, и часть переносим в десятки."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let’s try 47 + 36. First, add ones: 7 + 6 = 13.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Попробуем 47 + 36. Сначала единицы: 7 + 6 = 13."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "We keep 3 and carry 10 to the tens. Now add tens: 40 + 30 = 70. 70 + 10 = 80.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Оставляем 3, а 10 переносим в десятки. Теперь десятки: 40 + 30 = 70. 70 + 10 = 80."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Then add the 3 from the ones: 80 + 3 = 83.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь прибавим 3 из единиц: 80 + 3 = 83."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "So 47 + 36 = 83!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Значит, 47 + 36 = 83!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Great! Let’s try 58 + 27 together.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Попробуем 58 + 27 вместе."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "8 + 7 = 15. Keep 5, carry 10. 50 + 20 = 70, plus 10 = 80. 80 + 5 = ?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "8 + 7 = 15. Оставляем 5, переносим 10. 50 + 20 = 70, плюс 10 = 80. 80 + 5 = ?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "85!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "85!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Correct! Now your turn.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Верно! Теперь твоя очередь."
+        }
+      ],
+      "actions": [
+        {
+          "name": "75",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "75"
+            }
+          ]
+        },
+        {
+          "name": "85",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "85"
+            }
+          ]
+        },
+        {
+          "name": "95",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "95"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Awesome! You're doing hard math like a pro!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Ты решаешь сложные примеры как профи!"
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

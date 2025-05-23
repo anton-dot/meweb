@@ -1,0 +1,181 @@
+{
+  "name": "Subtraction to 20",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Вычитание до 20"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u"
+    }
+  ],
+  "items": [
+    {
+      "name": "Now let’s subtract numbers up to 20.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь будем вычитать числа до 20."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Sounds tricky!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Звучит сложно!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Not if we take it step by step!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Не если делать это по шагам!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let’s try 17 - 5. Count back: 16, 15, 14, 13, 12.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Попробуем 17 - 5. Считаем назад: 16, 15, 14, 13, 12."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "So it’s 12!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Значит, это 12!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Correct! Now let’s try 14 - 6.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правильно! А теперь 14 - 6."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "13, 12, 11, 10, 9, 8! It’s 8!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "13, 12, 11, 10, 9, 8! Это 8!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yes! Great counting back.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! Отличный счёт назад."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Now choose the correct answer: What is 15 - 7?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь выбери правильный ответ: сколько будет 15 - 7?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "9",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "9"
+            }
+          ]
+        },
+        {
+          "name": "8",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "8"
+            }
+          ]
+        },
+        {
+          "name": "7",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Awesome! Subtracting big numbers is easy for you now!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Здорово! Теперь тебе легко вычитать большие числа!"
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

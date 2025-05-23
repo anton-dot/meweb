@@ -1,47 +1,166 @@
 {
   "name": "English A1",
-  "description": "Basic English Course (Level A1)",
+  "description": "Elementary English course (Level A1)",
   "cats": [
     {
-      "name": "Everyday Conversations",
+      "name": "PART 1: Everyday Life",
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Everyday Conversations"
+          "name": "Повседневная жизнь"
         }
       ],
       "activities": [
         {
-          "name": "Greetings and Introductions",
-          "rUrl": "a1/everyday_conversations/lesson-01",
+          "name": "Hello again!",
+          "rUrl": "a1/a1-01-hello-again",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
         },
         {
-          "name": "Asking and Answering Questions",
-          "rUrl": "a1/everyday_conversations/lesson-02",
+          "name": "Meet my friend",
+          "rUrl": "a1/a1-02-meet-my-friend",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
         },
         {
-          "name": "Polite Expressions",
-          "rUrl": "a1/everyday_conversations/lesson-03",
+          "name": "My name is Anna",
+          "rUrl": "a1/a1-03-my-name-is-anna",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
         },
         {
-          "name": "Daily Routines",
-          "rUrl": "a1/everyday_conversations/lesson-04",
+          "name": "This is my brother",
+          "rUrl": "a1/a1-04-this-is-my-brother",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
         },
         {
-          "name": "Talking about Hobbies",
-          "rUrl": "a1/everyday_conversations/lesson-05",
+          "name": "My daily routine",
+          "rUrl": "a1/a1-05-my-daily-routine",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Time & Days",
+          "rUrl": "timeCardsA1",
+          "img": "/img/dict/time/time.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "What time is it?",
+          "rUrl": "a1/a1-06-what-time-is-it",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "In class",
+          "rUrl": "a1/a1-07-in-class",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "School Things",
+          "rUrl": "schoolThingsCardsA1",
+          "img": "/img/dict/school/school.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "I forgot my homework",
+          "rUrl": "a1/a1-08-i-forgot-my-homework",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Rooms",
+          "rUrl": "roomsCardsA1",
+          "img": "/img/dict/home/rooms.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "My room",
+          "rUrl": "a1/a1-09-my-room",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Let’s clean up",
+          "rUrl": "a1/a1-10-lets-clean-up",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Let’s do it!",
+          "rUrl": "a1/a1-11-lets-do-it",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "After school",
+          "rUrl": "a1/a1-12-after-school",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "What’s the weather?",
+          "rUrl": "a1/a1-13-whats-the-weather",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Rainy day",
+          "rUrl": "a1/a1-14-rainy-day",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Family",
+          "rUrl": "familyCardsA1",
+          "img": "/img/dict/family/family.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "Meet my family",
+          "rUrl": "a1/a1-15-meet-my-family",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Grandma is here",
+          "rUrl": "a1/a1-16-grandma-is-here",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Who does what?",
+          "rUrl": "a1/a1-17-who-does-what",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Let’s help mom",
+          "rUrl": "a1/a1-18-lets-help-mom",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
@@ -49,38 +168,213 @@
       ]
     },
     {
-      "name": "At Home and Family",
+      "name": "PART 2: Around Us",
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "At Home and Family"
+          "name": "Вокруг нас"
         }
       ],
       "activities": [
         {
-          "name": "My Family",
-          "rUrl": "a1/at_home_and_family/lesson-01",
+          "name": "City Places",
+          "rUrl": "placesCardsA1",
+          "img": "/img/dict/places/city.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "At the park",
+          "rUrl": "a1/a1-01-at-the-park",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
         },
         {
-          "name": "House and Furniture",
-          "rUrl": "a1/at_home_and_family/lesson-02",
+          "name": "In the city",
+          "rUrl": "a1/a1-02-in-the-city",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
         },
         {
-          "name": "Chores and Activities",
-          "rUrl": "a1/at_home_and_family/lesson-03",
+          "name": "Food",
+          "rUrl": "foodCardsA1",
+          "img": "/img/dict/food/food.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "Shopping for food",
+          "rUrl": "a1/a1-03-shopping-for-food",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
         },
         {
-          "name": "Pets and Animals",
-          "rUrl": "a1/at_home_and_family/lesson-04",
+          "name": "Clothes",
+          "rUrl": "clothesCardsA1",
+          "img": "/img/dict/clothes/clothes.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "Buying clothes",
+          "rUrl": "a1/a1-04-buying-clothes",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Ordering lunch",
+          "rUrl": "a1/a1-05-ordering-lunch",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "At the bakery",
+          "rUrl": "a1/a1-06-at-the-bakery",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Transport",
+          "rUrl": "transportCardsA1",
+          "img": "/img/dict/transport/transport.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "On the bus",
+          "rUrl": "a1/a1-07-on-the-bus",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "In the car",
+          "rUrl": "a1/a1-08-in-the-car",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Animals",
+          "rUrl": "animalsCardsA1",
+          "img": "/img/dict/animals/animals.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "At the zoo",
+          "rUrl": "a1/a1-09-at-the-zoo",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "At the playground",
+          "rUrl": "a1/a1-10-at-the-playground",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "At the airport",
+          "rUrl": "a1/a1-11-at-the-airport",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Packing for a trip",
+          "rUrl": "a1/a1-12-packing-for-a-trip",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "I feel sick",
+          "rUrl": "a1/a1-13-i-feel-sick",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Health",
+          "rUrl": "healthCardsA1",
+          "img": "/img/dict/health/health.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "At the doctor",
+          "rUrl": "a1/a1-14-at-the-doctor",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "School Things",
+          "rUrl": "schoolThingsCardsA1",
+          "img": "/img/dict/school/school.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "Let’s borrow a book",
+          "rUrl": "a1/a1-15-lets-borrow-a-book",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Return day",
+          "rUrl": "a1/a1-16-return-day",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Museum day",
+          "rUrl": "a1/a1-17-museum-day",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Hobbies",
+          "rUrl": "hobbiesCardsA1",
+          "img": "/img/dict/hobbies/hobbies.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "Art is cool",
+          "rUrl": "a1/a1-18-art-is-cool",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Time & Days",
+          "rUrl": "timeCardsA1",
+          "img": "/img/dict/time/time.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "It’s Christmas!",
+          "rUrl": "a1/a1-19-its-christmas",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Summer fun",
+          "rUrl": "a1/a1-20-summer-fun",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
@@ -88,45 +382,199 @@
       ]
     },
     {
-      "name": "In the City",
+      "name": "PART 3: People and Actions",
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "In the City"
+          "name": "Люди и действия"
         }
       ],
       "activities": [
         {
-          "name": "Places Around Town",
-          "rUrl": "a1/in_the_city/lesson-01",
+          "name": "What does she look like?",
+          "rUrl": "a1/a1-01-what-does-she-look-like",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
         },
         {
-          "name": "Asking for Directions",
-          "rUrl": "a1/in_the_city/lesson-02",
+          "name": "Who is tall?",
+          "rUrl": "a1/a1-02-who-is-tall",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
         },
         {
-          "name": "At the Restaurant",
-          "rUrl": "a1/in_the_city/lesson-03",
+          "name": "Getting dressed",
+          "rUrl": "a1/a1-03-getting-dressed",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
         },
         {
-          "name": "Shopping and Money",
-          "rUrl": "a1/in_the_city/lesson-04",
+          "name": "New shoes",
+          "rUrl": "a1/a1-04-new-shoes",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
         },
         {
-          "name": "Using Public Transport",
-          "rUrl": "a1/in_the_city/lesson-05",
+          "name": "Emotions",
+          "rUrl": "emotionsCardsA1",
+          "img": "/img/dict/emotions/emotions.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "I’m happy",
+          "rUrl": "a1/a1-05-im-happy",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Why are you sad?",
+          "rUrl": "a1/a1-06-why-are-you-sad",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Hobbies",
+          "rUrl": "hobbiesCardsA1",
+          "img": "/img/dict/hobbies/hobbies.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "I love music",
+          "rUrl": "a1/a1-07-i-love-music",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Weekend hobbies",
+          "rUrl": "a1/a1-08-weekend-hobbies",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Let’s play!",
+          "rUrl": "a1/a1-09-lets-play",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Football match",
+          "rUrl": "a1/a1-10-football-match",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Jobs",
+          "rUrl": "jobsCardsA1",
+          "img": "/img/dict/jobs/jobs.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "What’s your job?",
+          "rUrl": "a1/a1-11-whats-your-job",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "At the fire station",
+          "rUrl": "a1/a1-12-at-the-fire-station",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Pet day",
+          "rUrl": "a1/a1-13-pet-day",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Animals",
+          "rUrl": "animalsCardsA1",
+          "img": "/img/dict/animals/animals.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "In the jungle",
+          "rUrl": "a1/a1-14-in-the-jungle",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Weather",
+          "rUrl": "weatherCardsA1",
+          "img": "/img/dict/weather/weather.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "Let’s go outside",
+          "rUrl": "a1/a1-15-lets-go-outside",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "It’s raining",
+          "rUrl": "a1/a1-16-its-raining",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Body Parts",
+          "rUrl": "bodyCardsA1",
+          "img": "/img/dict/body/body.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "My leg hurts",
+          "rUrl": "a1/a1-17-my-leg-hurts",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Health",
+          "rUrl": "healthCardsA1",
+          "img": "/img/dict/health/health.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "Doctor check",
+          "rUrl": "a1/a1-18-doctor-check",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "I want a puppy",
+          "rUrl": "a1/a1-19-i-want-a-puppy",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Let’s go abroad",
+          "rUrl": "a1/a1-20-lets-go-abroad",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
@@ -134,38 +582,108 @@
       ]
     },
     {
-      "name": "School and Learning",
+      "name": "PART 4: Digital Life",
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "School and Learning"
+          "name": "Цифровая жизнь"
         }
       ],
       "activities": [
         {
-          "name": "In the Classroom",
-          "rUrl": "a1/school_and_learning/lesson-01",
+          "name": "Technology",
+          "rUrl": "techCardsA1",
+          "img": "/img/dict/tech/gadgets.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "I have a new phone",
+          "rUrl": "a1/a1-01-i-have-a-new-phone",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
         },
         {
-          "name": "School Subjects",
-          "rUrl": "a1/school_and_learning/lesson-02",
+          "name": "Where’s my tablet?",
+          "rUrl": "a1/a1-02-wheres-my-tablet",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
         },
         {
-          "name": "Talking to a Teacher",
-          "rUrl": "a1/school_and_learning/lesson-03",
+          "name": "Let’s take a photo",
+          "rUrl": "a1/a1-03-lets-take-a-photo",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
         },
         {
-          "name": "Making Plans",
-          "rUrl": "a1/school_and_learning/lesson-04",
+          "name": "Call me later",
+          "rUrl": "a1/a1-04-call-me-later",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "I’m online",
+          "rUrl": "a1/a1-05-im-online",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Let’s chat",
+          "rUrl": "a1/a1-06-lets-chat",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Toys and Games",
+          "rUrl": "toysCardsA1",
+          "img": "/img/dict/toys/toys.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "I love this game!",
+          "rUrl": "a1/a1-07-i-love-this-game",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Watching YouTube",
+          "rUrl": "a1/a1-08-watching-youtube",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Don’t click that!",
+          "rUrl": "a1/a1-09-dont-click-that",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Ask before you post",
+          "rUrl": "a1/a1-10-ask-before-you-post",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Let’s learn online",
+          "rUrl": "a1/a1-11-lets-learn-online",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Zoom class starts",
+          "rUrl": "a1/a1-12-zoom-class-starts",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
@@ -173,109 +691,192 @@
       ]
     },
     {
-      "name": "Time and Weather",
+      "name": "Talks",
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Time and Weather"
+          "name": "Бонусные уровни"
         }
       ],
       "activities": [
         {
-          "name": "Telling the Time",
-          "rUrl": "a1/time_and_weather/lesson-01",
+          "name": "Technology",
+          "rUrl": "techCardsA1",
+          "img": "/img/dict/tech/gadgets.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "Making a phone call",
+          "rUrl": "a1/a1-01-making-a-phone-call",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
         },
         {
-          "name": "Days and Months",
-          "rUrl": "a1/time_and_weather/lesson-02",
+          "name": "Asking for help",
+          "rUrl": "a1/a1-02-asking-for-help",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
         },
         {
-          "name": "Seasons and Weather",
-          "rUrl": "a1/time_and_weather/lesson-03",
+          "name": "Giving directions",
+          "rUrl": "a1/a1-03-giving-directions",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
         },
         {
-          "name": "Planning an Event",
-          "rUrl": "a1/time_and_weather/lesson-04",
-          "img": "/img/activity/dialog.png",
-          "aType": "Dialog",
-          "translates": []
-        }
-      ]
-    },
-    {
-      "name": "Health and Safety",
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Health and Safety"
-        }
-      ],
-      "activities": [
-        {
-          "name": "Talking about Feelings",
-          "rUrl": "a1/health_and_safety/lesson-01",
+          "name": "Describing your day",
+          "rUrl": "a1/a1-04-describing-your-day",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
         },
         {
-          "name": "At the Doctor",
-          "rUrl": "a1/health_and_safety/lesson-02",
+          "name": "Making plans",
+          "rUrl": "a1/a1-05-making-plans",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
         },
         {
-          "name": "Staying Safe",
-          "rUrl": "a1/health_and_safety/lesson-03",
+          "name": "Talking about the weekend",
+          "rUrl": "a1/a1-06-talking-about-the-weekend",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
         },
         {
-          "name": "Body and Health",
-          "rUrl": "a1/health_and_safety/lesson-04",
-          "img": "/img/activity/dialog.png",
-          "aType": "Dialog",
+          "name": "Food",
+          "rUrl": "foodCardsA1",
+          "img": "/img/dict/food/food.png",
+          "aType": "ListSwipe",
           "translates": []
-        }
-      ]
-    },
-    {
-      "name": "Review and Roleplay",
-      "translates": [
+        },
         {
-          "lang": "ru-RU",
-          "name": "Review and Roleplay"
-        }
-      ],
-      "activities": [
-        {
-          "name": "Practice Dialogues",
-          "rUrl": "a1/review_and_roleplay/lesson-01",
+          "name": "Talking about food",
+          "rUrl": "a1/a1-07-talking-about-food",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
         },
         {
-          "name": "Review Quiz",
-          "rUrl": "a1/review_and_roleplay/lesson-02",
+          "name": "Likes and dislikes",
+          "rUrl": "a1/a1-08-likes-and-dislikes",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []
         },
         {
-          "name": "Roleplay Scenarios",
-          "rUrl": "a1/review_and_roleplay/lesson-03",
+          "name": "Describing pictures",
+          "rUrl": "a1/a1-09-describing-pictures",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Toys and Games",
+          "rUrl": "toysCardsA1",
+          "img": "/img/dict/toys/toys.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "Guessing game",
+          "rUrl": "a1/a1-10-guessing-game",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Talking about past events",
+          "rUrl": "a1/a1-11-talking-about-past-events",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Rooms",
+          "rUrl": "roomsCardsA1",
+          "img": "/img/dict/home/rooms.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "Booking a room",
+          "rUrl": "a1/a1-12-booking-a-room",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Buying a ticket",
+          "rUrl": "a1/a1-13-buying-a-ticket",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "In a hotel",
+          "rUrl": "a1/a1-14-in-a-hotel",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "In an emergency",
+          "rUrl": "a1/a1-15-in-an-emergency",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "On the beach",
+          "rUrl": "a1/a1-16-on-the-beach",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Prepositions",
+          "rUrl": "prepositionsCardsA1",
+          "img": "/img/dict/prepositions/prepositions.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "Using a map",
+          "rUrl": "a1/a1-17-using-a-map",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Talking to a stranger",
+          "rUrl": "a1/a1-18-talking-to-a-stranger",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Countries",
+          "rUrl": "countriesCardsA1",
+          "img": "/img/dict/countries/countries.png",
+          "aType": "ListSwipe",
+          "translates": []
+        },
+        {
+          "name": "Introducing your country",
+          "rUrl": "a1/a1-19-introducing-your-country",
+          "img": "/img/activity/dialog.png",
+          "aType": "Dialog",
+          "translates": []
+        },
+        {
+          "name": "Simple storytelling",
+          "rUrl": "a1/a1-20-simple-storytelling",
           "img": "/img/activity/dialog.png",
           "aType": "Dialog",
           "translates": []

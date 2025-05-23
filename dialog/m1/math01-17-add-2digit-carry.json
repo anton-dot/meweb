@@ -1,0 +1,181 @@
+{
+  "name": "Add 2-Digit (With Carry)",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Сложение двузначных (с переносом)"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s learn how to add two-digit numbers with carrying.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Научимся складывать двузначные числа с переносом."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Okay! What’s different?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо! А что здесь по-другому?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Sometimes the ones go over 10, and we carry 1 to the tens.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Иногда единицы дают больше 10, и мы переносим 1 в десятки."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Try 47 + 36. Ones: 7 + 6 = 13. Keep 3, carry 1.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Попробуем 47 + 36. Единицы: 7 + 6 = 13. Оставляем 3, переносим 1."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Tens: 4 + 3 = 7, plus 1 = 8. So the answer is 83.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Десятки: 4 + 3 = 7, плюс 1 = 8. Ответ — 83."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Got it! 47 + 36 = 83.",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Понял! 47 + 36 = 83."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Now try 58 + 27. Ones: 8 + 7 = 15. Keep 5, carry 1.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь попробуй 58 + 27. Единицы: 8 + 7 = 15. Оставляем 5, переносим 1."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Tens: 5 + 2 = 7, plus 1 = 8. So, 85!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Десятки: 5 + 2 = 7, плюс 1 = 8. Значит, 85!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Correct! Now try 36 + 49.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Верно! А теперь 36 + 49."
+        }
+      ],
+      "actions": [
+        {
+          "name": "75",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "75"
+            }
+          ]
+        },
+        {
+          "name": "85",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "85"
+            }
+          ]
+        },
+        {
+          "name": "95",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "95"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great job! You can handle carrying now.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Ты умеешь складывать с переносом."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

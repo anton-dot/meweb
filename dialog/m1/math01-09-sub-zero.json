@@ -1,0 +1,181 @@
+{
+  "name": "Subtracting 0",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Вычитание нуля"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u"
+    }
+  ],
+  "items": [
+    {
+      "name": "Now let’s see what happens when we subtract 0.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А теперь давай посмотрим, что происходит при вычитании 0."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Does the number change?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Число меняется?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Good question. Let’s try with apples.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хороший вопрос. Давай попробуем с яблоками."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "You have 6 apples 🍎🍎🍎🍎🍎🍎. If we take away 0, how many are left?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "У тебя 6 яблок 🍎. Если мы уберём 0, сколько останется?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Still 6! Nothing changed!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Всё ещё 6! Ничего не изменилось!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Exactly! Subtracting 0 means nothing changes.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Именно! Если вычесть 0, ничего не меняется."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Now let’s try 9 - 0.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь попробуем 9 - 0."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "That’s easy! It’s 9!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это просто! 9!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Great! Now choose the correct answer.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! А теперь выбери правильный ответ."
+        }
+      ],
+      "actions": [
+        {
+          "name": "4",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "4"
+            }
+          ]
+        },
+        {
+          "name": "5",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "5"
+            }
+          ]
+        },
+        {
+          "name": "0",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yes! 5 - 0 = 5. Great job!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! 5 - 0 = 5. Отличная работа!"
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

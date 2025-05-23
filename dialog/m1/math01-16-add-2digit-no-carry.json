@@ -1,0 +1,181 @@
+{
+  "name": "Add 2-Digit (No Carry)",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Сложение двузначных (без переноса)"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u"
+    }
+  ],
+  "items": [
+    {
+      "name": "Now let’s add two-digit numbers without carrying.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь давай сложим двузначные числа без перехода через десяток."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Okay! Like 21 + 34?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо! Например, 21 + 34?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yes! First add the tens: 20 + 30 = 50.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! Сначала сложим десятки: 20 + 30 = 50."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Now add the ones: 1 + 4 = 5.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь складываем единицы: 1 + 4 = 5."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Then add both parts: 50 + 5 = 55.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Потом складываем части вместе: 50 + 5 = 55."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "So 21 + 34 = 55!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Значит, 21 + 34 = 55!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let’s try 42 + 15. First tens: 40 + 10 = 50. Then ones: 2 + 5 = 7.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Попробуем 42 + 15. Сначала десятки: 40 + 10 = 50. Потом единицы: 2 + 5 = 7."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "50 + 7 = 57!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "50 + 7 = 57!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Now your turn! What is 31 + 26?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь твоя очередь! Сколько будет 31 + 26?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "57",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "57"
+            }
+          ]
+        },
+        {
+          "name": "67",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "67"
+            }
+          ]
+        },
+        {
+          "name": "53",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "53"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Well done! That’s how we add 2-digit numbers without carrying.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Молодец! Вот так складываются двузначные числа без перехода через десяток."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

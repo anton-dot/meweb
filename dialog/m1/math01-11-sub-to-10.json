@@ -1,0 +1,193 @@
+{
+  "name": "Subtraction to 10",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Вычитание до 10"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s practice subtracting numbers up to 10.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай потренируемся вычитать числа до 10."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Okay! I’m ready!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо! Я готов!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "You have 9 balls 🟡. I take 4 away. How many are left?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "У тебя 9 мячей 🟡. Я убираю 4. Сколько останется?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "5!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "5!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "That’s right! 9 - 4 = 5",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правильно! 9 - 4 = 5"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Now try 7 - 3. Count back from 7: 6, 5, 4.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь попробуй 7 - 3. Считай назад от 7: 6, 5, 4."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "It’s 4!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это 4!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "One more. What is 10 - 6?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ещё один. Сколько будет 10 - 6?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Four!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Четыре!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Correct! Now choose the answer: What is 8 - 3?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правильно! Теперь выбери ответ: сколько будет 8 - 3?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "5",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "5"
+            }
+          ]
+        },
+        {
+          "name": "4",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "4"
+            }
+          ]
+        },
+        {
+          "name": "6",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great job! You're really getting subtraction!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отличная работа! У тебя отлично получается вычитать!"
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

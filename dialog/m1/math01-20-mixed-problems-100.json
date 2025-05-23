@@ -1,0 +1,181 @@
+{
+  "name": "Mixed Problems to 100",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Комбинированные задачи до 100"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s solve some real-life math problems with bigger numbers!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай решим задачи из жизни с двузначными числами!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I’m ready! Give me a story!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я готов! Дай задачу!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Lena had 42 coins. She got 36 more. How many now?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "У Лены было 42 монеты. Она получила ещё 36. Сколько теперь?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "42 + 36 = 78!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "42 + 36 = 78!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "A train goes 85 km. Then it goes 14 km more. Total distance?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Поезд проехал 85 км. Потом ещё 14 км. Сколько всего?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "85 + 14 = 99!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "85 + 14 = 99!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Max had 92 stickers. He gave 48 away. How many are left?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "У Макса было 92 наклейки. Он отдал 48. Сколько осталось?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "92 - 48 = 44!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "92 - 48 = 44!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Now solve: You had 65 candies, ate 18, got 12 more. How many now?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Реши: у тебя было 65 конфет, ты съел 18 и получил ещё 12. Сколько теперь?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "59",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "59"
+            }
+          ]
+        },
+        {
+          "name": "61",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "61"
+            }
+          ]
+        },
+        {
+          "name": "55",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "55"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amazing! You solved mixed problems like a pro!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Потрясающе! Ты решил комбинированную задачу как профессионал!"
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

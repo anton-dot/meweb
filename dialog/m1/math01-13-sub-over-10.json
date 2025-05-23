@@ -1,0 +1,181 @@
+{
+  "name": "Subtraction with Borrowing",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Вычитание через десяток"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u"
+    }
+  ],
+  "items": [
+    {
+      "name": "Now let’s learn subtraction through 10.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь научимся вычитать через десяток."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "What does that mean?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А что это значит?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "It means we go down to 10, then subtract the rest.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это значит: сначала доходим до 10, а потом вычитаем остальное."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Try 13 - 6. From 13 to 10 is 3, and then 3 more makes 6.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Попробуем 13 - 6. От 13 до 10 — это 3, потом ещё 3 — всего 6."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "So 13 - 6 = 7?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Значит, 13 - 6 = 7?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yes! We split the subtraction: 13 - 3 = 10, then 10 - 3 = 7.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! Мы разбили вычитание: 13 - 3 = 10, потом 10 - 3 = 7."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Now try 15 - 8. Split 8 into 5 and 3.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь попробуй 15 - 8. Раздели 8 на 5 и 3."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "15 - 5 = 10, then 10 - 3 = 7! It’s 7 again!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "15 - 5 = 10, потом 10 - 3 = 7! Снова 7!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Good! Now choose the right answer: What is 14 - 6?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо! Теперь выбери правильный ответ: сколько будет 14 - 6?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "8",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "8"
+            }
+          ]
+        },
+        {
+          "name": "7",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "7"
+            }
+          ]
+        },
+        {
+          "name": "9",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great work! You’re doing smart subtraction!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отличная работа! Ты вычитаешь с умом!"
+        }
+      ],
+      "actions": []
+    }
+  ]
+}
