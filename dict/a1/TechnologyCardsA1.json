@@ -1,0 +1,534 @@
+{
+  "name": "Technology",
+  "isRandom": true,
+  "isBlur": true,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 10,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Technology"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Technology"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "Technology"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "Technology"
+    },
+    {
+      "lang": "th-TH",
+      "name": "Technology"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Technology"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Technology"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Technology"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Technology"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Technology"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "phone",
+      "transcription": "[ph...]",
+      "image": "/img/dict/technology/phone.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "phone_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "phone_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "phone_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "phone_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "phone_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "phone_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "phone_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "phone_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "phone_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "phone_fr"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "tablet",
+      "transcription": "[ta...]",
+      "image": "/img/dict/technology/tablet.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "tablet_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "tablet_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "tablet_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "tablet_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "tablet_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "tablet_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "tablet_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "tablet_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "tablet_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "tablet_fr"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "computer",
+      "transcription": "[co...]",
+      "image": "/img/dict/technology/computer.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "computer_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "computer_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "computer_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "computer_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "computer_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "computer_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "computer_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "computer_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "computer_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "computer_fr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "keyboard",
+      "transcription": "[ke...]",
+      "image": "/img/dict/technology/keyboard.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "keyboard_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "keyboard_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "keyboard_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "keyboard_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "keyboard_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "keyboard_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "keyboard_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "keyboard_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "keyboard_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "keyboard_fr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "mouse",
+      "transcription": "[mo...]",
+      "image": "/img/dict/technology/mouse.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "mouse_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "mouse_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "mouse_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "mouse_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "mouse_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "mouse_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "mouse_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "mouse_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "mouse_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "mouse_fr"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "screen",
+      "transcription": "[sc...]",
+      "image": "/img/dict/technology/screen.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "screen_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "screen_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "screen_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "screen_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "screen_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "screen_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "screen_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "screen_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "screen_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "screen_fr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "charger",
+      "transcription": "[ch...]",
+      "image": "/img/dict/technology/charger.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "charger_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "charger_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "charger_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "charger_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "charger_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "charger_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "charger_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "charger_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "charger_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "charger_fr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "camera",
+      "transcription": "[ca...]",
+      "image": "/img/dict/technology/camera.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "camera_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "camera_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "camera_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "camera_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "camera_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "camera_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "camera_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "camera_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "camera_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "camera_fr"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "headphones",
+      "transcription": "[he...]",
+      "image": "/img/dict/technology/headphones.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "headphones_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "headphones_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "headphones_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "headphones_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "headphones_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "headphones_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "headphones_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "headphones_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "headphones_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "headphones_fr"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "internet",
+      "transcription": "[in...]",
+      "image": "/img/dict/technology/internet.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "internet_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "internet_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "internet_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "internet_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "internet_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "internet_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "internet_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "internet_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "internet_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "internet_fr"
+        }
+      ]
+    }
+  ]
+}

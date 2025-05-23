@@ -1,0 +1,534 @@
+{
+  "name": "Transport",
+  "isRandom": true,
+  "isBlur": true,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 10,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Transport"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Transport"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "Transport"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "Transport"
+    },
+    {
+      "lang": "th-TH",
+      "name": "Transport"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Transport"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Transport"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Transport"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Transport"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Transport"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "car",
+      "transcription": "[ca...]",
+      "image": "/img/dict/transport/car.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "car_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "car_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "car_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "car_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "car_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "car_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "car_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "car_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "car_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "car_fr"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "bus",
+      "transcription": "[bu...]",
+      "image": "/img/dict/transport/bus.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "bus_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "bus_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "bus_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "bus_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "bus_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "bus_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "bus_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "bus_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "bus_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "bus_fr"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "train",
+      "transcription": "[tr...]",
+      "image": "/img/dict/transport/train.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "train_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "train_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "train_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "train_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "train_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "train_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "train_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "train_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "train_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "train_fr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "bike",
+      "transcription": "[bi...]",
+      "image": "/img/dict/transport/bike.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "bike_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "bike_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "bike_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "bike_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "bike_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "bike_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "bike_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "bike_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "bike_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "bike_fr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "plane",
+      "transcription": "[pl...]",
+      "image": "/img/dict/transport/plane.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "plane_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "plane_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "plane_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "plane_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "plane_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "plane_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "plane_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "plane_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "plane_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "plane_fr"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "ship",
+      "transcription": "[sh...]",
+      "image": "/img/dict/transport/ship.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ship_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "ship_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "ship_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "ship_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ship_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "ship_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "ship_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "ship_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "ship_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "ship_fr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "subway",
+      "transcription": "[su...]",
+      "image": "/img/dict/transport/subway.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "subway_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "subway_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "subway_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "subway_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "subway_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "subway_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "subway_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "subway_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "subway_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "subway_fr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "taxi",
+      "transcription": "[ta...]",
+      "image": "/img/dict/transport/taxi.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "taxi_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "taxi_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "taxi_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "taxi_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "taxi_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "taxi_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "taxi_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "taxi_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "taxi_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "taxi_fr"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "truck",
+      "transcription": "[tr...]",
+      "image": "/img/dict/transport/truck.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "truck_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "truck_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "truck_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "truck_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "truck_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "truck_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "truck_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "truck_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "truck_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "truck_fr"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "motorcycle",
+      "transcription": "[mo...]",
+      "image": "/img/dict/transport/motorcycle.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "motorcycle_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "motorcycle_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "motorcycle_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "motorcycle_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "motorcycle_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "motorcycle_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "motorcycle_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "motorcycle_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "motorcycle_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "motorcycle_fr"
+        }
+      ]
+    }
+  ]
+}

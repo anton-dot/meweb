@@ -1,0 +1,534 @@
+{
+  "name": "Health",
+  "isRandom": true,
+  "isBlur": true,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 10,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Health"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Health"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "Health"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "Health"
+    },
+    {
+      "lang": "th-TH",
+      "name": "Health"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Health"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Health"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Health"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Health"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Health"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "doctor",
+      "transcription": "[do...]",
+      "image": "/img/dict/health/doctor.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "doctor_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "doctor_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "doctor_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "doctor_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "doctor_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "doctor_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "doctor_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "doctor_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "doctor_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "doctor_fr"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "nurse",
+      "transcription": "[nu...]",
+      "image": "/img/dict/health/nurse.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "nurse_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "nurse_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "nurse_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "nurse_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "nurse_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "nurse_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "nurse_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "nurse_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "nurse_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "nurse_fr"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "sick",
+      "transcription": "[si...]",
+      "image": "/img/dict/health/sick.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "sick_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "sick_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "sick_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "sick_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "sick_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "sick_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "sick_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "sick_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "sick_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "sick_fr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "cough",
+      "transcription": "[co...]",
+      "image": "/img/dict/health/cough.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "cough_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "cough_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "cough_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "cough_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "cough_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "cough_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "cough_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "cough_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "cough_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "cough_fr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "medicine",
+      "transcription": "[me...]",
+      "image": "/img/dict/health/medicine.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "medicine_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "medicine_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "medicine_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "medicine_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "medicine_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "medicine_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "medicine_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "medicine_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "medicine_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "medicine_fr"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "thermometer",
+      "transcription": "[th...]",
+      "image": "/img/dict/health/thermometer.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "thermometer_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "thermometer_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "thermometer_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "thermometer_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "thermometer_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "thermometer_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "thermometer_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "thermometer_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "thermometer_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "thermometer_fr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "headache",
+      "transcription": "[he...]",
+      "image": "/img/dict/health/headache.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "headache_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "headache_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "headache_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "headache_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "headache_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "headache_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "headache_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "headache_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "headache_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "headache_fr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "fever",
+      "transcription": "[fe...]",
+      "image": "/img/dict/health/fever.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "fever_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "fever_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "fever_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "fever_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "fever_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "fever_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "fever_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "fever_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "fever_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "fever_fr"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "toothache",
+      "transcription": "[to...]",
+      "image": "/img/dict/health/toothache.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "toothache_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "toothache_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "toothache_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "toothache_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "toothache_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "toothache_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "toothache_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "toothache_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "toothache_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "toothache_fr"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "clinic",
+      "transcription": "[cl...]",
+      "image": "/img/dict/health/clinic.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "clinic_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "clinic_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "clinic_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "clinic_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "clinic_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "clinic_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "clinic_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "clinic_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "clinic_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "clinic_fr"
+        }
+      ]
+    }
+  ]
+}

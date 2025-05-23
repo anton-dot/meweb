@@ -1,0 +1,534 @@
+{
+  "name": "Body Parts",
+  "isRandom": true,
+  "isBlur": true,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 10,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Body Parts"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Body Parts"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "Body Parts"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "Body Parts"
+    },
+    {
+      "lang": "th-TH",
+      "name": "Body Parts"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Body Parts"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Body Parts"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Body Parts"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Body Parts"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Body Parts"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "head",
+      "transcription": "[he...]",
+      "image": "/img/dict/body_parts/head.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "head_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "head_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "head_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "head_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "head_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "head_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "head_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "head_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "head_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "head_fr"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "eye",
+      "transcription": "[ey...]",
+      "image": "/img/dict/body_parts/eye.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "eye_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "eye_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "eye_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "eye_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "eye_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "eye_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "eye_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "eye_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "eye_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "eye_fr"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "ear",
+      "transcription": "[ea...]",
+      "image": "/img/dict/body_parts/ear.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ear_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "ear_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "ear_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "ear_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ear_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "ear_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "ear_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "ear_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "ear_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "ear_fr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "nose",
+      "transcription": "[no...]",
+      "image": "/img/dict/body_parts/nose.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "nose_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "nose_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "nose_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "nose_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "nose_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "nose_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "nose_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "nose_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "nose_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "nose_fr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "mouth",
+      "transcription": "[mo...]",
+      "image": "/img/dict/body_parts/mouth.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "mouth_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "mouth_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "mouth_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "mouth_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "mouth_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "mouth_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "mouth_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "mouth_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "mouth_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "mouth_fr"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "hand",
+      "transcription": "[ha...]",
+      "image": "/img/dict/body_parts/hand.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "hand_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "hand_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "hand_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "hand_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "hand_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "hand_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "hand_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "hand_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "hand_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "hand_fr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "arm",
+      "transcription": "[ar...]",
+      "image": "/img/dict/body_parts/arm.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "arm_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "arm_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "arm_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "arm_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "arm_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "arm_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "arm_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "arm_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "arm_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "arm_fr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "leg",
+      "transcription": "[le...]",
+      "image": "/img/dict/body_parts/leg.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "leg_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "leg_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "leg_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "leg_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "leg_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "leg_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "leg_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "leg_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "leg_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "leg_fr"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "foot",
+      "transcription": "[fo...]",
+      "image": "/img/dict/body_parts/foot.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "foot_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "foot_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "foot_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "foot_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "foot_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "foot_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "foot_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "foot_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "foot_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "foot_fr"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "stomach",
+      "transcription": "[st...]",
+      "image": "/img/dict/body_parts/stomach.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "stomach_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "stomach_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "stomach_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "stomach_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "stomach_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "stomach_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "stomach_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "stomach_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "stomach_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "stomach_fr"
+        }
+      ]
+    }
+  ]
+}

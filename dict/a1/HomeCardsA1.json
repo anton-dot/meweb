@@ -1,0 +1,534 @@
+{
+  "name": "Home",
+  "isRandom": true,
+  "isBlur": true,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 10,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Home"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Home"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "Home"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "Home"
+    },
+    {
+      "lang": "th-TH",
+      "name": "Home"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Home"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Home"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Home"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Home"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Home"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "kitchen",
+      "transcription": "[ki...]",
+      "image": "/img/dict/home/kitchen.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "kitchen_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "kitchen_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "kitchen_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "kitchen_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "kitchen_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "kitchen_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "kitchen_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "kitchen_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "kitchen_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "kitchen_fr"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "bedroom",
+      "transcription": "[be...]",
+      "image": "/img/dict/home/bedroom.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "bedroom_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "bedroom_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "bedroom_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "bedroom_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "bedroom_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "bedroom_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "bedroom_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "bedroom_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "bedroom_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "bedroom_fr"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "bathroom",
+      "transcription": "[ba...]",
+      "image": "/img/dict/home/bathroom.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "bathroom_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "bathroom_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "bathroom_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "bathroom_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "bathroom_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "bathroom_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "bathroom_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "bathroom_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "bathroom_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "bathroom_fr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "living room",
+      "transcription": "[li...]",
+      "image": "/img/dict/home/living room.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "living room_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "living room_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "living room_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "living room_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "living room_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "living room_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "living room_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "living room_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "living room_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "living room_fr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "window",
+      "transcription": "[wi...]",
+      "image": "/img/dict/home/window.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "window_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "window_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "window_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "window_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "window_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "window_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "window_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "window_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "window_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "window_fr"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "door",
+      "transcription": "[do...]",
+      "image": "/img/dict/home/door.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "door_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "door_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "door_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "door_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "door_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "door_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "door_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "door_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "door_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "door_fr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "bed",
+      "transcription": "[be...]",
+      "image": "/img/dict/home/bed.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "bed_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "bed_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "bed_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "bed_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "bed_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "bed_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "bed_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "bed_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "bed_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "bed_fr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "sofa",
+      "transcription": "[so...]",
+      "image": "/img/dict/home/sofa.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "sofa_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "sofa_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "sofa_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "sofa_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "sofa_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "sofa_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "sofa_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "sofa_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "sofa_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "sofa_fr"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "lamp",
+      "transcription": "[la...]",
+      "image": "/img/dict/home/lamp.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "lamp_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "lamp_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "lamp_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "lamp_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "lamp_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "lamp_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "lamp_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "lamp_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "lamp_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "lamp_fr"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "mirror",
+      "transcription": "[mi...]",
+      "image": "/img/dict/home/mirror.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "mirror_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "mirror_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "mirror_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "mirror_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "mirror_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "mirror_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "mirror_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "mirror_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "mirror_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "mirror_fr"
+        }
+      ]
+    }
+  ]
+}

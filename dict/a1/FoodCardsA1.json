@@ -1,0 +1,534 @@
+{
+  "name": "Food",
+  "isRandom": true,
+  "isBlur": true,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 10,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Food"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Food"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "Food"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "Food"
+    },
+    {
+      "lang": "th-TH",
+      "name": "Food"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Food"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Food"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Food"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Food"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Food"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "apple",
+      "transcription": "[ap...]",
+      "image": "/img/dict/food/apple.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "apple_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "apple_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "apple_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "apple_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "apple_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "apple_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "apple_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "apple_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "apple_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "apple_fr"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "bread",
+      "transcription": "[br...]",
+      "image": "/img/dict/food/bread.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "bread_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "bread_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "bread_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "bread_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "bread_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "bread_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "bread_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "bread_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "bread_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "bread_fr"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "cheese",
+      "transcription": "[ch...]",
+      "image": "/img/dict/food/cheese.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "cheese_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "cheese_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "cheese_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "cheese_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "cheese_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "cheese_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "cheese_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "cheese_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "cheese_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "cheese_fr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "milk",
+      "transcription": "[mi...]",
+      "image": "/img/dict/food/milk.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "milk_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "milk_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "milk_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "milk_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "milk_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "milk_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "milk_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "milk_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "milk_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "milk_fr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "water",
+      "transcription": "[wa...]",
+      "image": "/img/dict/food/water.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "water_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "water_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "water_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "water_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "water_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "water_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "water_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "water_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "water_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "water_fr"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "rice",
+      "transcription": "[ri...]",
+      "image": "/img/dict/food/rice.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "rice_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "rice_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "rice_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "rice_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "rice_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "rice_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "rice_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "rice_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "rice_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "rice_fr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "banana",
+      "transcription": "[ba...]",
+      "image": "/img/dict/food/banana.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "banana_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "banana_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "banana_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "banana_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "banana_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "banana_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "banana_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "banana_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "banana_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "banana_fr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "carrot",
+      "transcription": "[ca...]",
+      "image": "/img/dict/food/carrot.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "carrot_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "carrot_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "carrot_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "carrot_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "carrot_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "carrot_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "carrot_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "carrot_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "carrot_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "carrot_fr"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "egg",
+      "transcription": "[eg...]",
+      "image": "/img/dict/food/egg.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "egg_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "egg_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "egg_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "egg_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "egg_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "egg_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "egg_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "egg_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "egg_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "egg_fr"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "fish",
+      "transcription": "[fi...]",
+      "image": "/img/dict/food/fish.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "fish_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "fish_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "fish_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "fish_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "fish_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "fish_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "fish_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "fish_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "fish_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "fish_fr"
+        }
+      ]
+    }
+  ]
+}

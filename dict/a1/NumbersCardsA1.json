@@ -1,0 +1,534 @@
+{
+  "name": "Numbers",
+  "isRandom": true,
+  "isBlur": true,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 10,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Numbers"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Numbers"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "Numbers"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "Numbers"
+    },
+    {
+      "lang": "th-TH",
+      "name": "Numbers"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Numbers"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Numbers"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Numbers"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Numbers"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Numbers"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "one",
+      "transcription": "[on...]",
+      "image": "/img/dict/numbers/one.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "one_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "one_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "one_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "one_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "one_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "one_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "one_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "one_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "one_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "one_fr"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "two",
+      "transcription": "[tw...]",
+      "image": "/img/dict/numbers/two.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "two_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "two_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "two_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "two_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "two_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "two_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "two_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "two_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "two_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "two_fr"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "three",
+      "transcription": "[th...]",
+      "image": "/img/dict/numbers/three.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "three_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "three_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "three_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "three_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "three_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "three_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "three_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "three_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "three_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "three_fr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "four",
+      "transcription": "[fo...]",
+      "image": "/img/dict/numbers/four.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "four_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "four_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "four_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "four_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "four_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "four_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "four_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "four_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "four_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "four_fr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "five",
+      "transcription": "[fi...]",
+      "image": "/img/dict/numbers/five.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "five_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "five_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "five_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "five_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "five_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "five_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "five_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "five_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "five_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "five_fr"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "six",
+      "transcription": "[si...]",
+      "image": "/img/dict/numbers/six.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "six_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "six_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "six_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "six_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "six_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "six_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "six_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "six_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "six_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "six_fr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "seven",
+      "transcription": "[se...]",
+      "image": "/img/dict/numbers/seven.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "seven_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "seven_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "seven_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "seven_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "seven_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "seven_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "seven_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "seven_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "seven_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "seven_fr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "eight",
+      "transcription": "[ei...]",
+      "image": "/img/dict/numbers/eight.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "eight_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "eight_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "eight_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "eight_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "eight_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "eight_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "eight_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "eight_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "eight_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "eight_fr"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "nine",
+      "transcription": "[ni...]",
+      "image": "/img/dict/numbers/nine.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "nine_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "nine_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "nine_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "nine_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "nine_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "nine_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "nine_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "nine_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "nine_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "nine_fr"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "ten",
+      "transcription": "[te...]",
+      "image": "/img/dict/numbers/ten.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ten_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "ten_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "ten_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "ten_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ten_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "ten_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "ten_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "ten_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "ten_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "ten_fr"
+        }
+      ]
+    }
+  ]
+}

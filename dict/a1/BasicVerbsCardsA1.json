@@ -1,0 +1,534 @@
+{
+  "name": "Basic Verbs",
+  "isRandom": true,
+  "isBlur": true,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 10,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Basic Verbs"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Basic Verbs"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "Basic Verbs"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "Basic Verbs"
+    },
+    {
+      "lang": "th-TH",
+      "name": "Basic Verbs"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Basic Verbs"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Basic Verbs"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Basic Verbs"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Basic Verbs"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Basic Verbs"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "eat",
+      "transcription": "[ea...]",
+      "image": "/img/dict/basic_verbs/eat.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "eat_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "eat_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "eat_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "eat_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "eat_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "eat_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "eat_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "eat_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "eat_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "eat_fr"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "drink",
+      "transcription": "[dr...]",
+      "image": "/img/dict/basic_verbs/drink.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "drink_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "drink_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "drink_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "drink_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "drink_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "drink_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "drink_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "drink_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "drink_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "drink_fr"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "run",
+      "transcription": "[ru...]",
+      "image": "/img/dict/basic_verbs/run.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "run_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "run_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "run_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "run_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "run_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "run_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "run_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "run_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "run_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "run_fr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "walk",
+      "transcription": "[wa...]",
+      "image": "/img/dict/basic_verbs/walk.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "walk_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "walk_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "walk_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "walk_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "walk_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "walk_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "walk_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "walk_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "walk_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "walk_fr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "read",
+      "transcription": "[re...]",
+      "image": "/img/dict/basic_verbs/read.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "read_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "read_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "read_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "read_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "read_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "read_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "read_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "read_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "read_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "read_fr"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "write",
+      "transcription": "[wr...]",
+      "image": "/img/dict/basic_verbs/write.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "write_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "write_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "write_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "write_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "write_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "write_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "write_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "write_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "write_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "write_fr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "play",
+      "transcription": "[pl...]",
+      "image": "/img/dict/basic_verbs/play.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "play_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "play_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "play_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "play_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "play_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "play_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "play_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "play_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "play_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "play_fr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "sleep",
+      "transcription": "[sl...]",
+      "image": "/img/dict/basic_verbs/sleep.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "sleep_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "sleep_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "sleep_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "sleep_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "sleep_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "sleep_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "sleep_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "sleep_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "sleep_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "sleep_fr"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "jump",
+      "transcription": "[ju...]",
+      "image": "/img/dict/basic_verbs/jump.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "jump_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "jump_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "jump_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "jump_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "jump_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "jump_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "jump_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "jump_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "jump_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "jump_fr"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "sit",
+      "transcription": "[si...]",
+      "image": "/img/dict/basic_verbs/sit.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "sit_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "sit_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "sit_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "sit_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "sit_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "sit_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "sit_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "sit_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "sit_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "sit_fr"
+        }
+      ]
+    }
+  ]
+}

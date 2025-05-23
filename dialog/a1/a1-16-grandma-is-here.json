@@ -1,0 +1,279 @@
+{
+  "name": "Grandma is here",
+  "bg": "/img/story/bg/default.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "en-US",
+      "name": "Grandma is here"
+    },
+    {
+      "lang": "ru-RU",
+      "name": "[RU] Grandma is here"
+    }
+  ],
+  "items": [
+    {
+      "name": "Grandma is here - line 1",
+      "actor": "char19",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Grandma is here - line 1"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Grandma is here - line 1"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Grandma is here - line 2",
+      "actor": "char1",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Grandma is here - line 2"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Grandma is here - line 2"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Grandma is here - line 3",
+      "actor": "char6",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Grandma is here - line 3"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Grandma is here - line 3"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Grandma is here - line 4",
+      "actor": "char11",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Grandma is here - line 4"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Grandma is here - line 4"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Grandma is here - line 5",
+      "actor": "char19",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Grandma is here - line 5"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Grandma is here - line 5"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "char1",
+      "name": "Alex",
+      "image": "/img/story/npc/char1.png",
+      "s": "u"
+    },
+    {
+      "id": "char2",
+      "name": "Emma",
+      "image": "/img/story/npc/char2.png",
+      "s": "u"
+    },
+    {
+      "id": "char3",
+      "name": "Liam",
+      "image": "/img/story/npc/char3.png",
+      "s": "u"
+    },
+    {
+      "id": "char4",
+      "name": "Olivia",
+      "image": "/img/story/npc/char4.png",
+      "s": "u"
+    },
+    {
+      "id": "char5",
+      "name": "Noah",
+      "image": "/img/story/npc/char5.png",
+      "s": "u"
+    },
+    {
+      "id": "char6",
+      "name": "Ava",
+      "image": "/img/story/npc/char6.png",
+      "s": "u"
+    },
+    {
+      "id": "char7",
+      "name": "Ethan",
+      "image": "/img/story/npc/char7.png",
+      "s": "u"
+    },
+    {
+      "id": "char8",
+      "name": "Mia",
+      "image": "/img/story/npc/char8.png",
+      "s": "u"
+    },
+    {
+      "id": "char9",
+      "name": "James",
+      "image": "/img/story/npc/char9.png",
+      "s": "u"
+    },
+    {
+      "id": "char10",
+      "name": "Sofia",
+      "image": "/img/story/npc/char10.png",
+      "s": "u"
+    },
+    {
+      "id": "char11",
+      "name": "Logan",
+      "image": "/img/story/npc/char11.png",
+      "s": "u"
+    },
+    {
+      "id": "char12",
+      "name": "Isabella",
+      "image": "/img/story/npc/char12.png",
+      "s": "u"
+    },
+    {
+      "id": "char13",
+      "name": "Lucas",
+      "image": "/img/story/npc/char13.png",
+      "s": "u"
+    },
+    {
+      "id": "char14",
+      "name": "Amelia",
+      "image": "/img/story/npc/char14.png",
+      "s": "u"
+    },
+    {
+      "id": "char15",
+      "name": "Mason",
+      "image": "/img/story/npc/char15.png",
+      "s": "u"
+    },
+    {
+      "id": "char16",
+      "name": "Charlotte",
+      "image": "/img/story/npc/char16.png",
+      "s": "u"
+    },
+    {
+      "id": "char17",
+      "name": "Elijah",
+      "image": "/img/story/npc/char17.png",
+      "s": "u"
+    },
+    {
+      "id": "char18",
+      "name": "Harper",
+      "image": "/img/story/npc/char18.png",
+      "s": "u"
+    },
+    {
+      "id": "char19",
+      "name": "Oliver",
+      "image": "/img/story/npc/char19.png",
+      "s": "u"
+    },
+    {
+      "id": "char20",
+      "name": "Evelyn",
+      "image": "/img/story/npc/char20.png",
+      "s": "u"
+    },
+    {
+      "id": "char21",
+      "name": "Jacob",
+      "image": "/img/story/npc/char21.png",
+      "s": "u"
+    },
+    {
+      "id": "char22",
+      "name": "Abigail",
+      "image": "/img/story/npc/char22.png",
+      "s": "u"
+    },
+    {
+      "id": "char23",
+      "name": "William",
+      "image": "/img/story/npc/char23.png",
+      "s": "u"
+    },
+    {
+      "id": "char24",
+      "name": "Emily",
+      "image": "/img/story/npc/char24.png",
+      "s": "u"
+    },
+    {
+      "id": "char25",
+      "name": "Michael",
+      "image": "/img/story/npc/char25.png",
+      "s": "u"
+    },
+    {
+      "id": "char26",
+      "name": "Ella",
+      "image": "/img/story/npc/char26.png",
+      "s": "u"
+    },
+    {
+      "id": "char27",
+      "name": "Daniel",
+      "image": "/img/story/npc/char27.png",
+      "s": "u"
+    },
+    {
+      "id": "char28",
+      "name": "Lily",
+      "image": "/img/story/npc/char28.png",
+      "s": "u"
+    },
+    {
+      "id": "char29",
+      "name": "Henry",
+      "image": "/img/story/npc/char29.png",
+      "s": "u"
+    },
+    {
+      "id": "char30",
+      "name": "Zoe",
+      "image": "/img/story/npc/char30.png",
+      "s": "u"
+    }
+  ]
+}

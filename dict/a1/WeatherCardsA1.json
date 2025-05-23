@@ -1,0 +1,534 @@
+{
+  "name": "Weather",
+  "isRandom": true,
+  "isBlur": true,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 10,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Weather"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Weather"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "Weather"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "Weather"
+    },
+    {
+      "lang": "th-TH",
+      "name": "Weather"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Weather"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Weather"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Weather"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Weather"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Weather"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "sunny",
+      "transcription": "[su...]",
+      "image": "/img/dict/weather/sunny.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "sunny_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "sunny_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "sunny_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "sunny_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "sunny_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "sunny_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "sunny_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "sunny_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "sunny_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "sunny_fr"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "rainy",
+      "transcription": "[ra...]",
+      "image": "/img/dict/weather/rainy.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "rainy_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "rainy_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "rainy_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "rainy_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "rainy_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "rainy_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "rainy_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "rainy_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "rainy_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "rainy_fr"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "cloudy",
+      "transcription": "[cl...]",
+      "image": "/img/dict/weather/cloudy.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "cloudy_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "cloudy_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "cloudy_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "cloudy_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "cloudy_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "cloudy_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "cloudy_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "cloudy_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "cloudy_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "cloudy_fr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "snowy",
+      "transcription": "[sn...]",
+      "image": "/img/dict/weather/snowy.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "snowy_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "snowy_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "snowy_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "snowy_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "snowy_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "snowy_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "snowy_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "snowy_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "snowy_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "snowy_fr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "windy",
+      "transcription": "[wi...]",
+      "image": "/img/dict/weather/windy.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "windy_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "windy_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "windy_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "windy_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "windy_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "windy_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "windy_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "windy_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "windy_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "windy_fr"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "stormy",
+      "transcription": "[st...]",
+      "image": "/img/dict/weather/stormy.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "stormy_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "stormy_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "stormy_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "stormy_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "stormy_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "stormy_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "stormy_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "stormy_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "stormy_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "stormy_fr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "foggy",
+      "transcription": "[fo...]",
+      "image": "/img/dict/weather/foggy.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "foggy_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "foggy_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "foggy_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "foggy_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "foggy_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "foggy_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "foggy_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "foggy_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "foggy_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "foggy_fr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "hot",
+      "transcription": "[ho...]",
+      "image": "/img/dict/weather/hot.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "hot_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "hot_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "hot_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "hot_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "hot_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "hot_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "hot_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "hot_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "hot_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "hot_fr"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "cold",
+      "transcription": "[co...]",
+      "image": "/img/dict/weather/cold.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "cold_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "cold_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "cold_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "cold_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "cold_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "cold_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "cold_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "cold_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "cold_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "cold_fr"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "warm",
+      "transcription": "[wa...]",
+      "image": "/img/dict/weather/warm.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "warm_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "warm_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "warm_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "warm_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "warm_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "warm_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "warm_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "warm_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "warm_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "warm_fr"
+        }
+      ]
+    }
+  ]
+}

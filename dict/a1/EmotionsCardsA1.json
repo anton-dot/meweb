@@ -1,0 +1,534 @@
+{
+  "name": "Emotions",
+  "isRandom": true,
+  "isBlur": true,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 10,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Emotions"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Emotions"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "Emotions"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "Emotions"
+    },
+    {
+      "lang": "th-TH",
+      "name": "Emotions"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Emotions"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Emotions"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Emotions"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Emotions"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Emotions"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "happy",
+      "transcription": "[ha...]",
+      "image": "/img/dict/emotions/happy.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "happy_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "happy_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "happy_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "happy_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "happy_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "happy_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "happy_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "happy_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "happy_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "happy_fr"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "sad",
+      "transcription": "[sa...]",
+      "image": "/img/dict/emotions/sad.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "sad_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "sad_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "sad_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "sad_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "sad_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "sad_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "sad_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "sad_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "sad_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "sad_fr"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "angry",
+      "transcription": "[an...]",
+      "image": "/img/dict/emotions/angry.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "angry_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "angry_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "angry_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "angry_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "angry_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "angry_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "angry_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "angry_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "angry_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "angry_fr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "tired",
+      "transcription": "[ti...]",
+      "image": "/img/dict/emotions/tired.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "tired_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "tired_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "tired_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "tired_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "tired_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "tired_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "tired_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "tired_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "tired_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "tired_fr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "scared",
+      "transcription": "[sc...]",
+      "image": "/img/dict/emotions/scared.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "scared_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "scared_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "scared_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "scared_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "scared_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "scared_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "scared_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "scared_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "scared_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "scared_fr"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "surprised",
+      "transcription": "[su...]",
+      "image": "/img/dict/emotions/surprised.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "surprised_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "surprised_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "surprised_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "surprised_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "surprised_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "surprised_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "surprised_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "surprised_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "surprised_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "surprised_fr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "bored",
+      "transcription": "[bo...]",
+      "image": "/img/dict/emotions/bored.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "bored_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "bored_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "bored_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "bored_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "bored_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "bored_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "bored_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "bored_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "bored_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "bored_fr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "excited",
+      "transcription": "[ex...]",
+      "image": "/img/dict/emotions/excited.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "excited_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "excited_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "excited_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "excited_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "excited_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "excited_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "excited_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "excited_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "excited_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "excited_fr"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "worried",
+      "transcription": "[wo...]",
+      "image": "/img/dict/emotions/worried.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "worried_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "worried_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "worried_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "worried_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "worried_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "worried_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "worried_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "worried_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "worried_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "worried_fr"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "calm",
+      "transcription": "[ca...]",
+      "image": "/img/dict/emotions/calm.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "calm_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "calm_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "calm_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "calm_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "calm_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "calm_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "calm_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "calm_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "calm_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "calm_fr"
+        }
+      ]
+    }
+  ]
+}

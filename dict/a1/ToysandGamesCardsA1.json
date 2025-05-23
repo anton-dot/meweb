@@ -1,0 +1,534 @@
+{
+  "name": "Toys and Games",
+  "isRandom": true,
+  "isBlur": true,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 10,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Toys and Games"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Toys and Games"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "Toys and Games"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "Toys and Games"
+    },
+    {
+      "lang": "th-TH",
+      "name": "Toys and Games"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Toys and Games"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Toys and Games"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Toys and Games"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Toys and Games"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Toys and Games"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "ball",
+      "transcription": "[ba...]",
+      "image": "/img/dict/toys_and_games/ball.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ball_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "ball_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "ball_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "ball_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ball_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "ball_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "ball_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "ball_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "ball_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "ball_fr"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "doll",
+      "transcription": "[do...]",
+      "image": "/img/dict/toys_and_games/doll.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "doll_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "doll_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "doll_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "doll_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "doll_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "doll_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "doll_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "doll_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "doll_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "doll_fr"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "car",
+      "transcription": "[ca...]",
+      "image": "/img/dict/toys_and_games/car.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "car_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "car_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "car_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "car_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "car_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "car_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "car_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "car_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "car_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "car_fr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "puzzle",
+      "transcription": "[pu...]",
+      "image": "/img/dict/toys_and_games/puzzle.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "puzzle_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "puzzle_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "puzzle_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "puzzle_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "puzzle_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "puzzle_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "puzzle_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "puzzle_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "puzzle_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "puzzle_fr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "blocks",
+      "transcription": "[bl...]",
+      "image": "/img/dict/toys_and_games/blocks.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "blocks_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "blocks_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "blocks_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "blocks_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "blocks_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "blocks_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "blocks_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "blocks_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "blocks_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "blocks_fr"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "teddy bear",
+      "transcription": "[te...]",
+      "image": "/img/dict/toys_and_games/teddy bear.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "teddy bear_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "teddy bear_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "teddy bear_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "teddy bear_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "teddy bear_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "teddy bear_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "teddy bear_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "teddy bear_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "teddy bear_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "teddy bear_fr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "train",
+      "transcription": "[tr...]",
+      "image": "/img/dict/toys_and_games/train.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "train_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "train_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "train_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "train_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "train_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "train_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "train_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "train_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "train_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "train_fr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "kite",
+      "transcription": "[ki...]",
+      "image": "/img/dict/toys_and_games/kite.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "kite_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "kite_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "kite_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "kite_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "kite_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "kite_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "kite_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "kite_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "kite_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "kite_fr"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "robot",
+      "transcription": "[ro...]",
+      "image": "/img/dict/toys_and_games/robot.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "robot_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "robot_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "robot_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "robot_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "robot_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "robot_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "robot_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "robot_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "robot_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "robot_fr"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "yo-yo",
+      "transcription": "[yo...]",
+      "image": "/img/dict/toys_and_games/yo-yo.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "yo-yo_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "yo-yo_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "yo-yo_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "yo-yo_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "yo-yo_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "yo-yo_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "yo-yo_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "yo-yo_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "yo-yo_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "yo-yo_fr"
+        }
+      ]
+    }
+  ]
+}

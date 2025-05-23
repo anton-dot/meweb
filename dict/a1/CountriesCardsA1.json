@@ -1,0 +1,534 @@
+{
+  "name": "Countries",
+  "isRandom": true,
+  "isBlur": true,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 10,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Countries"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Countries"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "Countries"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "Countries"
+    },
+    {
+      "lang": "th-TH",
+      "name": "Countries"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Countries"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Countries"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Countries"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Countries"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Countries"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "USA",
+      "transcription": "[US...]",
+      "image": "/img/dict/countries/USA.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "USA_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "USA_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "USA_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "USA_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "USA_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "USA_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "USA_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "USA_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "USA_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "USA_fr"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "UK",
+      "transcription": "[UK...]",
+      "image": "/img/dict/countries/UK.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "UK_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "UK_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "UK_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "UK_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "UK_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "UK_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "UK_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "UK_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "UK_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "UK_fr"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "France",
+      "transcription": "[Fr...]",
+      "image": "/img/dict/countries/France.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "France_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "France_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "France_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "France_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "France_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "France_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "France_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "France_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "France_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "France_fr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Germany",
+      "transcription": "[Ge...]",
+      "image": "/img/dict/countries/Germany.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Germany_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Germany_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "Germany_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "Germany_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "Germany_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Germany_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Germany_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Germany_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Germany_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Germany_fr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "China",
+      "transcription": "[Ch...]",
+      "image": "/img/dict/countries/China.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "China_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "China_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "China_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "China_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "China_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "China_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "China_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "China_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "China_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "China_fr"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "India",
+      "transcription": "[In...]",
+      "image": "/img/dict/countries/India.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "India_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "India_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "India_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "India_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "India_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "India_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "India_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "India_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "India_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "India_fr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Brazil",
+      "transcription": "[Br...]",
+      "image": "/img/dict/countries/Brazil.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Brazil_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Brazil_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "Brazil_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "Brazil_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "Brazil_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Brazil_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Brazil_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Brazil_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Brazil_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Brazil_fr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Russia",
+      "transcription": "[Ru...]",
+      "image": "/img/dict/countries/Russia.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Russia_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Russia_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "Russia_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "Russia_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "Russia_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Russia_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Russia_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Russia_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Russia_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Russia_fr"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Japan",
+      "transcription": "[Ja...]",
+      "image": "/img/dict/countries/Japan.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Japan_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Japan_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "Japan_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "Japan_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "Japan_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Japan_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Japan_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Japan_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Japan_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Japan_fr"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Italy",
+      "transcription": "[It...]",
+      "image": "/img/dict/countries/Italy.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Italy_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Italy_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "Italy_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "Italy_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "Italy_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Italy_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Italy_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Italy_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Italy_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Italy_fr"
+        }
+      ]
+    }
+  ]
+}

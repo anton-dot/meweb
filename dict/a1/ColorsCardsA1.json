@@ -1,0 +1,534 @@
+{
+  "name": "Colors",
+  "isRandom": true,
+  "isBlur": true,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 10,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Colors"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Colors"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "Colors"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "Colors"
+    },
+    {
+      "lang": "th-TH",
+      "name": "Colors"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Colors"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Colors"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Colors"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Colors"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Colors"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "red",
+      "transcription": "[re...]",
+      "image": "/img/dict/colors/red.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "red_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "red_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "red_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "red_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "red_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "red_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "red_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "red_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "red_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "red_fr"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "blue",
+      "transcription": "[bl...]",
+      "image": "/img/dict/colors/blue.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "blue_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "blue_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "blue_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "blue_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "blue_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "blue_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "blue_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "blue_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "blue_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "blue_fr"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "green",
+      "transcription": "[gr...]",
+      "image": "/img/dict/colors/green.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "green_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "green_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "green_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "green_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "green_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "green_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "green_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "green_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "green_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "green_fr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "yellow",
+      "transcription": "[ye...]",
+      "image": "/img/dict/colors/yellow.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "yellow_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "yellow_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "yellow_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "yellow_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "yellow_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "yellow_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "yellow_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "yellow_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "yellow_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "yellow_fr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "black",
+      "transcription": "[bl...]",
+      "image": "/img/dict/colors/black.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "black_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "black_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "black_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "black_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "black_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "black_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "black_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "black_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "black_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "black_fr"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "white",
+      "transcription": "[wh...]",
+      "image": "/img/dict/colors/white.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "white_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "white_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "white_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "white_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "white_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "white_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "white_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "white_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "white_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "white_fr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "pink",
+      "transcription": "[pi...]",
+      "image": "/img/dict/colors/pink.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "pink_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "pink_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "pink_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "pink_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "pink_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "pink_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "pink_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "pink_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "pink_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "pink_fr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "orange",
+      "transcription": "[or...]",
+      "image": "/img/dict/colors/orange.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "orange_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "orange_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "orange_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "orange_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "orange_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "orange_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "orange_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "orange_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "orange_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "orange_fr"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "purple",
+      "transcription": "[pu...]",
+      "image": "/img/dict/colors/purple.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "purple_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "purple_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "purple_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "purple_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "purple_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "purple_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "purple_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "purple_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "purple_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "purple_fr"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "brown",
+      "transcription": "[br...]",
+      "image": "/img/dict/colors/brown.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "brown_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "brown_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "brown_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "brown_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "brown_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "brown_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "brown_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "brown_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "brown_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "brown_fr"
+        }
+      ]
+    }
+  ]
+}

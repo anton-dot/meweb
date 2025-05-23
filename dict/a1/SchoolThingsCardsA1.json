@@ -1,0 +1,534 @@
+{
+  "name": "School Things",
+  "isRandom": true,
+  "isBlur": true,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 10,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "School Things"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "School Things"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "School Things"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "School Things"
+    },
+    {
+      "lang": "th-TH",
+      "name": "School Things"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "School Things"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "School Things"
+    },
+    {
+      "lang": "de-DE",
+      "name": "School Things"
+    },
+    {
+      "lang": "id-ID",
+      "name": "School Things"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "School Things"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "book",
+      "transcription": "[bo...]",
+      "image": "/img/dict/school_things/book.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "book_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "book_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "book_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "book_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "book_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "book_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "book_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "book_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "book_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "book_fr"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "pen",
+      "transcription": "[pe...]",
+      "image": "/img/dict/school_things/pen.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "pen_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "pen_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "pen_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "pen_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "pen_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "pen_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "pen_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "pen_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "pen_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "pen_fr"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "pencil",
+      "transcription": "[pe...]",
+      "image": "/img/dict/school_things/pencil.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "pencil_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "pencil_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "pencil_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "pencil_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "pencil_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "pencil_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "pencil_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "pencil_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "pencil_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "pencil_fr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "eraser",
+      "transcription": "[er...]",
+      "image": "/img/dict/school_things/eraser.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "eraser_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "eraser_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "eraser_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "eraser_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "eraser_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "eraser_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "eraser_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "eraser_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "eraser_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "eraser_fr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "bag",
+      "transcription": "[ba...]",
+      "image": "/img/dict/school_things/bag.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "bag_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "bag_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "bag_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "bag_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "bag_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "bag_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "bag_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "bag_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "bag_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "bag_fr"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "ruler",
+      "transcription": "[ru...]",
+      "image": "/img/dict/school_things/ruler.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ruler_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "ruler_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "ruler_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "ruler_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ruler_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "ruler_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "ruler_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "ruler_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "ruler_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "ruler_fr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "desk",
+      "transcription": "[de...]",
+      "image": "/img/dict/school_things/desk.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "desk_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "desk_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "desk_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "desk_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "desk_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "desk_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "desk_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "desk_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "desk_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "desk_fr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "chair",
+      "transcription": "[ch...]",
+      "image": "/img/dict/school_things/chair.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "chair_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "chair_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "chair_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "chair_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "chair_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "chair_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "chair_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "chair_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "chair_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "chair_fr"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "notebook",
+      "transcription": "[no...]",
+      "image": "/img/dict/school_things/notebook.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "notebook_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "notebook_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "notebook_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "notebook_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "notebook_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "notebook_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "notebook_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "notebook_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "notebook_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "notebook_fr"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "scissors",
+      "transcription": "[sc...]",
+      "image": "/img/dict/school_things/scissors.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "scissors_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "scissors_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "scissors_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "scissors_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "scissors_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "scissors_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "scissors_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "scissors_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "scissors_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "scissors_fr"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,534 @@
+{
+  "name": "Time & Days",
+  "isRandom": true,
+  "isBlur": true,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 10,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Time & Days"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Time & Days"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "Time & Days"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "Time & Days"
+    },
+    {
+      "lang": "th-TH",
+      "name": "Time & Days"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Time & Days"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Time & Days"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Time & Days"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Time & Days"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Time & Days"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "morning",
+      "transcription": "[mo...]",
+      "image": "/img/dict/time_&_days/morning.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "morning_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "morning_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "morning_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "morning_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "morning_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "morning_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "morning_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "morning_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "morning_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "morning_fr"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "afternoon",
+      "transcription": "[af...]",
+      "image": "/img/dict/time_&_days/afternoon.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "afternoon_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "afternoon_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "afternoon_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "afternoon_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "afternoon_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "afternoon_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "afternoon_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "afternoon_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "afternoon_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "afternoon_fr"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "evening",
+      "transcription": "[ev...]",
+      "image": "/img/dict/time_&_days/evening.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "evening_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "evening_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "evening_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "evening_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "evening_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "evening_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "evening_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "evening_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "evening_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "evening_fr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "night",
+      "transcription": "[ni...]",
+      "image": "/img/dict/time_&_days/night.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "night_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "night_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "night_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "night_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "night_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "night_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "night_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "night_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "night_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "night_fr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "today",
+      "transcription": "[to...]",
+      "image": "/img/dict/time_&_days/today.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "today_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "today_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "today_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "today_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "today_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "today_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "today_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "today_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "today_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "today_fr"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "tomorrow",
+      "transcription": "[to...]",
+      "image": "/img/dict/time_&_days/tomorrow.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "tomorrow_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "tomorrow_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "tomorrow_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "tomorrow_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "tomorrow_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "tomorrow_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "tomorrow_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "tomorrow_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "tomorrow_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "tomorrow_fr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "yesterday",
+      "transcription": "[ye...]",
+      "image": "/img/dict/time_&_days/yesterday.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "yesterday_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "yesterday_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "yesterday_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "yesterday_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "yesterday_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "yesterday_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "yesterday_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "yesterday_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "yesterday_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "yesterday_fr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Monday",
+      "transcription": "[Mo...]",
+      "image": "/img/dict/time_&_days/Monday.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Monday_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Monday_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "Monday_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "Monday_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "Monday_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Monday_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Monday_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Monday_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Monday_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Monday_fr"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "weekend",
+      "transcription": "[we...]",
+      "image": "/img/dict/time_&_days/weekend.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "weekend_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "weekend_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "weekend_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "weekend_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "weekend_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "weekend_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "weekend_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "weekend_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "weekend_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "weekend_fr"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "clock",
+      "transcription": "[cl...]",
+      "image": "/img/dict/time_&_days/clock.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "clock_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "clock_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "clock_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "clock_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "clock_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "clock_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "clock_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "clock_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "clock_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "clock_fr"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,483 @@
+{
+  "name": "Zoom class starts",
+  "bg": "/img/story/bg/default.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "en-US",
+      "name": "Zoom class starts"
+    },
+    {
+      "lang": "ru-RU",
+      "name": "[RU] Zoom class starts"
+    }
+  ],
+  "items": [
+    {
+      "name": "What do you want to eat?",
+      "actor": "char8",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "What do you want to eat?"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] What do you want to eat?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Pizza",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "en-US",
+              "name": "Pizza"
+            },
+            {
+              "lang": "ru-RU",
+              "name": "[RU] Pizza"
+            }
+          ]
+        },
+        {
+          "name": "Ice cream",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "en-US",
+              "name": "Ice cream"
+            },
+            {
+              "lang": "ru-RU",
+              "name": "[RU] Ice cream"
+            }
+          ]
+        },
+        {
+          "name": "Soup",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "en-US",
+              "name": "Soup"
+            },
+            {
+              "lang": "ru-RU",
+              "name": "[RU] Soup"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zoom class starts - line 2",
+      "actor": "char27",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Zoom class starts - line 2"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Zoom class starts - line 2"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Zoom class starts - line 3",
+      "actor": "char10",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Zoom class starts - line 3"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Zoom class starts - line 3"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Zoom class starts - line 4",
+      "actor": "char18",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Zoom class starts - line 4"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Zoom class starts - line 4"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Zoom class starts - line 5",
+      "actor": "char14",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Zoom class starts - line 5"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Zoom class starts - line 5"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Zoom class starts - line 6",
+      "actor": "char27",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Zoom class starts - line 6"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Zoom class starts - line 6"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Zoom class starts - line 7",
+      "actor": "char14",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Zoom class starts - line 7"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Zoom class starts - line 7"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "What color is this?",
+      "actor": "char28",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "What color is this?"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] What color is this?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Red",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "en-US",
+              "name": "Red"
+            },
+            {
+              "lang": "ru-RU",
+              "name": "[RU] Red"
+            }
+          ]
+        },
+        {
+          "name": "Blue",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "en-US",
+              "name": "Blue"
+            },
+            {
+              "lang": "ru-RU",
+              "name": "[RU] Blue"
+            }
+          ]
+        },
+        {
+          "name": "Yellow",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "en-US",
+              "name": "Yellow"
+            },
+            {
+              "lang": "ru-RU",
+              "name": "[RU] Yellow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zoom class starts - line 9",
+      "actor": "char14",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Zoom class starts - line 9"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Zoom class starts - line 9"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Zoom class starts - line 10",
+      "actor": "char11",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Zoom class starts - line 10"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Zoom class starts - line 10"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Zoom class starts - line 11",
+      "actor": "char4",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Zoom class starts - line 11"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Zoom class starts - line 11"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Zoom class starts - line 12",
+      "actor": "char1",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Zoom class starts - line 12"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Zoom class starts - line 12"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "char1",
+      "name": "Alex",
+      "image": "/img/story/npc/char1.png",
+      "s": "u"
+    },
+    {
+      "id": "char2",
+      "name": "Emma",
+      "image": "/img/story/npc/char2.png",
+      "s": "u"
+    },
+    {
+      "id": "char3",
+      "name": "Liam",
+      "image": "/img/story/npc/char3.png",
+      "s": "u"
+    },
+    {
+      "id": "char4",
+      "name": "Olivia",
+      "image": "/img/story/npc/char4.png",
+      "s": "u"
+    },
+    {
+      "id": "char5",
+      "name": "Noah",
+      "image": "/img/story/npc/char5.png",
+      "s": "u"
+    },
+    {
+      "id": "char6",
+      "name": "Ava",
+      "image": "/img/story/npc/char6.png",
+      "s": "u"
+    },
+    {
+      "id": "char7",
+      "name": "Ethan",
+      "image": "/img/story/npc/char7.png",
+      "s": "u"
+    },
+    {
+      "id": "char8",
+      "name": "Mia",
+      "image": "/img/story/npc/char8.png",
+      "s": "u"
+    },
+    {
+      "id": "char9",
+      "name": "James",
+      "image": "/img/story/npc/char9.png",
+      "s": "u"
+    },
+    {
+      "id": "char10",
+      "name": "Sofia",
+      "image": "/img/story/npc/char10.png",
+      "s": "u"
+    },
+    {
+      "id": "char11",
+      "name": "Logan",
+      "image": "/img/story/npc/char11.png",
+      "s": "u"
+    },
+    {
+      "id": "char12",
+      "name": "Isabella",
+      "image": "/img/story/npc/char12.png",
+      "s": "u"
+    },
+    {
+      "id": "char13",
+      "name": "Lucas",
+      "image": "/img/story/npc/char13.png",
+      "s": "u"
+    },
+    {
+      "id": "char14",
+      "name": "Amelia",
+      "image": "/img/story/npc/char14.png",
+      "s": "u"
+    },
+    {
+      "id": "char15",
+      "name": "Mason",
+      "image": "/img/story/npc/char15.png",
+      "s": "u"
+    },
+    {
+      "id": "char16",
+      "name": "Charlotte",
+      "image": "/img/story/npc/char16.png",
+      "s": "u"
+    },
+    {
+      "id": "char17",
+      "name": "Elijah",
+      "image": "/img/story/npc/char17.png",
+      "s": "u"
+    },
+    {
+      "id": "char18",
+      "name": "Harper",
+      "image": "/img/story/npc/char18.png",
+      "s": "u"
+    },
+    {
+      "id": "char19",
+      "name": "Oliver",
+      "image": "/img/story/npc/char19.png",
+      "s": "u"
+    },
+    {
+      "id": "char20",
+      "name": "Evelyn",
+      "image": "/img/story/npc/char20.png",
+      "s": "u"
+    },
+    {
+      "id": "char21",
+      "name": "Jacob",
+      "image": "/img/story/npc/char21.png",
+      "s": "u"
+    },
+    {
+      "id": "char22",
+      "name": "Abigail",
+      "image": "/img/story/npc/char22.png",
+      "s": "u"
+    },
+    {
+      "id": "char23",
+      "name": "William",
+      "image": "/img/story/npc/char23.png",
+      "s": "u"
+    },
+    {
+      "id": "char24",
+      "name": "Emily",
+      "image": "/img/story/npc/char24.png",
+      "s": "u"
+    },
+    {
+      "id": "char25",
+      "name": "Michael",
+      "image": "/img/story/npc/char25.png",
+      "s": "u"
+    },
+    {
+      "id": "char26",
+      "name": "Ella",
+      "image": "/img/story/npc/char26.png",
+      "s": "u"
+    },
+    {
+      "id": "char27",
+      "name": "Daniel",
+      "image": "/img/story/npc/char27.png",
+      "s": "u"
+    },
+    {
+      "id": "char28",
+      "name": "Lily",
+      "image": "/img/story/npc/char28.png",
+      "s": "u"
+    },
+    {
+      "id": "char29",
+      "name": "Henry",
+      "image": "/img/story/npc/char29.png",
+      "s": "u"
+    },
+    {
+      "id": "char30",
+      "name": "Zoe",
+      "image": "/img/story/npc/char30.png",
+      "s": "u"
+    }
+  ]
+}

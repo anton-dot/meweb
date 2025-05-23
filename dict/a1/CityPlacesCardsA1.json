@@ -1,0 +1,534 @@
+{
+  "name": "City Places",
+  "isRandom": true,
+  "isBlur": true,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 10,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "City Places"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "City Places"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "City Places"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "City Places"
+    },
+    {
+      "lang": "th-TH",
+      "name": "City Places"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "City Places"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "City Places"
+    },
+    {
+      "lang": "de-DE",
+      "name": "City Places"
+    },
+    {
+      "lang": "id-ID",
+      "name": "City Places"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "City Places"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "school",
+      "transcription": "[sc...]",
+      "image": "/img/dict/city_places/school.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "school_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "school_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "school_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "school_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "school_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "school_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "school_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "school_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "school_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "school_fr"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "hospital",
+      "transcription": "[ho...]",
+      "image": "/img/dict/city_places/hospital.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "hospital_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "hospital_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "hospital_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "hospital_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "hospital_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "hospital_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "hospital_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "hospital_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "hospital_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "hospital_fr"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "library",
+      "transcription": "[li...]",
+      "image": "/img/dict/city_places/library.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "library_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "library_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "library_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "library_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "library_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "library_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "library_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "library_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "library_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "library_fr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "shop",
+      "transcription": "[sh...]",
+      "image": "/img/dict/city_places/shop.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "shop_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "shop_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "shop_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "shop_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "shop_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "shop_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "shop_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "shop_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "shop_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "shop_fr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "bank",
+      "transcription": "[ba...]",
+      "image": "/img/dict/city_places/bank.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "bank_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "bank_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "bank_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "bank_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "bank_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "bank_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "bank_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "bank_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "bank_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "bank_fr"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "police",
+      "transcription": "[po...]",
+      "image": "/img/dict/city_places/police.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "police_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "police_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "police_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "police_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "police_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "police_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "police_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "police_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "police_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "police_fr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "park",
+      "transcription": "[pa...]",
+      "image": "/img/dict/city_places/park.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "park_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "park_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "park_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "park_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "park_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "park_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "park_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "park_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "park_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "park_fr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "cafe",
+      "transcription": "[ca...]",
+      "image": "/img/dict/city_places/cafe.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "cafe_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "cafe_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "cafe_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "cafe_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "cafe_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "cafe_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "cafe_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "cafe_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "cafe_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "cafe_fr"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "zoo",
+      "transcription": "[zo...]",
+      "image": "/img/dict/city_places/zoo.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "zoo_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "zoo_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "zoo_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "zoo_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "zoo_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "zoo_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "zoo_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "zoo_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "zoo_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "zoo_fr"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "station",
+      "transcription": "[st...]",
+      "image": "/img/dict/city_places/station.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "station_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "station_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "station_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "station_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "station_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "station_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "station_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "station_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "station_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "station_fr"
+        }
+      ]
+    }
+  ]
+}

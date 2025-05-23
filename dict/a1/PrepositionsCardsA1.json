@@ -1,0 +1,534 @@
+{
+  "name": "Prepositions",
+  "isRandom": true,
+  "isBlur": true,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 10,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Prepositions"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Prepositions"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "Prepositions"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "Prepositions"
+    },
+    {
+      "lang": "th-TH",
+      "name": "Prepositions"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Prepositions"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Prepositions"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Prepositions"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Prepositions"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Prepositions"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "in",
+      "transcription": "[in...]",
+      "image": "/img/dict/prepositions/in.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "in_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "in_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "in_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "in_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "in_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "in_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "in_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "in_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "in_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "in_fr"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "on",
+      "transcription": "[on...]",
+      "image": "/img/dict/prepositions/on.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "on_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "on_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "on_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "on_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "on_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "on_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "on_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "on_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "on_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "on_fr"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "under",
+      "transcription": "[un...]",
+      "image": "/img/dict/prepositions/under.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "under_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "under_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "under_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "under_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "under_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "under_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "under_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "under_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "under_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "under_fr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "next to",
+      "transcription": "[ne...]",
+      "image": "/img/dict/prepositions/next to.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "next to_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "next to_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "next to_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "next to_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "next to_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "next to_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "next to_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "next to_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "next to_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "next to_fr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "behind",
+      "transcription": "[be...]",
+      "image": "/img/dict/prepositions/behind.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "behind_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "behind_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "behind_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "behind_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "behind_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "behind_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "behind_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "behind_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "behind_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "behind_fr"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "in front of",
+      "transcription": "[in...]",
+      "image": "/img/dict/prepositions/in front of.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "in front of_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "in front of_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "in front of_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "in front of_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "in front of_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "in front of_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "in front of_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "in front of_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "in front of_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "in front of_fr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "between",
+      "transcription": "[be...]",
+      "image": "/img/dict/prepositions/between.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "between_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "between_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "between_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "between_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "between_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "between_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "between_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "between_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "between_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "between_fr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "above",
+      "transcription": "[ab...]",
+      "image": "/img/dict/prepositions/above.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "above_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "above_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "above_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "above_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "above_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "above_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "above_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "above_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "above_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "above_fr"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "below",
+      "transcription": "[be...]",
+      "image": "/img/dict/prepositions/below.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "below_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "below_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "below_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "below_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "below_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "below_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "below_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "below_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "below_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "below_fr"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "through",
+      "transcription": "[th...]",
+      "image": "/img/dict/prepositions/through.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "through_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "through_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "through_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "through_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "through_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "through_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "through_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "through_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "through_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "through_fr"
+        }
+      ]
+    }
+  ]
+}

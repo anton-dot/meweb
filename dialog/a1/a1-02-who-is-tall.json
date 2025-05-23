@@ -1,0 +1,515 @@
+{
+  "name": "Who is tall?",
+  "bg": "/img/story/bg/default.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "en-US",
+      "name": "Who is tall?"
+    },
+    {
+      "lang": "ru-RU",
+      "name": "[RU] Who is tall?"
+    }
+  ],
+  "items": [
+    {
+      "name": "Who is tall? - line 1",
+      "actor": "char8",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Who is tall? - line 1"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Who is tall? - line 1"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Who is tall? - line 2",
+      "actor": "char1",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Who is tall? - line 2"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Who is tall? - line 2"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "How are you today?",
+      "actor": "char23",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "How are you today?"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] How are you today?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "I'm fine",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "en-US",
+              "name": "I'm fine"
+            },
+            {
+              "lang": "ru-RU",
+              "name": "[RU] I'm fine"
+            }
+          ]
+        },
+        {
+          "name": "I'm sad",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "en-US",
+              "name": "I'm sad"
+            },
+            {
+              "lang": "ru-RU",
+              "name": "[RU] I'm sad"
+            }
+          ]
+        },
+        {
+          "name": "I'm sleepy",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "en-US",
+              "name": "I'm sleepy"
+            },
+            {
+              "lang": "ru-RU",
+              "name": "[RU] I'm sleepy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Who is tall? - line 4",
+      "actor": "char20",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Who is tall? - line 4"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Who is tall? - line 4"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Who is tall? - line 5",
+      "actor": "char20",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Who is tall? - line 5"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Who is tall? - line 5"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Who is tall? - line 6",
+      "actor": "char1",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Who is tall? - line 6"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Who is tall? - line 6"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Who is tall? - line 7",
+      "actor": "char10",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Who is tall? - line 7"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Who is tall? - line 7"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Who is tall? - line 8",
+      "actor": "char21",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Who is tall? - line 8"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Who is tall? - line 8"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Who is tall? - line 9",
+      "actor": "char14",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Who is tall? - line 9"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Who is tall? - line 9"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Who is tall? - line 10",
+      "actor": "char16",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Who is tall? - line 10"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Who is tall? - line 10"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Who is tall? - line 11",
+      "actor": "char10",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Who is tall? - line 11"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Who is tall? - line 11"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Who is tall? - line 12",
+      "actor": "char18",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Who is tall? - line 12"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Who is tall? - line 12"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "What color is this?",
+      "actor": "char3",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "What color is this?"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] What color is this?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Red",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "en-US",
+              "name": "Red"
+            },
+            {
+              "lang": "ru-RU",
+              "name": "[RU] Red"
+            }
+          ]
+        },
+        {
+          "name": "Blue",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "en-US",
+              "name": "Blue"
+            },
+            {
+              "lang": "ru-RU",
+              "name": "[RU] Blue"
+            }
+          ]
+        },
+        {
+          "name": "Yellow",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "en-US",
+              "name": "Yellow"
+            },
+            {
+              "lang": "ru-RU",
+              "name": "[RU] Yellow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Who is tall? - line 14",
+      "actor": "char10",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Who is tall? - line 14"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Who is tall? - line 14"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "char1",
+      "name": "Alex",
+      "image": "/img/story/npc/char1.png",
+      "s": "u"
+    },
+    {
+      "id": "char2",
+      "name": "Emma",
+      "image": "/img/story/npc/char2.png",
+      "s": "u"
+    },
+    {
+      "id": "char3",
+      "name": "Liam",
+      "image": "/img/story/npc/char3.png",
+      "s": "u"
+    },
+    {
+      "id": "char4",
+      "name": "Olivia",
+      "image": "/img/story/npc/char4.png",
+      "s": "u"
+    },
+    {
+      "id": "char5",
+      "name": "Noah",
+      "image": "/img/story/npc/char5.png",
+      "s": "u"
+    },
+    {
+      "id": "char6",
+      "name": "Ava",
+      "image": "/img/story/npc/char6.png",
+      "s": "u"
+    },
+    {
+      "id": "char7",
+      "name": "Ethan",
+      "image": "/img/story/npc/char7.png",
+      "s": "u"
+    },
+    {
+      "id": "char8",
+      "name": "Mia",
+      "image": "/img/story/npc/char8.png",
+      "s": "u"
+    },
+    {
+      "id": "char9",
+      "name": "James",
+      "image": "/img/story/npc/char9.png",
+      "s": "u"
+    },
+    {
+      "id": "char10",
+      "name": "Sofia",
+      "image": "/img/story/npc/char10.png",
+      "s": "u"
+    },
+    {
+      "id": "char11",
+      "name": "Logan",
+      "image": "/img/story/npc/char11.png",
+      "s": "u"
+    },
+    {
+      "id": "char12",
+      "name": "Isabella",
+      "image": "/img/story/npc/char12.png",
+      "s": "u"
+    },
+    {
+      "id": "char13",
+      "name": "Lucas",
+      "image": "/img/story/npc/char13.png",
+      "s": "u"
+    },
+    {
+      "id": "char14",
+      "name": "Amelia",
+      "image": "/img/story/npc/char14.png",
+      "s": "u"
+    },
+    {
+      "id": "char15",
+      "name": "Mason",
+      "image": "/img/story/npc/char15.png",
+      "s": "u"
+    },
+    {
+      "id": "char16",
+      "name": "Charlotte",
+      "image": "/img/story/npc/char16.png",
+      "s": "u"
+    },
+    {
+      "id": "char17",
+      "name": "Elijah",
+      "image": "/img/story/npc/char17.png",
+      "s": "u"
+    },
+    {
+      "id": "char18",
+      "name": "Harper",
+      "image": "/img/story/npc/char18.png",
+      "s": "u"
+    },
+    {
+      "id": "char19",
+      "name": "Oliver",
+      "image": "/img/story/npc/char19.png",
+      "s": "u"
+    },
+    {
+      "id": "char20",
+      "name": "Evelyn",
+      "image": "/img/story/npc/char20.png",
+      "s": "u"
+    },
+    {
+      "id": "char21",
+      "name": "Jacob",
+      "image": "/img/story/npc/char21.png",
+      "s": "u"
+    },
+    {
+      "id": "char22",
+      "name": "Abigail",
+      "image": "/img/story/npc/char22.png",
+      "s": "u"
+    },
+    {
+      "id": "char23",
+      "name": "William",
+      "image": "/img/story/npc/char23.png",
+      "s": "u"
+    },
+    {
+      "id": "char24",
+      "name": "Emily",
+      "image": "/img/story/npc/char24.png",
+      "s": "u"
+    },
+    {
+      "id": "char25",
+      "name": "Michael",
+      "image": "/img/story/npc/char25.png",
+      "s": "u"
+    },
+    {
+      "id": "char26",
+      "name": "Ella",
+      "image": "/img/story/npc/char26.png",
+      "s": "u"
+    },
+    {
+      "id": "char27",
+      "name": "Daniel",
+      "image": "/img/story/npc/char27.png",
+      "s": "u"
+    },
+    {
+      "id": "char28",
+      "name": "Lily",
+      "image": "/img/story/npc/char28.png",
+      "s": "u"
+    },
+    {
+      "id": "char29",
+      "name": "Henry",
+      "image": "/img/story/npc/char29.png",
+      "s": "u"
+    },
+    {
+      "id": "char30",
+      "name": "Zoe",
+      "image": "/img/story/npc/char30.png",
+      "s": "u"
+    }
+  ]
+}

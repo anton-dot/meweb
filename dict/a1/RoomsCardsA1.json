@@ -1,0 +1,534 @@
+{
+  "name": "Rooms",
+  "isRandom": true,
+  "isBlur": true,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 10,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Rooms"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Rooms"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "Rooms"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "Rooms"
+    },
+    {
+      "lang": "th-TH",
+      "name": "Rooms"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Rooms"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Rooms"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Rooms"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Rooms"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Rooms"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "kitchen",
+      "transcription": "[ki...]",
+      "image": "/img/dict/rooms/kitchen.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "kitchen_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "kitchen_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "kitchen_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "kitchen_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "kitchen_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "kitchen_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "kitchen_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "kitchen_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "kitchen_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "kitchen_fr"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "bedroom",
+      "transcription": "[be...]",
+      "image": "/img/dict/rooms/bedroom.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "bedroom_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "bedroom_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "bedroom_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "bedroom_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "bedroom_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "bedroom_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "bedroom_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "bedroom_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "bedroom_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "bedroom_fr"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "bathroom",
+      "transcription": "[ba...]",
+      "image": "/img/dict/rooms/bathroom.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "bathroom_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "bathroom_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "bathroom_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "bathroom_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "bathroom_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "bathroom_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "bathroom_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "bathroom_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "bathroom_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "bathroom_fr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "living room",
+      "transcription": "[li...]",
+      "image": "/img/dict/rooms/living room.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "living room_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "living room_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "living room_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "living room_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "living room_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "living room_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "living room_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "living room_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "living room_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "living room_fr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "hall",
+      "transcription": "[ha...]",
+      "image": "/img/dict/rooms/hall.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "hall_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "hall_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "hall_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "hall_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "hall_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "hall_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "hall_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "hall_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "hall_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "hall_fr"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "attic",
+      "transcription": "[at...]",
+      "image": "/img/dict/rooms/attic.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "attic_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "attic_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "attic_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "attic_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "attic_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "attic_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "attic_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "attic_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "attic_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "attic_fr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "basement",
+      "transcription": "[ba...]",
+      "image": "/img/dict/rooms/basement.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "basement_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "basement_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "basement_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "basement_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "basement_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "basement_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "basement_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "basement_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "basement_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "basement_fr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "garage",
+      "transcription": "[ga...]",
+      "image": "/img/dict/rooms/garage.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "garage_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "garage_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "garage_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "garage_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "garage_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "garage_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "garage_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "garage_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "garage_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "garage_fr"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "office",
+      "transcription": "[of...]",
+      "image": "/img/dict/rooms/office.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "office_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "office_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "office_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "office_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "office_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "office_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "office_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "office_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "office_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "office_fr"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "balcony",
+      "transcription": "[ba...]",
+      "image": "/img/dict/rooms/balcony.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "balcony_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "balcony_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "balcony_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "balcony_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "balcony_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "balcony_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "balcony_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "balcony_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "balcony_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "balcony_fr"
+        }
+      ]
+    }
+  ]
+}

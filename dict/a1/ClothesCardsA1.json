@@ -1,0 +1,534 @@
+{
+  "name": "Clothes",
+  "isRandom": true,
+  "isBlur": true,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 10,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Clothes"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Clothes"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "Clothes"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "Clothes"
+    },
+    {
+      "lang": "th-TH",
+      "name": "Clothes"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Clothes"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Clothes"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Clothes"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Clothes"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Clothes"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "shirt",
+      "transcription": "[sh...]",
+      "image": "/img/dict/clothes/shirt.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "shirt_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "shirt_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "shirt_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "shirt_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "shirt_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "shirt_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "shirt_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "shirt_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "shirt_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "shirt_fr"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "pants",
+      "transcription": "[pa...]",
+      "image": "/img/dict/clothes/pants.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "pants_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "pants_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "pants_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "pants_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "pants_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "pants_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "pants_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "pants_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "pants_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "pants_fr"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "jacket",
+      "transcription": "[ja...]",
+      "image": "/img/dict/clothes/jacket.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "jacket_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "jacket_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "jacket_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "jacket_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "jacket_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "jacket_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "jacket_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "jacket_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "jacket_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "jacket_fr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "dress",
+      "transcription": "[dr...]",
+      "image": "/img/dict/clothes/dress.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "dress_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "dress_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "dress_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "dress_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "dress_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "dress_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "dress_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "dress_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "dress_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "dress_fr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "shoes",
+      "transcription": "[sh...]",
+      "image": "/img/dict/clothes/shoes.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "shoes_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "shoes_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "shoes_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "shoes_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "shoes_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "shoes_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "shoes_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "shoes_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "shoes_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "shoes_fr"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "socks",
+      "transcription": "[so...]",
+      "image": "/img/dict/clothes/socks.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "socks_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "socks_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "socks_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "socks_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "socks_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "socks_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "socks_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "socks_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "socks_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "socks_fr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "hat",
+      "transcription": "[ha...]",
+      "image": "/img/dict/clothes/hat.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "hat_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "hat_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "hat_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "hat_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "hat_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "hat_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "hat_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "hat_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "hat_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "hat_fr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "skirt",
+      "transcription": "[sk...]",
+      "image": "/img/dict/clothes/skirt.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "skirt_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "skirt_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "skirt_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "skirt_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "skirt_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "skirt_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "skirt_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "skirt_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "skirt_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "skirt_fr"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "coat",
+      "transcription": "[co...]",
+      "image": "/img/dict/clothes/coat.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "coat_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "coat_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "coat_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "coat_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "coat_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "coat_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "coat_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "coat_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "coat_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "coat_fr"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "scarf",
+      "transcription": "[sc...]",
+      "image": "/img/dict/clothes/scarf.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "scarf_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "scarf_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "scarf_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "scarf_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "scarf_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "scarf_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "scarf_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "scarf_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "scarf_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "scarf_fr"
+        }
+      ]
+    }
+  ]
+}

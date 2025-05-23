@@ -1,0 +1,534 @@
+{
+  "name": "Jobs",
+  "isRandom": true,
+  "isBlur": true,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 10,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Jobs"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Jobs"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "Jobs"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "Jobs"
+    },
+    {
+      "lang": "th-TH",
+      "name": "Jobs"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Jobs"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Jobs"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Jobs"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Jobs"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Jobs"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "teacher",
+      "transcription": "[te...]",
+      "image": "/img/dict/jobs/teacher.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "teacher_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "teacher_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "teacher_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "teacher_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "teacher_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "teacher_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "teacher_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "teacher_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "teacher_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "teacher_fr"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "doctor",
+      "transcription": "[do...]",
+      "image": "/img/dict/jobs/doctor.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "doctor_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "doctor_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "doctor_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "doctor_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "doctor_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "doctor_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "doctor_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "doctor_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "doctor_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "doctor_fr"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "nurse",
+      "transcription": "[nu...]",
+      "image": "/img/dict/jobs/nurse.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "nurse_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "nurse_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "nurse_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "nurse_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "nurse_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "nurse_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "nurse_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "nurse_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "nurse_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "nurse_fr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "firefighter",
+      "transcription": "[fi...]",
+      "image": "/img/dict/jobs/firefighter.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "firefighter_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "firefighter_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "firefighter_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "firefighter_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "firefighter_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "firefighter_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "firefighter_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "firefighter_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "firefighter_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "firefighter_fr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "police",
+      "transcription": "[po...]",
+      "image": "/img/dict/jobs/police.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "police_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "police_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "police_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "police_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "police_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "police_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "police_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "police_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "police_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "police_fr"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "chef",
+      "transcription": "[ch...]",
+      "image": "/img/dict/jobs/chef.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "chef_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "chef_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "chef_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "chef_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "chef_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "chef_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "chef_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "chef_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "chef_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "chef_fr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "driver",
+      "transcription": "[dr...]",
+      "image": "/img/dict/jobs/driver.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "driver_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "driver_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "driver_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "driver_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "driver_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "driver_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "driver_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "driver_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "driver_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "driver_fr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "worker",
+      "transcription": "[wo...]",
+      "image": "/img/dict/jobs/worker.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "worker_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "worker_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "worker_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "worker_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "worker_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "worker_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "worker_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "worker_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "worker_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "worker_fr"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "farmer",
+      "transcription": "[fa...]",
+      "image": "/img/dict/jobs/farmer.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "farmer_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "farmer_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "farmer_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "farmer_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "farmer_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "farmer_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "farmer_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "farmer_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "farmer_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "farmer_fr"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "pilot",
+      "transcription": "[pi...]",
+      "image": "/img/dict/jobs/pilot.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "pilot_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "pilot_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "pilot_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "pilot_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "pilot_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "pilot_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "pilot_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "pilot_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "pilot_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "pilot_fr"
+        }
+      ]
+    }
+  ]
+}

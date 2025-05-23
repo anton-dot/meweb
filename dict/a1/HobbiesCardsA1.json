@@ -1,0 +1,534 @@
+{
+  "name": "Hobbies",
+  "isRandom": true,
+  "isBlur": true,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 10,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Hobbies"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Hobbies"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "Hobbies"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "Hobbies"
+    },
+    {
+      "lang": "th-TH",
+      "name": "Hobbies"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Hobbies"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Hobbies"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Hobbies"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Hobbies"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Hobbies"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "drawing",
+      "transcription": "[dr...]",
+      "image": "/img/dict/hobbies/drawing.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "drawing_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "drawing_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "drawing_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "drawing_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "drawing_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "drawing_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "drawing_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "drawing_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "drawing_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "drawing_fr"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "dancing",
+      "transcription": "[da...]",
+      "image": "/img/dict/hobbies/dancing.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "dancing_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "dancing_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "dancing_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "dancing_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "dancing_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "dancing_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "dancing_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "dancing_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "dancing_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "dancing_fr"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "reading",
+      "transcription": "[re...]",
+      "image": "/img/dict/hobbies/reading.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "reading_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "reading_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "reading_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "reading_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "reading_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "reading_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "reading_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "reading_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "reading_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "reading_fr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "singing",
+      "transcription": "[si...]",
+      "image": "/img/dict/hobbies/singing.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "singing_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "singing_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "singing_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "singing_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "singing_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "singing_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "singing_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "singing_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "singing_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "singing_fr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "cooking",
+      "transcription": "[co...]",
+      "image": "/img/dict/hobbies/cooking.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "cooking_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "cooking_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "cooking_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "cooking_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "cooking_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "cooking_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "cooking_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "cooking_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "cooking_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "cooking_fr"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "fishing",
+      "transcription": "[fi...]",
+      "image": "/img/dict/hobbies/fishing.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "fishing_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "fishing_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "fishing_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "fishing_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "fishing_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "fishing_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "fishing_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "fishing_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "fishing_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "fishing_fr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "gaming",
+      "transcription": "[ga...]",
+      "image": "/img/dict/hobbies/gaming.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "gaming_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "gaming_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "gaming_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "gaming_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "gaming_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "gaming_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "gaming_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "gaming_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "gaming_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "gaming_fr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "running",
+      "transcription": "[ru...]",
+      "image": "/img/dict/hobbies/running.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "running_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "running_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "running_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "running_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "running_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "running_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "running_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "running_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "running_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "running_fr"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "cycling",
+      "transcription": "[cy...]",
+      "image": "/img/dict/hobbies/cycling.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "cycling_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "cycling_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "cycling_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "cycling_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "cycling_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "cycling_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "cycling_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "cycling_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "cycling_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "cycling_fr"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "swimming",
+      "transcription": "[sw...]",
+      "image": "/img/dict/hobbies/swimming.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "swimming_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "swimming_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "swimming_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "swimming_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "swimming_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "swimming_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "swimming_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "swimming_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "swimming_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "swimming_fr"
+        }
+      ]
+    }
+  ]
+}

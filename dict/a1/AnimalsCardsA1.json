@@ -1,0 +1,534 @@
+{
+  "name": "Animals",
+  "isRandom": true,
+  "isBlur": true,
+  "isUpper": true,
+  "isByWords": false,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 10,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Animals"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Animals"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "Animals"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "Animals"
+    },
+    {
+      "lang": "th-TH",
+      "name": "Animals"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Animals"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Animals"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Animals"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Animals"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Animals"
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "dog",
+      "transcription": "[do...]",
+      "image": "/img/dict/animals/dog.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "dog_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "dog_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "dog_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "dog_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "dog_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "dog_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "dog_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "dog_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "dog_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "dog_fr"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "cat",
+      "transcription": "[ca...]",
+      "image": "/img/dict/animals/cat.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "cat_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "cat_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "cat_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "cat_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "cat_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "cat_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "cat_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "cat_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "cat_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "cat_fr"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "fish",
+      "transcription": "[fi...]",
+      "image": "/img/dict/animals/fish.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "fish_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "fish_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "fish_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "fish_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "fish_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "fish_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "fish_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "fish_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "fish_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "fish_fr"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "bird",
+      "transcription": "[bi...]",
+      "image": "/img/dict/animals/bird.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "bird_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "bird_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "bird_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "bird_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "bird_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "bird_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "bird_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "bird_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "bird_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "bird_fr"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "cow",
+      "transcription": "[co...]",
+      "image": "/img/dict/animals/cow.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "cow_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "cow_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "cow_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "cow_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "cow_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "cow_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "cow_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "cow_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "cow_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "cow_fr"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "pig",
+      "transcription": "[pi...]",
+      "image": "/img/dict/animals/pig.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "pig_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "pig_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "pig_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "pig_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "pig_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "pig_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "pig_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "pig_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "pig_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "pig_fr"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "horse",
+      "transcription": "[ho...]",
+      "image": "/img/dict/animals/horse.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "horse_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "horse_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "horse_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "horse_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "horse_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "horse_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "horse_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "horse_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "horse_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "horse_fr"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "duck",
+      "transcription": "[du...]",
+      "image": "/img/dict/animals/duck.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "duck_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "duck_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "duck_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "duck_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "duck_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "duck_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "duck_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "duck_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "duck_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "duck_fr"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "lion",
+      "transcription": "[li...]",
+      "image": "/img/dict/animals/lion.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "lion_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "lion_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "lion_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "lion_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "lion_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "lion_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "lion_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "lion_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "lion_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "lion_fr"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "tiger",
+      "transcription": "[ti...]",
+      "image": "/img/dict/animals/tiger.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "tiger_ru"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "tiger_vi"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "tiger_zh"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "tiger_hi"
+        },
+        {
+          "lang": "th-TH",
+          "name": "tiger_th"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "tiger_tr"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "tiger_pt"
+        },
+        {
+          "lang": "de-DE",
+          "name": "tiger_de"
+        },
+        {
+          "lang": "id-ID",
+          "name": "tiger_id"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "tiger_fr"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,481 @@
+{
+  "name": "Rainy day",
+  "bg": "/img/story/bg/default.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "en-US",
+      "name": "Rainy day"
+    },
+    {
+      "lang": "ru-RU",
+      "name": "[RU] Rainy day"
+    }
+  ],
+  "items": [
+    {
+      "name": "What do you want to eat?",
+      "actor": "char7",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "What do you want to eat?"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] What do you want to eat?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Pizza",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "en-US",
+              "name": "Pizza"
+            },
+            {
+              "lang": "ru-RU",
+              "name": "[RU] Pizza"
+            }
+          ]
+        },
+        {
+          "name": "Ice cream",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "en-US",
+              "name": "Ice cream"
+            },
+            {
+              "lang": "ru-RU",
+              "name": "[RU] Ice cream"
+            }
+          ]
+        },
+        {
+          "name": "Soup",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "en-US",
+              "name": "Soup"
+            },
+            {
+              "lang": "ru-RU",
+              "name": "[RU] Soup"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Where is the ball?",
+      "actor": "char20",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Where is the ball?"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Where is the ball?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "On the table",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "en-US",
+              "name": "On the table"
+            },
+            {
+              "lang": "ru-RU",
+              "name": "[RU] On the table"
+            }
+          ]
+        },
+        {
+          "name": "Under the chair",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "en-US",
+              "name": "Under the chair"
+            },
+            {
+              "lang": "ru-RU",
+              "name": "[RU] Under the chair"
+            }
+          ]
+        },
+        {
+          "name": "In the bag",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "en-US",
+              "name": "In the bag"
+            },
+            {
+              "lang": "ru-RU",
+              "name": "[RU] In the bag"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rainy day - line 3",
+      "actor": "char25",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Rainy day - line 3"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Rainy day - line 3"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Rainy day - line 4",
+      "actor": "char27",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Rainy day - line 4"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Rainy day - line 4"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Rainy day - line 5",
+      "actor": "char5",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Rainy day - line 5"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Rainy day - line 5"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Do you like apples?",
+      "actor": "char10",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Do you like apples?"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Do you like apples?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Yes",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "en-US",
+              "name": "Yes"
+            },
+            {
+              "lang": "ru-RU",
+              "name": "[RU] Yes"
+            }
+          ]
+        },
+        {
+          "name": "No",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "en-US",
+              "name": "No"
+            },
+            {
+              "lang": "ru-RU",
+              "name": "[RU] No"
+            }
+          ]
+        },
+        {
+          "name": "Maybe",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "en-US",
+              "name": "Maybe"
+            },
+            {
+              "lang": "ru-RU",
+              "name": "[RU] Maybe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rainy day - line 7",
+      "actor": "char30",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Rainy day - line 7"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Rainy day - line 7"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Rainy day - line 8",
+      "actor": "char25",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Rainy day - line 8"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Rainy day - line 8"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Rainy day - line 9",
+      "actor": "char1",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "en-US",
+          "name": "Rainy day - line 9"
+        },
+        {
+          "lang": "ru-RU",
+          "name": "[RU] Rainy day - line 9"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "char1",
+      "name": "Alex",
+      "image": "/img/story/npc/char1.png",
+      "s": "u"
+    },
+    {
+      "id": "char2",
+      "name": "Emma",
+      "image": "/img/story/npc/char2.png",
+      "s": "u"
+    },
+    {
+      "id": "char3",
+      "name": "Liam",
+      "image": "/img/story/npc/char3.png",
+      "s": "u"
+    },
+    {
+      "id": "char4",
+      "name": "Olivia",
+      "image": "/img/story/npc/char4.png",
+      "s": "u"
+    },
+    {
+      "id": "char5",
+      "name": "Noah",
+      "image": "/img/story/npc/char5.png",
+      "s": "u"
+    },
+    {
+      "id": "char6",
+      "name": "Ava",
+      "image": "/img/story/npc/char6.png",
+      "s": "u"
+    },
+    {
+      "id": "char7",
+      "name": "Ethan",
+      "image": "/img/story/npc/char7.png",
+      "s": "u"
+    },
+    {
+      "id": "char8",
+      "name": "Mia",
+      "image": "/img/story/npc/char8.png",
+      "s": "u"
+    },
+    {
+      "id": "char9",
+      "name": "James",
+      "image": "/img/story/npc/char9.png",
+      "s": "u"
+    },
+    {
+      "id": "char10",
+      "name": "Sofia",
+      "image": "/img/story/npc/char10.png",
+      "s": "u"
+    },
+    {
+      "id": "char11",
+      "name": "Logan",
+      "image": "/img/story/npc/char11.png",
+      "s": "u"
+    },
+    {
+      "id": "char12",
+      "name": "Isabella",
+      "image": "/img/story/npc/char12.png",
+      "s": "u"
+    },
+    {
+      "id": "char13",
+      "name": "Lucas",
+      "image": "/img/story/npc/char13.png",
+      "s": "u"
+    },
+    {
+      "id": "char14",
+      "name": "Amelia",
+      "image": "/img/story/npc/char14.png",
+      "s": "u"
+    },
+    {
+      "id": "char15",
+      "name": "Mason",
+      "image": "/img/story/npc/char15.png",
+      "s": "u"
+    },
+    {
+      "id": "char16",
+      "name": "Charlotte",
+      "image": "/img/story/npc/char16.png",
+      "s": "u"
+    },
+    {
+      "id": "char17",
+      "name": "Elijah",
+      "image": "/img/story/npc/char17.png",
+      "s": "u"
+    },
+    {
+      "id": "char18",
+      "name": "Harper",
+      "image": "/img/story/npc/char18.png",
+      "s": "u"
+    },
+    {
+      "id": "char19",
+      "name": "Oliver",
+      "image": "/img/story/npc/char19.png",
+      "s": "u"
+    },
+    {
+      "id": "char20",
+      "name": "Evelyn",
+      "image": "/img/story/npc/char20.png",
+      "s": "u"
+    },
+    {
+      "id": "char21",
+      "name": "Jacob",
+      "image": "/img/story/npc/char21.png",
+      "s": "u"
+    },
+    {
+      "id": "char22",
+      "name": "Abigail",
+      "image": "/img/story/npc/char22.png",
+      "s": "u"
+    },
+    {
+      "id": "char23",
+      "name": "William",
+      "image": "/img/story/npc/char23.png",
+      "s": "u"
+    },
+    {
+      "id": "char24",
+      "name": "Emily",
+      "image": "/img/story/npc/char24.png",
+      "s": "u"
+    },
+    {
+      "id": "char25",
+      "name": "Michael",
+      "image": "/img/story/npc/char25.png",
+      "s": "u"
+    },
+    {
+      "id": "char26",
+      "name": "Ella",
+      "image": "/img/story/npc/char26.png",
+      "s": "u"
+    },
+    {
+      "id": "char27",
+      "name": "Daniel",
+      "image": "/img/story/npc/char27.png",
+      "s": "u"
+    },
+    {
+      "id": "char28",
+      "name": "Lily",
+      "image": "/img/story/npc/char28.png",
+      "s": "u"
+    },
+    {
+      "id": "char29",
+      "name": "Henry",
+      "image": "/img/story/npc/char29.png",
+      "s": "u"
+    },
+    {
+      "id": "char30",
+      "name": "Zoe",
+      "image": "/img/story/npc/char30.png",
+      "s": "u"
+    }
+  ]
+}
