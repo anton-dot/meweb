@@ -1,0 +1,535 @@
+{
+  "name": "Two-Step Problems",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Задачи с двумя действиями"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s solve word problems with two steps!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай решим задачи, в которых нужно два действия!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Two steps? Like add and then subtract?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Два действия? Например, сложить, а потом вычесть?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Exactly! We need to read carefully and solve step by step.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Именно! Нужно внимательно читать и решать по шагам."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Alex had 25 stickers. He got 14 more and gave away 10. What is the final number?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Alex had 25 stickers. He got 14 more and gave away 10. Какой будет результат?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "29",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "29"
+            }
+          ]
+        },
+        {
+          "name": "34",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "34"
+            }
+          ]
+        },
+        {
+          "name": "26",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lena bought 30 apples. Then 12 more. She ate 15. What is the final number?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Lena bought 30 apples. Then 12 more. She ate 15. Какой будет результат?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "27",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "27"
+            }
+          ]
+        },
+        {
+          "name": "32",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "32"
+            }
+          ]
+        },
+        {
+          "name": "24",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "24"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "There were 40 books. 18 were added. Then 25 were taken. What is the final number?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "There were 40 books. 18 were added. Then 25 were taken. Какой будет результат?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "33",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "33"
+            }
+          ]
+        },
+        {
+          "name": "38",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "38"
+            }
+          ]
+        },
+        {
+          "name": "30",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A train traveled 60 km. Then 35 km more. Then stopped for 50 km. What is the final number?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "A train traveled 60 km. Then 35 km more. Then stopped for 50 km. Какой будет результат?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "45",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "45"
+            }
+          ]
+        },
+        {
+          "name": "50",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "50"
+            }
+          ]
+        },
+        {
+          "name": "42",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "42"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "You had 70 coins. Lost 20. Found 15 more. What is the final number?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "You had 70 coins. Lost 20. Found 15 more. Какой будет результат?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "65",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "65"
+            }
+          ]
+        },
+        {
+          "name": "70",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "70"
+            }
+          ]
+        },
+        {
+          "name": "62",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "62"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "You read 20 pages. Then 15 more. Then forgot 10 pages. What is the final number?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "You read 20 pages. Then 15 more. Then forgot 10 pages. Какой будет результат?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "25",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "25"
+            }
+          ]
+        },
+        {
+          "name": "29",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "29"
+            }
+          ]
+        },
+        {
+          "name": "20",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A box had 50 candies. Ate 18. Got 22 more. What is the final number?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "A box had 50 candies. Ate 18. Got 22 more. Какой будет результат?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "54",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "54"
+            }
+          ]
+        },
+        {
+          "name": "58",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "58"
+            }
+          ]
+        },
+        {
+          "name": "49",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "49"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Anna walked 36 steps. Then 24 more. Then sat and lost 30 steps from count. What is the final number?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Anna walked 36 steps. Then 24 more. Then sat and lost 30 steps from count. Какой будет результат?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "30",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "30"
+            }
+          ]
+        },
+        {
+          "name": "34",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "34"
+            }
+          ]
+        },
+        {
+          "name": "25",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "25"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "There were 90 balloons. 40 popped. Then added 12 more. What is the final number?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "There were 90 balloons. 40 popped. Then added 12 more. Какой будет результат?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "62",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "62"
+            }
+          ]
+        },
+        {
+          "name": "66",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "66"
+            }
+          ]
+        },
+        {
+          "name": "57",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "57"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mike collected 60 coins. Lost 25. Found 10. What is the final number?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Mike collected 60 coins. Lost 25. Found 10. Какой будет результат?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "45",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "45"
+            }
+          ]
+        },
+        {
+          "name": "49",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "49"
+            }
+          ]
+        },
+        {
+          "name": "40",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "40"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great job! Two-step problems take thinking, and you did it!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отличная работа! Задачи с двумя действиями требуют размышлений, и у тебя получилось!"
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

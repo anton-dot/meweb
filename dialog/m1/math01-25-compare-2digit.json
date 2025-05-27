@@ -1,0 +1,341 @@
+{
+  "name": "Compare 2-Digit Numbers",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Сравнение двузначных чисел"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s learn how to compare two-digit numbers.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай научимся сравнивать двузначные числа."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Okay! What do I look at first?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо! На что смотреть сначала?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "First, look at the tens. A bigger ten means a bigger number.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сначала смотри на десятки. Больший десяток — большее число."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "And what if tens are equal?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А если десятки одинаковые?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Then compare the ones. Bigger ones mean bigger number.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тогда сравнивай единицы. Где больше единиц — то число больше."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Got it! Tens first, then ones!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Понял! Сначала десятки, потом единицы!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Now let’s test! Compare: 53 and 47.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь тест! Сравни: 53 и 47."
+        }
+      ],
+      "actions": [
+        {
+          "name": "53 > 47",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "53 > 47"
+            }
+          ]
+        },
+        {
+          "name": "53 < 47",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "53 < 47"
+            }
+          ]
+        },
+        {
+          "name": "53 = 47",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "53 = 47"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Compare: 62 and 68.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сравни: 62 и 68."
+        }
+      ],
+      "actions": [
+        {
+          "name": "62 < 68",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "62 < 68"
+            }
+          ]
+        },
+        {
+          "name": "62 > 68",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "62 > 68"
+            }
+          ]
+        },
+        {
+          "name": "62 = 68",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "62 = 68"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Compare: 45 and 45.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сравни: 45 и 45."
+        }
+      ],
+      "actions": [
+        {
+          "name": "45 = 45",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "45 = 45"
+            }
+          ]
+        },
+        {
+          "name": "45 > 45",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "45 > 45"
+            }
+          ]
+        },
+        {
+          "name": "45 < 45",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "45 < 45"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Compare: 39 and 51.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сравни: 39 и 51."
+        }
+      ],
+      "actions": [
+        {
+          "name": "39 < 51",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "39 < 51"
+            }
+          ]
+        },
+        {
+          "name": "39 > 51",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "39 > 51"
+            }
+          ]
+        },
+        {
+          "name": "39 = 51",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "39 = 51"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Compare: 86 and 79.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сравни: 86 и 79."
+        }
+      ],
+      "actions": [
+        {
+          "name": "86 > 79",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "86 > 79"
+            }
+          ]
+        },
+        {
+          "name": "86 < 79",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "86 < 79"
+            }
+          ]
+        },
+        {
+          "name": "86 = 79",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "86 = 79"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Awesome! You’re a comparing expert now!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Супер! Теперь ты эксперт в сравнении чисел!"
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "name": "2-Digit Subtraction Practice",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Практика вычитания двузначных чисел"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s practice subtracting two-digit numbers!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай попрактикуемся в вычитании двузначных чисел!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Great! Any tricks?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Есть хитрости?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yes! Subtract the ones first, then the tens. Borrow if needed!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! Сначала вычитай единицы, потом десятки. Занимай, если нужно!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "What is 65 - 42?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько будет 65 - 42?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "23",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "23"
+            }
+          ]
+        },
+        {
+          "name": "25",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "25"
+            }
+          ]
+        },
+        {
+          "name": "20",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "20"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "What is 84 - 39?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько будет 84 - 39?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "45",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "45"
+            }
+          ]
+        },
+        {
+          "name": "47",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "47"
+            }
+          ]
+        },
+        {
+          "name": "42",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "42"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "What is 73 - 28?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько будет 73 - 28?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "45",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "45"
+            }
+          ]
+        },
+        {
+          "name": "47",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "47"
+            }
+          ]
+        },
+        {
+          "name": "42",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "42"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "What is 91 - 47?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько будет 91 - 47?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "44",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "44"
+            }
+          ]
+        },
+        {
+          "name": "46",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "46"
+            }
+          ]
+        },
+        {
+          "name": "41",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "41"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "What is 58 - 26?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько будет 58 - 26?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "32",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "32"
+            }
+          ]
+        },
+        {
+          "name": "34",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "34"
+            }
+          ]
+        },
+        {
+          "name": "29",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "29"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "What is 94 - 31?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько будет 94 - 31?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "63",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "63"
+            }
+          ]
+        },
+        {
+          "name": "65",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "65"
+            }
+          ]
+        },
+        {
+          "name": "60",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "60"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "What is 86 - 57?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько будет 86 - 57?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "29",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "29"
+            }
+          ]
+        },
+        {
+          "name": "31",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "31"
+            }
+          ]
+        },
+        {
+          "name": "26",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "26"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "What is 70 - 36?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько будет 70 - 36?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "34",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "34"
+            }
+          ]
+        },
+        {
+          "name": "36",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "36"
+            }
+          ]
+        },
+        {
+          "name": "31",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "What is 62 - 45?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько будет 62 - 45?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "17",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "17"
+            }
+          ]
+        },
+        {
+          "name": "19",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "19"
+            }
+          ]
+        },
+        {
+          "name": "14",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "What is 55 - 29?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько будет 55 - 29?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "26",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "26"
+            }
+          ]
+        },
+        {
+          "name": "28",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "28"
+            }
+          ]
+        },
+        {
+          "name": "23",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "23"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Well done! You practiced subtracting two-digit numbers!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Молодец! Ты потренировался вычитать двузначные числа!"
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

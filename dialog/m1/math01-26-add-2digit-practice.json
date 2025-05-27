@@ -1,0 +1,535 @@
+{
+  "name": "2-Digit Addition Practice",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Практика сложения двузначных чисел"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s practice adding two-digit numbers!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай попрактикуемся в сложении двузначных чисел!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Sounds good! Any tips?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Есть советы?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yes! First add the ones, then the tens. If ones go over 10, carry 1.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! Сначала складывай единицы, потом десятки. Если единицы больше 10 — переносим 1."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "What is 23 + 15?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько будет 23 + 15?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "38",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "38"
+            }
+          ]
+        },
+        {
+          "name": "39",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "39"
+            }
+          ]
+        },
+        {
+          "name": "36",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "36"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "What is 46 + 32?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько будет 46 + 32?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "78",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "78"
+            }
+          ]
+        },
+        {
+          "name": "79",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "79"
+            }
+          ]
+        },
+        {
+          "name": "76",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "76"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "What is 58 + 19?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько будет 58 + 19?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "77",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "77"
+            }
+          ]
+        },
+        {
+          "name": "78",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "78"
+            }
+          ]
+        },
+        {
+          "name": "75",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "75"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "What is 37 + 44?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько будет 37 + 44?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "81",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "81"
+            }
+          ]
+        },
+        {
+          "name": "82",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "82"
+            }
+          ]
+        },
+        {
+          "name": "79",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "79"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "What is 69 + 14?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько будет 69 + 14?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "83",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "83"
+            }
+          ]
+        },
+        {
+          "name": "84",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "84"
+            }
+          ]
+        },
+        {
+          "name": "81",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "81"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "What is 25 + 26?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько будет 25 + 26?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "51",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "51"
+            }
+          ]
+        },
+        {
+          "name": "52",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "52"
+            }
+          ]
+        },
+        {
+          "name": "49",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "49"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "What is 41 + 39?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько будет 41 + 39?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "80",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "80"
+            }
+          ]
+        },
+        {
+          "name": "81",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "81"
+            }
+          ]
+        },
+        {
+          "name": "78",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "78"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "What is 72 + 18?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько будет 72 + 18?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "90",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "90"
+            }
+          ]
+        },
+        {
+          "name": "91",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "91"
+            }
+          ]
+        },
+        {
+          "name": "88",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "88"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "What is 33 + 47?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько будет 33 + 47?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "80",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "80"
+            }
+          ]
+        },
+        {
+          "name": "81",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "81"
+            }
+          ]
+        },
+        {
+          "name": "78",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "78"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "What is 64 + 29?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сколько будет 64 + 29?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "93",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "93"
+            }
+          ]
+        },
+        {
+          "name": "94",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "94"
+            }
+          ]
+        },
+        {
+          "name": "91",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "91"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great job! You practiced adding two-digit numbers!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отличная работа! Ты потренировался складывать двузначные числа!"
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

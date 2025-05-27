@@ -1,0 +1,1905 @@
+{
+  "name": "Compare numbers 0-100 Alt",
+  "minQuiz": 10,
+  "isRandom": true,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Сравни числа от 0 до 100 (доп.)"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "So sánh các số từ 0 đến 100 (phụ)"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "比较0到100之间的数字（备用）"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "0 से 100 तक की संख्याओं की तुलना करें (वैकल्पिक)"
+    },
+    {
+      "lang": "th-TH",
+      "name": "เปรียบเทียบตัวเลขตั้งแต่ 0 ถึง 100 (ชุดเสริม)"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "0'dan 100'e kadar sayıları karşılaştır (alternatif)"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Compare os números de 0 a 100 (alternativo)"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Vergleiche Zahlen von 0 bis 100 (Alternativ)"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Bandingkan angka dari 0 sampai 100 (alternatif)"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Comparer les nombres de 0 à 100 (supplémentaire)"
+    }
+  ],
+  "items": [
+    {
+      "name": "Compare numbers 0-100 Alt -1",
+      "taskMask": "93 {txt:>} 75\n99 {txt:>} 96\n47 {txt:<} 71",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -2",
+      "taskMask": "88 {txt:>} 66\n78 {txt:>} 76\n37 {txt:<} 68\n46 {txt:<} 70",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -3",
+      "taskMask": "12 {txt:>} 11\n58 {txt:>} 39\n64 {txt:>} 17",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -4",
+      "taskMask": "46 {txt:>} 42\n40 {txt:<} 82\n55 {txt:<} 95",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -5",
+      "taskMask": "20 {txt:<} 52\n80 {txt:>} 2\n69 {txt:<} 98",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -6",
+      "taskMask": "66 {txt:<} 94\n100 {txt:>} 20\n57 {txt:>} 25",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -7",
+      "taskMask": "22 {txt:<} 51\n1 {txt:<} 50\n66 {txt:>} 25\n57 {txt:>} 39",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -8",
+      "taskMask": "98 {txt:>} 37\n77 {txt:=} 77",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": false,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -9",
+      "taskMask": "4 {txt:<} 66\n51 {txt:<} 54\n42 {txt:<} 51\n97 {txt:>} 31",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -10",
+      "taskMask": "11 {txt:<} 34\n58 {txt:<} 83",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -11",
+      "taskMask": "27 {txt:<} 66\n45 {txt:>} 21\n82 {txt:>} 60",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -12",
+      "taskMask": "100 {txt:>} 29\n88 {txt:>} 64",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -13",
+      "taskMask": "47 {txt:=} 47\n31 {txt:<} 77\n10 {txt:<} 84\n97 {txt:>} 82",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -14",
+      "taskMask": "22 {txt:>} 4\n46 {txt:>} 16\n93 {txt:>} 24\n7 {txt:<} 87",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -15",
+      "taskMask": "41 {txt:<} 80\n92 {txt:>} 37\n35 {txt:<} 84\n53 {txt:<} 93",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -16",
+      "taskMask": "71 {txt:>} 46\n86 {txt:>} 32",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -17",
+      "taskMask": "30 {txt:<} 44\n33 {txt:<} 37",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -18",
+      "taskMask": "61 {txt:>} 29\n27 {txt:<} 58\n49 {txt:<} 78",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -19",
+      "taskMask": "94 {txt:>} 62\n100 {txt:>} 49\n12 {txt:<} 79",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -20",
+      "taskMask": "66 {txt:>} 50\n81 {txt:>} 35\n93 {txt:>} 14\n92 {txt:>} 81",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -21",
+      "taskMask": "37 {txt:<} 86\n80 {txt:>} 40\n24 {txt:<} 36",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -22",
+      "taskMask": "51 {txt:<} 62\n82 {txt:<} 93\n44 {txt:<} 96",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -23",
+      "taskMask": "54 {txt:<} 63\n65 {txt:>} 18\n94 {txt:<} 99\n50 {txt:<} 58",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -24",
+      "taskMask": "66 {txt:>} 33\n22 {txt:<} 78\n13 {txt:<} 82",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -25",
+      "taskMask": "40 {txt:<} 91\n67 {txt:>} 42",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": false,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -26",
+      "taskMask": "34 {txt:<} 67\n100 {txt:>} 59\n50 {txt:<} 99",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -27",
+      "taskMask": "38 {txt:<} 57\n90 {txt:>} 38\n13 {txt:<} 38",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -28",
+      "taskMask": "3 {txt:<} 93\n87 {txt:<} 92",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    },
+    {
+      "name": "Compare numbers 0-100 Alt -29",
+      "taskMask": "29 {txt:<} 75\n98 {txt:>} 7\n36 {txt:<} 57\n44 {txt:>} 3",
+      "answers": [
+        {
+          "name": ">",
+          "answerType": 2
+        },
+        {
+          "name": "<",
+          "answerType": 2
+        },
+        {
+          "name": "=",
+          "answerType": 2
+        }
+      ],
+      "multianswer": true,
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери знак сравнения"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chọn dấu so sánh"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "选择比较符号"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना चिन्ह चुनें"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เลือกเครื่องหมายเปรียบเทียบ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırma işaretini seç"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Escolha o sinal de comparação"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wähle das Vergleichszeichen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Pilih tanda perbandingan"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Choisissez le signe de comparaison"
+        }
+      ]
+    }
+  ]
+}

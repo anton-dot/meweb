@@ -1,1 +1,301 @@
-{"name":"Number Bonds to 10","bg":"/img/story/bg/classroom.png","age":0,"translations":[{"lang":"ru-RU","name":"Состав числа до 10"}],"items":[{"name":"Today we will learn number bonds to 10.","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Сегодня мы выучим состав числа до 10."}],"actions":[]},{"name":"What are number bonds?","actor":"Student","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"А что такое состав числа?"}],"actions":[]},{"name":"They are pairs of numbers that make 10 when added.","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Это пары чисел, которые в сумме дают 10."}],"actions":[]},{"name":"Like 7 and 3. Seven \uD83C\uDF4E plus three \uD83C\uDF4E equals ten.","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Например, 7 и 3. Семь \uD83C\uDF4E плюс три \uD83C\uDF4E — получится десять."}],"actions":[]},{"name":"Oh! So 6 and 4 too?","actor":"Student","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"О! Тогда 6 и 4 тоже?"}],"actions":[]},{"name":"Yes! 6 \u002B 4 = 10. Great job!","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Да! 6 \u002B 4 = 10. Отлично!"}],"actions":[]},{"name":"Now choose the pair that makes 10.","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Теперь выбери пару, которая в сумме даёт 10."}],"actions":[{"name":"5 and 4","isCorrect":false,"score":0,"translates":[{"lang":"ru-RU","name":"5 и 4"}]},{"name":"6 and 4","isCorrect":true,"score":1,"translates":[{"lang":"ru-RU","name":"6 и 4"}]},{"name":"2 and 5","isCorrect":false,"score":0,"translates":[{"lang":"ru-RU","name":"2 и 5"}]}]},{"name":"Great thinking! You found a number bond!","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Умно! Ты нашёл правильную пару!"}],"actions":[]}],"actors":[{"id":"Teacher","name":"Teacher","image":"/img/story/npc/npc_teacher.png","s":"f"},{"id":"Student","name":"Student","image":"/img/story/npc/npc_student.png","s":"u"}]}
+{
+  "name": "Number Bonds to 10",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Состав числа до 10"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Cặp số tạo thành 10"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "组成10的数字组合"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "10 तक की संख्या युग्म"
+    },
+    {
+      "lang": "th-TH",
+      "name": "คู่ตัวเลขรวมเป็น 10"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "10'u tamamlayan sayı çiftleri"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Combinações que somam 10"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Zahlpaare bis 10"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Pasangan angka hingga 10"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Paires de nombres qui font 10"
+    }
+  ],
+  "items": [
+    {
+      "name": "Today we will learn number bonds to 10.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сегодня мы выучим состав числа до 10."
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Hôm nay chúng ta sẽ học cặp số tạo thành 10."
+        },
+        {
+          "lang": "zh-CN",
+          "name": "今天我们来学习组成10的数字组合。"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "आज हम 10 तक की संख्या युग्मों के बारे में सीखेंगे।"
+        },
+        {
+          "lang": "th-TH",
+          "name": "วันนี้เราจะเรียนรู้คู่ตัวเลขรวมเป็น 10"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Bugün 10'u tamamlayan sayı çiftlerini öğreneceğiz."
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Hoje vamos aprender combinações que somam 10."
+        },
+        {
+          "lang": "de-DE",
+          "name": "Heute lernen wir Zahlpaare bis 10."
+        },
+        {
+          "lang": "id-ID",
+          "name": "Hari ini kita akan belajar pasangan angka hingga 10."
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Aujourd'hui, nous allons apprendre les paires de nombres qui font 10."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "What are number bonds?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А что такое состав числа?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Cặp số là gì?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "什么是数字组合？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या युग्म क्या हैं?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "คู่ตัวเลขคืออะไร?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Sayı çiftleri nedir?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "O que são combinações de números?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Was sind Zahlpaare?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Apa itu pasangan angka?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Que sont les paires de nombres ?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "They are pairs of numbers that make 10 when added.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это пары чисел, которые в сумме дают 10."
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chúng là các cặp số có tổng là 10."
+        },
+        {
+          "lang": "zh-CN",
+          "name": "它们是加起来等于10的一对数字。"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "ये ऐसे दो अंक होते हैं जिनका योग 10 होता है।"
+        },
+        {
+          "lang": "th-TH",
+          "name": "พวกมันคือคู่ตัวเลขที่รวมกันได้ 10"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Toplandığında 10 eden sayı çiftleridir."
+        },
+        {
+          "lang": "pt-BR",
+          "name": "São pares de números que somam 10."
+        },
+        {
+          "lang": "de-DE",
+          "name": "Es sind Zahlenpaare, die zusammen 10 ergeben."
+        },
+        {
+          "lang": "id-ID",
+          "name": "Ini adalah pasangan angka yang jika dijumlahkan menjadi 10."
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Ce sont des paires de nombres qui font 10 ensemble."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Like 7 and 3. Seven 🍎 plus three 🍎 equals ten.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Например, 7 и 3. Семь 🍎 плюс три 🍎 — получится десять."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Oh! So 6 and 4 too?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "О! Тогда 6 и 4 тоже?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yes! 6 + 4 = 10. Great job!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! 6 + 4 = 10. Отлично!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Now choose the pair that makes 10.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь выбери пару, которая в сумме даёт 10."
+        }
+      ],
+      "actions": [
+        {
+          "name": "5 and 4",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "5 и 4"
+            }
+          ]
+        },
+        {
+          "name": "6 and 4",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "6 и 4"
+            }
+          ]
+        },
+        {
+          "name": "2 and 5",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "2 и 5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great thinking! You found a number bond!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Умно! Ты нашёл правильную пару!"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u"
+    }
+  ]
+}
