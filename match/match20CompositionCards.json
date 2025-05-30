@@ -1,0 +1,4428 @@
+{
+  "name": "composition of 20",
+  "nameA": null,
+  "img": "/img/dict/math/school.png",
+  "minQuiz": null,
+  "isRandom": true,
+  "isBlur": true,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 36,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Состав числа до 20",
+      "nameA": null
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Thành phần số đến 20",
+      "nameA": null
+    },
+    {
+      "lang": "zh-CN",
+      "name": "数字组成到20",
+      "nameA": null
+    },
+    {
+      "lang": "hi-IN",
+      "name": "20 तक संख्या संयोजन",
+      "nameA": null
+    },
+    {
+      "lang": "th-TH",
+      "name": "องค์ประกอบของตัวเลขถึง 20",
+      "nameA": null
+    },
+    {
+      "lang": "tr-TR",
+      "name": "20'ye kadar sayı bileşimi",
+      "nameA": null
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Composição numérica até 20",
+      "nameA": null
+    },
+    {
+      "lang": "de-DE",
+      "name": "Zusammensetzung der Zahlen bis 20",
+      "nameA": null
+    },
+    {
+      "lang": "id-ID",
+      "name": "Komposisi angka hingga 20",
+      "nameA": null
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Composition des nombres jusqu'à 20",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "name": "Make up a number 10",
+      "image": "/img/dict/math/p10.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 10",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 10",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到10",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 10 बनाएं",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 10",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "10 sayısını oluştur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 10",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 10",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 10",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 10",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "0",
+          "pair2": "10"
+        },
+        {
+          "pair1": "1",
+          "pair2": "9"
+        },
+        {
+          "pair1": "2",
+          "pair2": "8"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Make up a number 10 (part 2)",
+      "image": "/img/dict/math/p10.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 10 (часть 2)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 10 (phần 2)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到10 (部分 2)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 10 बनाएं (भाग 2)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 10 (ส่วนที่ 2)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "10 sayısını oluştur (bölüm 2)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 10 (parte 2)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 10 (Teil 2)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 10 (bagian 2)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 10 (partie 2)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "3",
+          "pair2": "7"
+        },
+        {
+          "pair1": "4",
+          "pair2": "6"
+        },
+        {
+          "pair1": "5",
+          "pair2": "5"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Make up a number 10 (part 3)",
+      "image": "/img/dict/math/p10.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 10 (часть 3)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 10 (phần 3)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到10 (部分 3)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 10 बनाएं (भाग 3)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 10 (ส่วนที่ 3)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "10 sayısını oluştur (bölüm 3)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 10 (parte 3)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 10 (Teil 3)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 10 (bagian 3)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 10 (partie 3)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "6",
+          "pair2": "4"
+        },
+        {
+          "pair1": "7",
+          "pair2": "3"
+        },
+        {
+          "pair1": "8",
+          "pair2": "2"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Make up a number 10 (part 4)",
+      "image": "/img/dict/math/p10.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 10 (часть 4)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 10 (phần 4)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到10 (部分 4)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 10 बनाएं (भाग 4)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 10 (ส่วนที่ 4)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "10 sayısını oluştur (bölüm 4)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 10 (parte 4)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 10 (Teil 4)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 10 (bagian 4)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 10 (partie 4)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "9",
+          "pair2": "1"
+        },
+        {
+          "pair1": "10",
+          "pair2": "0"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Make up a number 11",
+      "image": "/img/dict/math/p11.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 11",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 11",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到11",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 11 बनाएं",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 11",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "11 sayısını oluştur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 11",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 11",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 11",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 11",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "0",
+          "pair2": "11"
+        },
+        {
+          "pair1": "1",
+          "pair2": "10"
+        },
+        {
+          "pair1": "2",
+          "pair2": "9"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Make up a number 11 (part 2)",
+      "image": "/img/dict/math/p11.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 11 (часть 2)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 11 (phần 2)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到11 (部分 2)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 11 बनाएं (भाग 2)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 11 (ส่วนที่ 2)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "11 sayısını oluştur (bölüm 2)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 11 (parte 2)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 11 (Teil 2)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 11 (bagian 2)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 11 (partie 2)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "3",
+          "pair2": "8"
+        },
+        {
+          "pair1": "4",
+          "pair2": "7"
+        },
+        {
+          "pair1": "5",
+          "pair2": "6"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Make up a number 11 (part 3)",
+      "image": "/img/dict/math/p11.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 11 (часть 3)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 11 (phần 3)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到11 (部分 3)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 11 बनाएं (भाग 3)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 11 (ส่วนที่ 3)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "11 sayısını oluştur (bölüm 3)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 11 (parte 3)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 11 (Teil 3)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 11 (bagian 3)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 11 (partie 3)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "6",
+          "pair2": "5"
+        },
+        {
+          "pair1": "7",
+          "pair2": "4"
+        },
+        {
+          "pair1": "8",
+          "pair2": "3"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Make up a number 11 (part 4)",
+      "image": "/img/dict/math/p11.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 11 (часть 4)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 11 (phần 4)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到11 (部分 4)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 11 बनाएं (भाग 4)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 11 (ส่วนที่ 4)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "11 sayısını oluştur (bölüm 4)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 11 (parte 4)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 11 (Teil 4)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 11 (bagian 4)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 11 (partie 4)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "9",
+          "pair2": "2"
+        },
+        {
+          "pair1": "10",
+          "pair2": "1"
+        },
+        {
+          "pair1": "11",
+          "pair2": "0"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Make up a number 12",
+      "image": "/img/dict/math/p12.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 12",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 12",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到12",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 12 बनाएं",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 12",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "12 sayısını oluştur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 12",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 12",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 12",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 12",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "0",
+          "pair2": "12"
+        },
+        {
+          "pair1": "1",
+          "pair2": "11"
+        },
+        {
+          "pair1": "2",
+          "pair2": "10"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Make up a number 12 (part 2)",
+      "image": "/img/dict/math/p12.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 12 (часть 2)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 12 (phần 2)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到12 (部分 2)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 12 बनाएं (भाग 2)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 12 (ส่วนที่ 2)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "12 sayısını oluştur (bölüm 2)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 12 (parte 2)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 12 (Teil 2)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 12 (bagian 2)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 12 (partie 2)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "3",
+          "pair2": "9"
+        },
+        {
+          "pair1": "4",
+          "pair2": "8"
+        },
+        {
+          "pair1": "5",
+          "pair2": "7"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Make up a number 12 (part 3)",
+      "image": "/img/dict/math/p12.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 12 (часть 3)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 12 (phần 3)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到12 (部分 3)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 12 बनाएं (भाग 3)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 12 (ส่วนที่ 3)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "12 sayısını oluştur (bölüm 3)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 12 (parte 3)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 12 (Teil 3)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 12 (bagian 3)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 12 (partie 3)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "6",
+          "pair2": "6"
+        },
+        {
+          "pair1": "7",
+          "pair2": "5"
+        },
+        {
+          "pair1": "8",
+          "pair2": "4"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Make up a number 12 (part 4)",
+      "image": "/img/dict/math/p12.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 12 (часть 4)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 12 (phần 4)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到12 (部分 4)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 12 बनाएं (भाग 4)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 12 (ส่วนที่ 4)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "12 sayısını oluştur (bölüm 4)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 12 (parte 4)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 12 (Teil 4)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 12 (bagian 4)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 12 (partie 4)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "9",
+          "pair2": "3"
+        },
+        {
+          "pair1": "10",
+          "pair2": "2"
+        },
+        {
+          "pair1": "11",
+          "pair2": "1"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Make up a number 12 (part 5)",
+      "image": "/img/dict/math/p12.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 12 (часть 5)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 12 (phần 5)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到12 (部分 5)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 12 बनाएं (भाग 5)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 12 (ส่วนที่ 5)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "12 sayısını oluştur (bölüm 5)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 12 (parte 5)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 12 (Teil 5)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 12 (bagian 5)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 12 (partie 5)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "12",
+          "pair2": "0"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Make up a number 13",
+      "image": "/img/dict/math/p13.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 13",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 13",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到13",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 13 बनाएं",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 13",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "13 sayısını oluştur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 13",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 13",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 13",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 13",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "0",
+          "pair2": "13"
+        },
+        {
+          "pair1": "1",
+          "pair2": "12"
+        },
+        {
+          "pair1": "2",
+          "pair2": "11"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Make up a number 13 (part 2)",
+      "image": "/img/dict/math/p13.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 13 (часть 2)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 13 (phần 2)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到13 (部分 2)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 13 बनाएं (भाग 2)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 13 (ส่วนที่ 2)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "13 sayısını oluştur (bölüm 2)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 13 (parte 2)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 13 (Teil 2)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 13 (bagian 2)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 13 (partie 2)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "3",
+          "pair2": "10"
+        },
+        {
+          "pair1": "4",
+          "pair2": "9"
+        },
+        {
+          "pair1": "5",
+          "pair2": "8"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Make up a number 13 (part 3)",
+      "image": "/img/dict/math/p13.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 13 (часть 3)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 13 (phần 3)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到13 (部分 3)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 13 बनाएं (भाग 3)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 13 (ส่วนที่ 3)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "13 sayısını oluştur (bölüm 3)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 13 (parte 3)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 13 (Teil 3)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 13 (bagian 3)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 13 (partie 3)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "6",
+          "pair2": "7"
+        },
+        {
+          "pair1": "7",
+          "pair2": "6"
+        },
+        {
+          "pair1": "8",
+          "pair2": "5"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Make up a number 13 (part 4)",
+      "image": "/img/dict/math/p13.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 13 (часть 4)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 13 (phần 4)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到13 (部分 4)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 13 बनाएं (भाग 4)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 13 (ส่วนที่ 4)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "13 sayısını oluştur (bölüm 4)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 13 (parte 4)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 13 (Teil 4)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 13 (bagian 4)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 13 (partie 4)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "9",
+          "pair2": "4"
+        },
+        {
+          "pair1": "10",
+          "pair2": "3"
+        },
+        {
+          "pair1": "11",
+          "pair2": "2"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Make up a number 13 (part 5)",
+      "image": "/img/dict/math/p13.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 13 (часть 5)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 13 (phần 5)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到13 (部分 5)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 13 बनाएं (भाग 5)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 13 (ส่วนที่ 5)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "13 sayısını oluştur (bölüm 5)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 13 (parte 5)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 13 (Teil 5)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 13 (bagian 5)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 13 (partie 5)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "12",
+          "pair2": "1"
+        },
+        {
+          "pair1": "13",
+          "pair2": "0"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Make up a number 14",
+      "image": "/img/dict/math/p14.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 14",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 14",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到14",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 14 बनाएं",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 14",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "14 sayısını oluştur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 14",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 14",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 14",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 14",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "0",
+          "pair2": "14"
+        },
+        {
+          "pair1": "1",
+          "pair2": "13"
+        },
+        {
+          "pair1": "2",
+          "pair2": "12"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Make up a number 14 (part 2)",
+      "image": "/img/dict/math/p14.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 14 (часть 2)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 14 (phần 2)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到14 (部分 2)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 14 बनाएं (भाग 2)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 14 (ส่วนที่ 2)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "14 sayısını oluştur (bölüm 2)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 14 (parte 2)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 14 (Teil 2)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 14 (bagian 2)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 14 (partie 2)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "3",
+          "pair2": "11"
+        },
+        {
+          "pair1": "4",
+          "pair2": "10"
+        },
+        {
+          "pair1": "5",
+          "pair2": "9"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Make up a number 14 (part 3)",
+      "image": "/img/dict/math/p14.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 14 (часть 3)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 14 (phần 3)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到14 (部分 3)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 14 बनाएं (भाग 3)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 14 (ส่วนที่ 3)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "14 sayısını oluştur (bölüm 3)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 14 (parte 3)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 14 (Teil 3)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 14 (bagian 3)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 14 (partie 3)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "6",
+          "pair2": "8"
+        },
+        {
+          "pair1": "7",
+          "pair2": "7"
+        },
+        {
+          "pair1": "8",
+          "pair2": "6"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Make up a number 14 (part 4)",
+      "image": "/img/dict/math/p14.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 14 (часть 4)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 14 (phần 4)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到14 (部分 4)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 14 बनाएं (भाग 4)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 14 (ส่วนที่ 4)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "14 sayısını oluştur (bölüm 4)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 14 (parte 4)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 14 (Teil 4)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 14 (bagian 4)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 14 (partie 4)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "9",
+          "pair2": "5"
+        },
+        {
+          "pair1": "10",
+          "pair2": "4"
+        },
+        {
+          "pair1": "11",
+          "pair2": "3"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Make up a number 14 (part 5)",
+      "image": "/img/dict/math/p14.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 14 (часть 5)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 14 (phần 5)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到14 (部分 5)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 14 बनाएं (भाग 5)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 14 (ส่วนที่ 5)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "14 sayısını oluştur (bölüm 5)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 14 (parte 5)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 14 (Teil 5)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 14 (bagian 5)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 14 (partie 5)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "12",
+          "pair2": "2"
+        },
+        {
+          "pair1": "13",
+          "pair2": "1"
+        },
+        {
+          "pair1": "14",
+          "pair2": "0"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Make up a number 15",
+      "image": "/img/dict/math/p15.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 15",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 15",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到15",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 15 बनाएं",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 15",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "15 sayısını oluştur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 15",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 15",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 15",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 15",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "0",
+          "pair2": "15"
+        },
+        {
+          "pair1": "1",
+          "pair2": "14"
+        },
+        {
+          "pair1": "2",
+          "pair2": "13"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Make up a number 15 (part 2)",
+      "image": "/img/dict/math/p15.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 15 (часть 2)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 15 (phần 2)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到15 (部分 2)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 15 बनाएं (भाग 2)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 15 (ส่วนที่ 2)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "15 sayısını oluştur (bölüm 2)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 15 (parte 2)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 15 (Teil 2)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 15 (bagian 2)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 15 (partie 2)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "3",
+          "pair2": "12"
+        },
+        {
+          "pair1": "4",
+          "pair2": "11"
+        },
+        {
+          "pair1": "5",
+          "pair2": "10"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Make up a number 15 (part 3)",
+      "image": "/img/dict/math/p15.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 15 (часть 3)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 15 (phần 3)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到15 (部分 3)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 15 बनाएं (भाग 3)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 15 (ส่วนที่ 3)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "15 sayısını oluştur (bölüm 3)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 15 (parte 3)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 15 (Teil 3)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 15 (bagian 3)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 15 (partie 3)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "6",
+          "pair2": "9"
+        },
+        {
+          "pair1": "7",
+          "pair2": "8"
+        },
+        {
+          "pair1": "8",
+          "pair2": "7"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Make up a number 15 (part 4)",
+      "image": "/img/dict/math/p15.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 15 (часть 4)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 15 (phần 4)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到15 (部分 4)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 15 बनाएं (भाग 4)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 15 (ส่วนที่ 4)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "15 sayısını oluştur (bölüm 4)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 15 (parte 4)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 15 (Teil 4)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 15 (bagian 4)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 15 (partie 4)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "9",
+          "pair2": "6"
+        },
+        {
+          "pair1": "10",
+          "pair2": "5"
+        },
+        {
+          "pair1": "11",
+          "pair2": "4"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Make up a number 15 (part 5)",
+      "image": "/img/dict/math/p15.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 15 (часть 5)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 15 (phần 5)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到15 (部分 5)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 15 बनाएं (भाग 5)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 15 (ส่วนที่ 5)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "15 sayısını oluştur (bölüm 5)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 15 (parte 5)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 15 (Teil 5)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 15 (bagian 5)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 15 (partie 5)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "12",
+          "pair2": "3"
+        },
+        {
+          "pair1": "13",
+          "pair2": "2"
+        },
+        {
+          "pair1": "14",
+          "pair2": "1"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Make up a number 15 (part 6)",
+      "image": "/img/dict/math/p15.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 15 (часть 6)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 15 (phần 6)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到15 (部分 6)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 15 बनाएं (भाग 6)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 15 (ส่วนที่ 6)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "15 sayısını oluştur (bölüm 6)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 15 (parte 6)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 15 (Teil 6)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 15 (bagian 6)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 15 (partie 6)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "15",
+          "pair2": "0"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Make up a number 16",
+      "image": "/img/dict/math/p16.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 16",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 16",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到16",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 16 बनाएं",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 16",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "16 sayısını oluştur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 16",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 16",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 16",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 16",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "0",
+          "pair2": "16"
+        },
+        {
+          "pair1": "1",
+          "pair2": "15"
+        },
+        {
+          "pair1": "2",
+          "pair2": "14"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Make up a number 16 (part 2)",
+      "image": "/img/dict/math/p16.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 16 (часть 2)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 16 (phần 2)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到16 (部分 2)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 16 बनाएं (भाग 2)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 16 (ส่วนที่ 2)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "16 sayısını oluştur (bölüm 2)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 16 (parte 2)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 16 (Teil 2)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 16 (bagian 2)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 16 (partie 2)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "3",
+          "pair2": "13"
+        },
+        {
+          "pair1": "4",
+          "pair2": "12"
+        },
+        {
+          "pair1": "5",
+          "pair2": "11"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Make up a number 16 (part 3)",
+      "image": "/img/dict/math/p16.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 16 (часть 3)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 16 (phần 3)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到16 (部分 3)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 16 बनाएं (भाग 3)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 16 (ส่วนที่ 3)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "16 sayısını oluştur (bölüm 3)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 16 (parte 3)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 16 (Teil 3)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 16 (bagian 3)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 16 (partie 3)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "6",
+          "pair2": "10"
+        },
+        {
+          "pair1": "7",
+          "pair2": "9"
+        },
+        {
+          "pair1": "8",
+          "pair2": "8"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Make up a number 16 (part 4)",
+      "image": "/img/dict/math/p16.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 16 (часть 4)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 16 (phần 4)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到16 (部分 4)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 16 बनाएं (भाग 4)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 16 (ส่วนที่ 4)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "16 sayısını oluştur (bölüm 4)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 16 (parte 4)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 16 (Teil 4)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 16 (bagian 4)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 16 (partie 4)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "9",
+          "pair2": "7"
+        },
+        {
+          "pair1": "10",
+          "pair2": "6"
+        },
+        {
+          "pair1": "11",
+          "pair2": "5"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Make up a number 16 (part 5)",
+      "image": "/img/dict/math/p16.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 16 (часть 5)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 16 (phần 5)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到16 (部分 5)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 16 बनाएं (भाग 5)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 16 (ส่วนที่ 5)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "16 sayısını oluştur (bölüm 5)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 16 (parte 5)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 16 (Teil 5)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 16 (bagian 5)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 16 (partie 5)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "12",
+          "pair2": "4"
+        },
+        {
+          "pair1": "13",
+          "pair2": "3"
+        },
+        {
+          "pair1": "14",
+          "pair2": "2"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Make up a number 16 (part 6)",
+      "image": "/img/dict/math/p16.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 16 (часть 6)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 16 (phần 6)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到16 (部分 6)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 16 बनाएं (भाग 6)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 16 (ส่วนที่ 6)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "16 sayısını oluştur (bölüm 6)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 16 (parte 6)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 16 (Teil 6)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 16 (bagian 6)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 16 (partie 6)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "15",
+          "pair2": "1"
+        },
+        {
+          "pair1": "16",
+          "pair2": "0"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Make up a number 17",
+      "image": "/img/dict/math/p17.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 17",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 17",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到17",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 17 बनाएं",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 17",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "17 sayısını oluştur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 17",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 17",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 17",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 17",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "0",
+          "pair2": "17"
+        },
+        {
+          "pair1": "1",
+          "pair2": "16"
+        },
+        {
+          "pair1": "2",
+          "pair2": "15"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Make up a number 17 (part 2)",
+      "image": "/img/dict/math/p17.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 17 (часть 2)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 17 (phần 2)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到17 (部分 2)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 17 बनाएं (भाग 2)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 17 (ส่วนที่ 2)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "17 sayısını oluştur (bölüm 2)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 17 (parte 2)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 17 (Teil 2)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 17 (bagian 2)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 17 (partie 2)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "3",
+          "pair2": "14"
+        },
+        {
+          "pair1": "4",
+          "pair2": "13"
+        },
+        {
+          "pair1": "5",
+          "pair2": "12"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Make up a number 17 (part 3)",
+      "image": "/img/dict/math/p17.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 17 (часть 3)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 17 (phần 3)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到17 (部分 3)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 17 बनाएं (भाग 3)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 17 (ส่วนที่ 3)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "17 sayısını oluştur (bölüm 3)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 17 (parte 3)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 17 (Teil 3)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 17 (bagian 3)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 17 (partie 3)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "6",
+          "pair2": "11"
+        },
+        {
+          "pair1": "7",
+          "pair2": "10"
+        },
+        {
+          "pair1": "8",
+          "pair2": "9"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Make up a number 17 (part 4)",
+      "image": "/img/dict/math/p17.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 17 (часть 4)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 17 (phần 4)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到17 (部分 4)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 17 बनाएं (भाग 4)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 17 (ส่วนที่ 4)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "17 sayısını oluştur (bölüm 4)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 17 (parte 4)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 17 (Teil 4)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 17 (bagian 4)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 17 (partie 4)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "9",
+          "pair2": "8"
+        },
+        {
+          "pair1": "10",
+          "pair2": "7"
+        },
+        {
+          "pair1": "11",
+          "pair2": "6"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Make up a number 17 (part 5)",
+      "image": "/img/dict/math/p17.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 17 (часть 5)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 17 (phần 5)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到17 (部分 5)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 17 बनाएं (भाग 5)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 17 (ส่วนที่ 5)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "17 sayısını oluştur (bölüm 5)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 17 (parte 5)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 17 (Teil 5)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 17 (bagian 5)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 17 (partie 5)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "12",
+          "pair2": "5"
+        },
+        {
+          "pair1": "13",
+          "pair2": "4"
+        },
+        {
+          "pair1": "14",
+          "pair2": "3"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Make up a number 17 (part 6)",
+      "image": "/img/dict/math/p17.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 17 (часть 6)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 17 (phần 6)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到17 (部分 6)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 17 बनाएं (भाग 6)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 17 (ส่วนที่ 6)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "17 sayısını oluştur (bölüm 6)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 17 (parte 6)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 17 (Teil 6)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 17 (bagian 6)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 17 (partie 6)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "15",
+          "pair2": "2"
+        },
+        {
+          "pair1": "16",
+          "pair2": "1"
+        },
+        {
+          "pair1": "17",
+          "pair2": "0"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Make up a number 18",
+      "image": "/img/dict/math/p18.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 18",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 18",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到18",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 18 बनाएं",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 18",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "18 sayısını oluştur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 18",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 18",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 18",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 18",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "0",
+          "pair2": "18"
+        },
+        {
+          "pair1": "1",
+          "pair2": "17"
+        },
+        {
+          "pair1": "2",
+          "pair2": "16"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Make up a number 18 (part 2)",
+      "image": "/img/dict/math/p18.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 18 (часть 2)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 18 (phần 2)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到18 (部分 2)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 18 बनाएं (भाग 2)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 18 (ส่วนที่ 2)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "18 sayısını oluştur (bölüm 2)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 18 (parte 2)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 18 (Teil 2)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 18 (bagian 2)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 18 (partie 2)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "3",
+          "pair2": "15"
+        },
+        {
+          "pair1": "4",
+          "pair2": "14"
+        },
+        {
+          "pair1": "5",
+          "pair2": "13"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Make up a number 18 (part 3)",
+      "image": "/img/dict/math/p18.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 18 (часть 3)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 18 (phần 3)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到18 (部分 3)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 18 बनाएं (भाग 3)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 18 (ส่วนที่ 3)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "18 sayısını oluştur (bölüm 3)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 18 (parte 3)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 18 (Teil 3)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 18 (bagian 3)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 18 (partie 3)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "6",
+          "pair2": "12"
+        },
+        {
+          "pair1": "7",
+          "pair2": "11"
+        },
+        {
+          "pair1": "8",
+          "pair2": "10"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Make up a number 18 (part 4)",
+      "image": "/img/dict/math/p18.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 18 (часть 4)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 18 (phần 4)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到18 (部分 4)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 18 बनाएं (भाग 4)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 18 (ส่วนที่ 4)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "18 sayısını oluştur (bölüm 4)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 18 (parte 4)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 18 (Teil 4)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 18 (bagian 4)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 18 (partie 4)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "9",
+          "pair2": "9"
+        },
+        {
+          "pair1": "10",
+          "pair2": "8"
+        },
+        {
+          "pair1": "11",
+          "pair2": "7"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Make up a number 18 (part 5)",
+      "image": "/img/dict/math/p18.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 18 (часть 5)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 18 (phần 5)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到18 (部分 5)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 18 बनाएं (भाग 5)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 18 (ส่วนที่ 5)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "18 sayısını oluştur (bölüm 5)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 18 (parte 5)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 18 (Teil 5)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 18 (bagian 5)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 18 (partie 5)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "12",
+          "pair2": "6"
+        },
+        {
+          "pair1": "13",
+          "pair2": "5"
+        },
+        {
+          "pair1": "14",
+          "pair2": "4"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Make up a number 18 (part 6)",
+      "image": "/img/dict/math/p18.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 18 (часть 6)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 18 (phần 6)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到18 (部分 6)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 18 बनाएं (भाग 6)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 18 (ส่วนที่ 6)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "18 sayısını oluştur (bölüm 6)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 18 (parte 6)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 18 (Teil 6)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 18 (bagian 6)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 18 (partie 6)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "15",
+          "pair2": "3"
+        },
+        {
+          "pair1": "16",
+          "pair2": "2"
+        },
+        {
+          "pair1": "17",
+          "pair2": "1"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Make up a number 18 (part 7)",
+      "image": "/img/dict/math/p18.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 18 (часть 7)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 18 (phần 7)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到18 (部分 7)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 18 बनाएं (भाग 7)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 18 (ส่วนที่ 7)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "18 sayısını oluştur (bölüm 7)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 18 (parte 7)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 18 (Teil 7)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 18 (bagian 7)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 18 (partie 7)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "18",
+          "pair2": "0"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Make up a number 19",
+      "image": "/img/dict/math/p19.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 19",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 19",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到19",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 19 बनाएं",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 19",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "19 sayısını oluştur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 19",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 19",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 19",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 19",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "0",
+          "pair2": "19"
+        },
+        {
+          "pair1": "1",
+          "pair2": "18"
+        },
+        {
+          "pair1": "2",
+          "pair2": "17"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Make up a number 19 (part 2)",
+      "image": "/img/dict/math/p19.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 19 (часть 2)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 19 (phần 2)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到19 (部分 2)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 19 बनाएं (भाग 2)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 19 (ส่วนที่ 2)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "19 sayısını oluştur (bölüm 2)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 19 (parte 2)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 19 (Teil 2)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 19 (bagian 2)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 19 (partie 2)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "3",
+          "pair2": "16"
+        },
+        {
+          "pair1": "4",
+          "pair2": "15"
+        },
+        {
+          "pair1": "5",
+          "pair2": "14"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Make up a number 19 (part 3)",
+      "image": "/img/dict/math/p19.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 19 (часть 3)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 19 (phần 3)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到19 (部分 3)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 19 बनाएं (भाग 3)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 19 (ส่วนที่ 3)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "19 sayısını oluştur (bölüm 3)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 19 (parte 3)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 19 (Teil 3)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 19 (bagian 3)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 19 (partie 3)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "6",
+          "pair2": "13"
+        },
+        {
+          "pair1": "7",
+          "pair2": "12"
+        },
+        {
+          "pair1": "8",
+          "pair2": "11"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Make up a number 19 (part 4)",
+      "image": "/img/dict/math/p19.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 19 (часть 4)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 19 (phần 4)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到19 (部分 4)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 19 बनाएं (भाग 4)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 19 (ส่วนที่ 4)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "19 sayısını oluştur (bölüm 4)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 19 (parte 4)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 19 (Teil 4)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 19 (bagian 4)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 19 (partie 4)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "9",
+          "pair2": "10"
+        },
+        {
+          "pair1": "10",
+          "pair2": "9"
+        },
+        {
+          "pair1": "11",
+          "pair2": "8"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Make up a number 19 (part 5)",
+      "image": "/img/dict/math/p19.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 19 (часть 5)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 19 (phần 5)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到19 (部分 5)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 19 बनाएं (भाग 5)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 19 (ส่วนที่ 5)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "19 sayısını oluştur (bölüm 5)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 19 (parte 5)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 19 (Teil 5)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 19 (bagian 5)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 19 (partie 5)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "12",
+          "pair2": "7"
+        },
+        {
+          "pair1": "13",
+          "pair2": "6"
+        },
+        {
+          "pair1": "14",
+          "pair2": "5"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Make up a number 19 (part 6)",
+      "image": "/img/dict/math/p19.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 19 (часть 6)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 19 (phần 6)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到19 (部分 6)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 19 बनाएं (भाग 6)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 19 (ส่วนที่ 6)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "19 sayısını oluştur (bölüm 6)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 19 (parte 6)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 19 (Teil 6)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 19 (bagian 6)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 19 (partie 6)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "15",
+          "pair2": "4"
+        },
+        {
+          "pair1": "16",
+          "pair2": "3"
+        },
+        {
+          "pair1": "17",
+          "pair2": "2"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Make up a number 19 (part 7)",
+      "image": "/img/dict/math/p19.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 19 (часть 7)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 19 (phần 7)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到19 (部分 7)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 19 बनाएं (भाग 7)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 19 (ส่วนที่ 7)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "19 sayısını oluştur (bölüm 7)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 19 (parte 7)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 19 (Teil 7)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 19 (bagian 7)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 19 (partie 7)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "18",
+          "pair2": "1"
+        },
+        {
+          "pair1": "19",
+          "pair2": "0"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Make up a number 20",
+      "image": "/img/dict/math/p20.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 20",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 20",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到20",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 20 बनाएं",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 20",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "20 sayısını oluştur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 20",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 20",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 20",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 20",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "0",
+          "pair2": "20"
+        },
+        {
+          "pair1": "1",
+          "pair2": "19"
+        },
+        {
+          "pair1": "2",
+          "pair2": "18"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Make up a number 20 (part 2)",
+      "image": "/img/dict/math/p20.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 20 (часть 2)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 20 (phần 2)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到20 (部分 2)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 20 बनाएं (भाग 2)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 20 (ส่วนที่ 2)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "20 sayısını oluştur (bölüm 2)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 20 (parte 2)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 20 (Teil 2)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 20 (bagian 2)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 20 (partie 2)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "3",
+          "pair2": "17"
+        },
+        {
+          "pair1": "4",
+          "pair2": "16"
+        },
+        {
+          "pair1": "5",
+          "pair2": "15"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Make up a number 20 (part 3)",
+      "image": "/img/dict/math/p20.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 20 (часть 3)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 20 (phần 3)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到20 (部分 3)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 20 बनाएं (भाग 3)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 20 (ส่วนที่ 3)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "20 sayısını oluştur (bölüm 3)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 20 (parte 3)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 20 (Teil 3)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 20 (bagian 3)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 20 (partie 3)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "6",
+          "pair2": "14"
+        },
+        {
+          "pair1": "7",
+          "pair2": "13"
+        },
+        {
+          "pair1": "8",
+          "pair2": "12"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Make up a number 20 (part 4)",
+      "image": "/img/dict/math/p20.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 20 (часть 4)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 20 (phần 4)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到20 (部分 4)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 20 बनाएं (भाग 4)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 20 (ส่วนที่ 4)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "20 sayısını oluştur (bölüm 4)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 20 (parte 4)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 20 (Teil 4)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 20 (bagian 4)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 20 (partie 4)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "9",
+          "pair2": "11"
+        },
+        {
+          "pair1": "10",
+          "pair2": "10"
+        },
+        {
+          "pair1": "11",
+          "pair2": "9"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Make up a number 20 (part 5)",
+      "image": "/img/dict/math/p20.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 20 (часть 5)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 20 (phần 5)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到20 (部分 5)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 20 बनाएं (भाग 5)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 20 (ส่วนที่ 5)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "20 sayısını oluştur (bölüm 5)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 20 (parte 5)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 20 (Teil 5)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 20 (bagian 5)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 20 (partie 5)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "12",
+          "pair2": "8"
+        },
+        {
+          "pair1": "13",
+          "pair2": "7"
+        },
+        {
+          "pair1": "14",
+          "pair2": "6"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Make up a number 20 (part 6)",
+      "image": "/img/dict/math/p20.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 20 (часть 6)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 20 (phần 6)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到20 (部分 6)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 20 बनाएं (भाग 6)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 20 (ส่วนที่ 6)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "20 sayısını oluştur (bölüm 6)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 20 (parte 6)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 20 (Teil 6)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 20 (bagian 6)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 20 (partie 6)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "15",
+          "pair2": "5"
+        },
+        {
+          "pair1": "16",
+          "pair2": "4"
+        },
+        {
+          "pair1": "17",
+          "pair2": "3"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Make up a number 20 (part 7)",
+      "image": "/img/dict/math/p20.png",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Состав числа 20 (часть 7)",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Thành phần số 20 (phần 7)",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "数字组成到20 (部分 7)",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या 20 बनाएं (भाग 7)",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "สร้างหมายเลข 20 (ส่วนที่ 7)",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "20 sayısını oluştur (bölüm 7)",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Forme o número 20 (parte 7)",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Bilde die Zahl 20 (Teil 7)",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Buat angka 20 (bagian 7)",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Composez le nombre 20 (partie 7)",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "18",
+          "pair2": "2"
+        },
+        {
+          "pair1": "19",
+          "pair2": "1"
+        },
+        {
+          "pair1": "20",
+          "pair2": "0"
+        }
+      ]
+    }
+  ]
+}

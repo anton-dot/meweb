@@ -1,0 +1,353 @@
+{
+  "name": "composition of 20",
+  "nameA": null,
+  "img": "/img/dict/math/school.png",
+  "minQuiz": 5,
+  "isRandom": true,
+  "isBlur": true,
+  "isForAdult": false,
+  "separator": "",
+  "numWords": 36,
+  "tags": null,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Состав числа до 20",
+      "nameA": null
+    },
+    {
+      "lang": "en-US",
+      "name": "Number composition up to 20",
+      "nameA": null
+    },
+    {
+      "lang": "es-ES",
+      "name": "Composición numérica hasta 20",
+      "nameA": null
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Composition des nombres jusqu'à 20",
+      "nameA": null
+    },
+    {
+      "lang": "de-DE",
+      "name": "Zusammensetzung der Zahlen bis 20",
+      "nameA": null
+    },
+    {
+      "lang": "zh-CN",
+      "name": "数字组成到20",
+      "nameA": null
+    },
+    {
+      "lang": "ja-JP",
+      "name": "20までの数の構成",
+      "nameA": null
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Composição numérica até 20",
+      "nameA": null
+    },
+    {
+      "lang": "hi-IN",
+      "name": "20 तक संख्या संयोजन",
+      "nameA": null
+    },
+    {
+      "lang": "ar-SA",
+      "name": "تكوين الأعداد حتى 20",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "id": 1,
+      "name": "Match numbers group 1",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сопоставьте число с количеством",
+          "nameA": null
+        },
+        {
+          "lang": "en-US",
+          "name": "Match number to quantity",
+          "nameA": null
+        },
+        {
+          "lang": "es-ES",
+          "name": "Relaciona número con cantidad",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Associer nombre à quantité",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Zahl der Menge zuordnen",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "将数字与数量匹配",
+          "nameA": null
+        },
+        {
+          "lang": "ja-JP",
+          "name": "数字と数量を一致させる",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Relacione número à quantidade",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या को मात्रा से मिलाएं",
+          "nameA": null
+        },
+        {
+          "lang": "ar-SA",
+          "name": "تطابق الرقم مع الكمية",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "10",
+          "img1": "/img/dict/math/c10.png",
+          "pair2": "10"
+        },
+        {
+          "pair1": "11",
+          "img1": "/img/dict/math/c11.png",
+          "pair2": "11"
+        },
+        {
+          "pair1": "12",
+          "img1": "/img/dict/math/c12.png",
+          "pair2": "12"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Match numbers group 2",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сопоставьте число с количеством",
+          "nameA": null
+        },
+        {
+          "lang": "en-US",
+          "name": "Match number to quantity",
+          "nameA": null
+        },
+        {
+          "lang": "es-ES",
+          "name": "Relaciona número con cantidad",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Associer nombre à quantité",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Zahl der Menge zuordnen",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "将数字与数量匹配",
+          "nameA": null
+        },
+        {
+          "lang": "ja-JP",
+          "name": "数字と数量を一致させる",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Relacione número à quantidade",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या को मात्रा से मिलाएं",
+          "nameA": null
+        },
+        {
+          "lang": "ar-SA",
+          "name": "تطابق الرقم مع الكمية",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "13",
+          "img1": "/img/dict/math/c13.png",
+          "pair2": "13"
+        },
+        {
+          "pair1": "14",
+          "img1": "/img/dict/math/c14.png",
+          "pair2": "14"
+        },
+        {
+          "pair1": "15",
+          "img1": "/img/dict/math/c15.png",
+          "pair2": "15"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Match numbers group 3",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сопоставьте число с количеством",
+          "nameA": null
+        },
+        {
+          "lang": "en-US",
+          "name": "Match number to quantity",
+          "nameA": null
+        },
+        {
+          "lang": "es-ES",
+          "name": "Relaciona número con cantidad",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Associer nombre à quantité",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Zahl der Menge zuordnen",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "将数字与数量匹配",
+          "nameA": null
+        },
+        {
+          "lang": "ja-JP",
+          "name": "数字と数量を一致させる",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Relacione número à quantidade",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या को मात्रा से मिलाएं",
+          "nameA": null
+        },
+        {
+          "lang": "ar-SA",
+          "name": "تطابق الرقم مع الكمية",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "16",
+          "img1": "/img/dict/math/c16.png",
+          "pair2": "16"
+        },
+        {
+          "pair1": "17",
+          "img1": "/img/dict/math/c17.png",
+          "pair2": "17"
+        },
+        {
+          "pair1": "18",
+          "img1": "/img/dict/math/c18.png",
+          "pair2": "18"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Match numbers group 4",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сопоставьте число с количеством",
+          "nameA": null
+        },
+        {
+          "lang": "en-US",
+          "name": "Match number to quantity",
+          "nameA": null
+        },
+        {
+          "lang": "es-ES",
+          "name": "Relaciona número con cantidad",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Associer nombre à quantité",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Zahl der Menge zuordnen",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "将数字与数量匹配",
+          "nameA": null
+        },
+        {
+          "lang": "ja-JP",
+          "name": "数字と数量を一致させる",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Relacione número à quantidade",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "संख्या को मात्रा से मिलाएं",
+          "nameA": null
+        },
+        {
+          "lang": "ar-SA",
+          "name": "تطابق الرقم مع الكمية",
+          "nameA": null
+        }
+      ],
+      "pairs": [
+        {
+          "pair1": "19",
+          "img1": "/img/dict/math/c19.png",
+          "pair2": "19"
+        },
+        {
+          "pair1": "20",
+          "img1": "/img/dict/math/c20.png",
+          "pair2": "20"
+        }
+      ]
+    }
+  ]
+}
