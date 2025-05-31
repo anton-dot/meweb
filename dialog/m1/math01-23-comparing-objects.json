@@ -1,1 +1,2219 @@
-{"name":"Comparing Objects","bg":"/img/story/bg/classroom.png","age":0,"translations":[{"lang":"ru-RU","name":"Сравнение предметов"},{"lang":"vi-VN","name":"So sánh các đối tượng"},{"lang":"zh-CN","name":"比较对象"},{"lang":"hi-IN","name":"वस्तुओं की तुलना करना"},{"lang":"th-TH","name":"การเปรียบเทียบวัตถุ"},{"lang":"tr-TR","name":"Nesneleri Karşılaştırma"},{"lang":"pt-BR","name":"Comparando objetos"},{"lang":"de-DE","name":"Objekte vergleichen"},{"lang":"id-ID","name":"Membandingkan objek"},{"lang":"fr-FR","name":"Comparaison des objets"}],"items":[{"name":"Let’s compare things: more, less, same.","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Давай сравнивать: больше, меньше, столько же."},{"lang":"vi-VN","name":"Hãy để so sánh mọi thứ: nhiều hơn, ít hơn, giống nhau."},{"lang":"zh-CN","name":"让我们比较事物：更多，更少，相同。"},{"lang":"hi-IN","name":"आइए चीजों की तुलना करें: अधिक, कम, समान।"},{"lang":"th-TH","name":"มาเปรียบเทียบสิ่งต่าง ๆ : มากขึ้นน้อยลงเหมือนกัน"},{"lang":"tr-TR","name":"Bir şeyleri karşılaştıralım: daha az, daha az, aynı."},{"lang":"pt-BR","name":"Vamos comparar as coisas: mais, menos, o mesmo."},{"lang":"de-DE","name":"Vergleichen wir Dinge: mehr, weniger, gleich."},{"lang":"id-ID","name":"Mari kita bandingkan hal -hal: Lebih, lebih sedikit, sama."},{"lang":"fr-FR","name":"Comparons les choses: plus, moins, la même chose."}],"actions":[]},{"name":"Like who has more cookies?","actor":"Student","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Например, у кого больше печенек?"},{"lang":"vi-VN","name":"Giống như ai có nhiều bánh quy hơn?"},{"lang":"zh-CN","name":"就像谁有更多饼干？"},{"lang":"hi-IN","name":"जैसे कि अधिक कुकीज़ किसके पास हैं?"},{"lang":"th-TH","name":"เหมือนใครมีคุกกี้มากขึ้น?"},{"lang":"tr-TR","name":"Kimin daha fazla kurabiyesi olduğu gibi?"},{"lang":"pt-BR","name":"Como quem tem mais biscoitos?"},{"lang":"de-DE","name":"Wie wer hat mehr Kekse?"},{"lang":"id-ID","name":"Seperti siapa yang punya kue lebih banyak?"},{"lang":"fr-FR","name":"Comme qui a plus de biscuits?"}],"actions":[]},{"name":"Exactly! If Anna has 5 and Max has 3, who has more?","image":"/img/story/math/c5c3.png","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Точно! У Анны 5, у Макса 3. У кого больше?"},{"lang":"vi-VN","name":"Chính xác!  Nếu Anna có 5 và Max có 3, ai có nhiều hơn?"},{"lang":"zh-CN","name":"确切地！ 如果安娜有5岁，麦克斯有3岁，谁拥有更多？"},{"lang":"hi-IN","name":"बिल्कुल!  अगर अन्ना के पास 5 और मैक्स के पास 3 हैं, तो कौन अधिक है?"},{"lang":"th-TH","name":"อย่างแน่นอน!  ถ้าแอนนามี 5 และแม็กซ์มี 3 คนมีใครมากกว่ากัน?"},{"lang":"tr-TR","name":"Kesinlikle!  Anna\u0027nın 5 ve Max\u0027in 3\u0027ü varsa, kim daha fazlası var?"},{"lang":"pt-BR","name":"Exatamente!  Se Anna tem 5 e Max tem 3, quem tem mais?"},{"lang":"de-DE","name":"Genau!  Wenn Anna 5 und Max 3 hat, wer hat mehr?"},{"lang":"id-ID","name":"Tepat!  Jika Anna memiliki 5 dan Max memiliki 3, siapa yang memiliki lebih banyak?"},{"lang":"fr-FR","name":"Exactement!  Si Anna en a 5 et Max en a 3, qui en a plus?"}],"actions":[]},{"name":"Anna!","image":"/img/story/math/c5.png","actor":"Student","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"У Анны!"},{"lang":"vi-VN","name":"Anna!"},{"lang":"zh-CN","name":"安娜！"},{"lang":"hi-IN","name":"अन्ना!"},{"lang":"th-TH","name":"แอนนา"},{"lang":"tr-TR","name":"Kam!"},{"lang":"pt-BR","name":"Anna!"},{"lang":"de-DE","name":"Anna!"},{"lang":"id-ID","name":"Anna!"},{"lang":"fr-FR","name":"Anna!"}],"actions":[]},{"name":"Right! And Max has fewer cookies.","image":"/img/story/math/c3.png","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Верно! А у Макса меньше печенек."},{"lang":"vi-VN","name":"Và Max có ít bánh quy hơn."},{"lang":"zh-CN","name":"正确的！ 麦克斯的饼干更少。"},{"lang":"hi-IN","name":"सही!  और मैक्स में कम कुकीज़ हैं।"},{"lang":"th-TH","name":"ขวา!  และแม็กซ์มีคุกกี้น้อยลง"},{"lang":"tr-TR","name":"Sağ!  Ve Max\u0027in daha az çerezi var."},{"lang":"pt-BR","name":"Certo!  E Max tem menos biscoitos."},{"lang":"de-DE","name":"Rechts!  Und Max hat weniger Kekse."},{"lang":"id-ID","name":"Dan Max punya lebih sedikit kue."},{"lang":"fr-FR","name":"Droite!  Et Max a moins de cookies."}],"actions":[]},{"name":"Now they both have 4. What can we say?","image":"/img/story/math/c4c4.png","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Теперь у них по 4. Что мы можем сказать?"},{"lang":"vi-VN","name":"Bây giờ cả hai đều có 4. Chúng ta có thể nói gì?"},{"lang":"zh-CN","name":"现在他们都有4个。我们能说什么？"},{"lang":"hi-IN","name":"अब वे दोनों 4 हैं। हम क्या कह सकते हैं?"},{"lang":"th-TH","name":"ตอนนี้พวกเขาทั้งคู่มี 4. เราจะพูดอะไรได้บ้าง?"},{"lang":"tr-TR","name":"Şimdi ikisinin de 4 var. Ne diyebiliriz?"},{"lang":"pt-BR","name":"Agora ambos têm 4. O que podemos dizer?"},{"lang":"de-DE","name":"Jetzt haben sie beide 4. Was können wir sagen?"},{"lang":"id-ID","name":"Sekarang mereka berdua memiliki 4. Apa yang bisa kita katakan?"},{"lang":"fr-FR","name":"Maintenant, ils ont tous les deux 4. Que pouvons-nous dire?"}],"actions":[]},{"name":"They have the same!","image":"/img/story/math/c4c4.png","actor":"Student","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"У них поровну!"},{"lang":"vi-VN","name":"Họ có giống nhau!"},{"lang":"zh-CN","name":"他们有一样！"},{"lang":"hi-IN","name":"उनके पास वही है!"},{"lang":"th-TH","name":"พวกเขามีเหมือนกัน!"},{"lang":"tr-TR","name":"Aynı şey var!"},{"lang":"pt-BR","name":"Eles têm o mesmo!"},{"lang":"de-DE","name":"Sie haben das gleiche!"},{"lang":"id-ID","name":"Mereka memiliki hal yang sama!"},{"lang":"fr-FR","name":"Ils ont la même chose!"}],"actions":[]},{"name":"Perfect! Now look at the apples. Who has more?","image":"/img/story/math/a2a3.png","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Отлично! Смотри на яблоки. Где больше?"},{"lang":"vi-VN","name":"Hoàn hảo!  Bây giờ hãy nhìn vào những quả táo.  Ai có nhiều hơn?"},{"lang":"zh-CN","name":"完美的！ 现在看苹果。 谁还有更多？"},{"lang":"hi-IN","name":"उत्तम!  अब सेब को देखो।  कौन अधिक है?"},{"lang":"th-TH","name":"สมบูรณ์แบบ!  ตอนนี้ดูแอปเปิ้ล  ใครมีมากกว่านี้?"},{"lang":"tr-TR","name":"Mükemmel!  Şimdi elmalara bak.  Kim daha çok var?"},{"lang":"pt-BR","name":"Perfeito!  Agora olhe para as maçãs.  Quem tem mais?"},{"lang":"de-DE","name":"Perfekt!  Schauen Sie sich nun die Äpfel an.  Wer hat mehr?"},{"lang":"id-ID","name":"Sempurna!  Sekarang lihat apelnya.  Siapa yang punya lebih banyak?"},{"lang":"fr-FR","name":"Parfait!  Regardez maintenant les pommes.  Qui a plus?"}],"actions":[{"name":"Three apples","isCorrect":true,"score":1,"translates":[{"lang":"ru-RU","name":"Три яблока"},{"lang":"vi-VN","name":"Ba quả táo"},{"lang":"zh-CN","name":"三个苹果"},{"lang":"hi-IN","name":"तीन सेब"},{"lang":"th-TH","name":"สามแอปเปิ้ล"},{"lang":"tr-TR","name":"Üç Elma"},{"lang":"pt-BR","name":"Três maçãs"},{"lang":"de-DE","name":"Drei Äpfel"},{"lang":"id-ID","name":"Tiga apel"},{"lang":"fr-FR","name":"Trois pommes"}]},{"name":"Two apples","isCorrect":false,"score":0,"translates":[{"lang":"ru-RU","name":"Два яблока"},{"lang":"vi-VN","name":"Hai quả táo"},{"lang":"zh-CN","name":"两个苹果"},{"lang":"hi-IN","name":"दो सेब"},{"lang":"th-TH","name":"แอปเปิ้ลสองตัว"},{"lang":"tr-TR","name":"İki Elma"},{"lang":"pt-BR","name":"Duas maçãs"},{"lang":"de-DE","name":"Zwei Äpfel"},{"lang":"id-ID","name":"Dua apel"},{"lang":"fr-FR","name":"Deux pommes"}]},{"name":"Same","isCorrect":false,"score":0,"translates":[{"lang":"ru-RU","name":"Поровну"},{"lang":"vi-VN","name":"Như nhau"},{"lang":"zh-CN","name":"相同的"},{"lang":"hi-IN","name":"वही"},{"lang":"th-TH","name":"เดียวกัน"},{"lang":"tr-TR","name":"Aynı"},{"lang":"pt-BR","name":"Mesmo"},{"lang":"de-DE","name":"Dasselbe"},{"lang":"id-ID","name":"Sama"},{"lang":"fr-FR","name":"Même"}]}]},{"name":"Now which has fewer?","image":"/img/story/math/a2a3.png","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"А где меньше: ?"},{"lang":"vi-VN","name":"Bây giờ cái nào có ít hơn?"},{"lang":"zh-CN","name":"现在哪个更少？"},{"lang":"hi-IN","name":"अब कौन कम है?"},{"lang":"th-TH","name":"ตอนนี้มีน้อยกว่า?"},{"lang":"tr-TR","name":"Şimdi hangisinin daha azı var?"},{"lang":"pt-BR","name":"Agora, o que tem menos?"},{"lang":"de-DE","name":"Was hat nun weniger?"},{"lang":"id-ID","name":"Sekarang mana yang lebih sedikit?"},{"lang":"fr-FR","name":"Maintenant, qui a moins?"}],"actions":[{"name":"Two apples","isCorrect":true,"score":1,"translates":[{"lang":"ru-RU","name":"Два яблока"},{"lang":"vi-VN","name":"Hai quả táo"},{"lang":"zh-CN","name":"两个苹果"},{"lang":"hi-IN","name":"दो सेब"},{"lang":"th-TH","name":"แอปเปิ้ลสองตัว"},{"lang":"tr-TR","name":"İki Elma"},{"lang":"pt-BR","name":"Duas maçãs"},{"lang":"de-DE","name":"Zwei Äpfel"},{"lang":"id-ID","name":"Dua apel"},{"lang":"fr-FR","name":"Deux pommes"}]},{"name":"Three apples","isCorrect":false,"score":0,"translates":[{"lang":"ru-RU","name":"Четыре яблока"},{"lang":"vi-VN","name":"Ba quả táo"},{"lang":"zh-CN","name":"三个苹果"},{"lang":"hi-IN","name":"तीन सेब"},{"lang":"th-TH","name":"สามแอปเปิ้ล"},{"lang":"tr-TR","name":"Üç Elma"},{"lang":"pt-BR","name":"Três maçãs"},{"lang":"de-DE","name":"Drei Äpfel"},{"lang":"id-ID","name":"Tiga apel"},{"lang":"fr-FR","name":"Trois pommes"}]},{"name":"Same","isCorrect":false,"score":0,"translates":[{"lang":"ru-RU","name":"Поровну"},{"lang":"vi-VN","name":"Như nhau"},{"lang":"zh-CN","name":"相同的"},{"lang":"hi-IN","name":"वही"},{"lang":"th-TH","name":"เดียวกัน"},{"lang":"tr-TR","name":"Aynı"},{"lang":"pt-BR","name":"Mesmo"},{"lang":"de-DE","name":"Dasselbe"},{"lang":"id-ID","name":"Sama"},{"lang":"fr-FR","name":"Même"}]}]},{"name":"And now: Who has more?","image":"/img/story/math/c2c2.png","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"А теперь: У кого больше?"},{"lang":"vi-VN","name":"Và bây giờ: Ai có nhiều hơn?"},{"lang":"zh-CN","name":"现在：谁还有更多？"},{"lang":"hi-IN","name":"और अब: कौन अधिक है?"},{"lang":"th-TH","name":"และตอนนี้: ใครมีมากกว่านี้?"},{"lang":"tr-TR","name":"Ve şimdi: Kim daha çok var?"},{"lang":"pt-BR","name":"E agora: quem tem mais?"},{"lang":"de-DE","name":"Und jetzt: Wer hat mehr?"},{"lang":"id-ID","name":"Dan sekarang: siapa yang punya lebih banyak?"},{"lang":"fr-FR","name":"Et maintenant: qui a plus?"}],"actions":[{"name":"Same","isCorrect":true,"score":1,"translates":[{"lang":"ru-RU","name":"Поровну"},{"lang":"vi-VN","name":"Như nhau"},{"lang":"zh-CN","name":"相同的"},{"lang":"hi-IN","name":"वही"},{"lang":"th-TH","name":"เดียวกัน"},{"lang":"tr-TR","name":"Aynı"},{"lang":"pt-BR","name":"Mesmo"},{"lang":"de-DE","name":"Dasselbe"},{"lang":"id-ID","name":"Sama"},{"lang":"fr-FR","name":"Même"}]},{"name":"Left side","isCorrect":false,"score":0,"translates":[{"lang":"ru-RU","name":"Слева"},{"lang":"vi-VN","name":"Bên trái"},{"lang":"zh-CN","name":"左侧"},{"lang":"hi-IN","name":"बाईं तरफ"},{"lang":"th-TH","name":"ด้านซ้าย"},{"lang":"tr-TR","name":"Sol taraf"},{"lang":"pt-BR","name":"Lado esquerdo"},{"lang":"de-DE","name":"Linke Seite"},{"lang":"id-ID","name":"Sisi kiri"},{"lang":"fr-FR","name":"Côté gauche"}]},{"name":"Right side","isCorrect":false,"score":0,"translates":[{"lang":"ru-RU","name":"Справа"},{"lang":"vi-VN","name":"Bên phải"},{"lang":"zh-CN","name":"右侧"},{"lang":"hi-IN","name":"दाहिनी ओर"},{"lang":"th-TH","name":"ด้านขวา"},{"lang":"tr-TR","name":"Sağ taraf"},{"lang":"pt-BR","name":"Lado direito"},{"lang":"de-DE","name":"Rechte Seite"},{"lang":"id-ID","name":"Sisi kanan"},{"lang":"fr-FR","name":"Côté droit"}]}]},{"name":"Wonderful! You can compare like a real mathematician!","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Замечательно! Ты сравниваешь как настоящий математик!"},{"lang":"vi-VN","name":"Tuyệt vời!  Bạn có thể so sánh như một nhà toán học thực sự!"},{"lang":"zh-CN","name":"精彩的！ 您可以像真正的数学家一样比较！"},{"lang":"hi-IN","name":"आश्चर्यजनक!  आप एक वास्तविक गणितज्ञ की तरह तुलना कर सकते हैं!"},{"lang":"th-TH","name":"มหัศจรรย์!  คุณสามารถเปรียบเทียบได้เหมือนนักคณิตศาสตร์จริง!"},{"lang":"tr-TR","name":"Müthiş!  Gerçek bir matematikçi gibi karşılaştırabilirsiniz!"},{"lang":"pt-BR","name":"Maravilhoso!  Você pode comparar como um verdadeiro matemático!"},{"lang":"de-DE","name":"Wunderbar!  Sie können sich wie ein echter Mathematiker vergleichen!"},{"lang":"id-ID","name":"Luar biasa!  Anda dapat membandingkan seperti ahli matematika sejati!"},{"lang":"fr-FR","name":"Merveilleux!  Vous pouvez comparer comme un vrai mathématicien!"}],"actions":[]},{"name":"Now look at the numbers: 7 and 4. Which is greater?","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Посмотри на числа: 7 и 4. Какое больше?"},{"lang":"vi-VN","name":"Bây giờ hãy nhìn vào các con số: 7 và 4. Cái nào lớn hơn?"},{"lang":"zh-CN","name":"现在看数字：7和4。哪个更大？"},{"lang":"hi-IN","name":"अब संख्याओं को देखें: 7 और 4। कौन सा अधिक है?"},{"lang":"th-TH","name":"ตอนนี้ดูที่ตัวเลข: 7 และ 4. ไหนดีกว่ากัน?"},{"lang":"tr-TR","name":"Şimdi sayılara bakın: 7 ve 4. Hangisi daha büyük?"},{"lang":"pt-BR","name":"Agora olhe para os números: 7 e 4. O que é maior?"},{"lang":"de-DE","name":"Schauen Sie sich nun die Zahlen an: 7 und 4. Was ist größer?"},{"lang":"id-ID","name":"Sekarang lihat angka: 7 dan 4. Mana yang lebih besar?"},{"lang":"fr-FR","name":"Regardez maintenant les chiffres: 7 et 4. Quel est plus grand?"}],"actions":[{"name":"7","isCorrect":true,"score":1,"translates":[{"lang":"ru-RU","name":"7"},{"lang":"vi-VN","name":"7"},{"lang":"zh-CN","name":"7"},{"lang":"hi-IN","name":"7"},{"lang":"th-TH","name":"7"},{"lang":"tr-TR","name":"7"},{"lang":"pt-BR","name":"7"},{"lang":"de-DE","name":"7"},{"lang":"id-ID","name":"7"},{"lang":"fr-FR","name":"7"}]},{"name":"4","isCorrect":false,"score":0,"translates":[{"lang":"ru-RU","name":"4"},{"lang":"vi-VN","name":"4"},{"lang":"zh-CN","name":"4"},{"lang":"hi-IN","name":"4"},{"lang":"th-TH","name":"4"},{"lang":"tr-TR","name":"4"},{"lang":"pt-BR","name":"4"},{"lang":"de-DE","name":"4"},{"lang":"id-ID","name":"4"},{"lang":"fr-FR","name":"4"}]},{"name":"Same","isCorrect":false,"score":0,"translates":[{"lang":"ru-RU","name":"Поровну"},{"lang":"vi-VN","name":"Như nhau"},{"lang":"zh-CN","name":"相同的"},{"lang":"hi-IN","name":"वही"},{"lang":"th-TH","name":"เดียวกัน"},{"lang":"tr-TR","name":"Aynı"},{"lang":"pt-BR","name":"Mesmo"},{"lang":"de-DE","name":"Dasselbe"},{"lang":"id-ID","name":"Sama"},{"lang":"fr-FR","name":"Même"}]}]},{"name":"Which is less: 2 or 5?","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Что меньше: 2 или 5?"},{"lang":"vi-VN","name":"Cái nào ít hơn: 2 hay 5?"},{"lang":"zh-CN","name":"哪个少：2或5？"},{"lang":"hi-IN","name":"कौन सा कम है: 2 या 5?"},{"lang":"th-TH","name":"อันไหนน้อยกว่า: 2 หรือ 5?"},{"lang":"tr-TR","name":"Hangisi daha az: 2 veya 5?"},{"lang":"pt-BR","name":"Qual é menos: 2 ou 5?"},{"lang":"de-DE","name":"Was ist weniger: 2 oder 5?"},{"lang":"id-ID","name":"Mana yang kurang: 2 atau 5?"},{"lang":"fr-FR","name":"Quel est moins: 2 ou 5?"}],"actions":[{"name":"2","isCorrect":true,"score":1,"translates":[{"lang":"ru-RU","name":"2"},{"lang":"vi-VN","name":"2"},{"lang":"zh-CN","name":"2"},{"lang":"hi-IN","name":"2"},{"lang":"th-TH","name":"2"},{"lang":"tr-TR","name":"2"},{"lang":"pt-BR","name":"2"},{"lang":"de-DE","name":"2"},{"lang":"id-ID","name":"2"},{"lang":"fr-FR","name":"2"}]},{"name":"5","isCorrect":false,"score":0,"translates":[{"lang":"ru-RU","name":"5"},{"lang":"vi-VN","name":"5"},{"lang":"zh-CN","name":"5"},{"lang":"hi-IN","name":"5"},{"lang":"th-TH","name":"5"},{"lang":"tr-TR","name":"5"},{"lang":"pt-BR","name":"5"},{"lang":"de-DE","name":"5"},{"lang":"id-ID","name":"5"},{"lang":"fr-FR","name":"5"}]},{"name":"Same","isCorrect":false,"score":0,"translates":[{"lang":"ru-RU","name":"Поровну"},{"lang":"vi-VN","name":"Như nhau"},{"lang":"zh-CN","name":"相同的"},{"lang":"hi-IN","name":"वही"},{"lang":"th-TH","name":"เดียวกัน"},{"lang":"tr-TR","name":"Aynı"},{"lang":"pt-BR","name":"Mesmo"},{"lang":"de-DE","name":"Dasselbe"},{"lang":"id-ID","name":"Sama"},{"lang":"fr-FR","name":"Même"}]}]},{"name":"Compare: 3 apples and number 2. Which is more?","image":"/img/story/math/a3.png","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Сравни: 3 яблока  и число 2. Что больше?"},{"lang":"vi-VN","name":"So sánh: 3 quả táo và số 2. Cái nào nhiều hơn?"},{"lang":"zh-CN","name":"比较：3个苹果和2。哪个？"},{"lang":"hi-IN","name":"तुलना करें: 3 सेब और नंबर 2। कौन अधिक है?"},{"lang":"th-TH","name":"เปรียบเทียบ: แอปเปิ้ล 3 แอปเปิ้ลและหมายเลข 2 อะไรมากกว่ากัน?"},{"lang":"tr-TR","name":"Karşılaştırın: 3 elma ve 2 numara. Hangisi daha fazla?"},{"lang":"pt-BR","name":"Compare: 3 maçãs e número 2. O que é mais?"},{"lang":"de-DE","name":"Vergleichen Sie: 3 Äpfel und Nummer 2. Was ist mehr?"},{"lang":"id-ID","name":"Bandingkan: 3 apel dan nomor 2. Mana yang lebih?"},{"lang":"fr-FR","name":"Comparez: 3 pommes et numéro 2. Quel est le plus?"}],"actions":[{"name":"3 apples","isCorrect":true,"score":1,"translates":[{"lang":"ru-RU","name":"3 яблока"},{"lang":"vi-VN","name":"3 quả táo"},{"lang":"zh-CN","name":"3个苹果"},{"lang":"hi-IN","name":"3 सेब"},{"lang":"th-TH","name":"3 แอปเปิ้ล"},{"lang":"tr-TR","name":"3 Elma"},{"lang":"pt-BR","name":"3 maçãs"},{"lang":"de-DE","name":"3 Äpfel"},{"lang":"id-ID","name":"3 apel"},{"lang":"fr-FR","name":"3 pommes"}]},{"name":"2","isCorrect":false,"score":0,"translates":[{"lang":"ru-RU","name":"2"},{"lang":"vi-VN","name":"2"},{"lang":"zh-CN","name":"2"},{"lang":"hi-IN","name":"2"},{"lang":"th-TH","name":"2"},{"lang":"tr-TR","name":"2"},{"lang":"pt-BR","name":"2"},{"lang":"de-DE","name":"2"},{"lang":"id-ID","name":"2"},{"lang":"fr-FR","name":"2"}]},{"name":"Same","isCorrect":false,"score":0,"translates":[{"lang":"ru-RU","name":"Поровну"},{"lang":"vi-VN","name":"Như nhau"},{"lang":"zh-CN","name":"相同的"},{"lang":"hi-IN","name":"वही"},{"lang":"th-TH","name":"เดียวกัน"},{"lang":"tr-TR","name":"Aynı"},{"lang":"pt-BR","name":"Mesmo"},{"lang":"de-DE","name":"Dasselbe"},{"lang":"id-ID","name":"Sama"},{"lang":"fr-FR","name":"Même"}]}]},{"name":"Compare: number 4 and 2 cockies. Which is less?","image":"/img/story/math/c2.png","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Сравни: число 4 . Что меньше?"},{"lang":"vi-VN","name":"So sánh: Số 4 và 2 co giãn.  Cái nào ít hơn?"},{"lang":"zh-CN","name":"比较：第4和2个cockies。 哪个少？"},{"lang":"hi-IN","name":"तुलना करें: नंबर 4 और 2 कॉकिस।  जो कम है?"},{"lang":"th-TH","name":"เปรียบเทียบ: หมายเลข 4 และ 2 cockies  อันไหนน้อย?"},{"lang":"tr-TR","name":"Karşılaştırın: 4 ve 2 numarası.  Hangisi daha az?"},{"lang":"pt-BR","name":"Compare: Número 4 e 2 Cockies.  O que é menos?"},{"lang":"de-DE","name":"Vergleichen Sie: Nummer 4 und 2 Cockies.  Was ist weniger?"},{"lang":"id-ID","name":"Bandingkan: Nomor 4 dan 2 Cockies.  Mana yang kurang?"},{"lang":"fr-FR","name":"Comparez: numéro 4 et 2 cockies.  Quel est moins?"}],"actions":[{"name":"2 cookies","isCorrect":true,"score":1,"translates":[{"lang":"ru-RU","name":"2 печенья"},{"lang":"vi-VN","name":"2 cookie"},{"lang":"zh-CN","name":"2个饼干"},{"lang":"hi-IN","name":"2 कुकीज़"},{"lang":"th-TH","name":"2 คุกกี้"},{"lang":"tr-TR","name":"2 kurabiye"},{"lang":"pt-BR","name":"2 cookies"},{"lang":"de-DE","name":"2 Kekse"},{"lang":"id-ID","name":"2 cookie"},{"lang":"fr-FR","name":"2 cookies"}]},{"name":"4","isCorrect":false,"score":0,"translates":[{"lang":"ru-RU","name":"4"},{"lang":"vi-VN","name":"4"},{"lang":"zh-CN","name":"4"},{"lang":"hi-IN","name":"4"},{"lang":"th-TH","name":"4"},{"lang":"tr-TR","name":"4"},{"lang":"pt-BR","name":"4"},{"lang":"de-DE","name":"4"},{"lang":"id-ID","name":"4"},{"lang":"fr-FR","name":"4"}]},{"name":"Same","isCorrect":false,"score":0,"translates":[{"lang":"ru-RU","name":"Поровну"},{"lang":"vi-VN","name":"Như nhau"},{"lang":"zh-CN","name":"相同的"},{"lang":"hi-IN","name":"वही"},{"lang":"th-TH","name":"เดียวกัน"},{"lang":"tr-TR","name":"Aynı"},{"lang":"pt-BR","name":"Mesmo"},{"lang":"de-DE","name":"Dasselbe"},{"lang":"id-ID","name":"Sama"},{"lang":"fr-FR","name":"Même"}]}]},{"name":"Last one! 6 apples and 6. Are they the same?","image":"/img/story/math/a6.png","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Последний! 6 арбузов  и число 6. Это одинаково?"},{"lang":"vi-VN","name":"Cuối cùng!  6 quả táo và 6. Chúng giống nhau?"},{"lang":"zh-CN","name":"最后一个！  6个苹果和6个。它们是一样的吗？"},{"lang":"hi-IN","name":"अंतिम बाला!  6 सेब और 6। क्या वे समान हैं?"},{"lang":"th-TH","name":"สุดท้าย!  6 แอปเปิ้ลและ 6. พวกเขาเหมือนกันหรือไม่?"},{"lang":"tr-TR","name":"Sonuncusu!  6 elma ve 6. Onlar aynı mı?"},{"lang":"pt-BR","name":"Último!  6 maçãs e 6. Eles são iguais?"},{"lang":"de-DE","name":"Letzter!  6 Äpfel und 6. Sind sie gleich?"},{"lang":"id-ID","name":"Yang terakhir!  6 apel dan 6. Apakah mereka sama?"},{"lang":"fr-FR","name":"Le dernier!  6 pommes et 6. Sont-ils les mêmes?"}],"actions":[{"name":"Same","isCorrect":true,"score":1,"translates":[{"lang":"ru-RU","name":"Поровну"},{"lang":"vi-VN","name":"Như nhau"},{"lang":"zh-CN","name":"相同的"},{"lang":"hi-IN","name":"वही"},{"lang":"th-TH","name":"เดียวกัน"},{"lang":"tr-TR","name":"Aynı"},{"lang":"pt-BR","name":"Mesmo"},{"lang":"de-DE","name":"Dasselbe"},{"lang":"id-ID","name":"Sama"},{"lang":"fr-FR","name":"Même"}]},{"name":"More apples","isCorrect":false,"score":0,"translates":[{"lang":"ru-RU","name":"Больше \uD83C\uDF49"},{"lang":"vi-VN","name":"Nhiều táo hơn"},{"lang":"zh-CN","name":"更多苹果"},{"lang":"hi-IN","name":"अधिक सेब"},{"lang":"th-TH","name":"แอปเปิ้ลมากขึ้น"},{"lang":"tr-TR","name":"Daha Fazla Elma"},{"lang":"pt-BR","name":"Mais maçãs"},{"lang":"de-DE","name":"Weitere Äpfel"},{"lang":"id-ID","name":"Lebih banyak apel"},{"lang":"fr-FR","name":"Plus de pommes"}]},{"name":"More 6","isCorrect":false,"score":0,"translates":[{"lang":"ru-RU","name":"Больше 6"},{"lang":"vi-VN","name":"Thêm 6"},{"lang":"zh-CN","name":"更多6"},{"lang":"hi-IN","name":"अधिक 6"},{"lang":"th-TH","name":"มากกว่า 6"},{"lang":"tr-TR","name":"Daha 6"},{"lang":"pt-BR","name":"Mais 6"},{"lang":"de-DE","name":"Mehr 6"},{"lang":"id-ID","name":"Lebih 6"},{"lang":"fr-FR","name":"Plus 6"}]}]},{"name":"Now let’s learn the symbols we use in math!","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Теперь давай узнаем, какие символы мы используем в математике!"},{"lang":"vi-VN","name":"Bây giờ, hãy để học các biểu tượng chúng ta sử dụng trong toán học!"},{"lang":"zh-CN","name":"现在让我们学习数学中使用的符号！"},{"lang":"hi-IN","name":"अब हम उन प्रतीकों को जानें जो हम गणित में उपयोग करते हैं!"},{"lang":"th-TH","name":"ตอนนี้มาเรียนรู้สัญลักษณ์ที่เราใช้ในคณิตศาสตร์กันเถอะ!"},{"lang":"tr-TR","name":"Şimdi matematikte kullandığımız sembolleri öğrenelim!"},{"lang":"pt-BR","name":"Agora vamos aprender os símbolos que usamos em matemática!"},{"lang":"de-DE","name":"Lassen Sie uns nun die Symbole lernen, die wir in Mathematik verwenden!"},{"lang":"id-ID","name":"Sekarang mari kita pelajari simbol yang kita gunakan dalam matematika!"},{"lang":"fr-FR","name":"Prenons maintenant les symboles que nous utilisons en mathématiques!"}],"actions":[]},{"name":"We use \u003E for greater than. 7 \u003E 5 means 7 is more.","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Мы используем \u003E чтобы показать \u0027больше\u0027. 7 \u003E 5 значит 7 больше."},{"lang":"vi-VN","name":"Chúng tôi sử dụng\u003E cho lớn hơn.  7\u003E 5 có nghĩa là 7 là nhiều hơn."},{"lang":"zh-CN","name":"我们使用\u003E大于。  7\u003E 5意味着7更多。"},{"lang":"hi-IN","name":"हम अधिक से अधिक के लिए उपयोग करते हैं।  7\u003E 5 का मतलब 7 अधिक है।"},{"lang":"th-TH","name":"เราใช้\u003E มากกว่า  7\u003E 5 หมายถึง 7 มากขึ้น"},{"lang":"tr-TR","name":"Daha büyük için kullanıyoruz.  7\u003E 5, 7\u0027nin daha fazla olduğu anlamına gelir."},{"lang":"pt-BR","name":"Usamos\u003E para maior que.  7\u003E 5 significa que 7 é mais."},{"lang":"de-DE","name":"Wir verwenden\u003E für größer als.  7\u003E 5 bedeutet 7 ist mehr."},{"lang":"id-ID","name":"Kami menggunakan\u003E untuk lebih dari.  7\u003E 5 berarti 7 lebih."},{"lang":"fr-FR","name":"Nous utilisons\u003E pour plus de.  7\u003E 5 signifie que 7 est plus."}],"actions":[]},{"name":"And \u003C means less than. 3 \u003C 6 means 3 is smaller.","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"А \u003C значит \u0027меньше\u0027. 3 \u003C 6 значит 3 меньше."},{"lang":"vi-VN","name":"Và \u003Ccó nghĩa là ít hơn.  3 \u003C6 có nghĩa là 3 nhỏ hơn."},{"lang":"zh-CN","name":"和\u003C表示少于。  3 \u003C6表示3较小。"},{"lang":"hi-IN","name":"और \u003Cसे कम का मतलब है।  3 \u003C6 का अर्थ है 3 छोटा है।"},{"lang":"th-TH","name":"และ \u003Cหมายถึงน้อยกว่า  3 \u003C6 หมายถึง 3 มีขนาดเล็กลง"},{"lang":"tr-TR","name":"Ve \u003Cdaha az demektir.  3 \u003C6, 3\u0027ün daha küçük olduğu anlamına gelir."},{"lang":"pt-BR","name":"E \u003Csignifica menos do que.  3 \u003C6 significa que 3 é menor."},{"lang":"de-DE","name":"Und \u003Cbedeutet weniger als.  3 \u003C6 bedeutet 3 ist kleiner."},{"lang":"id-ID","name":"Dan \u003Cberarti kurang dari.  3 \u003C6 berarti 3 lebih kecil."},{"lang":"fr-FR","name":"Et \u003Csignifie moins que.  3 \u003C6 signifie que 3 est plus petit."}],"actions":[]},{"name":"When numbers are the same, we use =. Like 4 = 4.","actor":"Teacher","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Когда числа одинаковые, мы используем =. Например, 4 = 4."},{"lang":"vi-VN","name":"Khi các số giống nhau, chúng tôi sử dụng =.  Như 4 = 4."},{"lang":"zh-CN","name":"当数字相同时，我们使用=。 就像4 = 4。"},{"lang":"hi-IN","name":"जब संख्या समान होती है, तो हम = का उपयोग करते हैं।  जैसे 4 = 4।"},{"lang":"th-TH","name":"เมื่อตัวเลขเหมือนกันเราจะใช้ =  เช่น 4 = 4"},{"lang":"tr-TR","name":"Sayılar aynı olduğunda, kullanırız =.  4 gibi = 4."},{"lang":"pt-BR","name":"Quando os números são iguais, usamos =.  Como 4 = 4."},{"lang":"de-DE","name":"Wenn Zahlen gleich sind, verwenden wir =.  Wie 4 = 4."},{"lang":"id-ID","name":"Ketika angka sama, kami menggunakan =.  Seperti 4 = 4."},{"lang":"fr-FR","name":"Lorsque les nombres sont les mêmes, nous utilisons =.  Comme 4 = 4."}],"actions":[]},{"name":"Got it! \u003E is more, \u003C is less, = is same!","actor":"Student","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Понял! \u003E — больше, \u003C — меньше, = — поровну!"},{"lang":"vi-VN","name":"Hiểu rồi!  \u003E là nhiều hơn, \u003Clà ít hơn, = giống nhau!"},{"lang":"zh-CN","name":"知道了！  \u003E更多，\u003Csill，=是相同的！"},{"lang":"hi-IN","name":"समझ गया!  \u003E अधिक है, \u003Cकम है, = समान है!"},{"lang":"th-TH","name":"เข้าใจแล้ว!  \u003E มีมากขึ้น \u003Cน้อยกว่า = เหมือนกัน!"},{"lang":"tr-TR","name":"Anladım!  \u003E daha fazla, \u003Cdaha az, = aynı!"},{"lang":"pt-BR","name":"Entendi!  \u003E é mais, \u003Cé menor, = é o mesmo!"},{"lang":"de-DE","name":"Habe es!  \u003E Ist mehr, \u003Cist weniger, = ist gleich!"},{"lang":"id-ID","name":"Mengerti!  \u003E Lebih, \u003Ckurang, = sama!"},{"lang":"fr-FR","name":"J\u0027ai compris!  \u003E est plus, \u003Cest moins, = c\u0027est le même!"}],"actions":[]}],"actors":[{"id":"Teacher","name":"Teacher","image":"/img/story/npc/npc_teacher.png","s":"f"},{"id":"Student","name":"Student","image":"/img/story/npc/npc_student.png","s":"u","isRight":false}]}
+{
+  "name": "Comparing Objects",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Сравнение предметов"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "So sánh các đối tượng"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "比较对象"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "वस्तुओं की तुलना करना"
+    },
+    {
+      "lang": "th-TH",
+      "name": "การเปรียบเทียบวัตถุ"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Nesneleri Karşılaştırma"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Comparando objetos"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Objekte vergleichen"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Membandingkan objek"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Comparaison des objets"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s compare things: more, less, same.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай сравнивать: больше, меньше, столько же."
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Hãy để so sánh mọi thứ: nhiều hơn, ít hơn, giống nhau."
+        },
+        {
+          "lang": "zh-CN",
+          "name": "让我们比较事物：更多，更少，相同。"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "आइए चीजों की तुलना करें: अधिक, कम, समान।"
+        },
+        {
+          "lang": "th-TH",
+          "name": "มาเปรียบเทียบสิ่งต่าง ๆ : มากขึ้นน้อยลงเหมือนกัน"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Bir şeyleri karşılaştıralım: daha az, daha az, aynı."
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Vamos comparar as coisas: mais, menos, o mesmo."
+        },
+        {
+          "lang": "de-DE",
+          "name": "Vergleichen wir Dinge: mehr, weniger, gleich."
+        },
+        {
+          "lang": "id-ID",
+          "name": "Mari kita bandingkan hal -hal: Lebih, lebih sedikit, sama."
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Comparons les choses: plus, moins, la même chose."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Like who has more cookies?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Например, у кого больше печенек?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Giống như ai có nhiều bánh quy hơn?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "就像谁有更多饼干？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "जैसे कि अधिक कुकीज़ किसके पास हैं?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เหมือนใครมีคุกกี้มากขึ้น?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Kimin daha fazla kurabiyesi olduğu gibi?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Como quem tem mais biscoitos?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wie wer hat mehr Kekse?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Seperti siapa yang punya kue lebih banyak?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Comme qui a plus de biscuits?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Exactly! If Anna has 5 and Max has 3, who has more?",
+      "image": "/img/story/math/c5c3.png",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Точно! У Анны 5, у Макса 3. У кого больше?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chính xác!  Nếu Anna có 5 và Max có 3, ai có nhiều hơn?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "确切地！ 如果安娜有5岁，麦克斯有3岁，谁拥有更多？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "बिल्कुल!  अगर अन्ना के पास 5 और मैक्स के पास 3 हैं, तो कौन अधिक है?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "อย่างแน่นอน!  ถ้าแอนนามี 5 และแม็กซ์มี 3 คนมีใครมากกว่ากัน?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Kesinlikle!  Anna'nın 5 ve Max'in 3'ü varsa, kim daha fazlası var?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Exatamente!  Se Anna tem 5 e Max tem 3, quem tem mais?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Genau!  Wenn Anna 5 und Max 3 hat, wer hat mehr?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Tepat!  Jika Anna memiliki 5 dan Max memiliki 3, siapa yang memiliki lebih banyak?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Exactement!  Si Anna en a 5 et Max en a 3, qui en a plus?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Anna!",
+      "image": "/img/story/math/c5.png",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "У Анны!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Anna!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "安娜！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "अन्ना!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "แอนนา"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Kam!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Anna!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Anna!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Anna!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Anna!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Right! And Max has fewer cookies.",
+      "image": "/img/story/math/c3.png",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Верно! А у Макса меньше печенек."
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Và Max có ít bánh quy hơn."
+        },
+        {
+          "lang": "zh-CN",
+          "name": "正确的！ 麦克斯的饼干更少。"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "सही!  और मैक्स में कम कुकीज़ हैं।"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ขวา!  และแม็กซ์มีคุกกี้น้อยลง"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Sağ!  Ve Max'in daha az çerezi var."
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Certo!  E Max tem menos biscoitos."
+        },
+        {
+          "lang": "de-DE",
+          "name": "Rechts!  Und Max hat weniger Kekse."
+        },
+        {
+          "lang": "id-ID",
+          "name": "Dan Max punya lebih sedikit kue."
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Droite!  Et Max a moins de cookies."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Now they both have 4. What can we say?",
+      "image": "/img/story/math/c4c4.png",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь у них по 4. Что мы можем сказать?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Bây giờ cả hai đều có 4. Chúng ta có thể nói gì?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "现在他们都有4个。我们能说什么？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "अब वे दोनों 4 हैं। हम क्या कह सकते हैं?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ตอนนี้พวกเขาทั้งคู่มี 4. เราจะพูดอะไรได้บ้าง?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Şimdi ikisinin de 4 var. Ne diyebiliriz?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Agora ambos têm 4. O que podemos dizer?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Jetzt haben sie beide 4. Was können wir sagen?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Sekarang mereka berdua memiliki 4. Apa yang bisa kita katakan?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Maintenant, ils ont tous les deux 4. Que pouvons-nous dire?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "They have the same!",
+      "image": "/img/story/math/c4c4.png",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "У них поровну!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Họ có giống nhau!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "他们有一样！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "उनके पास वही है!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "พวกเขามีเหมือนกัน!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Aynı şey var!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Eles têm o mesmo!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Sie haben das gleiche!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Mereka memiliki hal yang sama!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Ils ont la même chose!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Perfect! Now look at the apples. Who has more?",
+      "image": "/img/story/math/a2a3.png",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Смотри на яблоки. Где больше?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Hoàn hảo!  Bây giờ hãy nhìn vào những quả táo.  Ai có nhiều hơn?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "完美的！ 现在看苹果。 谁还有更多？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "उत्तम!  अब सेब को देखो।  कौन अधिक है?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "สมบูรณ์แบบ!  ตอนนี้ดูแอปเปิ้ล  ใครมีมากกว่านี้?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Mükemmel!  Şimdi elmalara bak.  Kim daha çok var?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Perfeito!  Agora olhe para as maçãs.  Quem tem mais?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Perfekt!  Schauen Sie sich nun die Äpfel an.  Wer hat mehr?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Sempurna!  Sekarang lihat apelnya.  Siapa yang punya lebih banyak?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Parfait!  Regardez maintenant les pommes.  Qui a plus?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Three apples",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Три яблока"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Ba quả táo"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "三个苹果"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "तीन सेब"
+            },
+            {
+              "lang": "th-TH",
+              "name": "สามแอปเปิ้ล"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Üç Elma"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Três maçãs"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Drei Äpfel"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Tiga apel"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Trois pommes"
+            }
+          ]
+        },
+        {
+          "name": "Two apples",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Два яблока"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Hai quả táo"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "两个苹果"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "दो सेब"
+            },
+            {
+              "lang": "th-TH",
+              "name": "แอปเปิ้ลสองตัว"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "İki Elma"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Duas maçãs"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Zwei Äpfel"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Dua apel"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Deux pommes"
+            }
+          ]
+        },
+        {
+          "name": "Same",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Поровну"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Như nhau"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "相同的"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "वही"
+            },
+            {
+              "lang": "th-TH",
+              "name": "เดียวกัน"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Aynı"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Mesmo"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Dasselbe"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Sama"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Même"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Now which has fewer?",
+      "image": "/img/story/math/a2a3.png",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А где меньше: ?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Bây giờ cái nào có ít hơn?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "现在哪个更少？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "अब कौन कम है?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ตอนนี้มีน้อยกว่า?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Şimdi hangisinin daha azı var?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Agora, o que tem menos?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Was hat nun weniger?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Sekarang mana yang lebih sedikit?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Maintenant, qui a moins?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Two apples",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Два яблока"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Hai quả táo"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "两个苹果"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "दो सेब"
+            },
+            {
+              "lang": "th-TH",
+              "name": "แอปเปิ้ลสองตัว"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "İki Elma"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Duas maçãs"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Zwei Äpfel"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Dua apel"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Deux pommes"
+            }
+          ]
+        },
+        {
+          "name": "Three apples",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Четыре яблока"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Ba quả táo"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "三个苹果"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "तीन सेब"
+            },
+            {
+              "lang": "th-TH",
+              "name": "สามแอปเปิ้ล"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Üç Elma"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Três maçãs"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Drei Äpfel"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Tiga apel"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Trois pommes"
+            }
+          ]
+        },
+        {
+          "name": "Same",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Поровну"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Như nhau"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "相同的"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "वही"
+            },
+            {
+              "lang": "th-TH",
+              "name": "เดียวกัน"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Aynı"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Mesmo"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Dasselbe"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Sama"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Même"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "And now: Who has more?",
+      "image": "/img/story/math/c2c2.png",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А теперь: У кого больше?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Và bây giờ: Ai có nhiều hơn?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "现在：谁还有更多？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "और अब: कौन अधिक है?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "และตอนนี้: ใครมีมากกว่านี้?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Ve şimdi: Kim daha çok var?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "E agora: quem tem mais?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Und jetzt: Wer hat mehr?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Dan sekarang: siapa yang punya lebih banyak?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Et maintenant: qui a plus?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Same",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Поровну"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Như nhau"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "相同的"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "वही"
+            },
+            {
+              "lang": "th-TH",
+              "name": "เดียวกัน"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Aynı"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Mesmo"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Dasselbe"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Sama"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Même"
+            }
+          ]
+        },
+        {
+          "name": "Left side",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Слева"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Bên trái"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "左侧"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "बाईं तरफ"
+            },
+            {
+              "lang": "th-TH",
+              "name": "ด้านซ้าย"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Sol taraf"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Lado esquerdo"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Linke Seite"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Sisi kiri"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Côté gauche"
+            }
+          ]
+        },
+        {
+          "name": "Right side",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Справа"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Bên phải"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "右侧"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "दाहिनी ओर"
+            },
+            {
+              "lang": "th-TH",
+              "name": "ด้านขวา"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Sağ taraf"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Lado direito"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Rechte Seite"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Sisi kanan"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Côté droit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wonderful! You can compare like a real mathematician!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Замечательно! Ты сравниваешь как настоящий математик!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Tuyệt vời!  Bạn có thể so sánh như một nhà toán học thực sự!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "精彩的！ 您可以像真正的数学家一样比较！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "आश्चर्यजनक!  आप एक वास्तविक गणितज्ञ की तरह तुलना कर सकते हैं!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "มหัศจรรย์!  คุณสามารถเปรียบเทียบได้เหมือนนักคณิตศาสตร์จริง!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Müthiş!  Gerçek bir matematikçi gibi karşılaştırabilirsiniz!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Maravilhoso!  Você pode comparar como um verdadeiro matemático!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wunderbar!  Sie können sich wie ein echter Mathematiker vergleichen!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Luar biasa!  Anda dapat membandingkan seperti ahli matematika sejati!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Merveilleux!  Vous pouvez comparer comme un vrai mathématicien!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Now look at the numbers: 7 and 4. Which is greater?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Посмотри на числа: 7 и 4. Какое больше?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Bây giờ hãy nhìn vào các con số: 7 và 4. Cái nào lớn hơn?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "现在看数字：7和4。哪个更大？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "अब संख्याओं को देखें: 7 और 4। कौन सा अधिक है?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ตอนนี้ดูที่ตัวเลข: 7 และ 4. ไหนดีกว่ากัน?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Şimdi sayılara bakın: 7 ve 4. Hangisi daha büyük?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Agora olhe para os números: 7 e 4. O que é maior?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Schauen Sie sich nun die Zahlen an: 7 und 4. Was ist größer?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Sekarang lihat angka: 7 dan 4. Mana yang lebih besar?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Regardez maintenant les chiffres: 7 et 4. Quel est plus grand?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "7",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "7"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "7"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "7"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "7"
+            },
+            {
+              "lang": "th-TH",
+              "name": "7"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "7"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "7"
+            },
+            {
+              "lang": "de-DE",
+              "name": "7"
+            },
+            {
+              "lang": "id-ID",
+              "name": "7"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "7"
+            }
+          ]
+        },
+        {
+          "name": "4",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "4"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "4"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "4"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "4"
+            },
+            {
+              "lang": "th-TH",
+              "name": "4"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "4"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "4"
+            },
+            {
+              "lang": "de-DE",
+              "name": "4"
+            },
+            {
+              "lang": "id-ID",
+              "name": "4"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "4"
+            }
+          ]
+        },
+        {
+          "name": "Same",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Поровну"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Như nhau"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "相同的"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "वही"
+            },
+            {
+              "lang": "th-TH",
+              "name": "เดียวกัน"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Aynı"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Mesmo"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Dasselbe"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Sama"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Même"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Which is less: 2 or 5?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что меньше: 2 или 5?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Cái nào ít hơn: 2 hay 5?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "哪个少：2或5？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "कौन सा कम है: 2 या 5?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "อันไหนน้อยกว่า: 2 หรือ 5?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Hangisi daha az: 2 veya 5?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Qual é menos: 2 ou 5?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Was ist weniger: 2 oder 5?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Mana yang kurang: 2 atau 5?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Quel est moins: 2 ou 5?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "2",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "2"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "2"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "2"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "2"
+            },
+            {
+              "lang": "th-TH",
+              "name": "2"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "2"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "2"
+            },
+            {
+              "lang": "de-DE",
+              "name": "2"
+            },
+            {
+              "lang": "id-ID",
+              "name": "2"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "2"
+            }
+          ]
+        },
+        {
+          "name": "5",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "5"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "5"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "5"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "5"
+            },
+            {
+              "lang": "th-TH",
+              "name": "5"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "5"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "5"
+            },
+            {
+              "lang": "de-DE",
+              "name": "5"
+            },
+            {
+              "lang": "id-ID",
+              "name": "5"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "5"
+            }
+          ]
+        },
+        {
+          "name": "Same",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Поровну"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Như nhau"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "相同的"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "वही"
+            },
+            {
+              "lang": "th-TH",
+              "name": "เดียวกัน"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Aynı"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Mesmo"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Dasselbe"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Sama"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Même"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Compare: 3 apples and number 2. Which is more?",
+      "image": "/img/story/math/a3.png",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сравни: 3 яблока  и число 2. Что больше?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "So sánh: 3 quả táo và số 2. Cái nào nhiều hơn?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "比较：3个苹果和2。哪个？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना करें: 3 सेब और नंबर 2। कौन अधिक है?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เปรียบเทียบ: แอปเปิ้ล 3 แอปเปิ้ลและหมายเลข 2 อะไรมากกว่ากัน?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırın: 3 elma ve 2 numara. Hangisi daha fazla?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Compare: 3 maçãs e número 2. O que é mais?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Vergleichen Sie: 3 Äpfel und Nummer 2. Was ist mehr?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Bandingkan: 3 apel dan nomor 2. Mana yang lebih?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Comparez: 3 pommes et numéro 2. Quel est le plus?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "3 apples",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "3 яблока"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "3 quả táo"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "3个苹果"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "3 सेब"
+            },
+            {
+              "lang": "th-TH",
+              "name": "3 แอปเปิ้ล"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "3 Elma"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "3 maçãs"
+            },
+            {
+              "lang": "de-DE",
+              "name": "3 Äpfel"
+            },
+            {
+              "lang": "id-ID",
+              "name": "3 apel"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "3 pommes"
+            }
+          ]
+        },
+        {
+          "name": "2",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "2"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "2"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "2"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "2"
+            },
+            {
+              "lang": "th-TH",
+              "name": "2"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "2"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "2"
+            },
+            {
+              "lang": "de-DE",
+              "name": "2"
+            },
+            {
+              "lang": "id-ID",
+              "name": "2"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "2"
+            }
+          ]
+        },
+        {
+          "name": "Same",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Поровну"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Như nhau"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "相同的"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "वही"
+            },
+            {
+              "lang": "th-TH",
+              "name": "เดียวกัน"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Aynı"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Mesmo"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Dasselbe"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Sama"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Même"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Compare: number 4 and 2 cockies. Which is less?",
+      "image": "/img/story/math/c2.png",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сравни: число 4 . Что меньше?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "So sánh: Số 4 và 2 co giãn.  Cái nào ít hơn?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "比较：第4和2个cockies。 哪个少？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुलना करें: नंबर 4 और 2 कॉकिस।  जो कम है?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เปรียบเทียบ: หมายเลข 4 และ 2 cockies  อันไหนน้อย?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Karşılaştırın: 4 ve 2 numarası.  Hangisi daha az?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Compare: Número 4 e 2 Cockies.  O que é menos?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Vergleichen Sie: Nummer 4 und 2 Cockies.  Was ist weniger?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Bandingkan: Nomor 4 dan 2 Cockies.  Mana yang kurang?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Comparez: numéro 4 et 2 cockies.  Quel est moins?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "2 cookies",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "2 печенья"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "2 bánh quy"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "2个饼干"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "2 कुकीज़"
+            },
+            {
+              "lang": "th-TH",
+              "name": "2 คุกกี้"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "2 kurabiye"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "2 biscoitos"
+            },
+            {
+              "lang": "de-DE",
+              "name": "2 Kekse"
+            },
+            {
+              "lang": "id-ID",
+              "name": "2 kue"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "2 biscuits"
+            }
+          ]
+        },
+        {
+          "name": "4",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "4"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "4"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "4"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "4"
+            },
+            {
+              "lang": "th-TH",
+              "name": "4"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "4"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "4"
+            },
+            {
+              "lang": "de-DE",
+              "name": "4"
+            },
+            {
+              "lang": "id-ID",
+              "name": "4"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "4"
+            }
+          ]
+        },
+        {
+          "name": "Same",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Поровну"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Như nhau"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "相同的"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "वही"
+            },
+            {
+              "lang": "th-TH",
+              "name": "เดียวกัน"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Aynı"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Mesmo"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Dasselbe"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Sama"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Même"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Last one! 6 apples and 6. Are they the same?",
+      "image": "/img/story/math/a6.png",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Последний! 6 арбузов  и число 6. Это одинаково?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Cuối cùng!  6 quả táo và 6. Chúng giống nhau?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "最后一个！  6个苹果和6个。它们是一样的吗？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "अंतिम बाला!  6 सेब और 6। क्या वे समान हैं?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "สุดท้าย!  6 แอปเปิ้ลและ 6. พวกเขาเหมือนกันหรือไม่?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Sonuncusu!  6 elma ve 6. Onlar aynı mı?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Último!  6 maçãs e 6. Eles são iguais?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Letzter!  6 Äpfel und 6. Sind sie gleich?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Yang terakhir!  6 apel dan 6. Apakah mereka sama?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Le dernier!  6 pommes et 6. Sont-ils les mêmes?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Same",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Поровну"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Như nhau"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "相同的"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "वही"
+            },
+            {
+              "lang": "th-TH",
+              "name": "เดียวกัน"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Aynı"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Mesmo"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Dasselbe"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Sama"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Même"
+            }
+          ]
+        },
+        {
+          "name": "More apples",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Больше 🍉"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Nhiều táo hơn"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "更多苹果"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "अधिक सेब"
+            },
+            {
+              "lang": "th-TH",
+              "name": "แอปเปิ้ลมากขึ้น"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Daha Fazla Elma"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Mais maçãs"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Weitere Äpfel"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Lebih banyak apel"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Plus de pommes"
+            }
+          ]
+        },
+        {
+          "name": "More 6",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Больше 6"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Thêm 6"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "更多6"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "अधिक 6"
+            },
+            {
+              "lang": "th-TH",
+              "name": "มากกว่า 6"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Daha 6"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Mais 6"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Mehr 6"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Lebih 6"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Plus 6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Now let’s learn the symbols we use in math!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь давай узнаем, какие символы мы используем в математике!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Bây giờ, hãy để học các biểu tượng chúng ta sử dụng trong toán học!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "现在让我们学习数学中使用的符号！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "अब हम उन प्रतीकों को जानें जो हम गणित में उपयोग करते हैं!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ตอนนี้มาเรียนรู้สัญลักษณ์ที่เราใช้ในคณิตศาสตร์กันเถอะ!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Şimdi matematikte kullandığımız sembolleri öğrenelim!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Agora vamos aprender os símbolos que usamos em matemática!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Lassen Sie uns nun die Symbole lernen, die wir in Mathematik verwenden!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Sekarang mari kita pelajari simbol yang kita gunakan dalam matematika!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Prenons maintenant les symboles que nous utilisons en mathématiques!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "We use > for greater than. 7 > 5 means 7 is more.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мы используем > чтобы показать 'больше'. 7 > 5 значит 7 больше."
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Chúng tôi sử dụng> cho lớn hơn.  7> 5 có nghĩa là 7 là nhiều hơn."
+        },
+        {
+          "lang": "zh-CN",
+          "name": "我们使用>大于。  7> 5意味着7更多。"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "हम अधिक से अधिक के लिए उपयोग करते हैं।  7> 5 का मतलब 7 अधिक है।"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เราใช้> มากกว่า  7> 5 หมายถึง 7 มากขึ้น"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Daha büyük için kullanıyoruz.  7> 5, 7'nin daha fazla olduğu anlamına gelir."
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Usamos> para maior que.  7> 5 significa que 7 é mais."
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wir verwenden> für größer als.  7> 5 bedeutet 7 ist mehr."
+        },
+        {
+          "lang": "id-ID",
+          "name": "Kami menggunakan> untuk lebih dari.  7> 5 berarti 7 lebih."
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Nous utilisons> pour plus de.  7> 5 signifie que 7 est plus."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "And < means less than. 3 < 6 means 3 is smaller.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А < значит 'меньше'. 3 < 6 значит 3 меньше."
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Và <có nghĩa là ít hơn.  3 <6 có nghĩa là 3 nhỏ hơn."
+        },
+        {
+          "lang": "zh-CN",
+          "name": "和<表示少于。  3 <6表示3较小。"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "और <से कम का मतलब है।  3 <6 का अर्थ है 3 छोटा है।"
+        },
+        {
+          "lang": "th-TH",
+          "name": "และ <หมายถึงน้อยกว่า  3 <6 หมายถึง 3 มีขนาดเล็กลง"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Ve <daha az demektir.  3 <6, 3'ün daha küçük olduğu anlamına gelir."
+        },
+        {
+          "lang": "pt-BR",
+          "name": "E <significa menos do que.  3 <6 significa que 3 é menor."
+        },
+        {
+          "lang": "de-DE",
+          "name": "Und <bedeutet weniger als.  3 <6 bedeutet 3 ist kleiner."
+        },
+        {
+          "lang": "id-ID",
+          "name": "Dan <berarti kurang dari.  3 <6 berarti 3 lebih kecil."
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Et <signifie moins que.  3 <6 signifie que 3 est plus petit."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "When numbers are the same, we use =. Like 4 = 4.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Когда числа одинаковые, мы используем =. Например, 4 = 4."
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Khi các số giống nhau, chúng tôi sử dụng =.  Như 4 = 4."
+        },
+        {
+          "lang": "zh-CN",
+          "name": "当数字相同时，我们使用=。 就像4 = 4。"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "जब संख्या समान होती है, तो हम = का उपयोग करते हैं।  जैसे 4 = 4।"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เมื่อตัวเลขเหมือนกันเราจะใช้ =  เช่น 4 = 4"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Sayılar aynı olduğunda, kullanırız =.  4 gibi = 4."
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Quando os números são iguais, usamos =.  Como 4 = 4."
+        },
+        {
+          "lang": "de-DE",
+          "name": "Wenn Zahlen gleich sind, verwenden wir =.  Wie 4 = 4."
+        },
+        {
+          "lang": "id-ID",
+          "name": "Ketika angka sama, kami menggunakan =.  Seperti 4 = 4."
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Lorsque les nombres sont les mêmes, nous utilisons =.  Comme 4 = 4."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Got it! > is more, < is less, = is same!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Понял! > — больше, < — меньше, = — поровну!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Hiểu rồi!  > là nhiều hơn, <là ít hơn, = giống nhau!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "知道了！  >更多，<sill，=是相同的！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "समझ गया!  > अधिक है, <कम है, = समान है!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เข้าใจแล้ว!  > มีมากขึ้น <น้อยกว่า = เหมือนกัน!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Anladım!  > daha fazla, <daha az, = aynı!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Entendi!  > é mais, <é menor, = é o mesmo!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Habe es!  > Ist mehr, <ist weniger, = ist gleich!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Mengerti!  > Lebih, <kurang, = sama!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "J'ai compris!  > est plus, <est moins, = c'est le même!"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u",
+      "isRight": false
+    }
+  ]
+}
