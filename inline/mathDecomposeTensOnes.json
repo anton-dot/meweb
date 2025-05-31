@@ -59,7 +59,7 @@
   "items": [
     {
       "name": "Decompose number - 1",
-      "taskMask": "79 = {txt:70} \u002B {txt:9}\n40 = {txt:40} \u002B {txt:0}\n59 = {txt:50} \u002B {txt:9}\n23 = {txt:20} \u002B {txt:3}",
+      "taskMask": "79 = 70 \u002B 9\n40 = {txt:40} \u002B {txt:0}\n59 = {txt:50} \u002B {txt:9}\n23 = {txt:20} \u002B {txt:3}",
       "nameA": null,
       "image": null,
       "bg": null,
@@ -173,7 +173,7 @@
     },
     {
       "name": "Decompose number - 2",
-      "taskMask": "97 = {txt:90} \u002B {txt:7}\n33 = {txt:30} \u002B {txt:3}\n91 = {txt:90} \u002B {txt:1}\n86 = {txt:80} \u002B {txt:6}",
+      "taskMask": "97 = 90 \u002B 7\n33 = {txt:30} \u002B {txt:3}\n91 = {txt:90} \u002B {txt:1}\n86 = {txt:80} \u002B {txt:6}",
       "nameA": null,
       "image": null,
       "bg": null,
