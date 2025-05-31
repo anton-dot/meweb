@@ -1,0 +1,116 @@
+{
+  "name": "Why do we need division?",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Зачем нужно деление?"
+    }
+  ],
+  "items": [
+    {
+      "name": "Do you know why we learn division?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Знаешь, зачем мы учим деление?"
+        }
+      ]
+    },
+    {
+      "name": "To solve problems with sharing?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Чтобы делить между друзьями?"
+        }
+      ]
+    },
+    {
+      "name": "Exactly! Division helps us share things equally.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Именно! Деление помогает делить вещи поровну."
+        }
+      ]
+    },
+    {
+      "name": "Like when we share snacks at school!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Как когда мы делим еду в школе!"
+        }
+      ]
+    },
+    {
+      "name": "Yes! Or when you want to split 20 toys into 5 boxes — division tells how many per box.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! Или когда ты хочешь разложить 20 игрушек по 5 коробкам — деление подскажет, сколько в каждой."
+        }
+      ]
+    },
+    {
+      "name": "That’s helpful! It makes things fair.",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это полезно! Так честно делить!"
+        }
+      ]
+    },
+    {
+      "name": "Exactly! Division is for sharing, planning, and organizing.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Именно! Деление нужно, чтобы делиться, планировать и упорядочивать."
+        }
+      ]
+    },
+    {
+      "name": "I’ll use it every day now!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь буду использовать его каждый день!"
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u",
+      "isRight": false
+    }
+  ]
+}

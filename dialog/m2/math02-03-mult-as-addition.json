@@ -1,0 +1,105 @@
+{
+  "name": "Multiplication is repeated addition",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Умножение как повторение сложения"
+    }
+  ],
+  "items": [
+    {
+      "name": "Do you remember what multiplication means?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты помнишь, что значит умножение?"
+        }
+      ]
+    },
+    {
+      "name": "Yes! It’s like 2 + 2 + 2.",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! Это как 2 + 2 + 2."
+        }
+      ]
+    },
+    {
+      "name": "Exactly! That’s 3 times 2. We can write it as 3 × 2.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Точно! Это 3 раза по 2. Мы записываем это как 3 × 2."
+        }
+      ]
+    },
+    {
+      "name": "So 4 + 4 + 4 + 4 is 4 × 4?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Значит, 4 + 4 + 4 + 4 — это 4 × 4?"
+        }
+      ]
+    },
+    {
+      "name": "Correct! Four times 4 equals 16.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правильно! 4 раза по 4 — это 16."
+        }
+      ]
+    },
+    {
+      "name": "Wow! Multiplication is faster than adding again and again.",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ух ты! Умножение быстрее, чем всё время складывать."
+        }
+      ]
+    },
+    {
+      "name": "Exactly! That’s why we use it so often in math.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вот именно! Поэтому мы часто используем умножение в математике."
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u",
+      "isRight": false
+    }
+  ]
+}

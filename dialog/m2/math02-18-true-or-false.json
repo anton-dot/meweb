@@ -1,0 +1,127 @@
+{
+  "name": "Game: True or False?",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Игра: правда или ложь?"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s play a game! I’ll say something, and you tell me if it’s true or false!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай сыграем в игру! Я говорю фразу, а ты говоришь — правда или ложь!"
+        }
+      ]
+    },
+    {
+      "name": "I love games! Let’s go!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я обожаю игры! Поехали!"
+        }
+      ]
+    },
+    {
+      "name": "Statement: 5 × 2 = 12. True or false?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Утверждение: 5 × 2 = 12. Правда или ложь?"
+        }
+      ]
+    },
+    {
+      "name": "False! 5 × 2 = 10!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ложь! 5 × 2 = 10!"
+        }
+      ]
+    },
+    {
+      "name": "Correct! Now: 6 ÷ 3 = 2. True or false?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правильно! Теперь: 6 ÷ 3 = 2. Правда или ложь?"
+        }
+      ]
+    },
+    {
+      "name": "That’s true!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это правда!"
+        }
+      ]
+    },
+    {
+      "name": "Great! Next one: 4 × 0 = 4. True or false?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Следующее: 4 × 0 = 4. Правда или ложь?"
+        }
+      ]
+    },
+    {
+      "name": "False! Anything times 0 is 0!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ложь! Любое число, умноженное на 0, даёт 0!"
+        }
+      ]
+    },
+    {
+      "name": "Fantastic! You’re a math detective!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Фантастика! Ты настоящий математический детектив!"
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u",
+      "isRight": false
+    }
+  ]
+}

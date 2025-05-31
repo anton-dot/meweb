@@ -1,0 +1,127 @@
+{
+  "name": "Division is equal sharing",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Деление как разбиение на равные части"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s look closer at what division really means.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай подробнее посмотрим, что такое деление."
+        }
+      ]
+    },
+    {
+      "name": "Okay! I’m ready!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо! Я готов!"
+        }
+      ]
+    },
+    {
+      "name": "Imagine you have 8 apples and 4 friends. You want to share the apples equally.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Представь, что у тебя 8 яблок и 4 друга. Ты хочешь поделить яблоки поровну."
+        }
+      ]
+    },
+    {
+      "name": "So each friend gets 2 apples!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Значит, каждый получит по 2 яблока!"
+        }
+      ]
+    },
+    {
+      "name": "Yes! We just did 8 ÷ 4 = 2. That’s division.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! Мы только что сделали 8 ÷ 4 = 2. Это и есть деление."
+        }
+      ]
+    },
+    {
+      "name": "So it’s about fair sharing?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "То есть это честное деление?"
+        }
+      ]
+    },
+    {
+      "name": "Exactly! We divide things into equal parts so everyone gets the same.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Именно! Мы делим на равные части, чтобы все получили одинаково."
+        }
+      ]
+    },
+    {
+      "name": "That makes sense. I like division now!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь мне понятно. Мне нравится деление!"
+        }
+      ]
+    },
+    {
+      "name": "Great! We'll try more fun examples soon.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Скоро потренируемся на весёлых примерах."
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u",
+      "isRight": false
+    }
+  ]
+}

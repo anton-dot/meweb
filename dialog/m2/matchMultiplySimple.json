@@ -1,0 +1,86 @@
+{
+  "name": "Multiplication practice",
+  "type": "MatchSimple",
+  "data": [
+    {
+      "left": "2 × 3",
+      "right": "6"
+    },
+    {
+      "left": "5 × 2",
+      "right": "10"
+    },
+    {
+      "left": "4 × 4",
+      "right": "16"
+    },
+    {
+      "left": "3 × 6",
+      "right": "18"
+    },
+    {
+      "left": "1 × 9",
+      "right": "9"
+    },
+    {
+      "left": "0 × 8",
+      "right": "0"
+    },
+    {
+      "left": "7 × 1",
+      "right": "7"
+    },
+    {
+      "left": "6 × 5",
+      "right": "30"
+    },
+    {
+      "left": "2 × 10",
+      "right": "20"
+    },
+    {
+      "left": "3 × 3",
+      "right": "9"
+    },
+    {
+      "left": "8 × 2",
+      "right": "16"
+    },
+    {
+      "left": "9 × 0",
+      "right": "0"
+    },
+    {
+      "left": "10 × 1",
+      "right": "10"
+    },
+    {
+      "left": "5 × 5",
+      "right": "25"
+    },
+    {
+      "left": "6 × 2",
+      "right": "12"
+    },
+    {
+      "left": "4 × 6",
+      "right": "24"
+    },
+    {
+      "left": "7 × 3",
+      "right": "21"
+    },
+    {
+      "left": "8 × 1",
+      "right": "8"
+    },
+    {
+      "left": "9 × 2",
+      "right": "18"
+    },
+    {
+      "left": "10 × 0",
+      "right": "0"
+    }
+  ]
+}

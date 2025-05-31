@@ -1,0 +1,116 @@
+{
+  "name": "Why do we need multiplication?",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Зачем нужно умножение?"
+    }
+  ],
+  "items": [
+    {
+      "name": "Have you ever wondered why we learn multiplication?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты когда-нибудь задумывался, зачем мы учим умножение?"
+        }
+      ]
+    },
+    {
+      "name": "Hmm... to solve math problems?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хм... Чтобы решать задачи?"
+        }
+      ]
+    },
+    {
+      "name": "Yes! But we also use it in real life — like shopping or building things!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! Но мы используем его и в жизни — например, в магазине или при строительстве!"
+        }
+      ]
+    },
+    {
+      "name": "Really? How?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правда? Как?"
+        }
+      ]
+    },
+    {
+      "name": "Imagine buying 3 boxes of pencils, each with 10 pencils. You use multiplication to find the total: 3 × 10 = 30.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Представь, ты покупаешь 3 коробки карандашей, в каждой по 10 штук. Умножение помогает узнать общее количество: 3 × 10 = 30."
+        }
+      ]
+    },
+    {
+      "name": "Oh! That’s fast! No need to add again and again.",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "О! Это быстро! Не нужно складывать снова и снова."
+        }
+      ]
+    },
+    {
+      "name": "Exactly! Multiplication helps you solve things faster and smarter.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Именно! Умножение помогает решать задачи быстрее и умнее."
+        }
+      ]
+    },
+    {
+      "name": "Cool! I want to learn more!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Круто! Хочу учить дальше!"
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u",
+      "isRight": false
+    }
+  ]
+}

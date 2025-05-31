@@ -1,0 +1,116 @@
+{
+  "name": "History of multiplication",
+  "bg": "/img/story/bg/library.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "История умножения"
+    }
+  ],
+  "items": [
+    {
+      "name": "Have you ever wondered who invented multiplication?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты когда-нибудь задумывался, кто придумал умножение?"
+        }
+      ]
+    },
+    {
+      "name": "Wow, no! Who did?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вау, нет! Кто это был?"
+        }
+      ]
+    },
+    {
+      "name": "People in ancient Egypt used multiplication thousands of years ago!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Люди в Древнем Египте использовали умножение тысячи лет назад!"
+        }
+      ]
+    },
+    {
+      "name": "That’s a long time ago!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это было очень давно!"
+        }
+      ]
+    },
+    {
+      "name": "Yes! They used multiplication to build pyramids and count food.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! Они использовали умножение для строительства пирамид и подсчёта еды."
+        }
+      ]
+    },
+    {
+      "name": "Cool! Math helped them with real stuff!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Круто! Математика помогала им в реальной жизни!"
+        }
+      ]
+    },
+    {
+      "name": "And now we use it too — in shops, games, and school every day!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "И сейчас мы тоже её используем — в магазинах, играх и школе каждый день!"
+        }
+      ]
+    },
+    {
+      "name": "I didn’t know multiplication was so old and useful!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я не знал, что умножение такое древнее и полезное!"
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u",
+      "isRight": false
+    }
+  ]
+}

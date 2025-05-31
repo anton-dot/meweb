@@ -1,0 +1,127 @@
+{
+  "name": "The multiplication monster",
+  "bg": "/img/story/bg/cave.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Монстр умножения"
+    }
+  ],
+  "items": [
+    {
+      "name": "Welcome to the multiplication cave! But beware… there’s a monster inside!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Добро пожаловать в пещеру умножения! Но осторожно... внутри монстр!"
+        }
+      ]
+    },
+    {
+      "name": "A monster?! What kind of monster?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Монстр?! Какой ещё монстр?"
+        }
+      ]
+    },
+    {
+      "name": "It’s the multiplication monster! He asks math questions. If you answer right — he lets you go!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это монстр умножения! Он задаёт математические вопросы. Ответишь правильно — он тебя пропустит!"
+        }
+      ]
+    },
+    {
+      "name": "I’m ready! Bring it on!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я готов! Давай!"
+        }
+      ]
+    },
+    {
+      "name": "Monster: What is 3 × 4?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Монстр: Сколько будет 3 × 4?"
+        }
+      ]
+    },
+    {
+      "name": "That’s 12! Easy!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это 12! Легкотня!"
+        }
+      ]
+    },
+    {
+      "name": "Correct! Next: What is 6 × 0?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правильно! Следующее: сколько будет 6 × 0?"
+        }
+      ]
+    },
+    {
+      "name": "Zero! The monster can’t trick me!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ноль! Монстр меня не обманет!"
+        }
+      ]
+    },
+    {
+      "name": "The monster growls… but steps aside. You win!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Монстр рычит... но отходит в сторону. Ты победил!"
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u",
+      "isRight": false
+    }
+  ]
+}

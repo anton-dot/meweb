@@ -1,0 +1,127 @@
+{
+  "name": "Test: choose the right operation",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Выбор правильного действия"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s test your skills! Can you choose the right operation?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Проверим твои навыки! Сможешь выбрать нужное действие?"
+        }
+      ]
+    },
+    {
+      "name": "I’ll try my best!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я постараюсь!"
+        }
+      ]
+    },
+    {
+      "name": "You have 4 baskets. Each basket has 3 oranges. What do you do?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "У тебя 4 корзины. В каждой по 3 апельсина. Что ты сделаешь?"
+        }
+      ]
+    },
+    {
+      "name": "I multiply! 4 × 3 = 12 oranges!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я умножаю! 4 × 3 = 12 апельсинов!"
+        }
+      ]
+    },
+    {
+      "name": "Correct! Next: You have 20 cookies. You share them with 4 friends. What now?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правильно! Дальше: у тебя 20 печенек. Ты делишь их между 4 друзьями. Что делать?"
+        }
+      ]
+    },
+    {
+      "name": "That’s division! 20 ÷ 4 = 5 cookies per friend.",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это деление! 20 ÷ 4 = 5 печенек каждому."
+        }
+      ]
+    },
+    {
+      "name": "Excellent! One more: 2 children each plant 7 flowers. How many flowers total?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Ещё один: 2 ребёнка посадили по 7 цветов. Сколько всего цветов?"
+        }
+      ]
+    },
+    {
+      "name": "Multiply! 2 × 7 = 14 flowers!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Умножение! 2 × 7 = 14 цветов!"
+        }
+      ]
+    },
+    {
+      "name": "Perfect answers! You really know your stuff!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отличные ответы! Ты действительно всё понял!"
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u",
+      "isRight": false
+    }
+  ]
+}

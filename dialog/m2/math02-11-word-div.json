@@ -1,0 +1,105 @@
+{
+  "name": "Word problems: division",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Сюжетные задачи на деление"
+    }
+  ],
+  "items": [
+    {
+      "name": "Now let’s try some word problems using division!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь давай попробуем задачки с делением!"
+        }
+      ]
+    },
+    {
+      "name": "Cool! I want to try!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Класс! Хочу попробовать!"
+        }
+      ]
+    },
+    {
+      "name": "Liam has 12 cookies. He wants to share them equally between 4 friends. How many cookies per friend?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "У Лиама 12 печенек. Он хочет поделить их поровну между 4 друзьями. Сколько получит каждый?"
+        }
+      ]
+    },
+    {
+      "name": "12 ÷ 4 = 3. Each friend gets 3 cookies!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "12 ÷ 4 = 3. Каждый получит по 3 печенья!"
+        }
+      ]
+    },
+    {
+      "name": "Right! Now: There are 20 pencils and 5 boxes. We want to put the same number in each box. How many pencils per box?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правильно! А теперь: у нас есть 20 карандашей и 5 коробок. Сколько карандашей в каждую коробку?"
+        }
+      ]
+    },
+    {
+      "name": "That’s 4! 20 ÷ 5 = 4 pencils per box.",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это 4! 20 ÷ 5 = 4 карандаша в коробке."
+        }
+      ]
+    },
+    {
+      "name": "Perfect! You’re getting really good at this!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! У тебя отлично получается!"
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u",
+      "isRight": false
+    }
+  ]
+}

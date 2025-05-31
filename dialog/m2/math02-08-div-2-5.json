@@ -1,0 +1,127 @@
+{
+  "name": "Divide by 2 and 5",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Деление на 2 и 5"
+    }
+  ],
+  "items": [
+    {
+      "name": "Now let’s practice dividing by 2 and 5.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь потренируемся делить на 2 и 5."
+        }
+      ]
+    },
+    {
+      "name": "Okay! I remember 10 ÷ 2 = 5.",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо! Я помню, что 10 ÷ 2 = 5."
+        }
+      ]
+    },
+    {
+      "name": "Exactly! You’re splitting 10 into 2 equal groups.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Точно! Ты делишь 10 на 2 равные группы."
+        }
+      ]
+    },
+    {
+      "name": "So 8 ÷ 2 is 4?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Значит, 8 ÷ 2 = 4?"
+        }
+      ]
+    },
+    {
+      "name": "Yes! And what about 15 ÷ 5?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! А как насчёт 15 ÷ 5?"
+        }
+      ]
+    },
+    {
+      "name": "That’s 3! Because 5 + 5 + 5 = 15!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это 3! Потому что 5 + 5 + 5 = 15!"
+        }
+      ]
+    },
+    {
+      "name": "Perfect! That’s the reverse of multiplication.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Это обратное умножению."
+        }
+      ]
+    },
+    {
+      "name": "I get it! Divide by 5 is like thinking: how many fives fit into this number.",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Понял! Делить на 5 — это как думать: сколько пятёрок поместится в этом числе."
+        }
+      ]
+    },
+    {
+      "name": "Exactly! Keep going — you’re doing great!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Именно! Продолжай — у тебя отлично получается!"
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u",
+      "isRight": false
+    }
+  ]
+}

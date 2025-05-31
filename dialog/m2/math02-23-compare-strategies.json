@@ -1,0 +1,116 @@
+{
+  "name": "Multiply: groups or repeated adding?",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Группы или сложение?"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s try two ways to think about multiplication!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай попробуем два способа понять умножение!"
+        }
+      ]
+    },
+    {
+      "name": "Two ways? What are they?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Два способа? Какие?"
+        }
+      ]
+    },
+    {
+      "name": "First: repeated addition. For example, 3 + 3 + 3 = 9 is the same as 3 × 3.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Первый — это повторяющееся сложение. Например, 3 + 3 + 3 = 9 — то же самое, что 3 × 3."
+        }
+      ]
+    },
+    {
+      "name": "That makes sense. What’s the second way?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Понятно. А второй способ?"
+        }
+      ]
+    },
+    {
+      "name": "Thinking in groups! If you have 3 groups with 3 apples each — that’s also 3 × 3.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мыслить группами! Если у тебя 3 группы по 3 яблока — это тоже 3 × 3."
+        }
+      ]
+    },
+    {
+      "name": "So adding and grouping give the same result?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Значит, сложение и группы дают один и тот же результат?"
+        }
+      ]
+    },
+    {
+      "name": "Yes! Use whichever helps you think better.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! Используй тот способ, который помогает тебе лучше понимать."
+        }
+      ]
+    },
+    {
+      "name": "Thanks! Now I know two ways to multiply!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Спасибо! Теперь я знаю два способа умножать!"
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u",
+      "isRight": false
+    }
+  ]
+}

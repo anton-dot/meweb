@@ -1,0 +1,116 @@
+{
+  "name": "How multiplication and division are connected",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Как связаны умножение и деление"
+    }
+  ],
+  "items": [
+    {
+      "name": "Did you know that multiplication and division are connected?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Знаешь ли ты, что умножение и деление связаны между собой?"
+        }
+      ]
+    },
+    {
+      "name": "Really? How are they connected?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правда? А как они связаны?"
+        }
+      ]
+    },
+    {
+      "name": "Let’s see! If 3 × 4 = 12, then 12 ÷ 4 = 3 and 12 ÷ 3 = 4.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Смотри! Если 3 × 4 = 12, то 12 ÷ 4 = 3 и 12 ÷ 3 = 4."
+        }
+      ]
+    },
+    {
+      "name": "Oh! So division is like going backwards?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А! Значит, деление — это как движение назад?"
+        }
+      ]
+    },
+    {
+      "name": "Exactly! Multiplication puts equal groups together. Division breaks them apart again.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Именно! Умножение собирает группы, а деление снова их разделяет."
+        }
+      ]
+    },
+    {
+      "name": "That helps a lot! So if I know 5 × 2 = 10, then I also know 10 ÷ 2 = 5.",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это очень помогает! Значит, если я знаю, что 5 × 2 = 10, я также знаю, что 10 ÷ 2 = 5."
+        }
+      ]
+    },
+    {
+      "name": "Exactly! Understanding one helps with the other.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! Понимание одного помогает понять другое."
+        }
+      ]
+    },
+    {
+      "name": "Cool! I like how they work together.",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Круто! Мне нравится, как они работают вместе."
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u",
+      "isRight": false
+    }
+  ]
+}

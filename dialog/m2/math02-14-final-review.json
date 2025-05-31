@@ -1,0 +1,149 @@
+{
+  "name": "Final review",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Финальное повторение"
+    }
+  ],
+  "items": [
+    {
+      "name": "You've learned so much! Let’s review what you know.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты выучил так много! Давай повторим, что ты знаешь."
+        }
+      ]
+    },
+    {
+      "name": "I’m ready! Let’s go!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я готов! Поехали!"
+        }
+      ]
+    },
+    {
+      "name": "What is multiplication?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что такое умножение?"
+        }
+      ]
+    },
+    {
+      "name": "It’s adding the same number again and again!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это когда одно и то же число складывают несколько раз!"
+        }
+      ]
+    },
+    {
+      "name": "Perfect! And what is division?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! А что такое деление?"
+        }
+      ]
+    },
+    {
+      "name": "It’s splitting things into equal parts!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это деление на равные части!"
+        }
+      ]
+    },
+    {
+      "name": "Great! What happens when we multiply by 0?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! А что происходит при умножении на 0?"
+        }
+      ]
+    },
+    {
+      "name": "We always get 0!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Всегда получается 0!"
+        }
+      ]
+    },
+    {
+      "name": "And what about dividing by 1?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А если делить на 1?"
+        }
+      ]
+    },
+    {
+      "name": "The number stays the same!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Число не меняется!"
+        }
+      ]
+    },
+    {
+      "name": "Fantastic! You’re ready for even more math adventures!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Фантастика! Ты готов к новым математическим приключениям!"
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u",
+      "isRight": false
+    }
+  ]
+}

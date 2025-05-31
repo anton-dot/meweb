@@ -1,0 +1,127 @@
+{
+  "name": "Zero and One in multiplication",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Умножение на 0 и 1"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s learn something special about zero and one in multiplication.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай узнаем кое-что особенное про 0 и 1 в умножении."
+        }
+      ]
+    },
+    {
+      "name": "Okay! What’s special about them?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо! А что в них особенного?"
+        }
+      ]
+    },
+    {
+      "name": "If you multiply any number by 1, the number stays the same. Like 5 × 1 = 5.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Если умножаешь любое число на 1, оно не меняется. Например, 5 × 1 = 5."
+        }
+      ]
+    },
+    {
+      "name": "So 7 × 1 is 7?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Значит, 7 × 1 = 7?"
+        }
+      ]
+    },
+    {
+      "name": "Exactly! Now, what happens when you multiply by zero?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Именно! А что происходит, если умножить на ноль?"
+        }
+      ]
+    },
+    {
+      "name": "Hmm… Is it always zero?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хмм... Это всегда ноль?"
+        }
+      ]
+    },
+    {
+      "name": "Yes! 6 × 0 = 0. No matter what number you choose, if one part is 0 — the result is 0.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! 6 × 0 = 0. Какое бы число ты ни выбрал, если один множитель — 0, то и результат — 0."
+        }
+      ]
+    },
+    {
+      "name": "That's funny! So zero makes everything disappear.",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Забавно! Ноль как будто всё стирает."
+        }
+      ]
+    },
+    {
+      "name": "Exactly! Great job remembering these special rules.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Именно! Молодец, что запомнил эти особые правила."
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u",
+      "isRight": false
+    }
+  ]
+}

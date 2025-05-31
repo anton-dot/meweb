@@ -1,0 +1,105 @@
+{
+  "name": "Word problems: multiplication",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Сюжетные задачи на умножение"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s solve some real-life problems using multiplication!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай решим задачи из жизни с помощью умножения!"
+        }
+      ]
+    },
+    {
+      "name": "Yay! I like story problems!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ура! Я люблю задачки с историями!"
+        }
+      ]
+    },
+    {
+      "name": "Okay. Mia has 3 baskets. Each basket has 4 apples. How many apples in total?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо. У Мии 3 корзины. В каждой по 4 яблока. Сколько всего яблок?"
+        }
+      ]
+    },
+    {
+      "name": "That’s 3 × 4 = 12 apples!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это 3 × 4 = 12 яблок!"
+        }
+      ]
+    },
+    {
+      "name": "Nice! Now one more: Ben has 5 shelves. Each shelf has 6 books. How many books total?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Молодец! А теперь ещё одна: у Бена 5 полок. На каждой по 6 книг. Сколько всего книг?"
+        }
+      ]
+    },
+    {
+      "name": "That’s 5 × 6 = 30 books!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это 5 × 6 = 30 книг!"
+        }
+      ]
+    },
+    {
+      "name": "Perfect! You're a multiplication pro!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Ты настоящий мастер умножения!"
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u",
+      "isRight": false
+    }
+  ]
+}

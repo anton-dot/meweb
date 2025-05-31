@@ -1,0 +1,127 @@
+{
+  "name": "What if it's not exact?",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "А если не делится точно?"
+    }
+  ],
+  "items": [
+    {
+      "name": "Sometimes, numbers don’t divide evenly. Let’s see what that means!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Иногда числа не делятся нацело. Давай посмотрим, что это значит!"
+        }
+      ]
+    },
+    {
+      "name": "Oh! What happens then?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "О! А что тогда происходит?"
+        }
+      ]
+    },
+    {
+      "name": "Let’s say you have 10 cookies and 3 friends. You try to share them equally.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Допустим, у тебя 10 печенек и 3 друга. Ты хочешь поделить их поровну."
+        }
+      ]
+    },
+    {
+      "name": "Hmm… 10 ÷ 3 is 3 with 1 left over!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хм... 10 ÷ 3 = 3 и 1 остаётся!"
+        }
+      ]
+    },
+    {
+      "name": "Exactly! That leftover is called a remainder.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Именно! То, что остаётся — это остаток."
+        }
+      ]
+    },
+    {
+      "name": "So 10 ÷ 3 = 3 R1?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "То есть 10 ÷ 3 = 3 и остаток 1?"
+        }
+      ]
+    },
+    {
+      "name": "Correct! R1 means 'remainder 1'.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правильно! R1 — это остаток 1."
+        }
+      ]
+    },
+    {
+      "name": "That makes sense. Not everything divides perfectly!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь понятно. Не всё делится точно!"
+        }
+      ]
+    },
+    {
+      "name": "Right! But we can still understand and work with remainders.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Верно! Но мы можем понять и использовать остатки в задачах."
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u",
+      "isRight": false
+    }
+  ]
+}

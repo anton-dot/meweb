@@ -1,0 +1,127 @@
+{
+  "name": "Don't get tricked!",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Типичные ошибки"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s look at some common mistakes in multiplication and division.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай посмотрим на типичные ошибки в умножении и делении."
+        }
+      ]
+    },
+    {
+      "name": "Oh no! I hope I didn’t make any!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "О нет! Надеюсь, я таких не делал!"
+        }
+      ]
+    },
+    {
+      "name": "Let’s check! What is 3 × 0?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Проверим! Сколько будет 3 × 0?"
+        }
+      ]
+    },
+    {
+      "name": "It’s 0! Because anything times 0 is 0!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это 0! Потому что любое число, умноженное на 0 — это 0!"
+        }
+      ]
+    },
+    {
+      "name": "Right! But some people think it's 3, because they see the 3 and forget the zero!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правильно! Но некоторые думают, что это 3 — они видят 3 и забывают про ноль!"
+        }
+      ]
+    },
+    {
+      "name": "Oh! I won’t forget that!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "О! Я этого не забуду!"
+        }
+      ]
+    },
+    {
+      "name": "Here’s another: 12 ÷ 0. What do you think?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А вот ещё: 12 ÷ 0. Как думаешь?"
+        }
+      ]
+    },
+    {
+      "name": "Wait! We can’t divide by zero!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Стоп! Делить на ноль нельзя!"
+        }
+      ]
+    },
+    {
+      "name": "Exactly. You’re getting sharp! Just stay alert and you’ll avoid mistakes.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Точно. Ты становишься внимательным! Будь настороже — и ошибок не будет."
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u",
+      "isRight": false
+    }
+  ]
+}

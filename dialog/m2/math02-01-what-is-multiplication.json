@@ -1,0 +1,127 @@
+{
+  "name": "What is multiplication?",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Что такое умножение?"
+    }
+  ],
+  "items": [
+    {
+      "name": "Hi! Today we’ll learn what multiplication is.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Привет! Сегодня мы узнаем, что такое умножение."
+        }
+      ]
+    },
+    {
+      "name": "Okay! What is it?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо! А что это?"
+        }
+      ]
+    },
+    {
+      "name": "Multiplication means adding the same number again and again. Like 2 + 2 + 2.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Умножение — это когда ты складываешь одно и то же число несколько раз. Например, 2 + 2 + 2."
+        }
+      ]
+    },
+    {
+      "name": "Oh! That’s 6!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "О! Это 6!"
+        }
+      ]
+    },
+    {
+      "name": "Yes! And 2 + 2 + 2 is the same as 2 times 3. We write it as 2 × 3 = 6.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! 2 + 2 + 2 — это то же самое, что 2 умножить на 3. Мы пишем это так: 2 × 3 = 6."
+        }
+      ]
+    },
+    {
+      "name": "I see! So 3 × 2 is also 6?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Понял! Значит, 3 × 2 тоже будет 6?"
+        }
+      ]
+    },
+    {
+      "name": "Exactly! Multiplication can be done in any order.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Именно! При умножении порядок не важен."
+        }
+      ]
+    },
+    {
+      "name": "Cool! I want to try more!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Круто! Хочу попробовать ещё!"
+        }
+      ]
+    },
+    {
+      "name": "Let’s practice soon. First, remember: multiplication is repeated addition.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Скоро потренируемся. А пока запомни: умножение — это повторение сложения."
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u",
+      "isRight": false
+    }
+  ]
+}

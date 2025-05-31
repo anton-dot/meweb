@@ -1,0 +1,127 @@
+{
+  "name": "Multiply by 2 and 5",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Умножение на 2 и 5"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s practice multiplication with 2 and 5. These are easy and fun!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай потренируемся в умножении на 2 и 5. Это легко и весело!"
+        }
+      ]
+    },
+    {
+      "name": "Okay! I know that 2 × 1 = 2!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Окей! Я знаю, что 2 × 1 = 2!"
+        }
+      ]
+    },
+    {
+      "name": "Great! And 2 × 2 is?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! А 2 × 2?"
+        }
+      ]
+    },
+    {
+      "name": "It’s 4!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это 4!"
+        }
+      ]
+    },
+    {
+      "name": "Exactly. With 2, we’re just doubling the number. 2 × 3 is 6, 2 × 4 is 8, and so on.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Именно. При умножении на 2 мы просто удваиваем число. 2 × 3 = 6, 2 × 4 = 8 и так далее."
+        }
+      ]
+    },
+    {
+      "name": "I see! Now let’s try 5. I think 5 × 1 is 5.",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Понял! Теперь давай 5. Думаю, 5 × 1 = 5."
+        }
+      ]
+    },
+    {
+      "name": "Yes! And 5 × 2 is 10, 5 × 3 is 15. We count by fives: 5, 10, 15, 20...",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! А 5 × 2 = 10, 5 × 3 = 15. Мы считаем пятёрками: 5, 10, 15, 20..."
+        }
+      ]
+    },
+    {
+      "name": "That’s fun! I can count by fives now.",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Класс! Я теперь умею считать пятёрками."
+        }
+      ]
+    },
+    {
+      "name": "Great job! Keep practicing and you’ll remember them forever!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отличная работа! Продолжай тренироваться — и ты запомнишь это навсегда!"
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u",
+      "isRight": false
+    }
+  ]
+}

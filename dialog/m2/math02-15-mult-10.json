@@ -1,0 +1,105 @@
+{
+  "name": "Multiply by 10",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Умножение на 10"
+    }
+  ],
+  "items": [
+    {
+      "name": "Today, let’s learn a cool trick: multiplying by 10!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сегодня выучим классный трюк: умножение на 10!"
+        }
+      ]
+    },
+    {
+      "name": "Ooh! That sounds easy!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "О! Звучит просто!"
+        }
+      ]
+    },
+    {
+      "name": "It is! If you multiply a number by 10, just add a zero to the end.",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Так и есть! Чтобы умножить на 10 — просто добавь ноль в конце числа."
+        }
+      ]
+    },
+    {
+      "name": "So 6 × 10 is 60?",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Значит, 6 × 10 = 60?"
+        }
+      ]
+    },
+    {
+      "name": "Correct! And 9 × 10 is 90. Easy, right?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правильно! А 9 × 10 = 90. Легко, правда?"
+        }
+      ]
+    },
+    {
+      "name": "Super easy! I love tens!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Очень легко! Я обожаю десятки!"
+        }
+      ]
+    },
+    {
+      "name": "Great! You can now multiply by 10 like a pro!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Теперь ты умеешь умножать на 10 как настоящий профи!"
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u",
+      "isRight": false
+    }
+  ]
+}

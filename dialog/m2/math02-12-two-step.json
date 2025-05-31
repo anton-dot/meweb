@@ -1,0 +1,105 @@
+{
+  "name": "Two-step problems",
+  "bg": "/img/story/bg/classroom.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Задачи в два действия"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s try problems with two steps. We’ll use both multiplication and division!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай решим задачи в два действия. Мы будем использовать и умножение, и деление!"
+        }
+      ]
+    },
+    {
+      "name": "Sounds fun! Let’s go!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Звучит весело! Поехали!"
+        }
+      ]
+    },
+    {
+      "name": "Tom has 3 boxes. Each box has 6 toy cars. He gives 6 cars to his friend. How many does he have left?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "У Тома 3 коробки. В каждой по 6 машинок. Он отдаёт другу 6 машинок. Сколько у него осталось?"
+        }
+      ]
+    },
+    {
+      "name": "First, 3 × 6 = 18 cars. Then 18 − 6 = 12 left!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сначала 3 × 6 = 18 машинок. Потом 18 − 6 = 12 осталось!"
+        }
+      ]
+    },
+    {
+      "name": "Great job! Let’s do another. Sarah buys 4 packs of stickers. Each has 10 stickers. She shares them equally with 2 friends. How many stickers per friend?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! А теперь другая задача. Сара покупает 4 набора наклеек. В каждом 10 наклеек. Она делит их поровну между двумя друзьями. Сколько наклеек получает каждый?"
+        }
+      ]
+    },
+    {
+      "name": "4 × 10 = 40 stickers. Then 40 ÷ 2 = 20 stickers each!",
+      "actor": "Student",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "4 × 10 = 40 наклеек. Потом 40 ÷ 2 = 20 наклеек каждому!"
+        }
+      ]
+    },
+    {
+      "name": "Awesome! You solved both steps perfectly!",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Здорово! Ты отлично справился с двумя действиями!"
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/img/story/npc/npc_teacher.png",
+      "s": "f"
+    },
+    {
+      "id": "Student",
+      "name": "Student",
+      "image": "/img/story/npc/npc_student.png",
+      "s": "u",
+      "isRight": false
+    }
+  ]
+}
