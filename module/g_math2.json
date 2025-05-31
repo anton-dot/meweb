@@ -1,0 +1,301 @@
+{
+  "name": "Multiplication and Division",
+  "description": "Learn how to multiply and divide through simple explanations and practice",
+  "cats": [
+    {
+      "name": "Level 1",
+      "description": "Basics of multiplication and division",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Основы умножения и деления"
+        }
+      ],
+      "activities": [
+        {
+          "name": "What is multiplication?",
+          "rUrl": "m2/math02-01-what-is-multiplication",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Что такое умножение?"
+            }
+          ]
+        },
+        {
+          "name": "What is division?",
+          "rUrl": "m2/math02-02-what-is-division",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Что такое деление?"
+            }
+          ]
+        },
+        {
+          "name": "Multiplication is repeated addition",
+          "rUrl": "m2/math02-03-mult-as-addition",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Умножение как повторение сложения"
+            }
+          ]
+        },
+        {
+          "name": "Division is equal sharing",
+          "rUrl": "m2/math02-04-division-as-sharing",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Деление как разбиение на равные части"
+            }
+          ]
+        },
+        {
+          "name": "Zero and One in multiplication",
+          "rUrl": "m2/math02-05-zero-one-mult",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Умножение на 0 и 1"
+            }
+          ]
+        },
+        {
+          "name": "Zero and One in division",
+          "rUrl": "m2/math02-06-zero-one-div",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Деление на 0 и 1"
+            }
+          ]
+        },
+        {
+          "name": "Multiply by 2 and 5",
+          "rUrl": "m2/math02-07-mult-2-5",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Умножение на 2 и 5"
+            }
+          ]
+        },
+        {
+          "name": "Divide by 2 and 5",
+          "rUrl": "m2/math02-08-div-2-5",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Деление на 2 и 5"
+            }
+          ]
+        },
+        {
+          "name": "How multiplication and division are connected",
+          "rUrl": "m2/math02-09-mult-div-connected",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Как связаны умножение и деление"
+            }
+          ]
+        },
+        {
+          "name": "Word problems: multiplication",
+          "rUrl": "m2/math02-10-word-mult",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Задачи на умножение"
+            }
+          ]
+        },
+        {
+          "name": "Word problems: division",
+          "rUrl": "m2/math02-11-word-div",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Задачи на деление"
+            }
+          ]
+        },
+        {
+          "name": "Two-step problems",
+          "rUrl": "m2/math02-12-two-step",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Задачи в два действия"
+            }
+          ]
+        },
+        {
+          "name": "Test: choose the right operation",
+          "rUrl": "m2/math02-13-operation-test",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Выбор правильного действия"
+            }
+          ]
+        },
+        {
+          "name": "Final review",
+          "rUrl": "m2/math02-14-final-review",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Финальное повторение"
+            }
+          ]
+        },
+        {
+          "name": "Multiply by 10",
+          "rUrl": "m2/math02-15-mult-10",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Умножение на 10"
+            }
+          ]
+        },
+        {
+          "name": "What if it's not exact?",
+          "rUrl": "m2/math02-16-remainder",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "А если не делится точно?"
+            }
+          ]
+        },
+        {
+          "name": "Don't get tricked!",
+          "rUrl": "m2/math02-17-common-mistakes",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Типичные ошибки"
+            }
+          ]
+        },
+        {
+          "name": "Game: True or False?",
+          "rUrl": "m2/math02-18-true-or-false",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Игра: правда или ложь?"
+            }
+          ]
+        },
+        {
+          "name": "Why do we need multiplication?",
+          "rUrl": "m2/math02-19-why-multiply",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Зачем нужно умножение?"
+            }
+          ]
+        },
+        {
+          "name": "Why do we need division?",
+          "rUrl": "m2/math02-20-why-divide",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Зачем нужно деление?"
+            }
+          ]
+        },
+        {
+          "name": "The multiplication monster",
+          "rUrl": "m2/math02-21-multiply-monster",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Монстр умножения"
+            }
+          ]
+        },
+        {
+          "name": "History of multiplication",
+          "rUrl": "m2/math02-22-history-of-mult",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "История умножения"
+            }
+          ]
+        },
+        {
+          "name": "Multiply: groups or repeated adding?",
+          "rUrl": "m2/math02-23-compare-strategies",
+          "aType": "Dialog",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Группы или сложение?"
+            }
+          ]
+        },
+        {
+          "name": "Multiplication practice",
+          "aType": "MatchSimple",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Тренировка умножения"
+            }
+          ]
+        },
+        {
+          "name": "Division practice",
+          "aType": "MatchSimple",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Тренировка деления"
+            }
+          ]
+        },
+        {
+          "name": "Mixed expressions: choose result",
+          "aType": "InlineSelect",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Выбери правильный ответ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
