@@ -1,5 +1,5 @@
 {
-  "name": "Solve for result",
+  "name": "Solve examples (results up to 10)",
   "nameA": null,
   "img": null,
   "minQuiz": 7,
@@ -7,112 +7,394 @@
   "Translations": [
     {
       "lang": "ru-RU",
-      "name": "Примеры до 10",
+      "name": "Примеры на сложение до 10",
       "nameA": null
     },
     {
       "lang": "vi-VN",
-      "name": "Giải ví dụ",
+      "name": "Cộng các số đến 10",
       "nameA": null
     },
     {
       "lang": "zh-CN",
-      "name": "解题示例",
+      "name": "加法到10",
       "nameA": null
     },
     {
       "lang": "hi-IN",
-      "name": "उदाहरण हल करें",
+      "name": "0 से 10 तक जोड़",
       "nameA": null
     },
     {
       "lang": "th-TH",
-      "name": "แก้โจทย์ตัวอย่าง",
+      "name": "การบวกเลขไม่เกิน 10",
       "nameA": null
     },
     {
       "lang": "tr-TR",
-      "name": "Örnekleri Çöz",
+      "name": "10\u0027a kadar toplama",
       "nameA": null
     },
     {
       "lang": "pt-BR",
-      "name": "Resolver exemplos",
+      "name": "Adição até 10",
       "nameA": null
     },
     {
       "lang": "de-DE",
-      "name": "Beispiele lösen",
+      "name": "Addieren bis 10",
       "nameA": null
     },
     {
       "lang": "id-ID",
-      "name": "Selesaikan contoh",
+      "name": "Penjumlahan sampai 10",
       "nameA": null
     },
     {
       "lang": "fr-FR",
-      "name": "Résoudre des exemples",
+      "name": "Additions jusqu’à 10",
       "nameA": null
     }
   ],
   "items": [
     {
-      "name": "fill in the blanks to make the example correct (result)",
-      "taskMask": "1 + {txt:0} = {txt:1}\n0 + {txt:1} = {txt:1}\n{txt:0} + {txt:0} = {txt:0}\n1 + {txt:1} = {txt:2}",
+      "name": "Solve: result missing - 1",
+      "taskMask": "0 \u002B 7 = {txt:7}\n2 \u002B 2 = {txt:4}\n9 \u002B 0 = {txt:9}\n5 \u002B 0 = {txt:5}",
       "nameA": null,
       "image": null,
       "bg": null,
-      "multianswer": true,
+      "multianswer": false,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Заполни пропуски, чтобы пример был верным",
+          "name": "Реши пример, вставь ответ",
           "nameA": null
         },
         {
           "lang": "vi-VN",
-          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "name": "Giải bài và điền kết quả",
           "nameA": null
         },
         {
           "lang": "zh-CN",
-          "name": "填空使示例正确",
+          "name": "解题并填写答案",
           "nameA": null
         },
         {
           "lang": "hi-IN",
-          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "name": "उत्तर भरें",
           "nameA": null
         },
         {
           "lang": "th-TH",
-          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "name": "กรอกคำตอบ",
           "nameA": null
         },
         {
           "lang": "tr-TR",
-          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "name": "Cevabı girin",
           "nameA": null
         },
         {
           "lang": "pt-BR",
-          "name": "Preencha os espaços para o exemplo estar correto",
+          "name": "Insira o resultado",
           "nameA": null
         },
         {
           "lang": "de-DE",
-          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "name": "Löse das Beispiel",
           "nameA": null
         },
         {
           "lang": "id-ID",
-          "name": "Isi kekosongan agar contoh benar",
+          "name": "Isi jawabannya",
           "nameA": null
         },
         {
           "lang": "fr-FR",
-          "name": "Remplir les trous pour que l'exemple soit correct",
+          "name": "Résous et complète le résultat",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "4",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "5",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "7",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "9",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "Solve: result missing - 2",
+      "taskMask": "1 \u002B 3 = {txt:4}\n1 \u002B 8 = {txt:9}\n0 \u002B 3 = {txt:3}\n2 \u002B 0 = {txt:2}",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": false,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Реши пример, вставь ответ",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Giải bài và điền kết quả",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "解题并填写答案",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "उत्तर भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "กรอกคำตอบ",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Cevabı girin",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Insira o resultado",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Löse das Beispiel",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi jawabannya",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Résous et complète le résultat",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "2",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "3",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "4",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "9",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "Solve: result missing - 3",
+      "taskMask": "3 \u002B 3 = {txt:6}\n8 \u002B 2 = {txt:10}\n4 \u002B 5 = {txt:9}",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": false,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Реши пример, вставь ответ",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Giải bài và điền kết quả",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "解题并填写答案",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "उत्तर भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "กรอกคำตอบ",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Cevabı girin",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Insira o resultado",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Löse das Beispiel",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi jawabannya",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Résous et complète le résultat",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "6",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "9",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "10",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "Solve: result missing - 4",
+      "taskMask": "0 \u002B 0 = {txt:0}\n1 \u002B 2 = {txt:3}\n2 \u002B 8 = {txt:10}",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": false,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Реши пример, вставь ответ",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Giải bài và điền kết quả",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "解题并填写答案",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "उत्तर भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "กรอกคำตอบ",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Cevabı girin",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Insira o resultado",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Löse das Beispiel",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi jawabannya",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Résous et complète le résultat",
           "nameA": null
         }
       ],
@@ -126,170 +408,20 @@
       "answers": [
         {
           "name": "0",
+          "nameA": null,
+          "image": null,
           "answerType": 0
         },
-        {
-          "name": "1",
-          "answerType": 0
-        },
-        {
-          "name": "2",
-          "answerType": 0
-        }
-      ],
-      "horizontalAlign": 1,
-      "verticalAlign": 1,
-      "textSize": 1
-    },
-    {
-      "name": "fill in the blanks to make the example correct (result)",
-      "taskMask": "{txt:2} + 0 = {txt:2}",
-      "nameA": null,
-      "image": null,
-      "bg": null,
-      "multianswer": false,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Заполни пропуски, чтобы пример был верным",
-          "nameA": null
-        },
-        {
-          "lang": "vi-VN",
-          "name": "Điền vào chỗ trống để ví dụ đúng",
-          "nameA": null
-        },
-        {
-          "lang": "zh-CN",
-          "name": "填空使示例正确",
-          "nameA": null
-        },
-        {
-          "lang": "hi-IN",
-          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
-          "nameA": null
-        },
-        {
-          "lang": "th-TH",
-          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
-          "nameA": null
-        },
-        {
-          "lang": "tr-TR",
-          "name": "Örneğin doğru olması için boşlukları doldurun",
-          "nameA": null
-        },
-        {
-          "lang": "pt-BR",
-          "name": "Preencha os espaços para o exemplo estar correto",
-          "nameA": null
-        },
-        {
-          "lang": "de-DE",
-          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
-          "nameA": null
-        },
-        {
-          "lang": "id-ID",
-          "name": "Isi kekosongan agar contoh benar",
-          "nameA": null
-        },
-        {
-          "lang": "fr-FR",
-          "name": "Remplir les trous pour que l'exemple soit correct",
-          "nameA": null
-        }
-      ],
-      "masktranslates": [
-        {
-          "lang": "ru-RU",
-          "name": null,
-          "nameA": null
-        }
-      ],
-      "answers": [
-        {
-          "name": "2",
-          "answerType": 0
-        }
-      ],
-      "horizontalAlign": 1,
-      "verticalAlign": 1,
-      "textSize": 1
-    },
-    {
-      "name": "fill in the blanks to make the example correct (result)",
-      "taskMask": "3 + {txt:0} = {txt:3}\n1 + {txt:2} = {txt:3}\n{txt:2} + 2 = {txt:4}\n1 + {txt:3} = {txt:4}",
-      "nameA": null,
-      "image": null,
-      "bg": null,
-      "multianswer": true,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Заполни пропуски, чтобы пример был верным",
-          "nameA": null
-        },
-        {
-          "lang": "vi-VN",
-          "name": "Điền vào chỗ trống để ví dụ đúng",
-          "nameA": null
-        },
-        {
-          "lang": "zh-CN",
-          "name": "填空使示例正确",
-          "nameA": null
-        },
-        {
-          "lang": "hi-IN",
-          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
-          "nameA": null
-        },
-        {
-          "lang": "th-TH",
-          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
-          "nameA": null
-        },
-        {
-          "lang": "tr-TR",
-          "name": "Örneğin doğru olması için boşlukları doldurun",
-          "nameA": null
-        },
-        {
-          "lang": "pt-BR",
-          "name": "Preencha os espaços para o exemplo estar correto",
-          "nameA": null
-        },
-        {
-          "lang": "de-DE",
-          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
-          "nameA": null
-        },
-        {
-          "lang": "id-ID",
-          "name": "Isi kekosongan agar contoh benar",
-          "nameA": null
-        },
-        {
-          "lang": "fr-FR",
-          "name": "Remplir les trous pour que l'exemple soit correct",
-          "nameA": null
-        }
-      ],
-      "masktranslates": [
-        {
-          "lang": "ru-RU",
-          "name": null,
-          "nameA": null
-        }
-      ],
-      "answers": [
         {
           "name": "3",
+          "nameA": null,
+          "image": null,
           "answerType": 0
         },
         {
-          "name": "4",
+          "name": "10",
+          "nameA": null,
+          "image": null,
           "answerType": 0
         }
       ],
@@ -298,8 +430,98 @@
       "textSize": 1
     },
     {
-      "name": "fill in the blanks to make the example correct (result)",
-      "taskMask": "{txt:4} + 0 = {txt:4}",
+      "name": "Solve: result missing - 5",
+      "taskMask": "0 \u002B 8 = {txt:8}\n7 \u002B 3 = {txt:10}\n0 \u002B 9 = {txt:9}\n8 \u002B 1 = {txt:9}",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Реши пример, вставь ответ",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Giải bài và điền kết quả",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "解题并填写答案",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "उत्तर भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "กรอกคำตอบ",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Cevabı girin",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Insira o resultado",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Löse das Beispiel",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi jawabannya",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Résous et complète le résultat",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "8",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "9",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "10",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "Solve: result missing - 6",
+      "taskMask": "7 \u002B 2 = {txt:9}\n2 \u002B 3 = {txt:5}\n4 \u002B 0 = {txt:4}\n6 \u002B 1 = {txt:7}",
       "nameA": null,
       "image": null,
       "bg": null,
@@ -307,52 +529,52 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Заполни пропуски, чтобы пример был верным",
+          "name": "Реши пример, вставь ответ",
           "nameA": null
         },
         {
           "lang": "vi-VN",
-          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "name": "Giải bài và điền kết quả",
           "nameA": null
         },
         {
           "lang": "zh-CN",
-          "name": "填空使示例正确",
+          "name": "解题并填写答案",
           "nameA": null
         },
         {
           "lang": "hi-IN",
-          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "name": "उत्तर भरें",
           "nameA": null
         },
         {
           "lang": "th-TH",
-          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "name": "กรอกคำตอบ",
           "nameA": null
         },
         {
           "lang": "tr-TR",
-          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "name": "Cevabı girin",
           "nameA": null
         },
         {
           "lang": "pt-BR",
-          "name": "Preencha os espaços para o exemplo estar correto",
+          "name": "Insira o resultado",
           "nameA": null
         },
         {
           "lang": "de-DE",
-          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "name": "Löse das Beispiel",
           "nameA": null
         },
         {
           "lang": "id-ID",
-          "name": "Isi kekosongan agar contoh benar",
+          "name": "Isi jawabannya",
           "nameA": null
         },
         {
           "lang": "fr-FR",
-          "name": "Remplir les trous pour que l'exemple soit correct",
+          "name": "Résous et complète le résultat",
           "nameA": null
         }
       ],
@@ -366,6 +588,26 @@
       "answers": [
         {
           "name": "4",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "5",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "7",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "9",
+          "nameA": null,
+          "image": null,
           "answerType": 0
         }
       ],
@@ -374,8 +616,188 @@
       "textSize": 1
     },
     {
-      "name": "fill in the blanks to make the example correct (result)",
-      "taskMask": "3 + {txt:2} = {txt:5}\n1 + {txt:4} = {txt:5}",
+      "name": "Solve: result missing - 7",
+      "taskMask": "3 \u002B 6 = {txt:9}\n0 \u002B 2 = {txt:2}\n3 \u002B 2 = {txt:5}",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": false,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Реши пример, вставь ответ",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Giải bài và điền kết quả",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "解题并填写答案",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "उत्तर भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "กรอกคำตอบ",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Cevabı girin",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Insira o resultado",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Löse das Beispiel",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi jawabannya",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Résous et complète le résultat",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "2",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "5",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "9",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "Solve: result missing - 8",
+      "taskMask": "2 \u002B 4 = {txt:6}\n9 \u002B 1 = {txt:10}\n6 \u002B 3 = {txt:9}",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": false,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Реши пример, вставь ответ",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Giải bài và điền kết quả",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "解题并填写答案",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "उत्तर भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "กรอกคำตอบ",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Cevabı girin",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Insira o resultado",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Löse das Beispiel",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi jawabannya",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Résous et complète le résultat",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "6",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "9",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "10",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "Solve: result missing - 9",
+      "taskMask": "1 \u002B 9 = {txt:10}\n1 \u002B 5 = {txt:6}\n3 \u002B 7 = {txt:10}\n10 \u002B 0 = {txt:10}",
       "nameA": null,
       "image": null,
       "bg": null,
@@ -383,52 +805,136 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Заполни пропуски, чтобы пример был верным",
+          "name": "Реши пример, вставь ответ",
           "nameA": null
         },
         {
           "lang": "vi-VN",
-          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "name": "Giải bài và điền kết quả",
           "nameA": null
         },
         {
           "lang": "zh-CN",
-          "name": "填空使示例正确",
+          "name": "解题并填写答案",
           "nameA": null
         },
         {
           "lang": "hi-IN",
-          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "name": "उत्तर भरें",
           "nameA": null
         },
         {
           "lang": "th-TH",
-          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "name": "กรอกคำตอบ",
           "nameA": null
         },
         {
           "lang": "tr-TR",
-          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "name": "Cevabı girin",
           "nameA": null
         },
         {
           "lang": "pt-BR",
-          "name": "Preencha os espaços para o exemplo estar correto",
+          "name": "Insira o resultado",
           "nameA": null
         },
         {
           "lang": "de-DE",
-          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "name": "Löse das Beispiel",
           "nameA": null
         },
         {
           "lang": "id-ID",
-          "name": "Isi kekosongan agar contoh benar",
+          "name": "Isi jawabannya",
           "nameA": null
         },
         {
           "lang": "fr-FR",
-          "name": "Remplir les trous pour que l'exemple soit correct",
+          "name": "Résous et complète le résultat",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "6",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "10",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "Solve: result missing - 10",
+      "taskMask": "2 \u002B 7 = {txt:9}\n1 \u002B 4 = {txt:5}\n5 \u002B 5 = {txt:10}\n1 \u002B 6 = {txt:7}",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": false,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Реши пример, вставь ответ",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Giải bài và điền kết quả",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "解题并填写答案",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "उत्तर भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "กรอกคำตอบ",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Cevabı girin",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Insira o resultado",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Löse das Beispiel",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi jawabannya",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Résous et complète le résultat",
           "nameA": null
         }
       ],
@@ -442,6 +948,26 @@
       "answers": [
         {
           "name": "5",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "7",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "9",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "10",
+          "nameA": null,
+          "image": null,
           "answerType": 0
         }
       ],
@@ -450,8 +976,8 @@
       "textSize": 1
     },
     {
-      "name": "fill in the blanks to make the example correct (result)",
-      "taskMask": "{txt:3} + 3 = {txt:6}\n4 + {txt:2} = {txt:6}",
+      "name": "Solve: result missing - 11",
+      "taskMask": "2 \u002B 5 = {txt:7}\n8 \u002B 0 = {txt:8}\n5 \u002B 2 = {txt:7}",
       "nameA": null,
       "image": null,
       "bg": null,
@@ -459,204 +985,52 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Заполни пропуски, чтобы пример был верным",
+          "name": "Реши пример, вставь ответ",
           "nameA": null
         },
         {
           "lang": "vi-VN",
-          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "name": "Giải bài và điền kết quả",
           "nameA": null
         },
         {
           "lang": "zh-CN",
-          "name": "填空使示例正确",
+          "name": "解题并填写答案",
           "nameA": null
         },
         {
           "lang": "hi-IN",
-          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "name": "उत्तर भरें",
           "nameA": null
         },
         {
           "lang": "th-TH",
-          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "name": "กรอกคำตอบ",
           "nameA": null
         },
         {
           "lang": "tr-TR",
-          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "name": "Cevabı girin",
           "nameA": null
         },
         {
           "lang": "pt-BR",
-          "name": "Preencha os espaços para o exemplo estar correto",
+          "name": "Insira o resultado",
           "nameA": null
         },
         {
           "lang": "de-DE",
-          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "name": "Löse das Beispiel",
           "nameA": null
         },
         {
           "lang": "id-ID",
-          "name": "Isi kekosongan agar contoh benar",
+          "name": "Isi jawabannya",
           "nameA": null
         },
         {
           "lang": "fr-FR",
-          "name": "Remplir les trous pour que l'exemple soit correct",
-          "nameA": null
-        }
-      ],
-      "masktranslates": [
-        {
-          "lang": "ru-RU",
-          "name": null,
-          "nameA": null
-        }
-      ],
-      "answers": [
-        {
-          "name": "6",
-          "answerType": 0
-        }
-      ],
-      "horizontalAlign": 1,
-      "verticalAlign": 1,
-      "textSize": 1
-    },
-    {
-      "name": "fill in the blanks to make the example correct (result)",
-      "taskMask": "{txt:0} + 6 = {txt:6}",
-      "nameA": null,
-      "image": null,
-      "bg": null,
-      "multianswer": false,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Заполни пропуски, чтобы пример был верным",
-          "nameA": null
-        },
-        {
-          "lang": "vi-VN",
-          "name": "Điền vào chỗ trống để ví dụ đúng",
-          "nameA": null
-        },
-        {
-          "lang": "zh-CN",
-          "name": "填空使示例正确",
-          "nameA": null
-        },
-        {
-          "lang": "hi-IN",
-          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
-          "nameA": null
-        },
-        {
-          "lang": "th-TH",
-          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
-          "nameA": null
-        },
-        {
-          "lang": "tr-TR",
-          "name": "Örneğin doğru olması için boşlukları doldurun",
-          "nameA": null
-        },
-        {
-          "lang": "pt-BR",
-          "name": "Preencha os espaços para o exemplo estar correto",
-          "nameA": null
-        },
-        {
-          "lang": "de-DE",
-          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
-          "nameA": null
-        },
-        {
-          "lang": "id-ID",
-          "name": "Isi kekosongan agar contoh benar",
-          "nameA": null
-        },
-        {
-          "lang": "fr-FR",
-          "name": "Remplir les trous pour que l'exemple soit correct",
-          "nameA": null
-        }
-      ],
-      "masktranslates": [
-        {
-          "lang": "ru-RU",
-          "name": null,
-          "nameA": null
-        }
-      ],
-      "answers": [
-        {
-          "name": "6",
-          "answerType": 0
-        }
-      ],
-      "horizontalAlign": 1,
-      "verticalAlign": 1,
-      "textSize": 1
-    },
-    {
-      "name": "fill in the blanks to make the example correct (result)",
-      "taskMask": "3 + {txt:4} = {txt:7}\n5 + {txt:2} = {txt:7}\n{txt:1} + 6 = {txt:7}\n{txt:4} + 4 = {txt:8}",
-      "nameA": null,
-      "image": null,
-      "bg": null,
-      "multianswer": true,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Заполни пропуски, чтобы пример был верным",
-          "nameA": null
-        },
-        {
-          "lang": "vi-VN",
-          "name": "Điền vào chỗ trống để ví dụ đúng",
-          "nameA": null
-        },
-        {
-          "lang": "zh-CN",
-          "name": "填空使示例正确",
-          "nameA": null
-        },
-        {
-          "lang": "hi-IN",
-          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
-          "nameA": null
-        },
-        {
-          "lang": "th-TH",
-          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
-          "nameA": null
-        },
-        {
-          "lang": "tr-TR",
-          "name": "Örneğin doğru olması için boşlukları doldurun",
-          "nameA": null
-        },
-        {
-          "lang": "pt-BR",
-          "name": "Preencha os espaços para o exemplo estar correto",
-          "nameA": null
-        },
-        {
-          "lang": "de-DE",
-          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
-          "nameA": null
-        },
-        {
-          "lang": "id-ID",
-          "name": "Isi kekosongan agar contoh benar",
-          "nameA": null
-        },
-        {
-          "lang": "fr-FR",
-          "name": "Remplir les trous pour que l'exemple soit correct",
+          "name": "Résous et complète le résultat",
           "nameA": null
         }
       ],
@@ -670,10 +1044,14 @@
       "answers": [
         {
           "name": "7",
+          "nameA": null,
+          "image": null,
           "answerType": 0
         },
         {
           "name": "8",
+          "nameA": null,
+          "image": null,
           "answerType": 0
         }
       ],
@@ -682,236 +1060,8 @@
       "textSize": 1
     },
     {
-      "name": "fill in the blanks to make the example correct (result)",
-      "taskMask": "5 + {txt:3} = {txt:8}\n6 + {txt:2} = {txt:8}\n4 + {txt:4} = {txt:8}",
-      "nameA": null,
-      "image": null,
-      "bg": null,
-      "multianswer": true,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Заполни пропуски, чтобы пример был верным",
-          "nameA": null
-        },
-        {
-          "lang": "vi-VN",
-          "name": "Điền vào chỗ trống để ví dụ đúng",
-          "nameA": null
-        },
-        {
-          "lang": "zh-CN",
-          "name": "填空使示例正确",
-          "nameA": null
-        },
-        {
-          "lang": "hi-IN",
-          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
-          "nameA": null
-        },
-        {
-          "lang": "th-TH",
-          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
-          "nameA": null
-        },
-        {
-          "lang": "tr-TR",
-          "name": "Örneğin doğru olması için boşlukları doldurun",
-          "nameA": null
-        },
-        {
-          "lang": "pt-BR",
-          "name": "Preencha os espaços para o exemplo estar correto",
-          "nameA": null
-        },
-        {
-          "lang": "de-DE",
-          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
-          "nameA": null
-        },
-        {
-          "lang": "id-ID",
-          "name": "Isi kekosongan agar contoh benar",
-          "nameA": null
-        },
-        {
-          "lang": "fr-FR",
-          "name": "Remplir les trous pour que l'exemple soit correct",
-          "nameA": null
-        }
-      ],
-      "masktranslates": [
-        {
-          "lang": "ru-RU",
-          "name": null,
-          "nameA": null
-        }
-      ],
-      "answers": [
-        {
-          "name": "8",
-          "answerType": 0
-        }
-      ],
-      "horizontalAlign": 1,
-      "verticalAlign": 1,
-      "textSize": 1
-    },
-    {
-      "name": "fill in the blanks to make the example correct (result)",
-      "taskMask": "{txt:1} + 7 = {txt:8}\n{txt:0} + 8 = {txt:8}",
-      "nameA": null,
-      "image": null,
-      "bg": null,
-      "multianswer": true,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Заполни пропуски, чтобы пример был верным",
-          "nameA": null
-        },
-        {
-          "lang": "vi-VN",
-          "name": "Điền vào chỗ trống để ví dụ đúng",
-          "nameA": null
-        },
-        {
-          "lang": "zh-CN",
-          "name": "填空使示例正确",
-          "nameA": null
-        },
-        {
-          "lang": "hi-IN",
-          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
-          "nameA": null
-        },
-        {
-          "lang": "th-TH",
-          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
-          "nameA": null
-        },
-        {
-          "lang": "tr-TR",
-          "name": "Örneğin doğru olması için boşlukları doldurun",
-          "nameA": null
-        },
-        {
-          "lang": "pt-BR",
-          "name": "Preencha os espaços para o exemplo estar correto",
-          "nameA": null
-        },
-        {
-          "lang": "de-DE",
-          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
-          "nameA": null
-        },
-        {
-          "lang": "id-ID",
-          "name": "Isi kekosongan agar contoh benar",
-          "nameA": null
-        },
-        {
-          "lang": "fr-FR",
-          "name": "Remplir les trous pour que l'exemple soit correct",
-          "nameA": null
-        }
-      ],
-      "masktranslates": [
-        {
-          "lang": "ru-RU",
-          "name": null,
-          "nameA": null
-        }
-      ],
-      "answers": [
-        {
-          "name": "8",
-          "answerType": 0
-        }
-      ],
-      "horizontalAlign": 1,
-      "verticalAlign": 1,
-      "textSize": 1
-    },
-    {
-      "name": "fill in the blanks to make the example correct (result)",
-      "taskMask": "5 + {txt:4} = {txt:9}\n{txt:2} + 7 = {txt:9}\n6 + {txt:3} = {txt:9}\n{txt:1} + 8 = {txt:9}",
-      "nameA": null,
-      "image": null,
-      "bg": null,
-      "multianswer": true,
-      "translates": [
-        {
-          "lang": "ru-RU",
-          "name": "Заполни пропуски, чтобы пример был верным",
-          "nameA": null
-        },
-        {
-          "lang": "vi-VN",
-          "name": "Điền vào chỗ trống để ví dụ đúng",
-          "nameA": null
-        },
-        {
-          "lang": "zh-CN",
-          "name": "填空使示例正确",
-          "nameA": null
-        },
-        {
-          "lang": "hi-IN",
-          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
-          "nameA": null
-        },
-        {
-          "lang": "th-TH",
-          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
-          "nameA": null
-        },
-        {
-          "lang": "tr-TR",
-          "name": "Örneğin doğru olması için boşlukları doldurun",
-          "nameA": null
-        },
-        {
-          "lang": "pt-BR",
-          "name": "Preencha os espaços para o exemplo estar correto",
-          "nameA": null
-        },
-        {
-          "lang": "de-DE",
-          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
-          "nameA": null
-        },
-        {
-          "lang": "id-ID",
-          "name": "Isi kekosongan agar contoh benar",
-          "nameA": null
-        },
-        {
-          "lang": "fr-FR",
-          "name": "Remplir les trous pour que l'exemple soit correct",
-          "nameA": null
-        }
-      ],
-      "masktranslates": [
-        {
-          "lang": "ru-RU",
-          "name": null,
-          "nameA": null
-        }
-      ],
-      "answers": [
-        {
-          "name": "9",
-          "answerType": 0
-        }
-      ],
-      "horizontalAlign": 1,
-      "verticalAlign": 1,
-      "textSize": 1
-    },
-    {
-      "name": "fill in the blanks to make the example correct (result)",
-      "taskMask": "{txt:9} + 0 = {txt:9}",
+      "name": "Solve: result missing - 12",
+      "taskMask": "6 \u002B 4 = {txt:10}\n7 \u002B 0 = {txt:7}\n2 \u002B 6 = {txt:8}",
       "nameA": null,
       "image": null,
       "bg": null,
@@ -919,52 +1069,52 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Заполни пропуски, чтобы пример был верным",
+          "name": "Реши пример, вставь ответ",
           "nameA": null
         },
         {
           "lang": "vi-VN",
-          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "name": "Giải bài và điền kết quả",
           "nameA": null
         },
         {
           "lang": "zh-CN",
-          "name": "填空使示例正确",
+          "name": "解题并填写答案",
           "nameA": null
         },
         {
           "lang": "hi-IN",
-          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "name": "उत्तर भरें",
           "nameA": null
         },
         {
           "lang": "th-TH",
-          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "name": "กรอกคำตอบ",
           "nameA": null
         },
         {
           "lang": "tr-TR",
-          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "name": "Cevabı girin",
           "nameA": null
         },
         {
           "lang": "pt-BR",
-          "name": "Preencha os espaços para o exemplo estar correto",
+          "name": "Insira o resultado",
           "nameA": null
         },
         {
           "lang": "de-DE",
-          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "name": "Löse das Beispiel",
           "nameA": null
         },
         {
           "lang": "id-ID",
-          "name": "Isi kekosongan agar contoh benar",
+          "name": "Isi jawabannya",
           "nameA": null
         },
         {
           "lang": "fr-FR",
-          "name": "Remplir les trous pour que l'exemple soit correct",
+          "name": "Résous et complète le résultat",
           "nameA": null
         }
       ],
@@ -976,8 +1126,298 @@
         }
       ],
       "answers": [
+        {
+          "name": "7",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "8",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "10",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "Solve: result missing - 13",
+      "taskMask": "6 \u002B 2 = {txt:8}\n1 \u002B 1 = {txt:2}\n5 \u002B 1 = {txt:6}\n4 \u002B 6 = {txt:10}",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": false,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Реши пример, вставь ответ",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Giải bài và điền kết quả",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "解题并填写答案",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "उत्तर भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "กรอกคำตอบ",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Cevabı girin",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Insira o resultado",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Löse das Beispiel",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi jawabannya",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Résous et complète le résultat",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "2",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "6",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "8",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "10",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "Solve: result missing - 14",
+      "taskMask": "3 \u002B 5 = {txt:8}\n3 \u002B 4 = {txt:7}\n4 \u002B 3 = {txt:7}",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Реши пример, вставь ответ",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Giải bài và điền kết quả",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "解题并填写答案",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "उत्तर भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "กรอกคำตอบ",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Cevabı girin",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Insira o resultado",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Löse das Beispiel",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi jawabannya",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Résous et complète le résultat",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "7",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "8",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "Solve: result missing - 15",
+      "taskMask": "0 \u002B 1 = {txt:1}\n4 \u002B 1 = {txt:5}\n5 \u002B 4 = {txt:9}\n6 \u002B 0 = {txt:6}",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": false,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Реши пример, вставь ответ",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Giải bài và điền kết quả",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "解题并填写答案",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "उत्तर भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "กรอกคำตอบ",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Cevabı girin",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Insira o resultado",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Löse das Beispiel",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi jawabannya",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Résous et complète le résultat",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "1",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "5",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "6",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
         {
           "name": "9",
+          "nameA": null,
+          "image": null,
           "answerType": 0
         }
       ],
@@ -986,8 +1426,8 @@
       "textSize": 1
     },
     {
-      "name": "fill in the blanks to make the example correct (result)",
-      "taskMask": "5 + {txt:5} = {txt:10}\n1 + {txt:9} = {txt:10}\n0 + {txt:0} = {txt:0}",
+      "name": "Solve: result missing - 16",
+      "taskMask": "0 \u002B 4 = {txt:4}\n3 \u002B 1 = {txt:4}\n1 \u002B 0 = {txt:1}\n0 \u002B 5 = {txt:5}",
       "nameA": null,
       "image": null,
       "bg": null,
@@ -995,52 +1435,52 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Заполни пропуски, чтобы пример был верным",
+          "name": "Реши пример, вставь ответ",
           "nameA": null
         },
         {
           "lang": "vi-VN",
-          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "name": "Giải bài và điền kết quả",
           "nameA": null
         },
         {
           "lang": "zh-CN",
-          "name": "填空使示例正确",
+          "name": "解题并填写答案",
           "nameA": null
         },
         {
           "lang": "hi-IN",
-          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "name": "उत्तर भरें",
           "nameA": null
         },
         {
           "lang": "th-TH",
-          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "name": "กรอกคำตอบ",
           "nameA": null
         },
         {
           "lang": "tr-TR",
-          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "name": "Cevabı girin",
           "nameA": null
         },
         {
           "lang": "pt-BR",
-          "name": "Preencha os espaços para o exemplo estar correto",
+          "name": "Insira o resultado",
           "nameA": null
         },
         {
           "lang": "de-DE",
-          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "name": "Löse das Beispiel",
           "nameA": null
         },
         {
           "lang": "id-ID",
-          "name": "Isi kekosongan agar contoh benar",
+          "name": "Isi jawabannya",
           "nameA": null
         },
         {
           "lang": "fr-FR",
-          "name": "Remplir les trous pour que l'exemple soit correct",
+          "name": "Résous et complète le résultat",
           "nameA": null
         }
       ],
@@ -1053,11 +1493,21 @@
       ],
       "answers": [
         {
-          "name": "0",
+          "name": "1",
+          "nameA": null,
+          "image": null,
           "answerType": 0
         },
         {
-          "name": "10",
+          "name": "4",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "5",
+          "nameA": null,
+          "image": null,
           "answerType": 0
         }
       ],
@@ -1066,8 +1516,8 @@
       "textSize": 1
     },
     {
-      "name": "fill in the blanks to make the example correct (result)",
-      "taskMask": "{txt:4} + 6 = {txt:10}\n{txt:3} + 7 = {txt:10}",
+      "name": "Solve: result missing - 17",
+      "taskMask": "3 \u002B 0 = {txt:3}\n2 \u002B 1 = {txt:3}\n1 \u002B 7 = {txt:8}",
       "nameA": null,
       "image": null,
       "bg": null,
@@ -1075,52 +1525,52 @@
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Заполни пропуски, чтобы пример был верным",
+          "name": "Реши пример, вставь ответ",
           "nameA": null
         },
         {
           "lang": "vi-VN",
-          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "name": "Giải bài và điền kết quả",
           "nameA": null
         },
         {
           "lang": "zh-CN",
-          "name": "填空使示例正确",
+          "name": "解题并填写答案",
           "nameA": null
         },
         {
           "lang": "hi-IN",
-          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "name": "उत्तर भरें",
           "nameA": null
         },
         {
           "lang": "th-TH",
-          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "name": "กรอกคำตอบ",
           "nameA": null
         },
         {
           "lang": "tr-TR",
-          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "name": "Cevabı girin",
           "nameA": null
         },
         {
           "lang": "pt-BR",
-          "name": "Preencha os espaços para o exemplo estar correto",
+          "name": "Insira o resultado",
           "nameA": null
         },
         {
           "lang": "de-DE",
-          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "name": "Löse das Beispiel",
           "nameA": null
         },
         {
           "lang": "id-ID",
-          "name": "Isi kekosongan agar contoh benar",
+          "name": "Isi jawabannya",
           "nameA": null
         },
         {
           "lang": "fr-FR",
-          "name": "Remplir les trous pour que l'exemple soit correct",
+          "name": "Résous et complète le résultat",
           "nameA": null
         }
       ],
@@ -1133,7 +1583,15 @@
       ],
       "answers": [
         {
-          "name": "10",
+          "name": "3",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "8",
+          "nameA": null,
+          "image": null,
           "answerType": 0
         }
       ],
@@ -1142,61 +1600,61 @@
       "textSize": 1
     },
     {
-      "name": "fill in the blanks to make the example correct (result)",
-      "taskMask": "0 + {txt:0} = {txt:0}\n2 + {txt:8} = {txt:10}\n{txt:0} + 10 = {txt:10}",
+      "name": "Solve: result missing - 18",
+      "taskMask": "0 \u002B 10 = {txt:10}\n4 \u002B 2 = {txt:6}\n7 \u002B 1 = {txt:8}",
       "nameA": null,
       "image": null,
       "bg": null,
-      "multianswer": true,
+      "multianswer": false,
       "translates": [
         {
           "lang": "ru-RU",
-          "name": "Заполни пропуски, чтобы пример был верным",
+          "name": "Реши пример, вставь ответ",
           "nameA": null
         },
         {
           "lang": "vi-VN",
-          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "name": "Giải bài và điền kết quả",
           "nameA": null
         },
         {
           "lang": "zh-CN",
-          "name": "填空使示例正确",
+          "name": "解题并填写答案",
           "nameA": null
         },
         {
           "lang": "hi-IN",
-          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "name": "उत्तर भरें",
           "nameA": null
         },
         {
           "lang": "th-TH",
-          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "name": "กรอกคำตอบ",
           "nameA": null
         },
         {
           "lang": "tr-TR",
-          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "name": "Cevabı girin",
           "nameA": null
         },
         {
           "lang": "pt-BR",
-          "name": "Preencha os espaços para o exemplo estar correto",
+          "name": "Insira o resultado",
           "nameA": null
         },
         {
           "lang": "de-DE",
-          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "name": "Löse das Beispiel",
           "nameA": null
         },
         {
           "lang": "id-ID",
-          "name": "Isi kekosongan agar contoh benar",
+          "name": "Isi jawabannya",
           "nameA": null
         },
         {
           "lang": "fr-FR",
-          "name": "Remplir les trous pour que l'exemple soit correct",
+          "name": "Résous et complète le résultat",
           "nameA": null
         }
       ],
@@ -1209,11 +1667,105 @@
       ],
       "answers": [
         {
-          "name": "0",
+          "name": "6",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "8",
+          "nameA": null,
+          "image": null,
           "answerType": 0
         },
         {
           "name": "10",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "Solve: result missing - 19",
+      "taskMask": "0 \u002B 6 = {txt:6}\n4 \u002B 4 = {txt:8}\n5 \u002B 3 = {txt:8}",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Реши пример, вставь ответ",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Giải bài và điền kết quả",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "解题并填写答案",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "उत्तर भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "กรอกคำตอบ",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Cevabı girin",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Insira o resultado",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Löse das Beispiel",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi jawabannya",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Résous et complète le résultat",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "6",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "8",
+          "nameA": null,
+          "image": null,
           "answerType": 0
         }
       ],
