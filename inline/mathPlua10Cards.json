@@ -1,1 +1,1231 @@
-{"name":"Solve examples","nameA":null,"img":null,"minQuiz":7,"isRandom":false,"Translations":[{"lang":"ru-RU","name":"Примеры до 10","nameA":null},{"lang":"vi-VN","name":"Giải ví dụ","nameA":null},{"lang":"zh-CN","name":"解题示例","nameA":null},{"lang":"hi-IN","name":"उदाहरण हल करें","nameA":null},{"lang":"th-TH","name":"แก้โจทย์ตัวอย่าง","nameA":null},{"lang":"tr-TR","name":"Örnekleri Çöz","nameA":null},{"lang":"pt-BR","name":"Resolver exemplos","nameA":null},{"lang":"de-DE","name":"Beispiele lösen","nameA":null},{"lang":"id-ID","name":"Selesaikan contoh","nameA":null},{"lang":"fr-FR","name":"Résoudre des exemples","nameA":null}],"items":[{"name":"fill in the blanks to make the example correct","taskMask":"1 + {txt:0} = 1\n0 + {txt:1} = 1\n{txt:0} + {txt:0} = 0\n1 + {txt:1} = 2\n{txt:2} + 0 = 2","nameA":null,"image":null,"bg":null,"multianswer":true,"translates":[{"lang":"ru-RU","name":"Заполни пропуски, чтобы пример был верным","nameA":null},{"lang":"vi-VN","name":"Điền vào chỗ trống để ví dụ đúng","nameA":null},{"lang":"zh-CN","name":"填空使示例正确","nameA":null},{"lang":"hi-IN","name":"रिक्त स्थान भरें ताकि उदाहरण सही हो","nameA":null},{"lang":"th-TH","name":"เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง","nameA":null},{"lang":"tr-TR","name":"Örneğin doğru olması için boşlukları doldurun","nameA":null},{"lang":"pt-BR","name":"Preencha os espaços para o exemplo estar correto","nameA":null},{"lang":"de-DE","name":"Fülle die Lücken aus, damit das Beispiel stimmt","nameA":null},{"lang":"id-ID","name":"Isi kekosongan agar contoh benar","nameA":null},{"lang":"fr-FR","name":"Remplir les trous pour que l'exemple soit correct","nameA":null}],"masktranslates":[{"lang":"ru-RU","name":null,"nameA":null}],"answers":[{"name":"answer_0","nameA":null,"image":null,"answerType":0}],"horizontalAlign":1,"verticalAlign":1,"textSize":1},{"name":"fill in the blanks to make the example correct","taskMask":"3 + {txt:0} = 3\n1 + {txt:2} = 3\n{txt:2} + 2 = 4\n1 + {txt:3} = 4\n{txt:4} + 0 = 4","nameA":null,"image":null,"bg":null,"multianswer":true,"translates":[{"lang":"ru-RU","name":"Заполни пропуски, чтобы пример был верным","nameA":null},{"lang":"vi-VN","name":"Điền vào chỗ trống để ví dụ đúng","nameA":null},{"lang":"zh-CN","name":"填空使示例正确","nameA":null},{"lang":"hi-IN","name":"रिक्त स्थान भरें ताकि उदाहरण सही हो","nameA":null},{"lang":"th-TH","name":"เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง","nameA":null},{"lang":"tr-TR","name":"Örneğin doğru olması için boşlukları doldurun","nameA":null},{"lang":"pt-BR","name":"Preencha os espaços para o exemplo estar correto","nameA":null},{"lang":"de-DE","name":"Fülle die Lücken aus, damit das Beispiel stimmt","nameA":null},{"lang":"id-ID","name":"Isi kekosongan agar contoh benar","nameA":null},{"lang":"fr-FR","name":"Remplir les trous pour que l'exemple soit correct","nameA":null}],"masktranslates":[{"lang":"ru-RU","name":null,"nameA":null}],"answers":[{"name":"answer_0","nameA":null,"image":null,"answerType":0}],"horizontalAlign":1,"verticalAlign":1,"textSize":1},{"name":"fill in the blanks to make the example correct","taskMask":"3 + {txt:2} = 5\n1 + {txt:4} = 5\n{txt:3} + 3 = 6\n4 + {txt:2} = 6\n{txt:0} + 6 = 6","nameA":null,"image":null,"bg":null,"multianswer":true,"translates":[{"lang":"ru-RU","name":"Заполни пропуски, чтобы пример был верным","nameA":null},{"lang":"vi-VN","name":"Điền vào chỗ trống để ví dụ đúng","nameA":null},{"lang":"zh-CN","name":"填空使示例正确","nameA":null},{"lang":"hi-IN","name":"रिक्त स्थान भरें ताकि उदाहरण सही हो","nameA":null},{"lang":"th-TH","name":"เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง","nameA":null},{"lang":"tr-TR","name":"Örneğin doğru olması için boşlukları doldurun","nameA":null},{"lang":"pt-BR","name":"Preencha os espaços para o exemplo estar correto","nameA":null},{"lang":"de-DE","name":"Fülle die Lücken aus, damit das Beispiel stimmt","nameA":null},{"lang":"id-ID","name":"Isi kekosongan agar contoh benar","nameA":null},{"lang":"fr-FR","name":"Remplir les trous pour que l'exemple soit correct","nameA":null}],"masktranslates":[{"lang":"ru-RU","name":null,"nameA":null}],"answers":[{"name":"answer_0","nameA":null,"image":null,"answerType":0}],"horizontalAlign":1,"verticalAlign":1,"textSize":1},{"name":"fill in the blanks to make the example correct","taskMask":"3 + {txt:4} = 7\n5 + {txt:2} = 7\n{txt:1} + 6 = 7\n{txt:4} + 4 = 8","nameA":null,"image":null,"bg":null,"multianswer":true,"translates":[{"lang":"ru-RU","name":"Заполни пропуски, чтобы пример был верным","nameA":null},{"lang":"vi-VN","name":"Điền vào chỗ trống để ví dụ đúng","nameA":null},{"lang":"zh-CN","name":"填空使示例正确","nameA":null},{"lang":"hi-IN","name":"रिक्त स्थान भरें ताकि उदाहरण सही हो","nameA":null},{"lang":"th-TH","name":"เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง","nameA":null},{"lang":"tr-TR","name":"Örneğin doğru olması için boşlukları doldurun","nameA":null},{"lang":"pt-BR","name":"Preencha os espaços para o exemplo estar correto","nameA":null},{"lang":"de-DE","name":"Fülle die Lücken aus, damit das Beispiel stimmt","nameA":null},{"lang":"id-ID","name":"Isi kekosongan agar contoh benar","nameA":null},{"lang":"fr-FR","name":"Remplir les trous pour que l'exemple soit correct","nameA":null}],"masktranslates":[{"lang":"ru-RU","name":null,"nameA":null}],"answers":[{"name":"answer_0","nameA":null,"image":null,"answerType":0}],"horizontalAlign":1,"verticalAlign":1,"textSize":1},{"name":"fill in the blanks to make the example correct","taskMask":"5 + {txt:3} = 8\n6 + {txt:2} = 8\n4 + {txt:4} = 8\n{txt:1} + 7 = 8\n{txt:0} + 8 = 8","nameA":null,"image":null,"bg":null,"multianswer":true,"translates":[{"lang":"ru-RU","name":"Заполни пропуски, чтобы пример был верным","nameA":null},{"lang":"vi-VN","name":"Điền vào chỗ trống để ví dụ đúng","nameA":null},{"lang":"zh-CN","name":"填空使示例正确","nameA":null},{"lang":"hi-IN","name":"रिक्त स्थान भरें ताकि उदाहरण सही हो","nameA":null},{"lang":"th-TH","name":"เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง","nameA":null},{"lang":"tr-TR","name":"Örneğin doğru olması için boşlukları doldurun","nameA":null},{"lang":"pt-BR","name":"Preencha os espaços para o exemplo estar correto","nameA":null},{"lang":"de-DE","name":"Fülle die Lücken aus, damit das Beispiel stimmt","nameA":null},{"lang":"id-ID","name":"Isi kekosongan agar contoh benar","nameA":null},{"lang":"fr-FR","name":"Remplir les trous pour que l'exemple soit correct","nameA":null}],"masktranslates":[{"lang":"ru-RU","name":null,"nameA":null}],"answers":[{"name":"answer_0","nameA":null,"image":null,"answerType":0}],"horizontalAlign":1,"verticalAlign":1,"textSize":1},{"name":"fill in the blanks to make the example correct","taskMask":"5 + {txt:4} = 9\n{txt:2} + 7 = 9\n6 + {txt:3} = 9\n{txt:1} + 8 = 9\n{txt:9} + 0 = 9","nameA":null,"image":null,"bg":null,"multianswer":true,"translates":[{"lang":"ru-RU","name":"Заполни пропуски, чтобы пример был верным","nameA":null},{"lang":"vi-VN","name":"Điền vào chỗ trống để ví dụ đúng","nameA":null},{"lang":"zh-CN","name":"填空使示例正确","nameA":null},{"lang":"hi-IN","name":"रिक्त स्थान भरें ताकि उदाहरण सही हो","nameA":null},{"lang":"th-TH","name":"เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง","nameA":null},{"lang":"tr-TR","name":"Örneğin doğru olması için boşlukları doldurun","nameA":null},{"lang":"pt-BR","name":"Preencha os espaços para o exemplo estar correto","nameA":null},{"lang":"de-DE","name":"Fülle die Lücken aus, damit das Beispiel stimmt","nameA":null},{"lang":"id-ID","name":"Isi kekosongan agar contoh benar","nameA":null},{"lang":"fr-FR","name":"Remplir les trous pour que l'exemple soit correct","nameA":null}],"masktranslates":[{"lang":"ru-RU","name":null,"nameA":null}],"answers":[{"name":"answer_0","nameA":null,"image":null,"answerType":0}],"horizontalAlign":1,"verticalAlign":1,"textSize":1},{"name":"fill in the blanks to make the example correct","taskMask":"5 + {txt:5} = 10\n1 + {txt:9} = 10\n0 + {txt:0} = 0\n{txt:4} + 6 = 10\n{txt:3} + 7 = 10\n0 + {txt:0} = 0\n2 + {txt:8} = 10\n{txt:0} + 10 = 10","nameA":null,"image":null,"bg":null,"multianswer":true,"translates":[{"lang":"ru-RU","name":"Заполни пропуски, чтобы пример был верным","nameA":null},{"lang":"vi-VN","name":"Điền vào chỗ trống để ví dụ đúng","nameA":null},{"lang":"zh-CN","name":"填空使示例正确","nameA":null},{"lang":"hi-IN","name":"रिक्त स्थान भरें ताकि उदाहरण सही हो","nameA":null},{"lang":"th-TH","name":"เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง","nameA":null},{"lang":"tr-TR","name":"Örneğin doğru olması için boşlukları doldurun","nameA":null},{"lang":"pt-BR","name":"Preencha os espaços para o exemplo estar correto","nameA":null},{"lang":"de-DE","name":"Fülle die Lücken aus, damit das Beispiel stimmt","nameA":null},{"lang":"id-ID","name":"Isi kekosongan agar contoh benar","nameA":null},{"lang":"fr-FR","name":"Remplir les trous pour que l'exemple soit correct","nameA":null}],"masktranslates":[{"lang":"ru-RU","name":null,"nameA":null}],"answers":[{"name":"answer_0","nameA":null,"image":null,"answerType":0}],"horizontalAlign":1,"verticalAlign":1,"textSize":1}]}
+{
+  "name": "Solve examples",
+  "nameA": null,
+  "img": null,
+  "minQuiz": 7,
+  "isRandom": false,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Примеры до 10",
+      "nameA": null
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Giải ví dụ",
+      "nameA": null
+    },
+    {
+      "lang": "zh-CN",
+      "name": "解题示例",
+      "nameA": null
+    },
+    {
+      "lang": "hi-IN",
+      "name": "उदाहरण हल करें",
+      "nameA": null
+    },
+    {
+      "lang": "th-TH",
+      "name": "แก้โจทย์ตัวอย่าง",
+      "nameA": null
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Örnekleri Çöz",
+      "nameA": null
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Resolver exemplos",
+      "nameA": null
+    },
+    {
+      "lang": "de-DE",
+      "name": "Beispiele lösen",
+      "nameA": null
+    },
+    {
+      "lang": "id-ID",
+      "name": "Selesaikan contoh",
+      "nameA": null
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Résoudre des exemples",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "name": "fill in the blanks to make the example correct",
+      "taskMask": "1 \u002B {txt:0} = 1\n0 \u002B {txt:1} = 1\n{txt:0} \u002B {txt:0} = 0\n1 \u002B {txt:1} = 2",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски, чтобы пример был верным",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空使示例正确",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha os espaços para o exemplo estar correto",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan agar contoh benar",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous pour que l\u0027exemple soit correct",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "answer_0",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "fill in the blanks to make the example correct",
+      "taskMask": "{txt:2} \u002B 0 = 2",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски, чтобы пример был верным",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空使示例正确",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha os espaços para o exemplo estar correto",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan agar contoh benar",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous pour que l\u0027exemple soit correct",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "answer_0",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "fill in the blanks to make the example correct",
+      "taskMask": "3 \u002B {txt:0} = 3\n1 \u002B {txt:2} = 3\n{txt:2} \u002B 2 = 4\n1 \u002B {txt:3} = 4",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски, чтобы пример был верным",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空使示例正确",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha os espaços para o exemplo estar correto",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan agar contoh benar",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous pour que l\u0027exemple soit correct",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "answer_0",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "fill in the blanks to make the example correct",
+      "taskMask": "{txt:4} \u002B 0 = 4",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски, чтобы пример был верным",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空使示例正确",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha os espaços para o exemplo estar correto",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan agar contoh benar",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous pour que l\u0027exemple soit correct",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "answer_0",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "fill in the blanks to make the example correct",
+      "taskMask": "3 \u002B {txt:2} = 5\n1 \u002B {txt:4} = 5",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски, чтобы пример был верным",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空使示例正确",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha os espaços para o exemplo estar correto",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan agar contoh benar",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous pour que l\u0027exemple soit correct",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "answer_0",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "fill in the blanks to make the example correct",
+      "taskMask": "{txt:3} \u002B 3 = 6\n4 \u002B {txt:2} = 6",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски, чтобы пример был верным",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空使示例正确",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha os espaços para o exemplo estar correto",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan agar contoh benar",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous pour que l\u0027exemple soit correct",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "answer_0",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "fill in the blanks to make the example correct",
+      "taskMask": "{txt:0} \u002B 6 = 6",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски, чтобы пример был верным",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空使示例正确",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha os espaços para o exemplo estar correto",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan agar contoh benar",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous pour que l\u0027exemple soit correct",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "answer_0",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "fill in the blanks to make the example correct",
+      "taskMask": "3 \u002B {txt:4} = 7\n5 \u002B {txt:2} = 7\n{txt:1} \u002B 6 = 7\n{txt:4} \u002B 4 = 8",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски, чтобы пример был верным",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空使示例正确",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha os espaços para o exemplo estar correto",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan agar contoh benar",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous pour que l\u0027exemple soit correct",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "answer_0",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "fill in the blanks to make the example correct",
+      "taskMask": "5 \u002B {txt:3} = 8\n6 \u002B {txt:2} = 8\n4 \u002B {txt:4} = 8",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски, чтобы пример был верным",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空使示例正确",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha os espaços para o exemplo estar correto",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan agar contoh benar",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous pour que l\u0027exemple soit correct",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "answer_0",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "fill in the blanks to make the example correct",
+      "taskMask": "{txt:1} \u002B 7 = 8\n{txt:0} \u002B 8 = 8",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски, чтобы пример был верным",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空使示例正确",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha os espaços para o exemplo estar correto",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan agar contoh benar",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous pour que l\u0027exemple soit correct",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "answer_0",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "fill in the blanks to make the example correct",
+      "taskMask": "5 \u002B {txt:4} = 9\n{txt:2} \u002B 7 = 9\n6 \u002B {txt:3} = 9\n{txt:1} \u002B 8 = 9",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски, чтобы пример был верным",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空使示例正确",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha os espaços para o exemplo estar correto",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan agar contoh benar",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous pour que l\u0027exemple soit correct",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "answer_0",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "fill in the blanks to make the example correct",
+      "taskMask": "{txt:9} \u002B 0 = 9",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски, чтобы пример был верным",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空使示例正确",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha os espaços para o exemplo estar correto",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan agar contoh benar",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous pour que l\u0027exemple soit correct",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "answer_0",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "fill in the blanks to make the example correct",
+      "taskMask": "5 \u002B {txt:5} = 10\n1 \u002B {txt:9} = 10\n0 \u002B {txt:0} = 0",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски, чтобы пример был верным",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空使示例正确",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha os espaços para o exemplo estar correto",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan agar contoh benar",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous pour que l\u0027exemple soit correct",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "answer_0",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "fill in the blanks to make the example correct",
+      "taskMask": "{txt:4} \u002B 6 = 10\n{txt:3} \u002B 7 = 10",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски, чтобы пример был верным",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空使示例正确",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha os espaços para o exemplo estar correto",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan agar contoh benar",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous pour que l\u0027exemple soit correct",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "answer_0",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "fill in the blanks to make the example correct",
+      "taskMask": "0 \u002B {txt:0} = 0\n2 \u002B {txt:8} = 10\n{txt:0} \u002B 10 = 10",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски, чтобы пример был верным",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống để ví dụ đúng",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空使示例正确",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें ताकि उदाहरण सही हो",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่างเพื่อให้ตัวอย่างถูกต้อง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Örneğin doğru olması için boşlukları doldurun",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha os espaços para o exemplo estar correto",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Fülle die Lücken aus, damit das Beispiel stimmt",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan agar contoh benar",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous pour que l\u0027exemple soit correct",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "answer_0",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    }
+  ]
+}
