@@ -1,0 +1,1129 @@
+{
+  "name": "Counting from 10 to 20",
+  "nameA": null,
+  "img": null,
+  "minQuiz": 12,
+  "isRandom": false,
+  "Translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Счёт от 10 до 20",
+      "nameA": null
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Đếm từ 10 đến 20",
+      "nameA": null
+    },
+    {
+      "lang": "zh-CN",
+      "name": "从10数到20",
+      "nameA": null
+    },
+    {
+      "lang": "hi-IN",
+      "name": "10 से 20 तक गिनती",
+      "nameA": null
+    },
+    {
+      "lang": "th-TH",
+      "name": "นับจาก 10 ถึง 20",
+      "nameA": null
+    },
+    {
+      "lang": "tr-TR",
+      "name": "10\u0027dan 20\u0027ye kadar sayma",
+      "nameA": null
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Contar de 10 a 20",
+      "nameA": null
+    },
+    {
+      "lang": "de-DE",
+      "name": "Zählen von 10 bis 20",
+      "nameA": null
+    },
+    {
+      "lang": "id-ID",
+      "name": "Menghitung dari 10 sampai 20",
+      "nameA": null
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Compter de 10 à 20",
+      "nameA": null
+    }
+  ],
+  "items": [
+    {
+      "name": "Forward count 10-12",
+      "taskMask": "{txt:10}, 11, {txt:12}",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่าง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Boşlukları doldur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha as lacunas",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Lücken füllen",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "10",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "12",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "Forward count 11-13",
+      "taskMask": "11, {txt:12}, 13",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่าง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Boşlukları doldur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha as lacunas",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Lücken füllen",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "12",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "Forward count 12-14",
+      "taskMask": "{txt:12}, 13, {txt:14}",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่าง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Boşlukları doldur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha as lacunas",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Lücken füllen",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "12",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "14",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "Forward count 13-15",
+      "taskMask": "13, {txt:14}, 15",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่าง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Boşlukları doldur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha as lacunas",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Lücken füllen",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "14",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "Forward count 14-16",
+      "taskMask": "{txt:14}, 15, {txt:16}",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่าง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Boşlukları doldur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha as lacunas",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Lücken füllen",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "14",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "16",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "Forward count 15-17",
+      "taskMask": "15, {txt:16}, 17",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่าง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Boşlukları doldur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha as lacunas",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Lücken füllen",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "16",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "Forward count 16-18",
+      "taskMask": "{txt:16}, 17, {txt:18}",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่าง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Boşlukları doldur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha as lacunas",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Lücken füllen",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "16",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "18",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "Forward count 17-19",
+      "taskMask": "17, {txt:18}, 19",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่าง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Boşlukları doldur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha as lacunas",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Lücken füllen",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "18",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "Backward count 20-18",
+      "taskMask": "20, {txt:19}, 18",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่าง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Boşlukları doldur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha as lacunas",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Lücken füllen",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "19",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "Backward count 17-15",
+      "taskMask": "{txt:17}, 16, {txt:15}",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่าง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Boşlukları doldur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha as lacunas",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Lücken füllen",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "17",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "15",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "Backward count 14-12",
+      "taskMask": "14, {txt:13}, 12",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่าง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Boşlukları doldur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha as lacunas",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Lücken füllen",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "13",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 1,
+      "verticalAlign": 1,
+      "textSize": 1
+    },
+    {
+      "name": "Full forward 10–20",
+      "taskMask": "10, 11, {txt:12}, 13, 14, {txt:15}, 16, 17, {txt:18}, 19, 20",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่าง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Boşlukları doldur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha as lacunas",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Lücken füllen",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "12",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "15",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "18",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 0,
+      "verticalAlign": 0,
+      "textSize": 2
+    },
+    {
+      "name": "Full backward 20–10",
+      "taskMask": "20, 19, {txt:18}, 17, 16, {txt:15}, 14, 13, {txt:12}, 11, 10",
+      "nameA": null,
+      "image": null,
+      "bg": null,
+      "multianswer": true,
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заполни пропуски",
+          "nameA": null
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Điền vào chỗ trống",
+          "nameA": null
+        },
+        {
+          "lang": "zh-CN",
+          "name": "填空",
+          "nameA": null
+        },
+        {
+          "lang": "hi-IN",
+          "name": "रिक्त स्थान भरें",
+          "nameA": null
+        },
+        {
+          "lang": "th-TH",
+          "name": "เติมคำในช่องว่าง",
+          "nameA": null
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Boşlukları doldur",
+          "nameA": null
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Preencha as lacunas",
+          "nameA": null
+        },
+        {
+          "lang": "de-DE",
+          "name": "Lücken füllen",
+          "nameA": null
+        },
+        {
+          "lang": "id-ID",
+          "name": "Isi kekosongan",
+          "nameA": null
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Remplir les trous",
+          "nameA": null
+        }
+      ],
+      "masktranslates": [
+        {
+          "lang": "ru-RU",
+          "name": null,
+          "nameA": null
+        }
+      ],
+      "answers": [
+        {
+          "name": "18",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "15",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        },
+        {
+          "name": "12",
+          "nameA": null,
+          "image": null,
+          "answerType": 0
+        }
+      ],
+      "horizontalAlign": 0,
+      "verticalAlign": 0,
+      "textSize": 2
+    }
+  ]
+}
