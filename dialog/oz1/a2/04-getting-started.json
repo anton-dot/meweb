@@ -1,0 +1,139 @@
+{
+  "name": "Getting Started",
+  "bg": "/img/story/bg/yellow_path.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "С чего начать"
+    }
+  ],
+  "items": [
+    {
+      "name": "You need to learn English to unlock the system.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Чтобы разблокировать систему, тебе нужно выучить английский."
+        }
+      ]
+    },
+    {
+      "name": "OK. But how do I learn?",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо. Но как мне учиться?"
+        }
+      ]
+    },
+    {
+      "name": "Step by step. First, practice simple phrases.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Шаг за шагом. Сначала — простые фразы."
+        }
+      ]
+    },
+    {
+      "name": "Like greetings?",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Например, приветствия?"
+        }
+      ]
+    },
+    {
+      "name": "Exactly! Let’s try one. How do you say hello?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Именно! Давай попробуем. Как сказать привет?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Hello",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Hello"
+            }
+          ]
+        },
+        {
+          "name": "Goodbye",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Goodbye"
+            }
+          ]
+        },
+        {
+          "name": "Thanks",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Thanks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "That’s right. Hello!",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Верно. Hello!"
+        }
+      ]
+    },
+    {
+      "name": "Hello, Buzz.",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Привет, Базз."
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/img/story/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/img/story/npc/npc_buzz.png",
+      "s": "n"
+    }
+  ]
+}

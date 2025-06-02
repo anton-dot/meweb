@@ -1,0 +1,164 @@
+{
+  "name": "Logic Gatekeeper",
+  "bg": "/img/story/bg/tin_wood_sector.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Хранитель логики"
+    }
+  ],
+  "items": [
+    {
+      "name": "Warning: Unauthorized access detected.",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Внимание: Обнаружен несанкционированный доступ."
+        }
+      ]
+    },
+    {
+      "name": "I am Logic Enforcer. To pass, prove your grammar logic.",
+      "actor": "LogicEnforcer",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я — Хранитель Логики. Чтобы пройти, докажи свою грамматическую логику."
+        }
+      ]
+    },
+    {
+      "name": "Choose the correct sentence:",
+      "actor": "LogicEnforcer",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери правильное предложение:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "There are three machines in the hall.",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "В зале три машины."
+            }
+          ]
+        },
+        {
+          "name": "There is three machines in the hall.",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Есть три машины в зале (неправильно)."
+            }
+          ]
+        },
+        {
+          "name": "There are machine in the hall.",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Есть машина в зале (неправильно)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Final test. Form a correct question:",
+      "actor": "LogicEnforcer",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Финальный тест. Сформулируй правильный вопрос:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Where does she live?",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Где она живет?"
+            }
+          ]
+        },
+        {
+          "name": "Where she live?",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Где она живет (неправ.)?"
+            }
+          ]
+        },
+        {
+          "name": "Where do she live?",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Где она живет (неправ.)?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ACCESS GRANTED. Proceed to Glass Lands.",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ДОСТУП РАЗРЕШЕН. Переход к Зеркальным Землям."
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/img/story/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/img/story/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "LogicEnforcer",
+      "name": "Logic Enforcer",
+      "image": "/img/story/npc/npc_logic_enforcer.png",
+      "s": "m"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ]
+}

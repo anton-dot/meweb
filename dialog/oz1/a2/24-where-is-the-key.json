@@ -1,0 +1,106 @@
+{
+  "name": "Where is the Key?",
+  "bg": "/img/story/bg/tin_wood_sector.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Где ключ?"
+    }
+  ],
+  "items": [
+    {
+      "name": "Buzz, the gate is locked again.",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Базз, ворота снова заперты."
+        }
+      ]
+    },
+    {
+      "name": "We need to find the key. Ask the right question.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Нам нужно найти ключ. Задай правильный вопрос."
+        }
+      ]
+    },
+    {
+      "name": "___ is the key?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "___ ключ?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Where",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Where"
+            }
+          ]
+        },
+        {
+          "name": "Who",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Who"
+            }
+          ]
+        },
+        {
+          "name": "What",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "What"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Correct. Let’s go and find it.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правильно. Пойдём найдём его."
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/img/story/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/img/story/npc/npc_buzz.png",
+      "s": "n"
+    }
+  ]
+}

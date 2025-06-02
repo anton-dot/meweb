@@ -1,0 +1,134 @@
+{
+  "name": "Ready for the Next Step",
+  "bg": "/img/story/bg/memory_field.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Готова к следующему шагу"
+    }
+  ],
+  "items": [
+    {
+      "name": "Lexi, you restored many memories.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лекси, ты восстановила много воспоминаний."
+        }
+      ]
+    },
+    {
+      "name": "Yes, and I feel stronger.",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да, и я чувствую себя сильнее."
+        }
+      ]
+    },
+    {
+      "name": "It’s time to leave the Memory Field.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пора покинуть Поле Памяти."
+        }
+      ]
+    },
+    {
+      "name": "Where do we go next?",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Куда мы отправимся дальше?"
+        }
+      ]
+    },
+    {
+      "name": "Choose to enter Sector Tin Wood.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери вход в Сектор Жести и Дерева."
+        }
+      ],
+      "actions": [
+        {
+          "name": "Enter Sector Tin Wood",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Войти в Сектор Жести и Дерева"
+            }
+          ]
+        },
+        {
+          "name": "Stay here",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Остаться здесь"
+            }
+          ]
+        },
+        {
+          "name": "Restart module",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Перезапустить модуль"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Teleporting to Sector Tin Wood...",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Телепортация в Сектор Жести и Дерева..."
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/img/story/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/img/story/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ]
+}

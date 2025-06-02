@@ -1,0 +1,106 @@
+{
+  "name": "Favorite Day",
+  "bg": "/img/story/bg/memory_field.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Любимый день"
+    }
+  ],
+  "items": [
+    {
+      "name": "Buzz, I see a bright memory.",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Базз, я вижу яркое воспоминание."
+        }
+      ]
+    },
+    {
+      "name": "Yes, it’s a favorite day. Let’s fix it.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да, это любимый день. Давай его восстановим."
+        }
+      ]
+    },
+    {
+      "name": "Complete the sentence: We ___ ice cream and ___ in the park.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заверши предложение: Мы ___ мороженое и ___ в парке."
+        }
+      ],
+      "actions": [
+        {
+          "name": "ate / played",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "ели / играли"
+            }
+          ]
+        },
+        {
+          "name": "eat / play",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "есть / играть"
+            }
+          ]
+        },
+        {
+          "name": "eated / played",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "ели (неправ.) / играли"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Correct. That day was full of joy.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правильно. Тот день был полон радости."
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/img/story/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/img/story/npc/npc_buzz.png",
+      "s": "n"
+    }
+  ]
+}

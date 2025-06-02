@@ -1,0 +1,128 @@
+{
+  "name": "How Are You?",
+  "bg": "/img/story/bg/yellow_path.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Как дела?"
+    }
+  ],
+  "items": [
+    {
+      "name": "Buzz, how do I ask someone how they feel?",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Базз, как спросить, как кто-то себя чувствует?"
+        }
+      ]
+    },
+    {
+      "name": "Say: How are you?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Скажи: How are you?"
+        }
+      ]
+    },
+    {
+      "name": "And what can I answer?",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А что можно ответить?"
+        }
+      ]
+    },
+    {
+      "name": "You can say: I'm fine, I'm good, or I'm okay.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты можешь сказать: I'm fine, I'm good или I'm okay."
+        }
+      ]
+    },
+    {
+      "name": "Choose the correct reply: How are you?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери правильный ответ: How are you?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "I'm fine",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "I'm fine"
+            }
+          ]
+        },
+        {
+          "name": "I'm apple",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "I'm apple"
+            }
+          ]
+        },
+        {
+          "name": "I'm cat",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "I'm cat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "That’s the right way to answer.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это правильный способ ответить."
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/img/story/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/img/story/npc/npc_buzz.png",
+      "s": "n"
+    }
+  ]
+}

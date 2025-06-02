@@ -1,0 +1,198 @@
+{
+  "name": "Practice Review",
+  "bg": "/img/story/bg/yellow_path.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Повторение"
+    }
+  ],
+  "items": [
+    {
+      "name": "Lexi, let’s review what you learned.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лекси, давай повторим, что ты выучила."
+        }
+      ]
+    },
+    {
+      "name": "Okay, I’m ready!",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо, я готова!"
+        }
+      ]
+    },
+    {
+      "name": "How do you say 'Привет'?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Как сказать 'Привет'?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Hello",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Hello"
+            }
+          ]
+        },
+        {
+          "name": "Bye",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Bye"
+            }
+          ]
+        },
+        {
+          "name": "Thanks",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Thanks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great! Now, how do you say 'Спасибо'?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! А как сказать 'Спасибо'?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Thanks",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Thanks"
+            }
+          ]
+        },
+        {
+          "name": "Please",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Please"
+            }
+          ]
+        },
+        {
+          "name": "Goodbye",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Goodbye"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "And finally: What is your name?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "И напоследок: Как тебя зовут?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "My name is Lexi",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "My name is Lexi"
+            }
+          ]
+        },
+        {
+          "name": "I am Buzz",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "I am Buzz"
+            }
+          ]
+        },
+        {
+          "name": "I am happy",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "I am happy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Well done! You are ready to move forward.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Ты готова двигаться дальше."
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/img/story/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/img/story/npc/npc_buzz.png",
+      "s": "n"
+    }
+  ]
+}

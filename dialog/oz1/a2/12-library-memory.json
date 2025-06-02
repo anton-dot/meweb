@@ -1,0 +1,106 @@
+{
+  "name": "Library Memory",
+  "bg": "/img/story/bg/memory_field.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Воспоминание о библиотеке"
+    }
+  ],
+  "items": [
+    {
+      "name": "Lexi, this fragment looks longer.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лекси, этот фрагмент выглядит длиннее."
+        }
+      ]
+    },
+    {
+      "name": "Let me see it...",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дай посмотреть..."
+        }
+      ]
+    },
+    {
+      "name": "Yesterday, I ___ a book and ___ it at home.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вчера я ___ книгу и ___ её дома."
+        }
+      ],
+      "actions": [
+        {
+          "name": "took / read",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "взял / прочитал"
+            }
+          ]
+        },
+        {
+          "name": "take / read",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "брать / читать"
+            }
+          ]
+        },
+        {
+          "name": "taked / readed",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "взял / прочитал (неправ.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yes! Memory restored.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! Память восстановлена."
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/img/story/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/img/story/npc/npc_buzz.png",
+      "s": "n"
+    }
+  ]
+}
