@@ -1,0 +1,105 @@
+{
+  "name": "Arrival at Tin Wood",
+  "bg": "/story/oz/bg/tin_wood.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Прибытие в Сектор Tin Wood"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Arrival at Tin Wood",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Прибытие в Сектор Tin Wood"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Everything here feels... organized.",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Здесь всё кажется... организованным."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Correct. This is the Sector of Logic. Tin Wood runs on structure.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Верно. Это сектор логики. Tin Wood работает по структуре."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "So... if I want to go forward, I need to understand the system?",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Значит... чтобы двигаться дальше, мне нужно понять систему?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yes. In this place, every sentence must follow a rule.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да. Здесь каждое предложение должно подчиняться правилу."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let’s begin, then.",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ну что ж, начнём."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

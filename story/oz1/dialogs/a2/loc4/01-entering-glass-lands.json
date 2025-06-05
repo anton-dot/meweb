@@ -1,0 +1,112 @@
+{
+  "name": "Entering the Glass Lands",
+  "bg": "/story/oz/bg/glass_lands.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Вход в Стеклянные Земли"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Entering the Glass Lands",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вход в Стеклянные Земли"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Whoa... This place is... strange.",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ого... Это место странное."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Reflections detected. But... some are incorrect?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Обнаружены отражения. Но... некоторые неправильные?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let's test your understanding. Which is correct?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Проверим твоё понимание. Что правильно?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "glasslands-grammar-check",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "She go to school.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "She goes to school.",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "She going to school.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Correct reflections are the key here.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правильные отражения — это ключ здесь."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "name": "What’s the Rule?",
+  "bg": "/story/oz/bg/tin_wood.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Какое правило?"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz/npc/npc_tyne.png",
+      "s": "m"
+    }
+  ],
+  "items": [
+    {
+      "name": "What’s the Rule?",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какое правило?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Lexi, questions need special words — who, what, where...",
+      "actor": "Tyne",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лекси, вопросы требуют специальных слов — кто, что, где..."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Choose the correct question word:",
+      "actor": "Tyne",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери правильное вопросительное слово:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "question-word-choice",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "Who",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "Whom",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "Whiches",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Good. Now choose the question word for objects:",
+      "actor": "Tyne",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично. Теперь выбери вопросительное слово для предметов:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "object-question-word-choice",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "What",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "Who",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "Where",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Questions help us learn.",
+      "actor": "Tyne",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вопросы помогают нам учиться."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

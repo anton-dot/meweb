@@ -1,0 +1,179 @@
+{
+  "name": "Mine or Yours?",
+  "bg": "/story/oz/bg/memory_field.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Моё или твоё?"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Mine or Yours?",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Моё или твоё?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Lexi, memory is also about ownership — knowing what belongs to who.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лекси, память — это ещё и про то, что кому принадлежит."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "That bag… it looks familiar.",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Эта сумка… выглядит знакомо."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Whose bag is it? Choose:",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Чья это сумка? Выбери:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "whose-bag",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "It’s my bag.",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "It’s her bag.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "It’s your book.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Now look — I found something. What is it?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь посмотри — я нашёл кое-что. Что это?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "That’s your pen!",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это твоя ручка!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Correct. Choose the phrase:",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Верно. Выбери фразу:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "choose-your",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "That is your pen.",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "That are your pens.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "That is their pen.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "You’re starting to sound like yourself again.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты начинаешь снова звучать как сама собой."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

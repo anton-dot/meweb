@@ -1,0 +1,142 @@
+{
+  "name": "Guess What I Had",
+  "bg": "/story/oz/bg/memory_field.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Угадай, что у меня было"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Guess What I Had",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Угадай, что у меня было"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let’s test your memory, Lexi. Do you remember what you had at school?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай проверим твою память, Лекси. Помнишь, что у тебя было в школе?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Hmm… I think I had a blue backpack.",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хмм… кажется, у меня был синий рюкзак."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Great! Choose the correct sentence:",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Выбери правильное предложение:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "choose-had",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "I had a blue backpack.",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "I has a blue backpack.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "I have a blue backpack.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Do you remember anything else?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Помнишь что-нибудь ещё?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yes, I had an old notebook full of drawings.",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да, у меня была старая тетрадь, полная рисунков."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Memories are powerful. Keep them coming!",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Воспоминания — это сила. Продолжай!"
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

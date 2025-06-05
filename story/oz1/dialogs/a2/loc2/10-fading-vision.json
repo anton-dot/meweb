@@ -1,0 +1,111 @@
+{
+  "name": "Fading Vision",
+  "bg": "/story/oz/bg/memory_field.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Исчезающее видение"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "???",
+      "image": "/story/oz/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Fading Vision",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Исчезающее видение"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Buzz… someone is standing in the mist.",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Базз… кто-то стоит в тумане."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Describe what you see.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Опиши, что ты видишь."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "He’s tall… metal arms… an axe?",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Он высокий… металлические руки… топор?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "SYSTEM WARNING: Fragmented data detected from sector Tin Wood.",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ПРЕДУПРЕЖДЕНИЕ: Обнаружены фрагменты данных из сектора Tin Wood."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "That’s… a future ally. His name will come soon.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это… будущий союзник. Его имя скоро вспомнится."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

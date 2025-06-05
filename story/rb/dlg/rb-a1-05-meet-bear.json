@@ -1,0 +1,169 @@
+{
+  "name": "Meet the Bear",
+  "bg": "/story/rb/bg/forest_bear.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Встреча с медведем"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Bun",
+      "name": "Bun",
+      "image": "/story/rb/npc/npc_bun.png",
+      "s": "u"
+    },
+    {
+      "id": "Dot",
+      "name": "Dot",
+      "image": "/story/rb/npc/npc_dot.png",
+      "s": "u"
+    },
+    {
+      "id": "Bear",
+      "name": "Bear",
+      "image": "/story/rb/npc/npc_bear.png",
+      "s": "m"
+    }
+  ],
+  "items": [
+    {
+      "name": "Meet the Bear",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Встреча с медведем"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Roar! Who's making noise here?",
+      "actor": "Bear",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ррр! Кто тут шумит?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "It’s me, Bun! I’m exploring the forest.",
+      "actor": "Bun",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это я, Колобок! Я исследую лес."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "You are small. I am big!",
+      "actor": "Bear",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты маленький. А я большой!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Dot, what can I say?",
+      "actor": "Bun",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дот, что мне сказать?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Say something friendly about size.",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Скажи что-то дружелюбное про размер."
+        }
+      ],
+      "actions": [
+        {
+          "text": "You are big and strong!",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Ты большой и сильный!"
+            }
+          ]
+        },
+        {
+          "text": "I am small and weak!",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Я маленький и слабый!"
+            }
+          ]
+        },
+        {
+          "text": "You are too fat!",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Ты слишком толстый!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Haha! That’s nice. I like that.",
+      "actor": "Bear",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ха-ха! Это мило. Мне нравится."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "You can go, little Bun.",
+      "actor": "Bear",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Можешь идти, маленький Колобок."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "You did it again!",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Снова справился!"
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

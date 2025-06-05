@@ -1,0 +1,155 @@
+{
+  "name": "Meet the Gate",
+  "bg": "/story/oz/bg/tin_wood.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Встреча у Ворот"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Meet the Gate",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Встреча у Ворот"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "There it is. A massive gate.",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вот оно. Огромные ворота."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "To open it, describe what's around using the correct form.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Чтобы открыть их, опиши окружение, используя правильную форму."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Choose the correct sentence:",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери правильное предложение:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "there-is-choice",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "There is a machine.",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "There are a machine.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "There is machines.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Good. Now describe the group of robots:",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо. А теперь опиши группу роботов:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "there-are-choice",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "There are three robots.",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "There is three robots.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "There are a robot.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gate unlocked.",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ворота разблокированы."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

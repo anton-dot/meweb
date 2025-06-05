@@ -1,0 +1,130 @@
+{
+  "name": "That Was My School",
+  "bg": "/story/oz/bg/memory_field.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Это была моя школа"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "That Was My School",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это была моя школа"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Buzz… I see a big building. Brick walls, windows...",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Базз… я вижу большое здание. Кирпичные стены, окна…"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Describe what you see. Make your memory clear.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Опиши, что ты видишь. Сделай воспоминание ясным."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "There were students… and a teacher with glasses.",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Там были ученики… и учитель в очках."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let’s build a sentence. Choose the best one:",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай составим предложение. Выбери лучшее:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "school-sentence",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "That was my school.",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "That were my school.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "That was my book.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Good sentence. You’re building thoughts again.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошее предложение. Ты снова учишься думать."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

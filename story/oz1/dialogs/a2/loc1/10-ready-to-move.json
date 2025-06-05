@@ -1,0 +1,142 @@
+{
+  "name": "Ready to Move",
+  "bg": "/story/oz/bg/yellow_path.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Готов двигаться дальше"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Ready to Move",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Готов двигаться дальше"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Lexi, you did well here on the Yellow Pathway.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лекси, ты отлично справилась здесь, на Жёлтом Пути."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "But this is just the beginning. To exit this world, we must pass all 10 zones.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Но это только начало. Чтобы выйти из этого мира, нам нужно пройти все 10 зон."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "What’s the next zone?",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какая следующая зона?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "It’s called Memory Field. There, we’ll try to recover your memories and more words.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Она называется Поле Памяти. Там мы постараемся восстановить твои воспоминания и больше слов."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Are you ready to move forward?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты готова двигаться дальше?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "confirm-move",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "Yes, let’s go!",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "No, I’m scared.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "Maybe later.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "That’s the spirit! Let’s move to Memory Field.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вот это настрой! Переходим к Полю Памяти."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

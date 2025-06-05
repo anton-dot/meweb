@@ -1,0 +1,181 @@
+{
+  "name": "Meet the Wolf",
+  "bg": "/story/rb/bg/forest_wolf.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Встреча с волком"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Bun",
+      "name": "Bun",
+      "image": "/story/rb/npc/npc_bun.png",
+      "s": "u"
+    },
+    {
+      "id": "Dot",
+      "name": "Dot",
+      "image": "/story/rb/npc/npc_dot.png",
+      "s": "u"
+    },
+    {
+      "id": "Wolf",
+      "name": "Wolf",
+      "image": "/story/rb/npc/npc_wolf.png",
+      "s": "m"
+    }
+  ],
+  "items": [
+    {
+      "name": "Meet the Wolf",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Встреча с волком"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Grrr! Who are you?",
+      "actor": "Wolf",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ррр! Кто ты такой?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I'm Bun. I can roll and sing!",
+      "actor": "Bun",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я — Колобок. Я умею катиться и петь!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I'm very hungry!",
+      "actor": "Wolf",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я очень голодный!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Dot, help! What do I say?",
+      "actor": "Bun",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дот, помоги! Что мне сказать?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Try to offer something polite.",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Попробуй предложить что-то вежливое."
+        }
+      ],
+      "actions": [
+        {
+          "text": "Would you like a song?",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Хочешь песенку?"
+            }
+          ]
+        },
+        {
+          "text": "Go away, wolf!",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Уходи, волк!"
+            }
+          ]
+        },
+        {
+          "text": "I have no food!",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "У меня нет еды!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A song? Hmm… Okay. Sing!",
+      "actor": "Wolf",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Песенка? Хмм... Ладно. Пой!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "La-la-la! I rolled away from grandma, grandpa, and the rabbit!",
+      "actor": "Bun",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ла-ла-ла! Я укатился от бабушки, дедушки и зайца!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Wow! That’s clever. You may go.",
+      "actor": "Wolf",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вау! Умно. Можешь идти."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Good choice, Bun!",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хороший выбор, Колобок!"
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

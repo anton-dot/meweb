@@ -1,0 +1,143 @@
+{
+  "name": "Saying Goodbye",
+  "bg": "/story/oz/bg/yellow_path.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Прощание"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Saying Goodbye",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Прощание"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Lexi, let’s practice how to say goodbye.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лекси, давай потренируемся, как говорить «пока»."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Which of these means 'goodbye'?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что из этого означает 'до свидания'?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "goodbye-choice",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "Goodbye",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "Hello",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "Please",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Well done! One more — say something friendly before goodbye.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Ещё одно — скажи что-то доброе перед прощанием."
+        }
+      ],
+      "actions": [
+        {
+          "name": "friendly-goodbye",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "See you!",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "What’s your name?",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "I’m a robot.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nice! You’re ready to greet and leave politely.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Здорово! Теперь ты умеешь вежливо здороваться и прощаться."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

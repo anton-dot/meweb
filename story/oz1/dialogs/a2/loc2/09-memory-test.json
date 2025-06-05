@@ -1,0 +1,180 @@
+{
+  "name": "Memory Test",
+  "bg": "/story/oz/bg/memory_field.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Тест памяти"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Memory Test",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тест памяти"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Lexi, before we go on — a quick review.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лекси, перед тем как идти дальше — короткий тест."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Which sentence is correct?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какое предложение правильное?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "review-1",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "This is my pen.",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "These is my pen.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "That are my pen.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "What did you have in school?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что у тебя было в школе?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "review-2",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "I had a notebook.",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "I has a notebook.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "I have a notebook.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Last one! Describe something red and round:",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Последний! Опиши что-то красное и круглое:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "review-3",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "It is a red ball.",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "It is a red box.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "It is a green square.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fantastic work. You’ve unlocked the next step.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отличная работа. Ты разблокировала следующий шаг."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

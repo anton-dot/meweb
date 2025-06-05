@@ -1,0 +1,169 @@
+{
+  "name": "Meet the Fox",
+  "bg": "/story/rb/bg/forest_fox.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Встреча с лисой"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Bun",
+      "name": "Bun",
+      "image": "/story/rb/npc/npc_bun.png",
+      "s": "u"
+    },
+    {
+      "id": "Dot",
+      "name": "Dot",
+      "image": "/story/rb/npc/npc_dot.png",
+      "s": "u"
+    },
+    {
+      "id": "Fox",
+      "name": "Fox",
+      "image": "/story/rb/npc/npc_fox.png",
+      "s": "f"
+    }
+  ],
+  "items": [
+    {
+      "name": "Meet the Fox",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Встреча с лисой"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Hello, sweet Bun. Where are you going?",
+      "actor": "Fox",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Привет, милый Колобок. Куда ты катишься?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I'm just rolling and singing!",
+      "actor": "Bun",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я просто качусь и пою песенку!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "You have a lovely voice. Can you sing for me?",
+      "actor": "Fox",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "У тебя прекрасный голос. Споёшь для меня?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Dot... I don’t trust her. What do I do?",
+      "actor": "Bun",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дот... Я ей не доверяю. Что делать?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "This is serious. Choose your words wisely!",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это серьёзно. Выбирай слова с умом!"
+        }
+      ],
+      "actions": [
+        {
+          "text": "No, thank you. I must go.",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Нет, спасибо. Мне пора."
+            }
+          ]
+        },
+        {
+          "text": "Okay! I’ll sing now!",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Хорошо! Сейчас спою!"
+            }
+          ]
+        },
+        {
+          "text": "You look hungry...",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Ты выглядишь голодной..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hmm... You are clever. I won’t eat you.",
+      "actor": "Fox",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хмм... Ты умный. Я не стану тебя есть."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Phew! That was close!",
+      "actor": "Bun",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Фух! Это было близко!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "You chose the right words. I'm proud of you!",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты выбрал правильные слова. Я тобой горжусь!"
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

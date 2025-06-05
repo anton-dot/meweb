@@ -1,0 +1,130 @@
+{
+  "name": "What Do You See?",
+  "bg": "/story/oz/bg/tin_wood.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Что ты видишь?"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "What Do You See?",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что ты видишь?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Buzz, what’s this machine?",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Базз, что это за машина?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Describe it. Use a question.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Опиши её. Используй вопрос."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Which question is correct?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какой вопрос правильный?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "do-you-see-choice",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "What do you see?",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "What you do see?",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "Do what you see?",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Excellent. Questions begin with a helper verb.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично. Вопросы начинаются со вспомогательного глагола."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Okay. I’ll ask more questions now.",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо. Теперь я буду задавать больше вопросов."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "name": "Meet the Rabbit",
+  "bg": "/story/rb/bg/forest_rabbit.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Встреча с зайцем"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Bun",
+      "name": "Bun",
+      "image": "/story/rb/npc/npc_bun.png",
+      "s": "u"
+    },
+    {
+      "id": "Dot",
+      "name": "Dot",
+      "image": "/story/rb/npc/npc_dot.png",
+      "s": "u"
+    },
+    {
+      "id": "Rabbit",
+      "name": "Rabbit",
+      "image": "/story/rb/npc/npc_rabbit.png",
+      "s": "u"
+    }
+  ],
+  "items": [
+    {
+      "name": "Meet the Rabbit",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Встреча с зайцем"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Hello! Who are you?",
+      "actor": "Rabbit",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Привет! Кто ты?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I'm Bun. I can roll and sing!",
+      "actor": "Bun",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я — Колобок. Я умею катиться и петь!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Can you describe yourself?",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Опишешь себя?"
+        }
+      ],
+      "actions": [
+        {
+          "text": "I am round and yellow.",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Я круглый и жёлтый."
+            }
+          ]
+        },
+        {
+          "text": "I am big and blue.",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Я большой и синий."
+            }
+          ]
+        },
+        {
+          "text": "I am fast and tall.",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Я быстрый и высокий."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Good job! You are round and yellow!",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Молодец! Ты круглый и жёлтый!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "You look tasty... I want to eat you!",
+      "actor": "Rabbit",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты выглядишь вкусно... Я хочу тебя съесть!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Oh no! What should I do?",
+      "actor": "Bun",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "О нет! Что мне делать?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Try saying something nice!",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Попробуй сказать что-то хорошее!"
+        }
+      ],
+      "actions": [
+        {
+          "text": "You have big ears!",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "У тебя большие уши!"
+            }
+          ]
+        },
+        {
+          "text": "You are scary!",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Ты страшный!"
+            }
+          ]
+        },
+        {
+          "text": "Go away!",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Уходи!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hehe! Thank you. You may go.",
+      "actor": "Rabbit",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хе-хе! Спасибо. Можешь идти."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "You did it, Bun!",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты справился, Колобок!"
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

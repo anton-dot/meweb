@@ -1,0 +1,191 @@
+{
+  "name": "Run Away!",
+  "bg": "/story/rb/bg/forest_path.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Побег!"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Bun",
+      "name": "Bun",
+      "image": "/story/rb/npc/npc_bun.png",
+      "s": "u"
+    },
+    {
+      "id": "Dot",
+      "name": "Dot",
+      "image": "/story/rb/npc/npc_dot.png",
+      "s": "u"
+    }
+  ],
+  "items": [
+    {
+      "name": "Run Away!",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Побег!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I'm rolling down the path!",
+      "actor": "Bun",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я качусь по дорожке!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Where are you going, Bun?",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Куда ты катишься, Колобок?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I'm going to explore the forest!",
+      "actor": "Bun",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я иду исследовать лес!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Can you say 'I'm going to the forest'?",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Скажешь: «Я иду в лес»?"
+        }
+      ],
+      "actions": [
+        {
+          "text": "I'm going to the forest.",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Я иду в лес."
+            }
+          ]
+        },
+        {
+          "text": "I'm walking in the city.",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Я гуляю в городе."
+            }
+          ]
+        },
+        {
+          "text": "I sleep in the forest.",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Я сплю в лесу."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yes! That’s the right sentence!",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! Это правильное предложение!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Look, trees! Birds! A big world!",
+      "actor": "Bun",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Смотри, деревья! Птицы! Большой мир!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Can you name what you see?",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Назовёшь, что видишь?"
+        }
+      ],
+      "actions": [
+        {
+          "text": "Trees, birds, flowers.",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Деревья, птицы, цветы."
+            }
+          ]
+        },
+        {
+          "text": "Water, fish, boat.",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Вода, рыба, лодка."
+            }
+          ]
+        },
+        {
+          "text": "Books, pencils, desk.",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Книги, карандаши, парта."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wonderful! You see the forest well!",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Замечательно! Ты хорошо видишь лес!"
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

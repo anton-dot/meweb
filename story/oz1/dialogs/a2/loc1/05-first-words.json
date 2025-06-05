@@ -1,0 +1,143 @@
+{
+  "name": "Say This!",
+  "bg": "/story/oz/bg/yellow_path.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Повтори это!"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Say This!",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Повтори это!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let’s try saying a few words. Choose the one I say.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай попробуем сказать несколько слов. Выбери то, что я скажу."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Say 'hello'.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Скажи 'hello'."
+        }
+      ],
+      "actions": [
+        {
+          "name": "say-hello",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "Hello",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "Goodbye",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "Thanks",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great job! Now try 'thanks'.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! А теперь попробуй 'thanks'."
+        }
+      ],
+      "actions": [
+        {
+          "name": "say-thanks",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "Thanks",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "Yes",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "No",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "You're doing well, Lexi. Words will help you unlock paths.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты хорошо справляешься, Лекси. Слова помогут тебе открывать пути."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

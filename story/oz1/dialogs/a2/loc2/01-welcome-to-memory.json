@@ -1,0 +1,129 @@
+{
+  "name": "Welcome to Memory Field",
+  "bg": "/story/oz/bg/memory_field.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Добро пожаловать в Поле Памяти"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Welcome to Memory Field",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Добро пожаловать в Поле Памяти"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Lexi, this place is strange — memories appear and disappear.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лекси, это место странное — воспоминания появляются и исчезают."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "What is this place?",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что это за место?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "This is the Memory Field. It holds echoes of your past — school, friends, even old teachers.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это Поле Памяти. Здесь отголоски твоего прошлого — школа, друзья, даже старые учителя."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "To move forward, we must rebuild what you once knew.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Чтобы двигаться дальше, мы должны восстановить то, что ты знала раньше."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "What do I need to learn here?",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Чему мне нужно научиться здесь?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "We’ll review basics — 'this', 'that', 'my', 'your', and more. It's the root of all language.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мы повторим основы — 'this', 'that', 'my', 'your' и многое другое. Это корень любого языка."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Okay… Let’s bring my mind back online.",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ладно… Давай перезапустим мой разум."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

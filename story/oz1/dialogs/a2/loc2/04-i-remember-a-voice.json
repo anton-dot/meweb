@@ -1,0 +1,136 @@
+{
+  "name": "I Remember a Voice",
+  "bg": "/story/oz/bg/memory_field.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Я помню голос"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Teacher",
+      "name": "Teacher",
+      "image": "/story/oz/npc/npc_teacher.png",
+      "s": "m"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "I Remember a Voice",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я помню голос"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Buzz… I hear something. A voice I knew.",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Базз… я что-то слышу. Голос, который я знала."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Memory spike. Let it play.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Всплеск памяти. Позволь воспоминанию проиграться."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "What is the color of the apple?",
+      "actor": "Teacher",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какого цвета яблоко?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "apple-color",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "It is red.",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "It is square.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "It is fast.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "That was my teacher. I remember the classroom… the desk…",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это был мой учитель. Я помню класс… парту…"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Hold on to it. Each memory makes you stronger.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Держись за это. Каждое воспоминание делает тебя сильнее."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

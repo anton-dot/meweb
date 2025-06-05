@@ -1,0 +1,112 @@
+{
+  "name": "Something Is Wrong",
+  "bg": "/story/oz/bg/glass_lands.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Что-то не так"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Something Is Wrong",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что-то не так"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Did you see that? The path changed.",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты видел это? Дорога изменилась."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "ERROR. ERROR. ERROR. Buzz ready to help.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ОШИБКА. ОШИБКА. ОШИБКА. Базз готов помочь."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Choose the correct sentence. I... you... like.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери правильное предложение. Я... ты... нравится."
+        }
+      ],
+      "actions": [
+        {
+          "name": "sentence-fix",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "I like you.",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "Like I you.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "You I like.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nice! Your brain works better than mine.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Твой мозг работает лучше, чем мой."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "name": "What Is This?",
+  "bg": "/story/oz/bg/memory_field.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Что это?"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "What Is This?",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что это?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Lexi, your memories are trying to return. Look at the object in front of you.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лекси, твои воспоминания пытаются вернуться. Посмотри на предмет перед собой."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "It’s... a book?",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это... книга?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Correct! And what do we say? Choose:",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правильно! А как мы скажем? Выбери:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "choose-this",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "This is a book.",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "Those is a book.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "These are a book.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Now look far away — what do you see there?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А теперь посмотри вдаль — что ты там видишь?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Those… look like chairs!",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Похоже, это стулья!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Good. Choose the correct phrase:",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо. Выбери правильную фразу:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "choose-those",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "Those are chairs.",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "That are chairs.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "This is chairs.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amazing! You’re learning to see and describe again.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Потрясающе! Ты снова учишься видеть и описывать."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

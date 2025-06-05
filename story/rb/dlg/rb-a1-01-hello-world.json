@@ -1,0 +1,92 @@
+{
+  "dialogType": "Normal",
+  "background": "/story/bun/bg/home_kitchen.png",
+  "dialog": [
+    {
+      "text": "Hello, World!",
+      "translates": "Привет, мир!"
+    },
+    {
+      "character": "Grandma",
+      "avatar": "/story/bun/npc/npc_grandma.png",
+      "text": "Oh! He moved!",
+      "translates": "О! Он зашевелился!"
+    },
+    {
+      "character": "Grandpa",
+      "avatar": "/story/bun/npc/npc_grandpa.png",
+      "text": "Look! Our Bun is alive!",
+      "translates": "Смотри! Наш Колобок ожил!"
+    },
+    {
+      "character": "Bun",
+      "avatar": "/story/bun/npc/npc_bun.png",
+      "text": "Hello! I can speak!",
+      "translates": "Привет! Я умею говорить!"
+    },
+    {
+      "character": "Dot",
+      "avatar": "/story/bun/npc/npc_dot.png",
+      "text": "Hi! I'm Dot. I'm your helper.",
+      "translates": "Привет! Я — Дот. Я твой помощник."
+    },
+    {
+      "character": "Dot",
+      "avatar": "/story/bun/npc/npc_dot.png",
+      "text": "Can you say 'Hello'?",
+      "translates": "Ты можешь сказать «Hello»?",
+      "actions": [
+        {
+          "text": "Hello!",
+          "translates": "Привет!"
+        },
+        {
+          "text": "Goodbye!",
+          "translates": "До свидания!"
+        },
+        {
+          "text": "Thank you!",
+          "translates": "Спасибо!"
+        }
+      ]
+    },
+    {
+      "character": "Dot",
+      "avatar": "/story/bun/npc/npc_dot.png",
+      "text": "Great job! You said it right.",
+      "translates": "Отлично! Ты сказал правильно."
+    },
+    {
+      "character": "Bun",
+      "avatar": "/story/bun/npc/npc_bun.png",
+      "text": "Hello! My name is Bun.",
+      "translates": "Привет! Меня зовут Колобок."
+    },
+    {
+      "character": "Dot",
+      "avatar": "/story/bun/npc/npc_dot.png",
+      "text": "Now try: 'My name is...'",
+      "translates": "Теперь попробуй: «Меня зовут...»",
+      "actions": [
+        {
+          "text": "My name is Bun.",
+          "translates": "Меня зовут Колобок."
+        },
+        {
+          "text": "I am Bun.",
+          "translates": "Я — Колобок."
+        },
+        {
+          "text": "Call me Bun.",
+          "translates": "Зови меня Колобком."
+        }
+      ]
+    },
+    {
+      "character": "Dot",
+      "avatar": "/story/bun/npc/npc_dot.png",
+      "text": "Well done! Let's start your journey!",
+      "translates": "Молодец! Начнём твоё путешествие!"
+    }
+  ]
+}

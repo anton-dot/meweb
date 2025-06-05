@@ -1,0 +1,118 @@
+{
+  "name": "Robot Sequence",
+  "bg": "/story/oz/bg/tin_wood.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Последовательность робота"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz/npc/npc_tyne.png",
+      "s": "m"
+    }
+  ],
+  "items": [
+    {
+      "name": "Robot Sequence",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Последовательность робота"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "To control the robot, you need to use the right word order.",
+      "actor": "Tyne",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Чтобы управлять роботом, нужно использовать правильный порядок слов."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let’s try. Choose the correct sentence:",
+      "actor": "Tyne",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай попробуем. Выбери правильное предложение:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "sentence-order",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "I press the button.",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "Press I the button.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "Button I press the.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Correct! The subject goes first, then the verb, then the object.",
+      "actor": "Tyne",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правильно! Сначала подлежащее, потом сказуемое, потом дополнение."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Got it.",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Поняла."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

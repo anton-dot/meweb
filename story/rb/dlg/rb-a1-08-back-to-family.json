@@ -1,0 +1,175 @@
+{
+  "name": "Back to Family",
+  "bg": "/story/rb/bg/home_return.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Возвращение к семье"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Bun",
+      "name": "Bun",
+      "image": "/story/rb/npc/npc_bun.png",
+      "s": "u"
+    },
+    {
+      "id": "Dot",
+      "name": "Dot",
+      "image": "/story/rb/npc/npc_dot.png",
+      "s": "u"
+    },
+    {
+      "id": "Grandma",
+      "name": "Grandma",
+      "image": "/story/rb/npc/npc_grandma.png",
+      "s": "f"
+    },
+    {
+      "id": "Grandpa",
+      "name": "Grandpa",
+      "image": "/story/rb/npc/npc_grandpa.png",
+      "s": "m"
+    }
+  ],
+  "items": [
+    {
+      "name": "Back to Family",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Возвращение к семье"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Dot, I think I want to go home.",
+      "actor": "Bun",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дот, я думаю, я хочу домой."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "That’s a great idea. Family is important.",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это отличная идея. Семья — это важно."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Bun! You’re back! We were so worried!",
+      "actor": "Grandma",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Колобок! Ты вернулся! Мы так переживали!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I saw the world… but I missed you.",
+      "actor": "Bun",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я увидел мир… но скучал по вам."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "We’re happy you're home.",
+      "actor": "Grandpa",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мы рады, что ты дома."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Dot, can you help me say something nice?",
+      "actor": "Bun",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дот, поможешь мне сказать что-то хорошее?"
+        }
+      ],
+      "actions": [
+        {
+          "text": "I love you both!",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Я люблю вас обоих!"
+            }
+          ]
+        },
+        {
+          "text": "Thanks for the food!",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Спасибо за еду!"
+            }
+          ]
+        },
+        {
+          "text": "I need a nap.",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Мне нужно вздремнуть."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aww! We love you too, Bun!",
+      "actor": "Grandma",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ой! Мы тоже тебя любим, Колобок!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Family and friends are the best part of any journey.",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Семья и друзья — лучшая часть любого путешествия."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

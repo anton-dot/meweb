@@ -1,0 +1,143 @@
+{
+  "name": "How Are You?",
+  "bg": "/story/oz/bg/yellow_path.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Как дела?"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "How Are You?",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Как дела?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Lexi, it’s important to know how others feel.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лекси, важно уметь узнавать, как чувствуют себя другие."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let’s try: how do you ask someone about their feelings?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Попробуем: как спросить, как дела?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "ask-feelings",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "How are you?",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "What’s your name?",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "Where do you live?",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Good! Now answer me — how are you today?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо! А теперь ответь — как ты сегодня?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "answer-feelings",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "I’m fine.",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "I’m city.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "My name is fine.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great! You’re learning fast.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Ты быстро учишься."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

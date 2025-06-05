@@ -1,0 +1,142 @@
+{
+  "name": "Logical Puzzle One",
+  "bg": "/story/oz/bg/tin_wood.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Логическая задача №1"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz/npc/npc_tyne.png",
+      "s": "m"
+    }
+  ],
+  "items": [
+    {
+      "name": "Logical Puzzle One",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Логическая задача №1"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Tyne, what do we do if the button is red?",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тайн, что мы делаем, если кнопка красная?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "If the button is red, then don’t press it.",
+      "actor": "Tyne",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Если кнопка красная, то не нажимай её."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Okay, then what if it’s green?",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо, а если зелёная?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "If it’s green, then press it to open the door.",
+      "actor": "Tyne",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Если зелёная, то нажимай, чтобы открыть дверь."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let’s test you. If the light is red, what do you do?",
+      "actor": "Tyne",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай проверю тебя. Если свет красный, что ты делаешь?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "if-red-light",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "Press the button.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "Don’t press the button.",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "Ignore the button.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Good. Logic helps us survive.",
+      "actor": "Tyne",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо. Логика помогает нам выжить."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

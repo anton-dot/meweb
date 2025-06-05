@@ -1,0 +1,130 @@
+{
+  "name": "Let’s Get Started",
+  "bg": "/story/oz/bg/yellow_path.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Давай начнём"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s Get Started",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай начнём"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Lexi, let’s test your system. Say 'yes' when you're ready.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лекси, проверим твою систему. Скажи 'yes', когда будешь готова."
+        }
+      ],
+      "actions": [
+        {
+          "name": "say-yes",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "No",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "Yes",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "Stop",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yes.",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Perfect. Now point to something red around you.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично. Теперь укажи на что-то красное вокруг."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I see a red light on the panel.",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я вижу красный свет на панели."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Nice observation! Let’s keep going.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отличное наблюдение! Двигаемся дальше."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

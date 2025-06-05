@@ -1,0 +1,217 @@
+{
+  "name": "Final Logic Test",
+  "bg": "/story/oz/bg/tin_wood.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Финальный логический тест"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz/npc/npc_tyne.png",
+      "s": "m"
+    }
+  ],
+  "items": [
+    {
+      "name": "Final Logic Test",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Финальный логический тест"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Lexi, time for the final test. Answer carefully.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лекси, время финального теста. Отвечай внимательно."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Choose the correct sentence:",
+      "actor": "Tyne",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери правильное предложение:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "final-sentence",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "She works hard.",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "She work hard.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "She working hard.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Now, what is the question word?",
+      "actor": "Tyne",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А теперь, какое вопросительное слово?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "final-question-word",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "Where",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "Why",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "When",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Identify the correct use:",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери правильное использование:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "final-there",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "There are two gates.",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "There is two gates.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "There be two gates.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Last one. If the button is red, what should you do?",
+      "actor": "Tyne",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Последний вопрос. Если кнопка красная, что делать?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "final-if-red",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "Don’t press the button.",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "Press the button.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "Ignore the button.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Excellent! You’re ready for the next challenge.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Ты готова к следующему испытанию."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

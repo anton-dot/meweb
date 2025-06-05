@@ -1,0 +1,143 @@
+{
+  "name": "Review Time",
+  "bg": "/story/oz/bg/yellow_path.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Время повторения"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Review Time",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Время повторения"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Okay Lexi, let’s see what you remember.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо, Лекси, давай проверим, что ты запомнила."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "What do you say when you meet someone?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что ты говоришь, когда встречаешь кого-то?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "review-greeting",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "Hello",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "Goodbye",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "Thanks",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "And how do you ask someone’s name?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А как ты спросишь имя человека?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "review-name",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "What’s your name?",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "How are you?",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "Who are you?",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Perfect! You remembered everything. Let’s go!",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Ты всё запомнила. Вперёд!"
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "name": "The Final Trick",
+  "bg": "/story/rb/bg/forest_end.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Последняя уловка"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Bun",
+      "name": "Bun",
+      "image": "/story/rb/npc/npc_bun.png",
+      "s": "u"
+    },
+    {
+      "id": "Dot",
+      "name": "Dot",
+      "image": "/story/rb/npc/npc_dot.png",
+      "s": "u"
+    },
+    {
+      "id": "Fox",
+      "name": "Fox",
+      "image": "/story/rb/npc/npc_fox.png",
+      "s": "f"
+    }
+  ],
+  "items": [
+    {
+      "name": "The Final Trick",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Последняя уловка"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Come closer, dear Bun. I can't hear your lovely song.",
+      "actor": "Fox",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Подойди ближе, милый Колобок. Я не слышу твою прекрасную песню."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Dot... I think she's tricking me!",
+      "actor": "Bun",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дот... Мне кажется, она меня обманывает!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yes! It's a trap! Choose the best phrase to escape!",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да! Это ловушка! Выбери лучшую фразу, чтобы спастись!"
+        }
+      ],
+      "actions": [
+        {
+          "text": "I must go now. Goodbye!",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Мне нужно идти. До свидания!"
+            }
+          ]
+        },
+        {
+          "text": "Okay, I'm coming closer!",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Хорошо, я подхожу ближе!"
+            }
+          ]
+        },
+        {
+          "text": "Do you want to eat me?",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Ты хочешь меня съесть?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "What? You're leaving? Wait!",
+      "actor": "Fox",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что? Ты уходишь? Подожди!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Not today, Fox! I’m smart now!",
+      "actor": "Bun",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Не сегодня, Лиса! Я теперь умный!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "You did it! You completed your journey!",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты справился! Ты завершил своё путешествие!"
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

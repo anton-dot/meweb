@@ -1,0 +1,155 @@
+{
+  "name": "Let’s Describe Things",
+  "bg": "/story/oz/bg/memory_field.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Давай опишем предметы"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Let’s Describe Things",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай опишем предметы"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Lexi, describing objects helps anchor memories. Ready?",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лекси, описание предметов помогает закрепить воспоминания. Готова?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Sure! What do I describe first?",
+      "actor": "Lexi",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Конечно! Что описывать первым?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Describe this object: it’s round and red.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Опиши этот предмет: он круглый и красный."
+        }
+      ],
+      "actions": [
+        {
+          "name": "describe-red-round",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "It is a red circle.",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "It is a green square.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "It is a blue triangle.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Now something tall and thin… like a tower.",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь что-то высокое и тонкое… как башня."
+        }
+      ],
+      "actions": [
+        {
+          "name": "describe-tall-thin",
+          "type": "Choice",
+          "options": [
+            {
+              "name": "It is a tall tower.",
+              "isCorrect": true,
+              "score": 1,
+              "translates": []
+            },
+            {
+              "name": "It is a short ball.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            },
+            {
+              "name": "It is a flat box.",
+              "isCorrect": false,
+              "score": 0,
+              "translates": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "You’re getting good at this!",
+      "actor": "Buzz",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "У тебя хорошо получается!"
+        }
+      ],
+      "actions": []
+    }
+  ]
+}
