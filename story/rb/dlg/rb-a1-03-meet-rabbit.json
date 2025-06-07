@@ -1,31 +1,47 @@
 {
   "name": "Meet the Rabbit",
-  "bg": "/story/rb/bg/forest_rabbit.png",
+  "bg": "/story/rb/bg/forestr.png",
   "age": 0,
   "translations": [
     {
       "lang": "ru-RU",
       "name": "Встреча с зайцем"
-    }
-  ],
-  "actors": [
-    {
-      "id": "Bun",
-      "name": "Bun",
-      "image": "/story/rb/npc/npc_bun.png",
-      "s": "u"
     },
     {
-      "id": "Dot",
-      "name": "Dot",
-      "image": "/story/rb/npc/npc_dot.png",
-      "s": "u"
+      "lang": "vi-VN",
+      "name": "Gặp thỏ"
     },
     {
-      "id": "Rabbit",
-      "name": "Rabbit",
-      "image": "/story/rb/npc/npc_rabbit.png",
-      "s": "u"
+      "lang": "zh-CN",
+      "name": "认识兔子"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "खरगोश से मिलो"
+    },
+    {
+      "lang": "th-TH",
+      "name": "พบกับกระต่าย"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Tavşanla tanış"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Conhecer o coelho"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Treffen Sie den Kaninchen"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Temui Kelinci"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Rencontrez le lapin"
     }
   ],
   "items": [
@@ -37,6 +53,42 @@
         {
           "lang": "ru-RU",
           "name": "Встреча с зайцем"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Gặp thỏ"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "认识兔子"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "खरगोश से मिलो"
+        },
+        {
+          "lang": "th-TH",
+          "name": "พบกับกระต่าย"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Tavşanla tanış"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Conhecer o coelho"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Treffen Sie den Kaninchen"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Temui Kelinci"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Rencontrez le lapin"
         }
       ],
       "actions": []
@@ -49,6 +101,42 @@
         {
           "lang": "ru-RU",
           "name": "Привет! Кто ты?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Xin chào!  Bạn là ai?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "你好！ 你是谁？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "नमस्ते!  आप कौन हैं?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "สวัสดี!  คุณเป็นใคร?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Merhaba!  Sen kimsin?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Olá!  Quem é você?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Hallo!  Wer bist du?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Halo!  Siapa kamu?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Bonjour!  Qui es-tu?"
         }
       ],
       "actions": []
@@ -61,6 +149,42 @@
         {
           "lang": "ru-RU",
           "name": "Я — Колобок. Я умею катиться и петь!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Tôi là Bun.  Tôi có thể lăn và hát!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "我是Bun。我会滚动和唱歌！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "मैं बन गया हूँ।  मैं रोल कर सकता हूं और गा सकता हूं!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ฉันคือขนมปัง  ฉันสามารถม้วนและร้องเพลงได้!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Ben bunlar.  Yuvarlanıp şarkı söyleyebilirim!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Eu sou Bun.  Eu posso rolar e cantar!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Ich bin Brötchen.  Ich kann rollen und singen!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Saya roti.  Saya bisa berguling dan bernyanyi!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Je suis Bun.  Je peux rouler et chanter!"
         }
       ],
       "actions": []
@@ -73,33 +197,183 @@
         {
           "lang": "ru-RU",
           "name": "Опишешь себя?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Bạn có thể mô tả chính mình?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "你能描述自己吗？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "क्या आप खुद का वर्णन कर सकते हैं?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "คุณอธิบายตัวเองได้ไหม"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Kendini tarif edebilir misin?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Você pode se descrever?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Kannst du dich beschreiben?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Bisakah Anda menggambarkan diri Anda?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Pouvez-vous vous décrire?"
         }
       ],
       "actions": [
         {
-          "text": "I am round and yellow.",
+          "name": "I am round and yellow.",
+          "isCorrect": true,
+          "score": 1,
           "translates": [
             {
               "lang": "ru-RU",
               "name": "Я круглый и жёлтый."
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Tôi tròn và vàng."
+            },
+            {
+              "lang": "zh-CN",
+              "name": "我是圆而黄色的。"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "मैं गोल और पीला हूं।"
+            },
+            {
+              "lang": "th-TH",
+              "name": "ฉันเป็นรอบและสีเหลือง"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Ben yuvarlak ve sarıım."
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Eu sou redondo e amarelo."
+            },
+            {
+              "lang": "de-DE",
+              "name": "Ich bin rund und gelb."
+            },
+            {
+              "lang": "id-ID",
+              "name": "Saya bulat dan kuning."
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Je suis rond et jaune."
             }
           ]
         },
         {
-          "text": "I am big and blue.",
+          "name": "I am big and blue.",
+          "isCorrect": false,
+          "score": 0,
           "translates": [
             {
               "lang": "ru-RU",
               "name": "Я большой и синий."
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Tôi lớn và xanh."
+            },
+            {
+              "lang": "zh-CN",
+              "name": "我大而蓝。"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "मैं बड़ा और नीला हूं।"
+            },
+            {
+              "lang": "th-TH",
+              "name": "ฉันใหญ่และสีฟ้า"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Ben büyük ve maviyim."
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Eu sou grande e azul."
+            },
+            {
+              "lang": "de-DE",
+              "name": "Ich bin groß und blau."
+            },
+            {
+              "lang": "id-ID",
+              "name": "Saya besar dan biru."
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Je suis grand et bleu."
             }
           ]
         },
         {
-          "text": "I am fast and tall.",
+          "name": "I am fast and tall.",
+          "isCorrect": false,
+          "score": 0,
           "translates": [
             {
               "lang": "ru-RU",
               "name": "Я быстрый и высокий."
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Tôi nhanh và cao."
+            },
+            {
+              "lang": "zh-CN",
+              "name": "我很快又高。"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "मैं तेज और लंबा हूं।"
+            },
+            {
+              "lang": "th-TH",
+              "name": "ฉันเร็วและสูง"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Hızlı ve uzunum."
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Eu sou rápido e alto."
+            },
+            {
+              "lang": "de-DE",
+              "name": "Ich bin schnell und groß."
+            },
+            {
+              "lang": "id-ID",
+              "name": "Saya cepat dan tinggi."
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Je suis rapide et grand."
             }
           ]
         }
@@ -113,6 +387,42 @@
         {
           "lang": "ru-RU",
           "name": "Молодец! Ты круглый и жёлтый!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Làm tốt lắm!  Bạn có tròn và màu vàng!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "好工作！ 你是圆和黄色的！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "अच्छा काम!  आप गोल और पीले हैं!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ทำได้ดีมาก!  คุณเป็นรอบและสีเหลือง!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Aferin!  Yuvarlak ve sarısın!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Bom trabalho!  Você é redondo e amarelo!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Gute Arbeit!  Du bist rund und gelb!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Kerja bagus!  Anda bundar dan kuning!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Bon travail!  Vous êtes rond et jaune!"
         }
       ],
       "actions": []
@@ -125,6 +435,42 @@
         {
           "lang": "ru-RU",
           "name": "Ты выглядишь вкусно... Я хочу тебя съесть!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Bạn trông ngon ... Tôi muốn ăn bạn!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "你看起来好吃...我想吃你！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुम स्वादिष्ट लग रहे हो ... मैं तुम्हें खाना चाहता हूँ!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "คุณดูอร่อย ... อยากกินคุณ!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Zevkli görünüyorsun ... Seni yemek istiyorum!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Você parece gostoso ... eu quero comer você!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Du siehst lecker aus ... ich möchte dich essen!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Kamu terlihat enak ... Aku ingin memakanmu!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Tu as l'air savoureux ... Je veux te manger!"
         }
       ],
       "actions": []
@@ -137,6 +483,42 @@
         {
           "lang": "ru-RU",
           "name": "О нет! Что мне делать?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Ồ không!  Tôi nên làm gì?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "哦，不！ 我应该怎么办？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "अरे नहीं!  मुझे क्या करना चाहिए?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ไม่นะ!  ฉันควรทำอย่างไร?"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Oh hayır!  Ne yapmalıyım?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Oh não!  O que devo fazer?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Oh nein!  Was soll ich tun?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Oh tidak!  Apa yang harus saya lakukan?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Oh non!  Que dois-je faire?"
         }
       ],
       "actions": []
@@ -149,33 +531,183 @@
         {
           "lang": "ru-RU",
           "name": "Попробуй сказать что-то хорошее!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Hãy thử nói điều gì đó tốt đẹp!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "尝试说些好话！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "कुछ अच्छा कहने की कोशिश करो!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ลองพูดอะไรดีๆ!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Güzel bir şey söylemeyi dene!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Tente dizer algo bom!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Versuchen Sie, etwas Schönes zu sagen!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Coba katakan sesuatu yang menyenangkan!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Essayez de dire quelque chose de gentil!"
         }
       ],
       "actions": [
         {
-          "text": "You have big ears!",
+          "name": "You have big ears!",
+          "isCorrect": true,
+          "score": 1,
           "translates": [
             {
               "lang": "ru-RU",
               "name": "У тебя большие уши!"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Bạn có đôi tai lớn!"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "你的耳朵大！"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "आपके पास बड़े कान हैं!"
+            },
+            {
+              "lang": "th-TH",
+              "name": "คุณมีหูใหญ่!"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Büyük kulakların var!"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Você tem ouvidos grandes!"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Du hast große Ohren!"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Anda memiliki telinga besar!"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Vous avez de grandes oreilles!"
             }
           ]
         },
         {
-          "text": "You are scary!",
+          "name": "You are scary!",
+          "isCorrect": false,
+          "score": 0,
           "translates": [
             {
               "lang": "ru-RU",
               "name": "Ты страшный!"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Bạn thật đáng sợ!"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "你很恐怖！"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "आप डरावने हैं!"
+            },
+            {
+              "lang": "th-TH",
+              "name": "คุณน่ากลัว!"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Sen korkutucusun!"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Você é assustador!"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Sie sind beängstigend!"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Anda menakutkan!"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Vous êtes effrayant!"
             }
           ]
         },
         {
-          "text": "Go away!",
+          "name": "Go away!",
+          "isCorrect": false,
+          "score": 0,
           "translates": [
             {
               "lang": "ru-RU",
               "name": "Уходи!"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Biến đi!"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "离开！"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "दूर जाओ!"
+            },
+            {
+              "lang": "th-TH",
+              "name": "ออกไป"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Çekip gitmek!"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Vá embora!"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Geh weg!"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Pergilah!"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "S'en aller!"
             }
           ]
         }
@@ -189,6 +721,42 @@
         {
           "lang": "ru-RU",
           "name": "Хе-хе! Спасибо. Можешь идти."
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Hehe!  Cảm ơn.  Bạn có thể đi."
+        },
+        {
+          "lang": "zh-CN",
+          "name": "呵呵！ 谢谢。 你可以去。"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "हेहे!  धन्यवाद।  तुम जा सकते हो।"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ฮิฮิ  ขอบคุณ  คุณอาจไป"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Hehe!  Teşekkür ederim.  Gidebilirsin."
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Hehe!  Obrigado.  Você pode ir."
+        },
+        {
+          "lang": "de-DE",
+          "name": "Hehe!  Danke schön.  Sie können gehen."
+        },
+        {
+          "lang": "id-ID",
+          "name": "Hehe!  Terima kasih.  Anda mungkin pergi."
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Hehe!  Merci.  Vous pouvez y aller."
         }
       ],
       "actions": []
@@ -201,9 +769,66 @@
         {
           "lang": "ru-RU",
           "name": "Ты справился, Колобок!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Bạn đã làm điều đó, BUN!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "你做到了，Bun！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "तुमने किया, बन!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "คุณทำมัน, ขนมปัง!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Yaptın, Bun!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Você fez isso, Bun!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Du hast es geschafft, Bun!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Kamu berhasil, Bun!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Vous l'avez fait, Bun!"
         }
       ],
       "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Bun",
+      "name": "Bun",
+      "image": "/story/rb/npc/npc_bun.png",
+      "s": "u",
+      "isRight": false
+    },
+    {
+      "id": "Dot",
+      "name": "Dot",
+      "image": "/story/rb/npc/npc_dot.png",
+      "s": "u"
+    },
+    {
+      "id": "Rabbit",
+      "name": "Rabbit",
+      "image": "/story/rb/npc/npc_rabbit.png",
+      "s": "u"
     }
   ]
 }
