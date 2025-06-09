@@ -1,1 +1,840 @@
-{"name":"Hello, World!","bg":"/story/rb/bg/homekitchen.png","age":0,"translations":[{"lang":"ru-RU","name":"Привет, мир!"},{"lang":"vi-VN","name":"Xin chào, thế giới!"},{"lang":"zh-CN","name":"你好世界！"},{"lang":"hi-IN","name":"हैलो वर्ल्ड!"},{"lang":"th-TH","name":"สวัสดีโลก!"},{"lang":"tr-TR","name":"Selam Dünya!"},{"lang":"pt-BR","name":"Olá, mundo!"},{"lang":"de-DE","name":"Hallo Welt!"},{"lang":"id-ID","name":"Halo, dunia!"},{"lang":"fr-FR","name":"Bonjour le monde!"}],"items":[{"name":"Hello, World!","actor":"","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Привет, мир!"},{"lang":"vi-VN","name":"Xin chào, thế giới!"},{"lang":"zh-CN","name":"你好世界！"},{"lang":"hi-IN","name":"हैलो वर्ल्ड!"},{"lang":"th-TH","name":"สวัสดีโลก!"},{"lang":"tr-TR","name":"Selam Dünya!"},{"lang":"pt-BR","name":"Olá, mundo!"},{"lang":"de-DE","name":"Hallo Welt!"},{"lang":"id-ID","name":"Halo, dunia!"},{"lang":"fr-FR","name":"Bonjour le monde!"}],"actions":[]},{"name":"Oh! He moved!","actor":"Grandma","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"О! Он зашевелился!"},{"lang":"vi-VN","name":"Ồ!  Anh ấy đã di chuyển!"},{"lang":"zh-CN","name":"哦！ 他搬了！"},{"lang":"hi-IN","name":"ओह!  वह चले गए!"},{"lang":"th-TH","name":"โอ้!  เขาย้าย!"},{"lang":"tr-TR","name":"Ah!  Hareket etti!"},{"lang":"pt-BR","name":"Oh!  Ele se mudou!"},{"lang":"de-DE","name":"Oh!  Er bewegte sich!"},{"lang":"id-ID","name":"Oh!  Dia pindah!"},{"lang":"fr-FR","name":"Oh!  Il a déménagé!"}],"actions":[]},{"name":"Look! Our Bun is alive!","actor":"Grandpa","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Смотри! Наш Колобок ожил!"},{"lang":"vi-VN","name":"Nhìn!  Bánh của chúng tôi còn sống!"},{"lang":"zh-CN","name":"看！ 我们的面包还活着！"},{"lang":"hi-IN","name":"देखना!  हमारा बन जीवित है!"},{"lang":"th-TH","name":"ดู!  ขนมปังของเรายังมีชีวิตอยู่!"},{"lang":"tr-TR","name":"Bakmak!  Çöreklerimiz yaşıyor!"},{"lang":"pt-BR","name":"Olhar!  Nosso pão está vivo!"},{"lang":"de-DE","name":"Sehen!  Unser Brötchen lebt!"},{"lang":"id-ID","name":"Lihat!  Roti kami masih hidup!"},{"lang":"fr-FR","name":"Regarder!  Notre chignon est vivant!"}],"actions":[]},{"name":"Hello! I can speak!","actor":"Bun","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Привет! Я умею говорить!"},{"lang":"vi-VN","name":"Xin chào!  Tôi có thể nói!"},{"lang":"zh-CN","name":"你好！ 我可以说！"},{"lang":"hi-IN","name":"नमस्ते!  मैं बात कर सकता हूं!"},{"lang":"th-TH","name":"สวัสดี!  ฉันพูดได้!"},{"lang":"tr-TR","name":"Merhaba!  Konuşabilirim!"},{"lang":"pt-BR","name":"Olá!  Eu posso falar!"},{"lang":"de-DE","name":"Hallo!  Ich kann sprechen!"},{"lang":"id-ID","name":"Halo!  Saya bisa berbicara!"},{"lang":"fr-FR","name":"Bonjour!  Je peux parler!"}],"actions":[]},{"name":"Hi! I\u0027m Dot. I\u0027m your helper.","actor":"Dot","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Привет! Я — Дот. Я твой помощник."},{"lang":"vi-VN","name":"CHÀO!  Tôi là dấu chấm.  Tôi là người trợ giúp của bạn."},{"lang":"zh-CN","name":"你好！ 我是点。 我是你的助手。"},{"lang":"hi-IN","name":"नमस्ते!  मैं डॉट हूं।  मैं तुम्हारा सहायक हूँ।"},{"lang":"th-TH","name":"สวัสดี!  ฉันดอท  ฉันเป็นผู้ช่วยของคุณ"},{"lang":"tr-TR","name":"MERHABA!  Ben dotum.  Ben senin yardımcınım."},{"lang":"pt-BR","name":"Oi!  Eu sou dot.  Eu sou seu ajudante."},{"lang":"de-DE","name":"Hallo!  Ich bin Punkt.  Ich bin dein Helfer."},{"lang":"id-ID","name":"Hai!  Saya Dot.  Saya penolong Anda."},{"lang":"fr-FR","name":"Salut!  Je suis dot.  Je suis ton assistant."}],"actions":[]},{"name":"Can you say \u0027Hello\u0027?","actor":"Dot","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Ты можешь сказать «Hello»?"},{"lang":"vi-VN","name":"Bạn có thể nói \u0027Xin chào\u0027?"},{"lang":"zh-CN","name":"你能说“你好”吗？"},{"lang":"hi-IN","name":"क्या आप \u0027हैलो\u0027 कह सकते हैं?"},{"lang":"th-TH","name":"คุณสามารถพูดว่า \u0027สวัสดี\u0027 ได้ไหม"},{"lang":"tr-TR","name":"\u0027Merhaba\u0027 diyebilir misin?"},{"lang":"pt-BR","name":"Você pode dizer \u0027olá\u0027?"},{"lang":"de-DE","name":"Kannst du \u0027Hallo\u0027 sagen?"},{"lang":"id-ID","name":"Bisakah Anda mengatakan \u0027halo\u0027?"},{"lang":"fr-FR","name":"Pouvez-vous dire «bonjour»?"}],"actions":[{"name":"Hello!","isCorrect":true,"score":1,"translates":[{"lang":"ru-RU","name":"Привет!"},{"lang":"vi-VN","name":"Xin chào!"},{"lang":"zh-CN","name":"你好！"},{"lang":"hi-IN","name":"नमस्ते!"},{"lang":"th-TH","name":"สวัสดี!"},{"lang":"tr-TR","name":"Merhaba!"},{"lang":"pt-BR","name":"Olá!"},{"lang":"de-DE","name":"Hallo!"},{"lang":"id-ID","name":"Halo!"},{"lang":"fr-FR","name":"Bonjour!"}]},{"name":"Goodbye!","isCorrect":false,"score":0,"translates":[{"lang":"ru-RU","name":"До свидания!"},{"lang":"vi-VN","name":"Tạm biệt!"},{"lang":"zh-CN","name":"再见！"},{"lang":"hi-IN","name":"अलविदा!"},{"lang":"th-TH","name":"ลาก่อน!"},{"lang":"tr-TR","name":"Güle güle!"},{"lang":"pt-BR","name":"Adeus!"},{"lang":"de-DE","name":"Auf Wiedersehen!"},{"lang":"id-ID","name":"Selamat tinggal!"},{"lang":"fr-FR","name":"Au revoir!"}]},{"name":"Thank you!","isCorrect":false,"score":0,"translates":[{"lang":"ru-RU","name":"Спасибо!"},{"lang":"vi-VN","name":"Cảm ơn!"},{"lang":"zh-CN","name":"谢谢你！"},{"lang":"hi-IN","name":"धन्यवाद!"},{"lang":"th-TH","name":"ขอบคุณ!"},{"lang":"tr-TR","name":"Teşekkür ederim!"},{"lang":"pt-BR","name":"Obrigado!"},{"lang":"de-DE","name":"Danke schön!"},{"lang":"id-ID","name":"Terima kasih!"},{"lang":"fr-FR","name":"Merci!"}]}]},{"name":"Great job! You said it right.","actor":"Dot","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Отлично! Ты сказал правильно."},{"lang":"vi-VN","name":"Công việc tuyệt vời!  Bạn nói đúng."},{"lang":"zh-CN","name":"好！ 你说没错。"},{"lang":"hi-IN","name":"अच्छा काम!  ठीक कहा तुमने।"},{"lang":"th-TH","name":"เยี่ยมมาก!  คุณบอกว่าถูกต้อง"},{"lang":"tr-TR","name":"Harika iş!  Doğru söyledin."},{"lang":"pt-BR","name":"Ótimo trabalho!  Você disse certo."},{"lang":"de-DE","name":"Toller Job!  Du hast es richtig gesagt."},{"lang":"id-ID","name":"Kerja bagus!  Anda mengatakannya dengan benar."},{"lang":"fr-FR","name":"Excellent travail!  Vous l\u0027avez dit bien."}],"actions":[]},{"name":"Now try: \u0027My name is...\u0027","actor":"Dot","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Теперь попробуй: «Меня зовут...»"},{"lang":"vi-VN","name":"Bây giờ hãy thử: \u0027Tên tôi là ...\u0027"},{"lang":"zh-CN","name":"现在尝试：“我叫...”"},{"lang":"hi-IN","name":"अब कोशिश करें: \u0027मेरा नाम है ...\u0027"},{"lang":"th-TH","name":"ตอนนี้ลอง: \u0027ฉันชื่อ ... \u0027"},{"lang":"tr-TR","name":"Şimdi deneyin: \u0027Benim adım ...\u0027"},{"lang":"pt-BR","name":"Agora tente: \u0027Meu nome é ...\u0027"},{"lang":"de-DE","name":"Versuchen Sie jetzt: \u0022Mein Name ist ...\u0022"},{"lang":"id-ID","name":"Sekarang coba: \u0027Nama saya ...\u0027"},{"lang":"fr-FR","name":"Essayez maintenant: \u0027Je m\u0027appelle ...\u0027"}],"actions":[{"name":"My name is Bun.","isCorrect":true,"score":1,"translates":[{"lang":"ru-RU","name":"Меня зовут Колобок."},{"lang":"vi-VN","name":"Tên tôi là Bun."},{"lang":"zh-CN","name":"我叫bun。"},{"lang":"hi-IN","name":"मेरा नाम बन है।"},{"lang":"th-TH","name":"ฉันชื่อขนมปัง"},{"lang":"tr-TR","name":"Benim adım Bun."},{"lang":"pt-BR","name":"Meu nome é Bun."},{"lang":"de-DE","name":"Mein Name ist Bun."},{"lang":"id-ID","name":"Nama saya roti."},{"lang":"fr-FR","name":"Mon nom est Bun."}]},{"name":"I am Bun.","isCorrect":false,"score":0,"translates":[{"lang":"ru-RU","name":"Я — Колобок."},{"lang":"vi-VN","name":"Tôi là Bun."},{"lang":"zh-CN","name":"我是bun。"},{"lang":"hi-IN","name":"मैं बन गया हूँ।"},{"lang":"th-TH","name":"ฉันคือขนมปัง"},{"lang":"tr-TR","name":"Ben bunım."},{"lang":"pt-BR","name":"Eu sou Bun."},{"lang":"de-DE","name":"Ich bin Brötchen."},{"lang":"id-ID","name":"Saya roti."},{"lang":"fr-FR","name":"Je suis Bun."}]},{"name":"Call me Bun.","isCorrect":false,"score":0,"translates":[{"lang":"ru-RU","name":"Зови меня Колобком."},{"lang":"vi-VN","name":"Gọi tôi là Bun."},{"lang":"zh-CN","name":"叫我面包。"},{"lang":"hi-IN","name":"मुझे बान बुलाओ।"},{"lang":"th-TH","name":"เรียกฉันว่าขนมปัง"},{"lang":"tr-TR","name":"Bana Bun deyin."},{"lang":"pt-BR","name":"Me chame de pão."},{"lang":"de-DE","name":"Nenn mich Brötchen."},{"lang":"id-ID","name":"Panggil aku roti."},{"lang":"fr-FR","name":"Appelez-moi Bun."}]}]},{"name":"Hello! My name is Bun.","actor":"Bun","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Привет! Меня зовут Колобок."},{"lang":"vi-VN","name":"Xin chào!  Tên tôi là Bun."},{"lang":"zh-CN","name":"你好！ 我叫bun。"},{"lang":"hi-IN","name":"नमस्ते!  मेरा नाम बन है।"},{"lang":"th-TH","name":"สวัสดี!  ฉันชื่อขนมปัง"},{"lang":"tr-TR","name":"Merhaba!  Benim adım Bun."},{"lang":"pt-BR","name":"Olá!  Meu nome é Bun."},{"lang":"de-DE","name":"Hallo!  Mein Name ist Bun."},{"lang":"id-ID","name":"Halo!  Nama saya roti."},{"lang":"fr-FR","name":"Bonjour!  Mon nom est Bun."}],"actions":[]},{"name":"Well done! Let\u0027s start your journey!","actor":"Dot","dialogType":"Normal","translates":[{"lang":"ru-RU","name":"Молодец! Начнём твоё путешествие!"},{"lang":"vi-VN","name":"Làm tốt!  Hãy bắt đầu hành trình của bạn!"},{"lang":"zh-CN","name":"做得好！ 让我们开始您的旅程！"},{"lang":"hi-IN","name":"बहुत अच्छा!  चलो अपनी यात्रा शुरू करते हैं!"},{"lang":"th-TH","name":"ทำได้ดี!  มาเริ่มการเดินทางของคุณกันเถอะ!"},{"lang":"tr-TR","name":"Tebrikler!  Yolculuğunuza başlayalım!"},{"lang":"pt-BR","name":"Bom trabalho!  Vamos começar sua jornada!"},{"lang":"de-DE","name":"Gut gemacht!  Beginnen wir Ihre Reise!"},{"lang":"id-ID","name":"Bagus sekali!  Mari kita mulai perjalanan Anda!"},{"lang":"fr-FR","name":"Bien joué!  Commençons votre voyage!"}],"actions":[]}],"actors":[{"id":"Grandma","name":"Grandma","image":"/story/rb/npc/npc_grandma.png","s":"f"},{"id":"Grandpa","name":"Grandpa","image":"/story/rb/npc/npc_grandpa.png","s":"m"},{"id":"Bun","name":"Bun","image":"/story/rb/npc/npc_bun.png","s":"u","isRight":false},{"id":"Dot","name":"Dot","image":"/story/rb/npc/npc_dot.png","s":"u"}]}
+{
+  "name": "Hello, World!",
+  "bg": "/story/rb/bg/homekitchen.png",
+  "age": 0,
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Привет, мир!"
+    },
+    {
+      "lang": "vi-VN",
+      "name": "Xin chào, thế giới!"
+    },
+    {
+      "lang": "zh-CN",
+      "name": "你好世界！"
+    },
+    {
+      "lang": "hi-IN",
+      "name": "हैलो वर्ल्ड!"
+    },
+    {
+      "lang": "th-TH",
+      "name": "สวัสดีโลก!"
+    },
+    {
+      "lang": "tr-TR",
+      "name": "Selam Dünya!"
+    },
+    {
+      "lang": "pt-BR",
+      "name": "Olá, mundo!"
+    },
+    {
+      "lang": "de-DE",
+      "name": "Hallo Welt!"
+    },
+    {
+      "lang": "id-ID",
+      "name": "Halo, dunia!"
+    },
+    {
+      "lang": "fr-FR",
+      "name": "Bonjour le monde!"
+    }
+  ],
+  "items": [
+    {
+      "name": "Hello, World!",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Привет, мир!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Xin chào, thế giới!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "你好世界！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "हैलो वर्ल्ड!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "สวัสดีโลก!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Selam Dünya!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Olá, mundo!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Hallo Welt!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Halo, dunia!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Bonjour le monde!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Oh! He moved!",
+      "actor": "Grandma",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "О! Он зашевелился!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Ồ!  Anh ấy đã di chuyển!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "哦！ 他搬了！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "ओह!  वह चले गए!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "โอ้!  เขาย้าย!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Ah!  Hareket etti!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Oh!  Ele se mudou!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Oh!  Er bewegte sich!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Oh!  Dia pindah!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Oh!  Il a déménagé!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Look! Our Bun is alive!",
+      "actor": "Grandpa",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Смотри! Наш Колобок ожил!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Nhìn!  Bánh của chúng tôi còn sống!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "看！ 我们的面包还活着！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "देखना!  हमारा बन जीवित है!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ดู!  ขนมปังของเรายังมีชีวิตอยู่!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Bakmak!  Çöreklerimiz yaşıyor!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Olhar!  Nosso pão está vivo!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Sehen!  Unser Brötchen lebt!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Lihat!  Roti kami masih hidup!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Regarder!  Notre chignon est vivant!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Hello! I can speak!",
+      "actor": "Bun",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Привет! Я умею говорить!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Xin chào!  Tôi có thể nói!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "你好！ 我可以说！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "नमस्ते!  मैं बात कर सकता हूं!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "สวัสดี!  ฉันพูดได้!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Merhaba!  Konuşabilirim!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Olá!  Eu posso falar!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Hallo!  Ich kann sprechen!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Halo!  Saya bisa berbicara!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Bonjour!  Je peux parler!"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Hi! I'm Dot. I'm your helper.",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Привет! Я — Дот. Я твой помощник."
+        },
+        {
+          "lang": "vi-VN",
+          "name": "CHÀO!  Tôi là dấu chấm.  Tôi là người trợ giúp của bạn."
+        },
+        {
+          "lang": "zh-CN",
+          "name": "你好！ 我是点。 我是你的助手。"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "नमस्ते!  मैं डॉट हूं।  मैं तुम्हारा सहायक हूँ।"
+        },
+        {
+          "lang": "th-TH",
+          "name": "สวัสดี!  ฉันดอท  ฉันเป็นผู้ช่วยของคุณ"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "MERHABA!  Ben dotum.  Ben senin yardımcınım."
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Oi!  Eu sou dot.  Eu sou seu ajudante."
+        },
+        {
+          "lang": "de-DE",
+          "name": "Hallo!  Ich bin Punkt.  Ich bin dein Helfer."
+        },
+        {
+          "lang": "id-ID",
+          "name": "Hai!  Saya Dot.  Saya penolong Anda."
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Salut!  Je suis dot.  Je suis ton assistant."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Can you say 'Hello'?",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты можешь сказать «Hello»?"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Bạn có thể nói 'Xin chào'?"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "你能说“你好”吗？"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "क्या आप 'हैलो' कह सकते हैं?"
+        },
+        {
+          "lang": "th-TH",
+          "name": "คุณสามารถพูดว่า 'สวัสดี' ได้ไหม"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "'Merhaba' diyebilir misin?"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Você pode dizer 'olá'?"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Kannst du 'Hallo' sagen?"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Bisakah Anda mengatakan 'halo'?"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Pouvez-vous dire «bonjour»?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Hello!",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Привет!"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Xin chào!"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "你好！"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "नमस्ते!"
+            },
+            {
+              "lang": "th-TH",
+              "name": "สวัสดี!"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Merhaba!"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Olá!"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Hallo!"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Halo!"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Bonjour!"
+            }
+          ]
+        },
+        {
+          "name": "Goodbye!",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "До свидания!"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Tạm biệt!"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "再见！"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "अलविदा!"
+            },
+            {
+              "lang": "th-TH",
+              "name": "ลาก่อน!"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Güle güle!"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Adeus!"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Auf Wiedersehen!"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Selamat tinggal!"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Au revoir!"
+            }
+          ]
+        },
+        {
+          "name": "Thank you!",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Спасибо!"
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Cảm ơn!"
+            },
+            {
+              "lang": "zh-CN",
+              "name": "谢谢你！"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "धन्यवाद!"
+            },
+            {
+              "lang": "th-TH",
+              "name": "ขอบคุณ!"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Teşekkür ederim!"
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Obrigado!"
+            },
+            {
+              "lang": "de-DE",
+              "name": "Danke schön!"
+            },
+            {
+              "lang": "id-ID",
+              "name": "Terima kasih!"
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Merci!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Great job! You said it right.",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отлично! Ты сказал правильно."
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Công việc tuyệt vời!  Bạn nói đúng."
+        },
+        {
+          "lang": "zh-CN",
+          "name": "好！ 你说没错。"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "अच्छा काम!  ठीक कहा तुमने।"
+        },
+        {
+          "lang": "th-TH",
+          "name": "เยี่ยมมาก!  คุณบอกว่าถูกต้อง"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Harika iş!  Doğru söyledin."
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Ótimo trabalho!  Você disse certo."
+        },
+        {
+          "lang": "de-DE",
+          "name": "Toller Job!  Du hast es richtig gesagt."
+        },
+        {
+          "lang": "id-ID",
+          "name": "Kerja bagus!  Anda mengatakannya dengan benar."
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Excellent travail!  Vous l'avez dit bien."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Now try: 'My name is...'",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь попробуй: «Меня зовут...»"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Bây giờ hãy thử: 'Tên tôi là ...'"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "现在尝试：“我叫...”"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "अब कोशिश करें: 'मेरा नाम है ...'"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ตอนนี้ลอง: 'ฉันชื่อ ... '"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Şimdi deneyin: 'Benim adım ...'"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Agora tente: 'Meu nome é ...'"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Versuchen Sie jetzt: \"Mein Name ist ...\""
+        },
+        {
+          "lang": "id-ID",
+          "name": "Sekarang coba: 'Nama saya ...'"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Essayez maintenant: 'Je m'appelle ...'"
+        }
+      ],
+      "actions": [
+        {
+          "name": "My name is Bun.",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Меня зовут Колобок."
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Tên tôi là Bun."
+            },
+            {
+              "lang": "zh-CN",
+              "name": "我叫Bun。"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "मेरा नाम बन है।"
+            },
+            {
+              "lang": "th-TH",
+              "name": "ฉันชื่อบัน"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Benim adım Bun."
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Meu nome é Bun."
+            },
+            {
+              "lang": "de-DE",
+              "name": "Mein Name ist Bun."
+            },
+            {
+              "lang": "id-ID",
+              "name": "Nama saya Bun."
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Mon nom est Bun."
+            }
+          ]
+        },
+        {
+          "name": "I am Bun.",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Я — Колобок."
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Tôi là Bun."
+            },
+            {
+              "lang": "zh-CN",
+              "name": "我是Bun。"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "मैं बन गया हूँ।"
+            },
+            {
+              "lang": "th-TH",
+              "name": "ฉันคือบัน"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Ben bunım."
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Eu sou Bun."
+            },
+            {
+              "lang": "de-DE",
+              "name": "Ich bin Bun."
+            },
+            {
+              "lang": "id-ID",
+              "name": "Saya Bun."
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Je suis Bun."
+            }
+          ]
+        },
+        {
+          "name": "Call me Bun.",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Зови меня Колобком."
+            },
+            {
+              "lang": "vi-VN",
+              "name": "Gọi tôi là Bun."
+            },
+            {
+              "lang": "zh-CN",
+              "name": "叫我Bun。"
+            },
+            {
+              "lang": "hi-IN",
+              "name": "मुझे बान बुलाओ।"
+            },
+            {
+              "lang": "th-TH",
+              "name": "เรียกฉันว่าบัน"
+            },
+            {
+              "lang": "tr-TR",
+              "name": "Bana Bun deyin."
+            },
+            {
+              "lang": "pt-BR",
+              "name": "Me chame de pão."
+            },
+            {
+              "lang": "de-DE",
+              "name": "Nenn mich Bun."
+            },
+            {
+              "lang": "id-ID",
+              "name": "Panggil aku Bun."
+            },
+            {
+              "lang": "fr-FR",
+              "name": "Appelez-moi Bun."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Hello! My name is Bun.",
+      "actor": "Bun",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Привет! Меня зовут Колобок."
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Xin chào!  Tên tôi là Bun."
+        },
+        {
+          "lang": "zh-CN",
+          "name": "你好！ 我叫Bun。"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "नमस्ते!  मेरा नाम बन है।"
+        },
+        {
+          "lang": "th-TH",
+          "name": "สวัสดี!  ฉันชื่อบัน"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Merhaba!  Benim adım Bun."
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Olá!  Meu nome é Bun."
+        },
+        {
+          "lang": "de-DE",
+          "name": "Hallo!  Mein Name ist Bun."
+        },
+        {
+          "lang": "id-ID",
+          "name": "Halo!  Nama saya Bun."
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Bonjour!  Mon nom est Bun."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Well done! Let's start your journey!",
+      "actor": "Dot",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Молодец! Начнём твоё путешествие!"
+        },
+        {
+          "lang": "vi-VN",
+          "name": "Làm tốt!  Hãy bắt đầu hành trình của bạn!"
+        },
+        {
+          "lang": "zh-CN",
+          "name": "做得好！ 让我们开始您的旅程！"
+        },
+        {
+          "lang": "hi-IN",
+          "name": "बहुत अच्छा!  चलो अपनी यात्रा शुरू करते हैं!"
+        },
+        {
+          "lang": "th-TH",
+          "name": "ทำได้ดี!  มาเริ่มการเดินทางของคุณกันเถอะ!"
+        },
+        {
+          "lang": "tr-TR",
+          "name": "Tebrikler!  Yolculuğunuza başlayalım!"
+        },
+        {
+          "lang": "pt-BR",
+          "name": "Bom trabalho!  Vamos começar sua jornada!"
+        },
+        {
+          "lang": "de-DE",
+          "name": "Gut gemacht!  Beginnen wir Ihre Reise!"
+        },
+        {
+          "lang": "id-ID",
+          "name": "Bagus sekali!  Mari kita mulai perjalanan Anda!"
+        },
+        {
+          "lang": "fr-FR",
+          "name": "Bien joué!  Commençons votre voyage!"
+        }
+      ],
+      "actions": []
+    }
+  ],
+  "actors": [
+    {
+      "id": "Grandma",
+      "name": "Grandma",
+      "image": "/story/rb/npc/npc_grandma.png",
+      "s": "f"
+    },
+    {
+      "id": "Grandpa",
+      "name": "Grandpa",
+      "image": "/story/rb/npc/npc_grandpa.png",
+      "s": "m"
+    },
+    {
+      "id": "Bun",
+      "name": "Bun",
+      "image": "/story/rb/npc/npc_bun.png",
+      "s": "u",
+      "isRight": false
+    },
+    {
+      "id": "Dot",
+      "name": "Dot",
+      "image": "/story/rb/npc/npc_dot.png",
+      "s": "u"
+    }
+  ]
+}
