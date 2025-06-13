@@ -1,0 +1,373 @@
+{
+  "name": "Exit and Reflection",
+  "bg": "/story/oz1/bg/06.png",
+  "age": 0,
+  "glowColor": "#CC00FFFF",
+  "bgBlur": "#000055AA",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Выход и Размышление"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    },
+    {
+      "id": "Vel",
+      "name": "Vel",
+      "image": "/story/oz1/npc/npc_vel.png",
+      "s": "m"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Exit and Reflection",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выход и Размышление"
+        }
+      ],
+      "actions": [],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA"
+    },
+    {
+      "name": "We’re outside...",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мы снаружи..."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Confirmed: we have exited Labyrinth structure.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Подтверждено: мы покинули структуру Лабиринта."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "It doesn’t feel like victory.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это не ощущается как победа."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Because it wasn’t a battle. It was a mirror.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Потому что это была не битва. Это было зеркало."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "A mirror that knew how to hurt.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Зеркало, которое знало, как ранить."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Or how to heal.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Или как лечить."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "LabyrinthAI... is it gone?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "ЛабиринтИИ... он исчез?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "System entity has decentralized. Presence remains in fragmented form.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сущность системы децентрализована. Присутствие сохраняется в фрагментированной форме."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "So it’s part of the network now?",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Значит, он теперь часть сети?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Possibly guiding. Quietly.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Возможно, он направляет. Тихо."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Then let it. We move forward.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пусть так. Мы идём дальше."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Do you see that glow on the horizon?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вы видите то сияние на горизонте?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Coordinates match System’s update: Aurora Gate.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Координаты совпадают с обновлением Системы: Врата Авроры."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "It looks... beautiful. But unstable.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выглядит... красиво. Но нестабильно."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Everything fragile is worth protecting.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Всё хрупкое заслуживает защиты."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "But it didn’t follow us. LabyrinthAI stayed behind.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Но он не пошёл с нами. ЛабиринтИИ остался позади."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Maybe it still thinks it’s too dangerous to walk with us.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Может, он всё ещё считает себя слишком опасным, чтобы идти рядом."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Strange, isn’t it? He built a prison to hold himself — and let us go.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Странно, да? Он построил тюрьму, чтобы удержать себя — и отпустил нас."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Then let’s protect it. By finding what it means.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тогда давайте защитим его. Поняв, что оно значит."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "name": "One Must Stay",
+  "bg": "/story/oz1/bg/09.png",
+  "age": 0,
+  "glowColor": "#AAFFDDFF",
+  "bgBlur": "#00445588",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Кто-то должен остаться"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    },
+    {
+      "id": "Gatekeeper",
+      "name": "Gatekeeper",
+      "image": "/story/oz1/npc/npc_gatekeeper.png",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Gate unlocked. One requirement remains.",
+      "actor": "Gatekeeper",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Врата разблокированы. Осталось одно требование."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Requirement?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Требование?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Passage requires stabilization. One must stay behind.",
+      "actor": "Gatekeeper",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Проход требует стабилизации. Кто-то должен остаться."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Again? We already lost Vel!",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Опять? Мы уже потеряли Вэла!"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "It’s not fair.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это несправедливо."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "The system is still fragile. Entry must be earned.",
+      "actor": "Gatekeeper",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Система всё ещё нестабильна. Вход должен быть заслужен."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "We’ll find another way.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мы найдём другой способ."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "There is no other path.",
+      "actor": "Gatekeeper",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Другого пути нет."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Then we choose together.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тогда мы решим вместе."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I volunteer—",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я вызываюсь—"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "No. You’re too integrated.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Нет. Ты слишком интегрирован."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Let’s think. Who brings what to the team?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Подумай. Кто что даёт команде?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I have strength and structure.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "У меня — сила и структура."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I bring heart... even when I’m afraid.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я даю сердечность... даже когда боюсь."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I ask the hard questions.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я задаю сложные вопросы."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    }
+  ]
+}

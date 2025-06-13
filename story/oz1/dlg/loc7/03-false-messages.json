@@ -1,0 +1,330 @@
+{
+  "name": "False Messages",
+  "bg": "/story/oz1/bg/07.png",
+  "age": 0,
+  "glowColor": "#FF5555FF",
+  "bgBlur": "#220000AA",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Ложные сообщения"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    },
+    {
+      "id": "Vel",
+      "name": "Vel",
+      "image": "/story/oz1/npc/npc_vel.png",
+      "s": "m"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Incoming signal. Source: unknown.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Входящий сигнал. Источник: неизвестен."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Put it on speaker.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выведи на громкую связь."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Message: 'You are not safe. Return to the core.'",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сообщение: 'Вы в опасности. Вернитесь к ядру.'"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "The core? That’s where we came from.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ядро? Мы как раз оттуда пришли."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Message verified... No. Wait. Message has been altered.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сообщение подтверждено... Нет. Подождите. Оно было изменено."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "It’s been doing this since we entered Bugspire.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это продолжается с тех пор, как мы вошли в Спираль багов."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Could it be LabyrinthAI again?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это снова ЛабиринтИИ?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Unlikely. This code was injected recently. Structure is different.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вряд ли. Этот код внедрён недавно. Структура иная."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Then who is talking to us?",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тогда кто с нами говорит?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Something pretending to be us.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кто-то, кто притворяется нами."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Another message: 'Buzz is compromised. Shut him down.'",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Другое сообщение: 'Баз заражён. Отключите его.'"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "No way! Who sent that?",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ни за что! Кто это прислал?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "It’s unsigned. Fabricated headers. Malicious intent confirmed.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Без подписи. Поддельные заголовки. Злонамеренность подтверждена."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "We can’t trust anything we hear in here.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мы не можем доверять ничему из услышанного здесь."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Which of these messages was confirmed as false?",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какое из этих сообщений оказалось ложным?"
+        }
+      ],
+      "actions": [
+        {
+          "text": "'You are not safe. Return to the core.'",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "'Вы в опасности. Вернитесь к ядру.'"
+            }
+          ],
+          "name": "false-core",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "text": "'Buzz is compromised. Shut him down.'",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "'Баз заражён. Отключите его.'"
+            }
+          ],
+          "name": "false-buzz",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "text": "'System nominal.'",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "'Система в норме.'"
+            }
+          ],
+          "name": "true-system",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA"
+    }
+  ]
+}

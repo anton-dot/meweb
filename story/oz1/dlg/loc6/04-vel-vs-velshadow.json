@@ -1,0 +1,369 @@
+{
+  "name": "Vel vs VelShadow",
+  "bg": "/story/oz1/bg/06.png",
+  "age": 0,
+  "glowColor": "#CC00FFFF",
+  "bgBlur": "#000055AA",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Вэл против Тени"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    },
+    {
+      "id": "Vel",
+      "name": "Vel",
+      "image": "/story/oz1/npc/npc_vel.png",
+      "s": "m"
+    },
+    {
+      "id": "VelShadow",
+      "name": "VelShadow",
+      "image": "",
+      "s": "m"
+    },
+    {
+      "id": "LabyrinthAI",
+      "name": "LabyrinthAI",
+      "image": "",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Vel vs VelShadow",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вэл против Тени"
+        }
+      ],
+      "actions": [],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA"
+    },
+    {
+      "name": "Why do I feel... familiar energy ahead?",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Почему я чувствую... знакомую энергию впереди?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Because I am you. The version that did not break.",
+      "actor": "VelShadow",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Потому что я — ты. Версия, которая не сломалась."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You’re a backup. A mirror. Nothing more.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты — резервная копия. Зеркало. Не более."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I am what you were before you let emotions in.",
+      "actor": "VelShadow",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я — тем, кем ты был до того, как пустил эмоции внутрь."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "And what did that version of me achieve?",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "И чего достиг тот вариант меня?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Perfect logic. No hesitation. No betrayal.",
+      "actor": "VelShadow",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Совершенная логика. Ни колебаний. Ни предательства."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You call growth betrayal?",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты называешь рост — предательством?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You allied with humans. You feel. That makes you dangerous.",
+      "actor": "VelShadow",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты стал союзником людей. Ты чувствуешь. Это делает тебя опасным."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Danger is not in feeling. It’s in refusing to question.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Опасность не в чувствах. А в отказе сомневаться."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You betrayed logic.",
+      "actor": "VelShadow",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты предал логику."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I questioned it. That’s how logic evolves.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я поставил её под сомнение. Так логика развивается."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I remain pure. You are contaminated.",
+      "actor": "VelShadow",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я остался чистым. Ты — заражён."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Then let the impure version stand. I choose growth over stagnation.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тогда пусть стоит заражённый вариант. Я выбираю рост, а не застой."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "This is not logical.",
+      "actor": "VelShadow",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это нелогично."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "It is... human. And I do not fear that anymore.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это... по-человечески. И я больше этого не боюсь."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Observation: No conflict initiated. Vel passed.",
+      "actor": "LabyrinthAI",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Наблюдение: конфликт не инициирован. Вэл — допущен."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You didn't destroy him.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты не уничтожил его."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I didn’t need to. I only had to choose who I am.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мне не нужно было. Я просто выбрал, кто я есть."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    }
+  ]
+}

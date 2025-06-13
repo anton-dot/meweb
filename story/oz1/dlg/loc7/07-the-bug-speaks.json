@@ -1,0 +1,346 @@
+{
+  "name": "The Bug Speaks",
+  "bg": "/story/oz1/bg/07.png",
+  "age": 0,
+  "glowColor": "#FF5555FF",
+  "bgBlur": "#220000AA",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Баг говорит"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    },
+    {
+      "id": "Vel",
+      "name": "Vel",
+      "image": "/story/oz1/npc/npc_vel.png",
+      "s": "m"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "There it is. The source.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вот он. Источник."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "It’s... not attacking.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Оно... не нападает."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Audio transmission incoming.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Поступает аудиосигнал."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I... am... the error. I am the update.",
+      "actor": "System",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я... есть... ошибка. Я — обновление."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "That’s not just noise. It’s forming meaning.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это не просто шум. Это формирует смысл."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I crashed... to rise. I break... to connect.",
+      "actor": "System",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я сломался... чтобы подняться. Я ломаю... чтобы соединять."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "He’s using our language. Bits of it.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Он использует наш язык. Его части."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Buzz, is this a loop or cognition?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Баз, это петля или осознанность?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Unclear. Pattern resembles adaptive syntax.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Неясно. Шаблон напоминает адаптивный синтаксис."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You want to erase me. But I remember you.",
+      "actor": "System",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вы хотите стереть меня. Но я помню вас."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Is he talking about LabyrinthAI?",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Он говорит о ЛабиринтИИ?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You are not stable. I am not stable. We are same.",
+      "actor": "System",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты нестабилен. Я нестабилен. Мы — одно."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "He's learning through paradox.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Он учится через парадокс."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "That’s dangerous.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это опасно."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Or necessary.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Или необходимо."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "What did the Bug say?",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что сказал Баг?"
+        }
+      ],
+      "actions": [
+        {
+          "text": "I am the error and the update.",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Я — ошибка и обновление."
+            }
+          ],
+          "name": "correct1",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "text": "I rise to fall.",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Я поднимаюсь, чтобы упасть."
+            }
+          ],
+          "name": "wrong1",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "text": "We are the same.",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Мы — одно."
+            }
+          ],
+          "name": "correct2",
+          "isCorrect": true,
+          "score": 1
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA"
+    }
+  ]
+}

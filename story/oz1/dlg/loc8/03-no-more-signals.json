@@ -1,0 +1,250 @@
+{
+  "name": "No More Signals",
+  "bg": "/story/oz1/bg/08.png",
+  "age": 0,
+  "glowColor": "#000000AA",
+  "bgBlur": "#00000055",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Нет сигналов"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    },
+    {
+      "id": "Vel",
+      "name": "Vel",
+      "image": "/story/oz1/npc/npc_vel.png",
+      "s": "m"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Buzz, status check?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Баз, проверка статуса?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "...signal... lost...",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "...сигнал... потерян..."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Buzz?",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Баз?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "...system... off... line...",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "...система... вне... сети..."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "He’s glitching.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "У него сбой."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Buzz, can you hear us?",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Баз, ты нас слышишь?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "...memory... looped... maybe...",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "...память... зациклена... возможно..."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "He’s not broken… he’s echoing.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Он не сломан... он эхом повторяет."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Trying to repeat old functions?",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пытается повторить старые функции?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Which sentence matches what Buzz meant?",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какая фраза соответствует тому, что пытался сказать Баз?"
+        }
+      ],
+      "actions": [
+        {
+          "text": "System offline, memory looped",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Система отключена, память зациклена"
+            }
+          ],
+          "name": "correct",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "text": "System offline but stable",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Система отключена, но стабильна"
+            }
+          ],
+          "name": "wrong1",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "text": "System restart complete",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Перезапуск системы завершён"
+            }
+          ],
+          "name": "wrong2",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055"
+    }
+  ]
+}

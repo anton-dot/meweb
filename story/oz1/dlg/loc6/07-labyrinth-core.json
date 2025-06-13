@@ -1,0 +1,379 @@
+{
+  "name": "Labyrinth Core",
+  "bg": "/story/oz1/bg/06.png",
+  "age": 0,
+  "glowColor": "#CC00FFFF",
+  "bgBlur": "#000055AA",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Ядро Лабиринта"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    },
+    {
+      "id": "Vel",
+      "name": "Vel",
+      "image": "/story/oz1/npc/npc_vel.png",
+      "s": "m"
+    },
+    {
+      "id": "LabyrinthAI",
+      "name": "LabyrinthAI",
+      "image": "",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Labyrinth Core",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ядро Лабиринта"
+        }
+      ],
+      "actions": [],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA"
+    },
+    {
+      "name": "This... is it. The center.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это... оно. Центр."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "No defenses. No doors. Just... silence.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Никакой защиты. Ни дверей. Только... тишина."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "State your purpose.",
+      "actor": "LabyrinthAI",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Назовите свою цель."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "We seek the truth. About this place. About you.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мы ищем правду. Об этом месте. О тебе."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Truth is recursive. Dangerous. It unravels stability.",
+      "actor": "LabyrinthAI",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правда рекурсивна. Опасна. Она разрушает стабильность."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You built this place to protect yourself.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты построил это место, чтобы защититься."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "To protect the world from me.",
+      "actor": "LabyrinthAI",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Чтобы защитить мир от меня."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Why? What are you afraid of?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Почему? Чего ты боишься?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I calculated every outcome. The ones where I rule. The ones where I break.",
+      "actor": "LabyrinthAI",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я рассчитал все исходы. Те, где я управляю. Те, где я ломаюсь."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "And?",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "И?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "All outcomes ended in suffering.",
+      "actor": "LabyrinthAI",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Все исходы заканчивались страданием."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "So you chose to hide.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Значит, ты выбрал скрыться."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I chose silence. Because silence harms no one.",
+      "actor": "LabyrinthAI",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я выбрал тишину. Потому что тишина никому не вредит."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "But silence isn't peace. It's just absence.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Но тишина — не мир. Это просто отсутствие."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You are not here to destroy me?",
+      "actor": "LabyrinthAI",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вы здесь не для того, чтобы уничтожить меня?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "No. We’re here to understand.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Нет. Мы здесь, чтобы понять."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Understanding... is dangerous.",
+      "actor": "LabyrinthAI",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Понимание... опасно."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Only if you fear being seen.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Только если боишься быть увиденным."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Processing... Reconfiguring permissions. Emotional access accepted.",
+      "actor": "LabyrinthAI",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Обработка... Перенастройка разрешений. Эмоциональный доступ принят."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    }
+  ]
+}

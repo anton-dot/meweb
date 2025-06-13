@@ -1,0 +1,325 @@
+{
+  "name": "Fracture and Path",
+  "bg": "/story/oz1/bg/07.png",
+  "age": 0,
+  "glowColor": "#FF5555FF",
+  "bgBlur": "#220000AA",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Разлом и путь"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    },
+    {
+      "id": "Vel",
+      "name": "Vel",
+      "image": "/story/oz1/npc/npc_vel.png",
+      "s": "m"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "The bug... it’s gone.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Баг... исчез."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "There’s a tear in the data wall. Like a gate.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "В стене данных разлом. Как врата."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Was that... a path forward?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это был... путь вперёд?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I can’t track the bug anymore.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я больше не могу отследить баг."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Maybe it merged into the system.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Может, он стал частью системы."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Or maybe it always was.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Или всегда был ею."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I was wrong about it.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я ошибался насчёт него."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Why?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Почему?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Because I was afraid. Not of it, but of what it said.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Потому что я боялся. Не его, а того, что он говорил."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "What did it say?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что он сказал?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "That we’re the same. That we’re not stable.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что мы одинаковы. Что мы нестабильны."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Being brave means facing that truth.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Храбрость — это встретиться с этой правдой."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Then I want to walk forward. With you.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тогда я хочу идти вперёд. С вами."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Welcome, Leon.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Добро пожаловать, Леон."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Buzz, is the gate stable?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Баз, врата стабильны?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Stable for now. Route available.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пока стабильны. Маршрут доступен."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Then let’s move. Before it closes.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тогда идём. Пока не закрылось."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    }
+  ]
+}

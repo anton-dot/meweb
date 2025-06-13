@@ -1,0 +1,335 @@
+{
+  "name": "Out of the Null",
+  "bg": "/story/oz1/bg/08.png",
+  "age": 0,
+  "glowColor": "#000000AA",
+  "bgBlur": "#00000055",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Выход из Нуля"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    },
+    {
+      "id": "Vel",
+      "name": "Vel",
+      "image": "/story/oz1/npc/npc_vel.png",
+      "s": "m"
+    }
+  ],
+  "items": [
+    {
+      "name": "The system is reacting.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Система реагирует."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "But it’s unstable.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Но она нестабильна."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Something’s holding it together.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что-то её удерживает."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Or someone has to.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Или кто-то должен."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Vel...?",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вэл...?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "It needs a core to stabilize — I can do it.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Нужен центр для стабилизации — я справлюсь."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You don’t have to.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты не обязан это делать."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I was once afraid of not feeling. Now, I feel enough to stay.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Раньше я боялся не чувствовать. Сейчас я чувствую достаточно, чтобы остаться."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You’ll be trapped here.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты застрянешь здесь."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Better me than all of you.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лучше я, чем все вы."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "That’s not fair.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это нечестно."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "It’s logic. My logic. My choice.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это логика. Моя логика. Мой выбор."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You won’t be alone. We’ll remember.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты не будешь один. Мы будем помнить."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Tell the next world we tried.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Скажите следующему миру, что мы пытались."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "The door... it’s forming.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дверь... формируется."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "He’s doing it.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Он это делает."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Goodbye, team.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Прощайте, команда."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Goodbye, Vel.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Прощай, Вэл."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    }
+  ]
+}

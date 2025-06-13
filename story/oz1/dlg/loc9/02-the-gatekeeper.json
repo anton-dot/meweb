@@ -1,0 +1,272 @@
+{
+  "name": "The Gatekeeper",
+  "bg": "/story/oz1/bg/09.png",
+  "age": 0,
+  "glowColor": "#AAFFDDFF",
+  "bgBlur": "#00445588",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Хранитель врат"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    },
+    {
+      "id": "Vel",
+      "name": "Vel",
+      "image": "/story/oz1/npc/npc_vel.png",
+      "s": "m"
+    },
+    {
+      "id": "Gatekeeper",
+      "name": "Gatekeeper",
+      "image": "/story/oz1/npc/npc_gatekeeper.png",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "System presence detected.",
+      "actor": "Gatekeeper",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Обнаружено присутствие в системе."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Who’s there?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кто здесь?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I am the Gatekeeper. Identify your purpose.",
+      "actor": "Gatekeeper",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я — Хранитель Врат. Укажите свою цель."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "We want to reach the next sector — Emerald Network.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мы хотим попасть в следующий сектор — Изумрудную Сеть."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Purpose unclear. Confirm you are not system corruption.",
+      "actor": "Gatekeeper",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Цель неясна. Подтвердите, что вы не сбой системы."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "We’re not a virus!",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мы не вирус!"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Then what makes you different from one?",
+      "actor": "Gatekeeper",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тогда чем вы отличаетесь от него?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "We think. We feel. We choose.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мы думаем. Мы чувствуем. Мы выбираем."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Viruses spread. We try to heal.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вирусы распространяются. Мы пытаемся исцелять."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Initiating integrity check...",
+      "actor": "Gatekeeper",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Проверка целостности..."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "What makes the team different from a virus?",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Чем команда отличается от вируса?"
+        }
+      ],
+      "actions": [
+        {
+          "text": "We have emotions",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "У нас есть эмоции"
+            }
+          ],
+          "name": "correct",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "text": "We can delete files",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Мы можем удалять файлы"
+            }
+          ],
+          "name": "wrong1",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "text": "We follow every rule",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Мы следуем всем правилам"
+            }
+          ],
+          "name": "wrong2",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588"
+    }
+  ]
+}

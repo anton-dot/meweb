@@ -1,0 +1,234 @@
+{
+  "name": "Fragment of Purpose",
+  "bg": "/story/oz1/bg/08.png",
+  "age": 0,
+  "glowColor": "#000000AA",
+  "bgBlur": "#00000055",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Фрагмент цели"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    },
+    {
+      "id": "Vel",
+      "name": "Vel",
+      "image": "/story/oz1/npc/npc_vel.png",
+      "s": "m"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "There’s something here.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Здесь что-то есть."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "A code string? No... a message.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Строка кода? Нет... сообщение."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "...the system... was made...",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "...система... была создана..."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Can you restore the full sentence?",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Можешь восстановить всю фразу?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "...to protect... meaning...",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "...чтобы защитить... смысл..."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "That’s it. The system was made to protect meaning.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вот оно. Система была создана, чтобы защищать смысл."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Then maybe we’re not the destroyers.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тогда, возможно, мы не разрушители."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "We’re the reminder.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мы — напоминание."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "What was the correct version of the message?",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какой вариант сообщения верный?"
+        }
+      ],
+      "actions": [
+        {
+          "text": "The system was made to protect meaning",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Система была создана, чтобы защищать смысл"
+            }
+          ],
+          "name": "correct",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "text": "The system protects itself only",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Система защищает только себя"
+            }
+          ],
+          "name": "wrong1",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "text": "The code protects nothing",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Код ничего не защищает"
+            }
+          ],
+          "name": "wrong2",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055"
+    }
+  ]
+}

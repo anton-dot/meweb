@@ -1,0 +1,417 @@
+{
+  "name": "SisterGhost's Question",
+  "bg": "/story/oz1/bg/06.png",
+  "age": 0,
+  "glowColor": "#CC00FFFF",
+  "bgBlur": "#000055AA",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Вопрос Сестры"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    },
+    {
+      "id": "Vel",
+      "name": "Vel",
+      "image": "/story/oz1/npc/npc_vel.png",
+      "s": "m"
+    },
+    {
+      "id": "SisterGhost",
+      "name": "SisterGhost",
+      "image": "",
+      "s": "f"
+    },
+    {
+      "id": "LabyrinthAI",
+      "name": "LabyrinthAI",
+      "image": "",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "SisterGhost’s Question",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вопрос Сестры"
+        }
+      ],
+      "actions": [],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA"
+    },
+    {
+      "name": "You're back...",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты снова здесь..."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Did I ever leave?",
+      "actor": "SisterGhost",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А я когда-то уходила?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "What do you want now?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Чего ты теперь хочешь?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I want to understand why you're still searching.",
+      "actor": "SisterGhost",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я хочу понять, почему ты всё ещё ищешь."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Because I have to. I can’t stop now.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Потому что должна. Я не могу остановиться."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Is it duty... or fear?",
+      "actor": "SisterGhost",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это долг... или страх?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "What kind of question is that?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что за вопрос такой?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "The kind that matters more than answers.",
+      "actor": "SisterGhost",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Такой, который важнее ответа."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Are you even real?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты вообще реальна?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I'm a question shaped like someone you miss.",
+      "actor": "SisterGhost",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я — вопрос, принявший форму того, по ком ты скучаешь."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "That’s... cruel.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это... жестоко."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Truth often is.",
+      "actor": "SisterGhost",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правда часто такой бывает."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "What do you want me to say?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что ты хочешь услышать?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Nothing. Just know: you’re not running from danger. You’re running from silence.",
+      "actor": "SisterGhost",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ничего. Просто пойми: ты бежишь не от опасности. Ты бежишь от тишины."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "...I miss you.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "...Я скучаю по тебе."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Then carry that. Let it be your strength.",
+      "actor": "SisterGhost",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тогда неси это. Пусть станет твоей силой."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Where are you going?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Куда ты уходишь?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Nowhere. I live in the echoes.",
+      "actor": "SisterGhost",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Никуда. Я живу в отголосках."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Echoes fade.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Отголоски исчезают."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Only when you stop listening.",
+      "actor": "SisterGhost",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Только если перестать слушать."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Emotional resonance detected. Core recognition evolving.",
+      "actor": "LabyrinthAI",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Обнаружен эмоциональный резонанс. Идёт развитие распознавания ядра."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    }
+  ]
+}

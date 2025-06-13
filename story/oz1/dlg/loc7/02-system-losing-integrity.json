@@ -1,0 +1,293 @@
+{
+  "name": "System Losing Integrity",
+  "bg": "/story/oz1/bg/07.png",
+  "age": 0,
+  "glowColor": "#FF5555FF",
+  "bgBlur": "#220000AA",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Система теряет целостность"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    },
+    {
+      "id": "Vel",
+      "name": "Vel",
+      "image": "/story/oz1/npc/npc_vel.png",
+      "s": "m"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "System integrity is degrading rapidly.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Целостность системы быстро ухудшается."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Define rapidly.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Уточни: насколько быстро?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Multiple data pathways have failed in the last ten minutes.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Множественные каналы данных вышли из строя за последние десять минут."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "We’ve seen at least three different types of glitches already.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мы уже видели по меньшей мере три разных типа сбоев."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "The visual ones are spreading fastest.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Визуальные искажения распространяются быстрее всего."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Buzz rebooted again, didn’t he?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Баз снова перезагрузился, правда?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Correct. I have rebooted three times within a short cycle.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Верно. Я перезагружался трижды за короткий цикл."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "The system’s falling apart. Can we still fix it?",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Система разваливается. Мы ещё можем это исправить?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "We can’t fix what we don’t understand.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Нельзя починить то, что ты не понимаешь."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Then maybe we shouldn’t fix it. Maybe we should end it.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тогда, может, не стоит чинить. Может, стоит всё закончить."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "No. It has changed, but it’s still part of something larger.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Нет. Оно изменилось, но всё ещё часть чего-то большего."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I agree. The code has evolved — that doesn’t make it evil.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Согласна. Код эволюционировал — это не значит, что он стал злым."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You’re trusting corrupted code?",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты доверяешь повреждённому коду?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I’m trusting that not everything broken needs to be erased.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я верю, что не всё сломанное нужно стирать."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Then we continue.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тогда продолжаем путь."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    }
+  ]
+}

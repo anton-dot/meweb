@@ -1,0 +1,163 @@
+{
+  "name": "The Last Step",
+  "bg": "/story/oz1/bg/09.png",
+  "age": 0,
+  "glowColor": "#AAFFDDFF",
+  "bgBlur": "#00445588",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Последний шаг"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    }
+  ],
+  "items": [
+    {
+      "name": "The gate... it’s open.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Врата... открылись."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "He really did it.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Он правда это сделал."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Tyne held the system. Vel before him.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тайн поддержал систему. До него — Вэл."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Now it’s our turn.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь наша очередь."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Do you think we’re ready?",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Думаешь, мы готовы?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "No. But we go anyway.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Нет. Но мы всё равно идём."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "System ping stable. Passage detected.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сигнал стабильный. Проход обнаружен."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Let’s finish this. Together.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Закончим это. Вместе."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    }
+  ]
+}

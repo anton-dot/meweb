@@ -1,0 +1,341 @@
+{
+  "name": "We Move Forward",
+  "bg": "/story/oz1/bg/05.png",
+  "age": 0,
+  "glowColor": "#FFFFDDFF",
+  "bgBlur": "#0099DDFF",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Двигаемся вперёд"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    },
+    {
+      "id": "Vel",
+      "name": "Vel",
+      "image": "/story/oz1/npc/npc_vel.png",
+      "s": "m"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "We Move Forward",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Двигаемся вперёд"
+        }
+      ],
+      "actions": [],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF"
+    },
+    {
+      "name": "I’ve shared what I know. Perhaps I should stay here.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я поделился всем, что знал. Возможно, мне стоит остаться здесь."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You could... but why?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты мог бы... но зачем?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I am not like you. My speech confuses. My logic is too... bent.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я не такой, как вы. Моя речь путает. Моя логика слишком... изогнута."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Everyone speaks differently. Some use stories. You use riddles.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Каждый говорит по-своему. Кто-то — историями. Ты — загадками."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "And you’re not broken. You remembered a path no one else could.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "И ты не сломан. Ты вспомнил путь, которого никто не знал."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I feared I was too damaged to be useful.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я боялся, что слишком повреждён, чтобы быть полезным."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You’re more than useful. You’re part of this.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты больше, чем полезен. Ты часть этого."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Even with your odd way of speaking, we understand you.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Даже с твоей странной речью мы понимаем тебя."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "That... feels warm. Unusual.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это... тёплое чувство. Непривычное."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Join us. You don’t have to be perfect. None of us are.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Присоединяйся. Не обязательно быть идеальным. Никто из нас не идеален."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "If you still have doubts... that's okay too.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Если ты всё ещё сомневаешься... это тоже нормально."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "A doubt is not an error. It’s a sign of thinking.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сомнение — не ошибка. Это признак мышления."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Then think with us. Move with us.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тогда думай с нами. Иди с нами."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Yes. Yes... I will walk beside you. Not as a guide. As a part.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да. Да... Я пойду рядом с вами. Не как проводник. Как часть."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Let’s find the Labyrinth. Together.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давайте найдём Лабиринт. Вместе."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "And if it tries to break us...",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "И если он попытается нас сломать..."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "...we’ll solve it. One thought at a time.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "...мы решим его. Мысль за мыслью."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    }
+  ]
+}

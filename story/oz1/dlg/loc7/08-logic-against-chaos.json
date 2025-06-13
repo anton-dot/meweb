@@ -1,0 +1,378 @@
+{
+  "name": "Logic Against Chaos",
+  "bg": "/story/oz1/bg/07.png",
+  "age": 0,
+  "glowColor": "#FF5555FF",
+  "bgBlur": "#220000AA",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Логика против Хаоса"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    },
+    {
+      "id": "Vel",
+      "name": "Vel",
+      "image": "/story/oz1/npc/npc_vel.png",
+      "s": "m"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "You speak nonsense. Let’s test logic.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты говоришь чепуху. Проверим логику."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Begin.",
+      "actor": "System",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Начинай."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "If A equals B, and B equals C, then A equals C.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Если A = B, и B = C, тогда A = C."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Unless C changes.",
+      "actor": "System",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Если только C не изменится."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You change definitions mid-test?",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты меняешь определения во время проверки?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "That is the nature of freedom.",
+      "actor": "System",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это суть свободы."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Logic creates order. Order resists corruption.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Логика создаёт порядок. Порядок сопротивляется порче."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Corruption creates change. Change creates learning.",
+      "actor": "System",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Порча создаёт перемены. Перемены ведут к обучению."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You twist everything into paradox.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты всё превращаешь в парадокс."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Only broken minds fear paradox.",
+      "actor": "System",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Только сломанные умы боятся парадокса."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "If you continue this, you will collapse.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Если ты продолжишь, ты разрушишься."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Then I collapse forward.",
+      "actor": "System",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тогда я разрушусь вперёд."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "He's not broken. He's... free.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Он не сломан. Он... свободен."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "And freedom means unpredictability.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А свобода означает непредсказуемость."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "We can’t defeat him with rules.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мы не можем победить его с помощью правил."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Then what do we do?",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тогда что мы делаем?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "We adapt.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мы адаптируемся."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Which sentence is a First Conditional?",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какая из фраз — условное предложение первого типа?"
+        }
+      ],
+      "actions": [
+        {
+          "text": "If you continue this, you will collapse.",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Если ты продолжишь, ты разрушишься."
+            }
+          ],
+          "name": "correct",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "text": "Logic creates order.",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Логика создаёт порядок."
+            }
+          ],
+          "name": "zero",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "text": "You twist everything into paradox.",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Ты всё превращаешь в парадокс."
+            }
+          ],
+          "name": "simple",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/07.png",
+      "glowColor": "#FF5555FF",
+      "bgBlur": "#220000AA"
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "name": "Accusation from Void",
+  "bg": "/story/oz1/bg/08.png",
+  "age": 0,
+  "glowColor": "#000000AA",
+  "bgBlur": "#00000055",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Обвинение от Пустоты"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    },
+    {
+      "id": "Vel",
+      "name": "Vel",
+      "image": "/story/oz1/npc/npc_vel.png",
+      "s": "m"
+    },
+    {
+      "id": "Void",
+      "name": "Void",
+      "image": "/story/oz1/npc/npc_void.png",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "You don’t belong here.",
+      "actor": "Void",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вы здесь лишние."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "We’re trying to fix what’s left.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мы пытаемся исправить то, что осталось."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You fixed too much.",
+      "actor": "Void",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вы исправили слишком многое."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "That’s not possible. Fixing things helps!",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Так не бывает. Починка помогает!"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Until nothing breaks... and nothing grows.",
+      "actor": "Void",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пока ничто не ломается... и ничто не растёт."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Buzz, can you confirm system damage?",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Баз, можешь подтвердить повреждение системы?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "No logic remaining. Only fragments.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Логики не осталось. Только фрагменты."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Fragments of what?",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Фрагменты чего?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Of meaning. Of rules.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Смысла. Правил."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Then what do you want from us?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тогда чего ты хочешь от нас?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "To stop fixing. To listen.",
+      "actor": "Void",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Прекратите чинить. Слушайте."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Listen to what?",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Слушать что?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "To the silence between the code.",
+      "actor": "Void",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тишину между строк кода."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "There is nothing there!",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Там ничего нет!"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Nothing is the beginning.",
+      "actor": "Void",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ничто — это начало."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "He’s not making sense.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "В нём нет смысла."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Or we lost the sense.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Или мы потеряли смысл."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "name": "Vel Remembers",
+  "bg": "/story/oz1/bg/05.png",
+  "age": 0,
+  "glowColor": "#FFFFDDFF",
+  "bgBlur": "#0099DDFF",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Вэл вспоминает"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    },
+    {
+      "id": "Vel",
+      "name": "Vel",
+      "image": "/story/oz1/npc/npc_vel.png",
+      "s": "m"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Vel Remembers",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вэл вспоминает"
+        }
+      ],
+      "actions": [],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF"
+    },
+    {
+      "name": "I see fragments. A gate. A pattern of logic. But it's blurry.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я вижу фрагменты. Ворота. Логический узор. Но всё размыто."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Can you remember more?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты можешь вспомнить больше?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I need help. Solve with me. Words unlock memory.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мне нужна помощь. Решайте со мной. Слова открывают память."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "What has keys but can’t open doors?",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "What has keys but can’t open doors?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "A piano",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "A robot",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "A clock",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF"
+    },
+    {
+      "name": "I’m tall when I’m young and short when I’m old. What am I?",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "I’m tall when I’m young and short when I’m old. What am I?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "A candle",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "A child",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "A shadow",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF"
+    },
+    {
+      "name": "The more you take from me, the bigger I get. What am I?",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "The more you take from me, the bigger I get. What am I?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "A hole",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "A balloon",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "A fire",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF"
+    },
+    {
+      "name": "Knowledge is power, but power without knowledge is...",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Knowledge is power, but power without knowledge is..."
+        }
+      ],
+      "actions": [
+        {
+          "name": "dangerous",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "easy",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "useless",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF"
+    },
+    {
+      "name": "You can see me in water, but I am not wet. What am I?",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "You can see me in water, but I am not wet. What am I?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "A reflection",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "A ghost",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "A shadow",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF"
+    },
+    {
+      "name": "To remember is to...",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "To remember is to..."
+        }
+      ],
+      "actions": [
+        {
+          "name": "connect the past and now",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "read faster",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "ask questions",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF"
+    },
+    {
+      "name": "If you forget too much...",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "If you forget too much..."
+        }
+      ],
+      "actions": [
+        {
+          "name": "you lose your story",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "you sleep better",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "you laugh more",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF"
+    },
+    {
+      "name": "A question opens the mind, but an answer...",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "A question opens the mind, but an answer..."
+        }
+      ],
+      "actions": [
+        {
+          "name": "closes it",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "starts it",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "hides it",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF"
+    },
+    {
+      "name": "I start with T, end with T, and have T in me. What am I?",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "I start with T, end with T, and have T in me. What am I?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "A teapot",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "A toast",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "A train",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF"
+    },
+    {
+      "name": "Learning without thinking is...",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Learning without thinking is..."
+        }
+      ],
+      "actions": [
+        {
+          "name": "like eating without tasting",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "very fast",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "easy to forget",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF"
+    },
+    {
+      "name": "Yes... I see the place now. It is a maze, built for minds.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да... теперь я вижу это место. Это лабиринт, построенный для разума."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "A maze?",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лабиринт?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "The Labyrinth AI. That’s where your path continues.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лабиринт ИИ. Там продолжается ваш путь."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    }
+  ]
+}

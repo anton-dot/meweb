@@ -1,0 +1,379 @@
+{
+  "name": "False Logic",
+  "bg": "/story/oz1/bg/06.png",
+  "age": 0,
+  "glowColor": "#CC00FFFF",
+  "bgBlur": "#000055AA",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Ложная логика"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    },
+    {
+      "id": "Vel",
+      "name": "Vel",
+      "image": "/story/oz1/npc/npc_vel.png",
+      "s": "m"
+    },
+    {
+      "id": "LabyrinthAI",
+      "name": "LabyrinthAI",
+      "image": "",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "False Logic",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ложная логика"
+        }
+      ],
+      "actions": [],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA"
+    },
+    {
+      "name": "Another test?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Снова испытание?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "This one feels... wrong. Like a trick.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это чувствуется... неправильно. Как ловушка."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Prepare: Identify contradiction. Filter corrupted logic.",
+      "actor": "LabyrinthAI",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Подготовьтесь: выявите противоречие. Отфильтруйте искаженную логику."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "All robots lie. Vel is a robot. Vel says: 'All robots lie.' Is he telling the truth?",
+      "actor": "LabyrinthAI",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "All robots lie. Vel is a robot. Vel says: 'All robots lie.' Is he telling the truth?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "This is a paradox",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Yes, he's honest",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "No, it's a lie",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA"
+    },
+    {
+      "name": "Two doors. One leads out, one loops forever. Both are labeled 'Exit'. What do you do?",
+      "actor": "LabyrinthAI",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Two doors. One leads out, one loops forever. Both are labeled 'Exit'. What do you do?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Question the labels",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Pick the left",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "Avoid both",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA"
+    },
+    {
+      "name": "Buzz says: 'The next statement is true.' Vel says: 'The previous statement is false.' Who is right?",
+      "actor": "LabyrinthAI",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Buzz says: 'The next statement is true.' Vel says: 'The previous statement is false.' Who is right?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "This is a loop",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Buzz is right",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "Vel is right",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA"
+    },
+    {
+      "name": "You find a message: 'Ignore this message.' Should you?",
+      "actor": "LabyrinthAI",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "You find a message: 'Ignore this message.' Should you?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "This is a contradiction",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Yes, ignore",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "No, follow it",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA"
+    },
+    {
+      "name": "A test with no question. But you're told there's one right answer.",
+      "actor": "LabyrinthAI",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "A test with no question. But you're told there's one right answer."
+        }
+      ],
+      "actions": [
+        {
+          "name": "Reject the test",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Guess anyway",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "Ask for more info",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA"
+    },
+    {
+      "name": "Everyone in this room always lies. One says: 'I am a liar.'",
+      "actor": "LabyrinthAI",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Everyone in this room always lies. One says: 'I am a liar.'"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Contradiction",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Truth",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "No logic error",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA"
+    },
+    {
+      "name": "If something is always wrong, can it still be useful?",
+      "actor": "LabyrinthAI",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "If something is always wrong, can it still be useful?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Yes, if you reverse it",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "No",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "Only by luck",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA"
+    },
+    {
+      "name": "These aren’t just puzzles. They’re traps for the mind.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это не просто головоломки. Это ловушки для ума."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You see through them. That means you’re ready.",
+      "actor": "LabyrinthAI",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вы их видите. Значит, вы готовы."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    }
+  ]
+}

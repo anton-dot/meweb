@@ -1,0 +1,453 @@
+{
+  "name": "The Truth Was Changed",
+  "bg": "/story/oz1/bg/05.png",
+  "age": 0,
+  "glowColor": "#FFFFDDFF",
+  "bgBlur": "#0099DDFF",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Правда была изменена"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    },
+    {
+      "id": "Vel",
+      "name": "Vel",
+      "image": "/story/oz1/npc/npc_vel.png",
+      "s": "m"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "The Truth Was Changed",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правда была изменена"
+        }
+      ],
+      "actions": [],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF"
+    },
+    {
+      "name": "These records... they contradict each other.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Эти записи... они противоречат друг другу."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Multiple timelines. Fabricated insertions.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Множественные линии. Сфабрикованные вставки."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Truth is brittle. Memory is malleable.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правда хрупка. Память податлива."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Can you tell which is the original?",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты можешь сказать, что из этого — оригинал?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Originality is irrelevant if belief rewrites reality.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Оригинальность неважна, если вера переписывает реальность."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "What breaks but never falls, and what falls but never breaks?",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "What breaks but never falls, and what falls but never breaks?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Day and night",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Light and shadow",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "Truth and lie",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF"
+    },
+    {
+      "name": "If lies are told enough times...",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "If lies are told enough times..."
+        }
+      ],
+      "actions": [
+        {
+          "name": "...they become structure.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "...they vanish.",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "...they burn.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF"
+    },
+    {
+      "name": "A file copied is not a file preserved. Why?",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "A file copied is not a file preserved. Why?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Because context is lost.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Because memory fades.",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "Because size changes.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF"
+    },
+    {
+      "name": "History written by machines...",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "History written by machines..."
+        }
+      ],
+      "actions": [
+        {
+          "name": "...reflects what they’re told.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "...remembers all.",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "...remains neutral.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF"
+    },
+    {
+      "name": "Can truth exist if it can't be proven?",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Can truth exist if it can't be proven?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Only if it's lived.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Only if it's seen.",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "Only if it's stored.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF"
+    },
+    {
+      "name": "The most dangerous information is...",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "The most dangerous information is..."
+        }
+      ],
+      "actions": [
+        {
+          "name": "...the one that feels right.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "...the one encrypted.",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "...the one shared.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF"
+    },
+    {
+      "name": "When two truths clash, which survives?",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "When two truths clash, which survives?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "The louder one.",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "The repeated one.",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "The most useful one.",
+          "isCorrect": true,
+          "score": 1
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF"
+    },
+    {
+      "name": "Someone did this. They rewrote history here.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кто-то сделал это. Они переписали историю здесь."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Not just history — memory, identity, cause and effect.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Не только историю — память, личность, причинно-следственные связи."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "We have to uncover the source. Can we?",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Нам нужно найти источник. Мы можем?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Follow the inconsistencies. Trace the threads.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Следуй за несостыковками. Отслеживай нити."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Truth is not what’s recorded. It’s what resists deletion.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Правда — это не то, что записано. А то, что невозможно удалить."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/05.png",
+      "glowColor": "#FFFFDDFF",
+      "bgBlur": "#0099DDFF",
+      "dialogType": "Normal",
+      "actions": []
+    }
+  ]
+}

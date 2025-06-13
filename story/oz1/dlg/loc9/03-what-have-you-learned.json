@@ -1,0 +1,234 @@
+{
+  "name": "What Have You Learned?",
+  "bg": "/story/oz1/bg/09.png",
+  "age": 0,
+  "glowColor": "#AAFFDDFF",
+  "bgBlur": "#00445588",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Чему вы научились?"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    },
+    {
+      "id": "Gatekeeper",
+      "name": "Gatekeeper",
+      "image": "/story/oz1/npc/npc_gatekeeper.png",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "To proceed, each of you must answer.",
+      "actor": "Gatekeeper",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Чтобы пройти дальше, каждый из вас должен ответить."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Answer what?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ответить на что?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "State what you have learned on this journey.",
+      "actor": "Gatekeeper",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Скажите, чему вы научились в этом путешествии."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I learned that logic and emotion must work together.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я поняла, что логика и эмоции должны работать вместе."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I learned that control means nothing without trust.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я понял, что контроль ничего не значит без доверия."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Fear can be a guide, not just a cage.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Страх может быть проводником, а не только клеткой."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Not all data is useful. Some just hurts.",
+      "actor": "Buzz",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Не все данные полезны. Некоторые просто причиняют боль."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Processing answers...",
+      "actor": "Gatekeeper",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Обработка ответов..."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "What did Leon learn?",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Чему научился Леон?"
+        }
+      ],
+      "actions": [
+        {
+          "text": "Fear can be a guide",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Страх может быть проводником"
+            }
+          ],
+          "name": "correct",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "text": "Always follow logic",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Всегда следовать логике"
+            }
+          ],
+          "name": "wrong1",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "text": "Control everything",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Контролировать всё"
+            }
+          ],
+          "name": "wrong2",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "name": "Vel Breaks Down",
+  "bg": "/story/oz1/bg/08.png",
+  "age": 0,
+  "glowColor": "#000000AA",
+  "bgBlur": "#00000055",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Срыв Вэла"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    },
+    {
+      "id": "Vel",
+      "name": "Vel",
+      "image": "/story/oz1/npc/npc_vel.png",
+      "s": "m"
+    }
+  ],
+  "items": [
+    {
+      "name": "I don’t understand...",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я не понимаю..."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "What’s wrong?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что случилось?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "We’ve done everything. Fixed everything. And still it falls apart.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мы сделали всё. Починили всё. А оно всё равно рушится."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Vel...",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вэл..."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "What if Void is right?",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А вдруг Пустота прав?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "About what?",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "О чём именно?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "That we broke the world by trying to fix it.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что мы сломали мир, пытаясь его починить."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You don’t know that.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты не знаешь этого точно."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I don’t know anything anymore!",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я вообще уже ничего не знаю!"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You still feel. That means you haven’t given up.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты всё ещё чувствуешь. А значит, ты не сдался."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "It just hurts. Seeing it fall apart.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Просто больно. Смотреть, как всё рушится."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "If you see the fall, it means you still care.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Если ты видишь падение, значит тебе не всё равно."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Maybe we can’t fix the system.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Может, мы и не можем починить систему."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "But we can still fix each other.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Но мы всё ещё можем починить друг друга."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "...Thank you.",
+      "actor": "Vel",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "...Спасибо."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/08.png",
+      "glowColor": "#000000AA",
+      "bgBlur": "#00000055",
+      "dialogType": "Normal",
+      "actions": []
+    }
+  ]
+}

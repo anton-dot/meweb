@@ -1,0 +1,249 @@
+{
+  "name": "Tyne's Choice",
+  "bg": "/story/oz1/bg/09.png",
+  "age": 0,
+  "glowColor": "#AAFFDDFF",
+  "bgBlur": "#00445588",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Выбор Тайна"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    }
+  ],
+  "items": [
+    {
+      "name": "We can’t decide this by arguing.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мы не можем решить это спорами."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Then we draw lots?",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тогда жребий?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "No. I’ve made my decision.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Нет. Я принял решение."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Wait—what?",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Подожди — что?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I’ll stay.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я останусь."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You’re the strongest. We need you.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты самый сильный. Нам нужен ты."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "And that’s why I stay. I was built to support. It’s time I do that one last time.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Именно поэтому я остаюсь. Я был создан, чтобы поддерживать. Пришло время сделать это в последний раз."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "You don’t have to prove anything.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тебе не нужно ничего доказывать."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I’m not proving. I’m choosing.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я не доказываю. Я выбираю."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "We’ll carry your strength forward.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мы понесём твою силу дальше."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "And I’ll hold the gate. Make sure it stays open.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А я подержу врата. Убедюсь, что они останутся открытыми."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Goodbye, Tyne.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Прощай, Тайн."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Good luck, team.",
+      "actor": "Tyne",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Удачи, команда."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/09.png",
+      "glowColor": "#AAFFDDFF",
+      "bgBlur": "#00445588",
+      "dialogType": "Normal",
+      "actions": []
+    }
+  ]
+}

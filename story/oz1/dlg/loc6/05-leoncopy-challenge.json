@@ -1,0 +1,401 @@
+{
+  "name": "LeonCopy's Challenge",
+  "bg": "/story/oz1/bg/06.png",
+  "age": 0,
+  "glowColor": "#CC00FFFF",
+  "bgBlur": "#000055AA",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Вызов Копии Леона"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/oz1/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/oz1/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "Tyne",
+      "name": "Tyne",
+      "image": "/story/oz1/npc/npc_tyne.png",
+      "s": "m"
+    },
+    {
+      "id": "Leon",
+      "name": "Leon",
+      "image": "/story/oz1/npc/npc_leon.png",
+      "s": "m"
+    },
+    {
+      "id": "Vel",
+      "name": "Vel",
+      "image": "/story/oz1/npc/npc_vel.png",
+      "s": "m"
+    },
+    {
+      "id": "LeonCopy",
+      "name": "LeonCopy",
+      "image": "",
+      "s": "m"
+    },
+    {
+      "id": "LabyrinthAI",
+      "name": "LabyrinthAI",
+      "image": "",
+      "s": "n"
+    },
+    {
+      "id": "System",
+      "name": "System",
+      "image": "",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "LeonCopy’s Challenge",
+      "actor": "System",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вызов Копии Леона"
+        }
+      ],
+      "actions": [],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA"
+    },
+    {
+      "name": "Why is this hallway... reflecting me?",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Почему этот коридор... отражает меня?"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Because you fear what you are.",
+      "actor": "LeonCopy",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Потому что ты боишься, кто ты есть."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "No... You’re not real.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Нет... Ты не настоящий."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I’m the voice you hide. The doubt you deny.",
+      "actor": "LeonCopy",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я — голос, который ты прячешь. Сомнение, которое ты отрицаешь."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Don’t listen to it, Leon!",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Не слушай его, Леон!"
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "They can’t help you. Only you know what you fear most.",
+      "actor": "LeonCopy",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Они не помогут. Только ты знаешь, чего боишься больше всего."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "What is real courage?",
+      "actor": "LeonCopy",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "What is real courage?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "To act despite fear",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "To never be afraid",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "To fight everyone",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA"
+    },
+    {
+      "name": "Is it okay to doubt yourself?",
+      "actor": "LeonCopy",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Is it okay to doubt yourself?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Yes, it helps you grow",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "No, doubt is weakness",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "Only if others doubt too",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA"
+    },
+    {
+      "name": "What do you do when you’re scared?",
+      "actor": "LeonCopy",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "What do you do when you’re scared?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Face it with help",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Run every time",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "Pretend it’s fine",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA"
+    },
+    {
+      "name": "If someone laughs at your fear, what should you do?",
+      "actor": "LeonCopy",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "If someone laughs at your fear, what should you do?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Stay honest about it",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Hide it forever",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "Blame them",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA"
+    },
+    {
+      "name": "Is it brave to ask for help?",
+      "actor": "LeonCopy",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Is it brave to ask for help?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Yes, always",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "No, it’s weak",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "Only if desperate",
+          "isCorrect": false,
+          "score": 0
+        }
+      ],
+      "dialogType": "Normal",
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA"
+    },
+    {
+      "name": "You... You’re just fear. Not truth.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты... Ты просто страх. А не правда."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Even fear teaches. You passed.",
+      "actor": "LabyrinthAI",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Даже страх учит. Ты прошёл."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "Leon, that was brave.",
+      "actor": "Lexi",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Леон, это было храбро."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    },
+    {
+      "name": "I didn’t defeat him. I accepted him.",
+      "actor": "Leon",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я не победил его. Я принял его."
+        }
+      ],
+      "image": "",
+      "bg": "/story/oz1/bg/06.png",
+      "glowColor": "#CC00FFFF",
+      "bgBlur": "#000055AA",
+      "dialogType": "Normal",
+      "actions": []
+    }
+  ]
+}
