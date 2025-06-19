@@ -1,0 +1,162 @@
+{
+  "name": "The Meaning of Tenses",
+  "bg": "/story/tenses/bg/zero_point_03.png",
+  "glowColor": "#99CCFFFF",
+  "bgBlur": "#001144FF",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Смысл времён"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Rin",
+      "name": "Rin",
+      "image": "/story/tenses/npc/npc_rin.png",
+      "s": "f",
+      "isRight": false
+    },
+    {
+      "id": "Lumo",
+      "name": "Lumo",
+      "image": "/story/tenses/npc/npc_lumo.png",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "The Meaning of Tenses",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Смысл времён"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Okay... but what is a 'tense' really?",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ладно... но что такое 'время' на самом деле?"
+        }
+      ]
+    },
+    {
+      "name": "A tense is a lens. It changes how we see actions.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Время — это линза. Оно меняет, как мы видим действия."
+        }
+      ]
+    },
+    {
+      "name": "Same action. Different tense. Different meaning.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Одно и то же действие. Разное время. Разный смысл."
+        }
+      ]
+    },
+    {
+      "name": "Show me.",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Покажи мне."
+        }
+      ]
+    },
+    {
+      "name": "She eats. She ate. She will eat. Each tells a different story.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Она ест. Она ела. Она будет есть. Каждое говорит о разном."
+        }
+      ]
+    },
+    {
+      "name": "But the words are almost the same...",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Но слова почти одинаковые..."
+        }
+      ]
+    },
+    {
+      "name": "That’s the beauty — and the danger. One tense can change everything.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "В этом и прелесть — и опасность. Одно время может изменить всё."
+        }
+      ]
+    },
+    {
+      "name": "So people misunderstood things... because of grammar?",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Значит, люди неправильно понимали... из-за грамматики?"
+        }
+      ]
+    },
+    {
+      "name": "Oh yes. Wrong tense — wrong time. Wrong message — wrong world.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "О да. Неверное время — неверный момент. Неверное сообщение — неверный мир."
+        }
+      ]
+    },
+    {
+      "name": "That’s... terrifyingly precise.",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это... пугающе точно."
+        }
+      ]
+    },
+    {
+      "name": "And now, you’ll learn to use that precision.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "И теперь ты научишься использовать эту точность."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "name": "Ring of Continuation",
+  "bg": "/story/tenses/bg/past_perfect_continuous_07.png",
+  "glowColor": "#8888AAFF",
+  "bgBlur": "#22225599",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Кольцо Продолжения"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Rin",
+      "name": "Rin",
+      "image": "/story/tenses/npc/npc_rin.png",
+      "s": "f"
+    },
+    {
+      "id": "Lumo",
+      "name": "Lumo",
+      "image": "/story/tenses/npc/npc_lumo.png",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "actor": "",
+      "name": "Ring of Continuation",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кольцо Продолжения"
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "It’s here—the artifact.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "The ring glows… but it wants more.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "We need to show that we remember.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "That we had been practicing.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "For how long?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Since the Dust Loop began.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "Let’s speak the time markers: for, since, before, until.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Let’s put the pieces in place.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Put the words in the correct order:",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Расположи слова в правильном порядке:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "We had been walking since sunrise.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Walking we had since been sunrise.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Which sentence shows Past Perfect Continuous with a time marker?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какое предложение использует Past Perfect Continuous и маркер времени?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "He had been crying until she returned.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "He cry when she return.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "The ring… it’s reacting.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Our words had been enough.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "We’re almost free.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

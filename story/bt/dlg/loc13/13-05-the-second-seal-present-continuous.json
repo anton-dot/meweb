@@ -1,0 +1,124 @@
+{
+  "name": "The Second Seal: Present Continuous",
+  "bg": "/story/tenses/bg/chrono_core_05.png",
+  "glowColor": "#33CCFFFF",
+  "bgBlur": "#113355BB",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Вторая Печать: Present Continuous"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/tenses/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/tenses/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "TimeLord",
+      "name": "Time Lord",
+      "image": "/story/tenses/npc/npc_time_lord.png",
+      "s": "m",
+      "isRight": true
+    }
+  ],
+  "items": [
+    {
+      "actor": "",
+      "name": "The Second Seal: Present Continuous",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вторая Печать: Present Continuous"
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "The Crystal of Flow listens to what is happening now.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lexi",
+      "name": "I am speaking. I am standing in the Core. I am changing time.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "TimeLord",
+      "name": "Movement detected. The stream realigns.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "Present in motion. Second truth accepted.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lexi",
+      "name": "Next one.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "Which sentence is Present Continuous?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какое предложение в Present Continuous?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "They are building the gate right now.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "They build the gate every month.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "name": "At That Moment",
+  "bg": "/story/tenses/bg/past_continuous_05.png",
+  "glowColor": "#9999FFFF",
+  "bgBlur": "#222288AA",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "В Тот Момент"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Rin",
+      "name": "Rin",
+      "image": "/story/tenses/npc/npc_rin.png",
+      "s": "f"
+    },
+    {
+      "id": "Lumo",
+      "name": "Lumo",
+      "image": "/story/tenses/npc/npc_lumo.png",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "actor": "",
+      "name": "At That Moment",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "В Тот Момент"
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "Lumo, what were you doing at 5 pm yesterday?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "I was studying the echo patterns.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "And while you were doing that, I was talking to the Shadow.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "That explains the whisper I heard.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "We were both listening… just in different ways.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "You were focusing all day.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "Yes. When the wind changed, I heard a name.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "I was writing it down while you were speaking.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "We were working together and didn’t realize it.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "That moment connected us.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "Let’s record what we were doing.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Choose the sentence with a time marker:",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери предложение с указанием времени:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "They were dancing at midnight.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "They danced beautifully.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Write a sentence using: while, was/were + V-ing",
+      "dialogType": "Write",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Составь предложение с while и Past Continuous"
+        }
+      ],
+      "actions": [
+        {
+          "name": "I was singing while she was playing the guitar.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "I sing while she plays.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "Now I remember what happened.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Because you connected the moment.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

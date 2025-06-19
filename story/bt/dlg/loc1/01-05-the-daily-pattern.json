@@ -1,0 +1,169 @@
+{
+  "name": "The Daily Pattern",
+  "bg": "/story/tenses/bg/present_05.png",
+  "glowColor": "#FFDD99FF",
+  "bgBlur": "#001100AA",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Ежедневный узор"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Rin",
+      "name": "Rin",
+      "image": "/story/tenses/npc/npc_rin.png",
+      "s": "f",
+      "isRight": false
+    },
+    {
+      "id": "Lumo",
+      "name": "Lumo",
+      "image": "/story/tenses/npc/npc_lumo.png",
+      "s": "n"
+    },
+    {
+      "id": "Routine",
+      "name": "The Routine Keeper",
+      "image": "/story/tenses/npc/npc_routine.png",
+      "s": "m",
+      "isRight": true
+    }
+  ],
+  "items": [
+    {
+      "name": "The Daily Pattern",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ежедневный узор"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Let’s practice. Make a pattern: statement, question, negative.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давай потренируемся. Сделай узор: утверждение, вопрос, отрицание."
+        }
+      ]
+    },
+    {
+      "name": "She drinks tea. Does she drink tea? She doesn’t drink coffee.",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Она пьёт чай. Она пьёт чай? Она не пьёт кофе."
+        }
+      ]
+    },
+    {
+      "name": "Good. Try again with a new verb.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо. Попробуй снова с новым глаголом."
+        }
+      ]
+    },
+    {
+      "name": "I walk. Do I walk? I don’t run.",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я иду. Я иду? Я не бегаю."
+        }
+      ]
+    },
+    {
+      "name": "He writes. Does he write? He doesn’t draw.",
+      "actor": "Routine",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Он пишет. Он пишет? Он не рисует."
+        }
+      ]
+    },
+    {
+      "name": "I like this rhythm.",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мне нравится этот ритм."
+        }
+      ]
+    },
+    {
+      "name": "That’s the idea. Grammar is music. Play it well.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "В этом суть. Грамматика — это музыка. Играй правильно."
+        }
+      ]
+    },
+    {
+      "name": "They cook. Do they cook? They don’t bake.",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Они готовят. Они готовят? Они не пекут."
+        }
+      ]
+    },
+    {
+      "name": "He fixes. Does he fix? He doesn’t break.",
+      "actor": "Routine",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Он чинит. Он чинит? Он не ломает."
+        }
+      ]
+    },
+    {
+      "name": "She reads. Does she read? She doesn’t speak.",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Она читает. Она читает? Она не говорит."
+        }
+      ]
+    },
+    {
+      "name": "Perfect balance. Keep this pattern in mind.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Идеальный баланс. Сохрани этот узор в памяти."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "name": "The Ninth Seal: Future Simple",
+  "bg": "/story/tenses/bg/chrono_core_12.png",
+  "glowColor": "#66CCFFFF",
+  "bgBlur": "#114455CC",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Девятая Печать: Future Simple"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/tenses/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/tenses/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "TimeLord",
+      "name": "Time Lord",
+      "image": "/story/tenses/npc/npc_time_lord.png",
+      "s": "m",
+      "isRight": true
+    }
+  ],
+  "items": [
+    {
+      "actor": "",
+      "name": "The Ninth Seal: Future Simple",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Девятая Печать: Future Simple"
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "The Prism of Intention aligns with what is yet to come.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lexi",
+      "name": "I will stand again. I will speak the truth. I will protect time.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "TimeLord",
+      "name": "The future begins to form.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "Ninth truth accepted.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lexi",
+      "name": "Only a few remain.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "Which sentence is Future Simple?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какое предложение в Future Simple?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "I will join the ceremony tomorrow.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "I have joined the ceremony.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    }
+  ]
+}

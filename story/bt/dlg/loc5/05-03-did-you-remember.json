@@ -1,0 +1,239 @@
+{
+  "name": "Did You Remember?",
+  "bg": "/story/tenses/bg/past_simple_03.png",
+  "glowColor": "#DD9944FF",
+  "bgBlur": "#663300AA",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Ты Помнил?"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Rin",
+      "name": "Rin",
+      "image": "/story/tenses/npc/npc_rin.png",
+      "s": "f"
+    },
+    {
+      "id": "Lumo",
+      "name": "Lumo",
+      "image": "/story/tenses/npc/npc_lumo.png",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "actor": "",
+      "name": "Did You Remember?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты Помнил?"
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "Did you hear that sound?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Yes. It came from the south dune.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "Did you ever come here before?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "No. I didn’t walk this path until today.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "I didn’t see anyone behind us.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "That doesn’t mean we’re alone.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "Did she leave a trail?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "She didn’t want to be found.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "We didn’t miss anything, right?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Let’s check. Ask more.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "Did we check the cave?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "No. Let’s go.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Choose the correct question in Past Simple:",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери правильный вопрос в Past Simple:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Did he go to the ruins?",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Does he went to the ruins?",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Write a question using: did, you, see, the, light",
+      "dialogType": "Write",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Составь вопрос: ты видел свет?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Did you see the light?",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Did you saw the light?",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "Now I remember the way.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Then lead. The past listens.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "name": "Tower Awakens",
+  "bg": "/story/tenses/bg/future_simple_01.png",
+  "glowColor": "#88CCFFFF",
+  "bgBlur": "#22557799",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Пробуждение Башни"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Rin",
+      "name": "Rin",
+      "image": "/story/tenses/npc/npc_rin.png",
+      "s": "f"
+    },
+    {
+      "id": "Lumo",
+      "name": "Lumo",
+      "image": "/story/tenses/npc/npc_lumo.png",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "actor": "",
+      "name": "Tower Awakens",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пробуждение Башни"
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "This tower... it wasn’t here before.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "It will rise when we are ready.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "You mean it’s still growing?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Yes. Just like your understanding of the future.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "So we use 'will' to talk about what’s coming?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Exactly. 'Will' plus the base verb.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "Like: I will learn.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Or: We will continue.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "He will come. She will go.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "And they will help. It’s simple and powerful.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "What about questions?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Will you try? Will they follow?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "Let’s try.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Which sentence is Future Simple?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какое предложение в Future Simple?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "She will win the race.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "She won the race.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Write a sentence with: will, go, tomorrow",
+      "dialogType": "Write",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Составь предложение с will, go, tomorrow"
+        }
+      ],
+      "actions": [
+        {
+          "name": "I will go tomorrow.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "I go tomorrow.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "The tower will show us the way.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "And we will climb it together.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

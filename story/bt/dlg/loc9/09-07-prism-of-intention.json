@@ -1,0 +1,185 @@
+{
+  "name": "Prism of Intention",
+  "bg": "/story/tenses/bg/future_simple_07.png",
+  "glowColor": "#88CCFFFF",
+  "bgBlur": "#22557799",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Призма Намерения"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Rin",
+      "name": "Rin",
+      "image": "/story/tenses/npc/npc_rin.png",
+      "s": "f"
+    },
+    {
+      "id": "Lumo",
+      "name": "Lumo",
+      "image": "/story/tenses/npc/npc_lumo.png",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "actor": "",
+      "name": "Prism of Intention",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Призма Намерения"
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "We’re close. The prism shines.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "It listens to our will.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "Then I will speak with clarity.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "I will test your clarity.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "I’m ready.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Put the words in the correct order:",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Расположи слова в правильном порядке:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "He will come tomorrow.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Tomorrow come he will.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Which sentence has a correct time marker?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Где правильный маркер времени?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "We will see them next week.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "We will see them next past.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Write a sentence with: will, find, soon",
+      "dialogType": "Write",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Составь предложение с will, find, soon"
+        }
+      ],
+      "actions": [
+        {
+          "name": "We will find it soon.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Soon we will found it.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "The prism reflects our future.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "It will carry us forward.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

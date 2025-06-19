@@ -1,0 +1,178 @@
+{
+  "name": "Arrival to the Core",
+  "bg": "/story/tenses/bg/chrono_core_01.png",
+  "glowColor": "#0000FFFF",
+  "bgBlur": "#000000AA",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Прибытие в Ядро"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/tenses/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/tenses/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "TimeLord",
+      "name": "Time Lord",
+      "image": "/story/tenses/npc/npc_time_lord.png",
+      "s": "m",
+      "isRight": true
+    }
+  ],
+  "items": [
+    {
+      "actor": "",
+      "name": "Arrival to the Core",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Прибытие в Ядро"
+        }
+      ]
+    },
+    {
+      "actor": "Lexi",
+      "name": "This place... it's silent. Like time gave up.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "Chrono Core. The end and beginning of all time.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lexi",
+      "name": "Where is the Time Lord?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "TimeLord",
+      "name": "I have been waiting... I was waiting... I will be... have... been—",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "He's breaking. His mind flows across all tenses.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "TimeLord",
+      "name": "Time shattered. The Seals undone. The moments bleed.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lexi",
+      "name": "We're here. We’ve brought the Twelve.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "TimeLord",
+      "name": "You carry what I can no longer hold.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "Only someone who walked through time can restore it.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lexi",
+      "name": "Tell us what to do.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "TimeLord",
+      "name": "Say what must be said. In the time it belongs.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lexi",
+      "name": "Then we begin.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

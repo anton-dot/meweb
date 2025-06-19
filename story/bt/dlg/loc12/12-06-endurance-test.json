@@ -1,0 +1,162 @@
+{
+  "name": "Endurance Test",
+  "bg": "/story/tenses/bg/future_perfect_continuous_06.png",
+  "glowColor": "#FF7733FF",
+  "bgBlur": "#442200AA",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Испытание Выносливости"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Rin",
+      "name": "Rin",
+      "image": "/story/tenses/npc/npc_rin.png",
+      "s": "f"
+    },
+    {
+      "id": "Lumo",
+      "name": "Lumo",
+      "image": "/story/tenses/npc/npc_lumo.png",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "actor": "",
+      "name": "Endurance Test",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Испытание Выносливости"
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "The heat is stronger here.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "That’s because the hardest work is done at the end.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "So this is where we test what we’ve learned.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Exactly. You'll need to recognize mistakes too.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "Let’s push through it.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Which sentence is NOT correct?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какое предложение некорректно?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "They will have been driving for six hours.",
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "name": "They will have drive since six hours.",
+          "isCorrect": true,
+          "score": 1
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Write a sentence with: will have been, building, for a long time",
+      "dialogType": "Write",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Составь предложение с will have been, building, for a long time"
+        }
+      ],
+      "actions": [
+        {
+          "name": "They will have been building for a long time.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "For a long time have they will building been.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "Even under pressure, I can keep the form.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Then you’ve passed the test of endurance.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

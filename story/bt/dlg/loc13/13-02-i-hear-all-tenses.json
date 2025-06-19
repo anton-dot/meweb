@@ -1,0 +1,225 @@
+{
+  "name": "I Hear All Tenses",
+  "bg": "/story/tenses/bg/chrono_core_02.png",
+  "glowColor": "#0000FFFF",
+  "bgBlur": "#111155BB",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Я Слышу Все Времена"
+    }
+  ],
+  "actors": [
+    {
+      "id": "TimeLord",
+      "name": "Time Lord",
+      "image": "/story/tenses/npc/npc_time_lord.png",
+      "s": "m",
+      "isRight": true
+    },
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/tenses/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/tenses/npc/npc_buzz.png",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "actor": "",
+      "name": "I Hear All Tenses",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я Слышу Все Времена"
+        }
+      ]
+    },
+    {
+      "actor": "TimeLord",
+      "name": "I have spoken. I had spoken. I will speak. All at once.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "These are fragments. We must make sense of them.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lexi",
+      "name": "Can we decode his meaning?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "TimeLord",
+      "name": "She had been waiting when the door opened.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "TimeLord",
+      "name": "I will have finished the book before sunrise.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "TimeLord",
+      "name": "They were laughing while I entered.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "TimeLord",
+      "name": "He eats breakfast every day.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "TimeLord",
+      "name": "We are walking through the storm now.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "Lexi, these aren’t just memories. They are trials.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lexi",
+      "name": "Let me try.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "Which happened first?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что произошло раньше?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "She had been waiting.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "The door opened.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "Which action is still happening now?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какое действие происходит сейчас?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "We are walking through the storm.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "We had walked through the storm.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "Which action will be completed by a future point?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какое действие завершится к будущему моменту?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "I will have finished the book before sunrise.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "I will be finishing the book before sunrise.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "name": "Words of the Oracle",
+  "bg": "/story/tenses/bg/future_simple_04.png",
+  "glowColor": "#88CCFFFF",
+  "bgBlur": "#22557799",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Слова Оракула"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Rin",
+      "name": "Rin",
+      "image": "/story/tenses/npc/npc_rin.png",
+      "s": "f"
+    },
+    {
+      "id": "Lumo",
+      "name": "Lumo",
+      "image": "/story/tenses/npc/npc_lumo.png",
+      "s": "n"
+    },
+    {
+      "id": "Oracle",
+      "name": "Oracle",
+      "image": "/story/tenses/npc/npc_oracle.png",
+      "s": "m",
+      "isRight": true
+    }
+  ],
+  "items": [
+    {
+      "actor": "",
+      "name": "Words of the Oracle",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Слова Оракула"
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "He’s standing still, but glowing.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "He will speak, and his words will shape what comes.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Oracle",
+      "name": "You will climb. You will understand.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "He speaks in futures.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Oracle",
+      "name": "The door will open. The path will shift.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "We must answer in the same way.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Oracle",
+      "name": "What will you do?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "I… I will try.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Oracle",
+      "name": "Then you will succeed.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Let’s show him what we’ve learned.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Oracle",
+      "name": "Which sentence is in Future Simple?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какое предложение в Future Simple?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "We will begin the climb.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "We began the climb.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Oracle",
+      "name": "Write a sentence with: will, win, today",
+      "dialogType": "Write",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Составь предложение с will, win, today"
+        }
+      ],
+      "actions": [
+        {
+          "name": "I will win today.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Win I today will.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Oracle",
+      "name": "You will rise. The prism awaits.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "He will guide us again.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

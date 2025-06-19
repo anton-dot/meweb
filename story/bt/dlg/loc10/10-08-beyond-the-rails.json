@@ -1,0 +1,235 @@
+{
+  "name": "Beyond the Rails",
+  "bg": "/story/tenses/bg/future_continuous_08.png",
+  "glowColor": "#88D0FFFF",
+  "bgBlur": "#22779999",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "За Пределами Рельсов"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Rin",
+      "name": "Rin",
+      "image": "/story/tenses/npc/npc_rin.png",
+      "s": "f"
+    },
+    {
+      "id": "Lumo",
+      "name": "Lumo",
+      "image": "/story/tenses/npc/npc_lumo.png",
+      "s": "n"
+    },
+    {
+      "id": "Engineer",
+      "name": "Engineer",
+      "image": "/story/tenses/npc/npc_engineer.png",
+      "s": "m",
+      "isRight": true
+    }
+  ],
+  "items": [
+    {
+      "actor": "",
+      "name": "Beyond the Rails",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "За Пределами Рельсов"
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "The platform is ending. What’s beyond?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "The sky. And the next part of time.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Engineer",
+      "name": "You will be flying while I maintain the balance.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "We will be learning as we move.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "We will be adjusting to new moments.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Engineer",
+      "name": "Speak with the markers. Let the system verify you.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "This time tomorrow, I will be creating.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "At sunset, I will be connecting.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "While others sleep, we will be watching.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Engineer",
+      "name": "You will be passing. The flow accepts you.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Engineer",
+      "name": "Choose the sentence that uses a time marker correctly:",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери предложение с корректным маркером времени:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "I will be reading this time tomorrow.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "I will be read now.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Engineer",
+      "name": "Write a sentence with: will be, building, while, flying",
+      "dialogType": "Write",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Составь предложение с will be, building, while, flying"
+        }
+      ],
+      "actions": [
+        {
+          "name": "They will be building while flying.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "While flying they building be will.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "We will be rising beyond the station.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "The Mechanism of Flow is yours.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Engineer",
+      "name": "Go. Time will be waiting.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

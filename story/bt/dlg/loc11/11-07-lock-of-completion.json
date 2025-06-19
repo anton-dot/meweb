@@ -1,0 +1,191 @@
+{
+  "name": "Lock of Completion",
+  "bg": "/story/tenses/bg/future_perfect_07.png",
+  "glowColor": "#FFDDCCFF",
+  "bgBlur": "#663300AA",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Замок Завершения"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Rin",
+      "name": "Rin",
+      "image": "/story/tenses/npc/npc_rin.png",
+      "s": "f"
+    },
+    {
+      "id": "Lumo",
+      "name": "Lumo",
+      "image": "/story/tenses/npc/npc_lumo.png",
+      "s": "n"
+    },
+    {
+      "id": "Chronomaster",
+      "name": "Chronomaster",
+      "image": "/story/tenses/npc/npc_chronomaster.png",
+      "s": "m",
+      "isRight": true
+    }
+  ],
+  "items": [
+    {
+      "actor": "",
+      "name": "Lock of Completion",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Замок Завершения"
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "There’s a lock here. And twelve rings around it.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Twelve gates. Twelve times.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Chronomaster",
+      "name": "By the time this gate closes, you will have declared your mastery.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "It’s time to prove I’ve understood Future Perfect.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Use the markers. Build the echoes.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Chronomaster",
+      "name": "Speak. Show what will have been true.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Chronomaster",
+      "name": "Which sentence is Future Perfect?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какое предложение в Future Perfect?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "I will have completed the puzzle by then.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "I will complete the puzzle by then.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Chronomaster",
+      "name": "Write a sentence with: will have, known, before the bell",
+      "dialogType": "Write",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Составь предложение с will have, known, before the bell"
+        }
+      ],
+      "actions": [
+        {
+          "name": "We will have known the answer before the bell.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Before bell the answer we will known have.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "By the time we step forward, we will have unlocked the past.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "The Key of Completion is yours.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Chronomaster",
+      "name": "Proceed. You will have left this nexus behind.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

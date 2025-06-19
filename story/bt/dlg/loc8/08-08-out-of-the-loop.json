@@ -1,0 +1,257 @@
+{
+  "name": "Out of the Loop",
+  "bg": "/story/tenses/bg/past_perfect_continuous_08.png",
+  "glowColor": "#8888AAFF",
+  "bgBlur": "#22225599",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Выход из Петли"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Rin",
+      "name": "Rin",
+      "image": "/story/tenses/npc/npc_rin.png",
+      "s": "f"
+    },
+    {
+      "id": "Lumo",
+      "name": "Lumo",
+      "image": "/story/tenses/npc/npc_lumo.png",
+      "s": "n"
+    },
+    {
+      "id": "Loop",
+      "name": "Loop Spirit",
+      "image": "/story/tenses/npc/npc_loop_spirit.png",
+      "s": "m",
+      "isRight": true
+    }
+  ],
+  "items": [
+    {
+      "actor": "",
+      "name": "Out of the Loop",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выход из Петли"
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "We’re back… to where we started.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "But we’re not the same.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Loop",
+      "name": "You had been walking for ages before you noticed.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "We had been learning since the echoes began.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "We had been listening before we understood.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Loop",
+      "name": "You had been waiting until the dust cleared.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "We had been becoming… ready.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Loop",
+      "name": "Then speak the truth that binds this time.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "I had been watching the signs since sunrise.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "I had been writing the memories for hours.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "We had been sitting in silence before it moved.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "By the time the path opened, we had already accepted.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Loop",
+      "name": "The Ring responds. It has heard your time.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Loop",
+      "name": "Choose the sentence that uses Past Perfect Continuous correctly:",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери предложение, где используется Past Perfect Continuous:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "They had been walking before the fog lifted.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "They walk before fog lifts.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Loop",
+      "name": "Write a sentence with: had been, waiting, since",
+      "dialogType": "Write",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Составь предложение с had been, waiting, since"
+        }
+      ],
+      "actions": [
+        {
+          "name": "She had been waiting since dawn before she moved.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "She wait since dawn before move.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "The Ring… it’s stable now.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кольцо… теперь оно стабильно."
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "The path to the Spire opens.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Путь к Башне Оракула открыт."
+        }
+      ]
+    }
+  ]
+}

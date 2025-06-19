@@ -1,0 +1,124 @@
+{
+  "name": "The Seventh Seal: Past Perfect",
+  "bg": "/story/tenses/bg/chrono_core_10.png",
+  "glowColor": "#AA6666FF",
+  "bgBlur": "#442211CC",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Седьмая Печать: Past Perfect"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/tenses/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/tenses/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "TimeLord",
+      "name": "Time Lord",
+      "image": "/story/tenses/npc/npc_time_lord.png",
+      "s": "m",
+      "isRight": true
+    }
+  ],
+  "items": [
+    {
+      "actor": "",
+      "name": "The Seventh Seal: Past Perfect",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Седьмая Печать: Past Perfect"
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "The Shard of Precedence resonates with what came first.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lexi",
+      "name": "I had passed the broken tower before the storm began.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "TimeLord",
+      "name": "The timeline sharpens. The seal aligns.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "Seventh truth revealed.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lexi",
+      "name": "Time remembers the order.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "Which sentence is Past Perfect?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какое предложение в Past Perfect?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "She had finished the work before I arrived.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "She finishes the work every Friday.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    }
+  ]
+}

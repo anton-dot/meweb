@@ -1,0 +1,799 @@
+{
+  "name": "Zero Point — Complete",
+  "bg": "/story/tenses/bg/zero_point_combined.png",
+  "glowColor": "#99CCFFFF",
+  "bgBlur": "#001144FF",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Нулевая Локация — Полная"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Rin",
+      "name": "Rin",
+      "image": "/story/tenses/npc/npc_rin.png",
+      "s": "f",
+      "isRight": false
+    },
+    {
+      "id": "Lumo",
+      "name": "Lumo",
+      "image": "/story/tenses/npc/npc_lumo.png",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "Where Am I?",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Где я?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "...Hello? Can you hear me?",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "...Привет? Ты меня слышишь?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Who’s there?",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кто здесь?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I am Lumo. A guide, of sorts. You are safe... for now.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я — Лумо. Проводник, если угодно. Сейчас ты в безопасности... пока что."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "What happened? This place... it's broken.",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что случилось? Это место... оно сломано."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Time collapsed. The flow was shattered. Now fragments drift, lost and wild.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Время разрушилось. Поток раскололся. Теперь осколки дрейфуют, потерянные и дикие."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Fragments of what?",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Осколки чего?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Tenses. There were twelve. Each ruled part of reality. Now... scattered.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Времена. Их было двенадцать. Каждое управляло частью реальности. Сейчас... всё рассыпалось."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "And what do you want from me?",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "И что ты хочешь от меня?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "To repair time, you must learn its language. Grammar is more than rules — it's the code of existence.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Чтобы восстановить время, ты должен овладеть его языком. Грамматика — это больше, чем правила. Это код бытия."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Why me?",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Почему я?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Because you still remember the question.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Потому что ты всё ещё задаёшь вопросы."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "...That’s not really an answer.",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "...Это... не ответ."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "The Broken Flow",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сломанный Поток"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "You said the flow shattered. What does that mean?",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты сказал, поток разрушился. Что это значит?"
+        }
+      ]
+    },
+    {
+      "name": "Time used to move like a river. Smooth. Predictable. Learnable.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Раньше время текло как река. Плавно. Предсказуемо. Обучаемо."
+        }
+      ]
+    },
+    {
+      "name": "Now it leaks. Loops. Freezes. Sometimes it forgets what tense it should be.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь оно протекает. Зацикливается. Замирает. Иногда забывает, в каком времени должно быть."
+        }
+      ]
+    },
+    {
+      "name": "So... everything is broken because the tenses broke?",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Значит... всё разрушено, потому что сломались времена?"
+        }
+      ]
+    },
+    {
+      "name": "Exactly. Each tense shaped how things happened, happen, or will happen.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Именно. Каждое время формировало, как что-то происходило, происходит или будет происходить."
+        }
+      ]
+    },
+    {
+      "name": "And if I learn them…",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А если я их изучу..."
+        }
+      ]
+    },
+    {
+      "name": "Then you restore one fragment at a time. Like stitching time back together.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты восстановишь один фрагмент за другим. Словно сшиваешь время обратно."
+        }
+      ]
+    },
+    {
+      "name": "Twelve fragments. Twelve tenses.",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Двенадцать фрагментов. Двенадцать времён."
+        }
+      ]
+    },
+    {
+      "name": "And each one has its guardian, its lesson, its purpose.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "И у каждого есть свой страж, свой урок и своё предназначение."
+        }
+      ]
+    },
+    {
+      "name": "The Meaning of Tenses",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Смысл времён"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Okay... but what is a 'tense' really?",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ладно... но что такое 'время' на самом деле?"
+        }
+      ]
+    },
+    {
+      "name": "A tense is a lens. It changes how we see actions.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Время — это линза. Оно меняет, как мы видим действия."
+        }
+      ]
+    },
+    {
+      "name": "Same action. Different tense. Different meaning.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Одно и то же действие. Разное время. Разный смысл."
+        }
+      ]
+    },
+    {
+      "name": "Show me.",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Покажи мне."
+        }
+      ]
+    },
+    {
+      "name": "She eats. She ate. She will eat. Each tells a different story.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Она ест. Она ела. Она будет есть. Каждое говорит о разном."
+        }
+      ]
+    },
+    {
+      "name": "But the words are almost the same...",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Но слова почти одинаковые..."
+        }
+      ]
+    },
+    {
+      "name": "That’s the beauty — and the danger. One tense can change everything.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "В этом и прелесть — и опасность. Одно время может изменить всё."
+        }
+      ]
+    },
+    {
+      "name": "So people misunderstood things... because of grammar?",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Значит, люди неправильно понимали... из-за грамматики?"
+        }
+      ]
+    },
+    {
+      "name": "Oh yes. Wrong tense — wrong time. Wrong message — wrong world.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "О да. Неверное время — неверный момент. Неверное сообщение — неверный мир."
+        }
+      ]
+    },
+    {
+      "name": "That’s... terrifyingly precise.",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это... пугающе точно."
+        }
+      ]
+    },
+    {
+      "name": "And now, you’ll learn to use that precision.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "И теперь ты научишься использовать эту точность."
+        }
+      ]
+    },
+    {
+      "name": "How It All Works",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Как всё устроено"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Okay. Suppose I agree to help. What do I actually have to do?",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Допустим, я согласен помочь. Что именно мне нужно делать?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Each tense lies hidden in a separate zone — a broken shard of time.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Каждое время спрятано в отдельной зоне — осколке разрушенного времени."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "You must enter each zone, restore its flow, and retrieve its artifact.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты должен войти в каждую зону, восстановить её поток и забрать артефакт."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "That sounds... like a lot.",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Звучит... масштабно."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "You'll learn gradually. Each zone teaches you a tense, a set of verbs, and how to use them.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты будешь учиться постепенно. Каждая зона обучает времени, глаголам и их применению."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "And the artifact?",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А артефакт?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "It holds the essence of the tense. Collecting all twelve is the only way to restore time.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "В нём — суть времени. Собрав все двенадцать, ты восстановишь поток времени."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "So I’m some kind of grammar hero now?",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Так я теперь герой грамматики, что ли?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "You always were. You just forgot.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты всегда им был. Просто забыл об этом."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Can I fail?",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А если я ошибусь?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Failure is part of learning. Each mistake reveals something important.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ошибки — часть обучения. Каждая ошибка раскрывает что-то важное."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "The First Step",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Первый шаг"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "So this is it. Time to begin?",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Значит, пора начинать?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Yes. The first tense awaits — Present Simple.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да. Первое время ждёт — Present Simple."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "What makes it first?",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Почему именно оно первое?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Because it's the time of routine, facts, and the now. A foundation.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Потому что это время привычек, фактов и настоящего. Основа."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Do I just walk into the next zone?",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мне просто нужно войти в следующую зону?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Not just walk. Step with intention. Time listens.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Не просто войти. Сделай шаг с намерением. Время слышит."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "What if I get lost?",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А если я заблужусь?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Then you find new paths. That's what learning is.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Значит, найдёшь новые пути. В этом и есть обучение."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "You're good at this 'wise mentor' thing.",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты неплохо играешь роль мудрого наставника."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "I had practice. You're not the first.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "У меня была практика. Ты не первый."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Not the first? What happened to the others?",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Не первый? А что случилось с остальными?"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "They chose different endings. So can you.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Они выбрали другие окончания. Ты тоже можешь выбрать."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Sounds ominous. But okay...",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Звучит зловеще. Но ладно..."
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "Are you ready to begin?",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты готов начать?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "Yes, let's fix time.",
+          "isCorrect": true,
+          "score": 2,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Да, давай восстановим время."
+            }
+          ]
+        },
+        {
+          "name": "I'll try. One step at a time.",
+          "isCorrect": true,
+          "score": 1,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Я попробую. Шаг за шагом."
+            }
+          ]
+        },
+        {
+          "name": "No. I'm scared.",
+          "isCorrect": false,
+          "score": 0,
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Нет. Мне страшно."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Then step forward. The Present Plains await.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Тогда шагай вперёд. Прерии Настоящего ждут."
+        }
+      ],
+      "actions": []
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "name": "The Will of Fire",
+  "bg": "/story/tenses/bg/future_perfect_continuous_07.png",
+  "glowColor": "#FF7733FF",
+  "bgBlur": "#552200AA",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Воля Огня"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Rin",
+      "name": "Rin",
+      "image": "/story/tenses/npc/npc_rin.png",
+      "s": "f"
+    },
+    {
+      "id": "Lumo",
+      "name": "Lumo",
+      "image": "/story/tenses/npc/npc_lumo.png",
+      "s": "n"
+    },
+    {
+      "id": "ForgeMaster",
+      "name": "ForgeMaster",
+      "image": "/story/tenses/npc/npc_forge_master.png",
+      "s": "m",
+      "isRight": true
+    }
+  ],
+  "items": [
+    {
+      "actor": "",
+      "name": "The Will of Fire",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Воля Огня"
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "We’re back. The flames are higher now.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "The Forge senses you’re ready.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "ForgeMaster",
+      "name": "By the time this gate opens, you will have been mastering flame and form.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "Then let me prove it.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Time to activate the artifact.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "ForgeMaster",
+      "name": "Which sentence is correct?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какое предложение правильно?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "She will have been training since last winter.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "She will has training been since winter.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "ForgeMaster",
+      "name": "Write a sentence with: will have been, forging, for hours",
+      "dialogType": "Write",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Составь предложение с will have been, forging, for hours"
+        }
+      ],
+      "actions": [
+        {
+          "name": "I will have been forging for hours.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Forging I have will for been hours.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "By the time I take the artifact, I’ll have been shaping fire for days.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "ForgeMaster",
+      "name": "Then the 🔥 Staff of Endurance is yours.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "The next realm waits — Past begins.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

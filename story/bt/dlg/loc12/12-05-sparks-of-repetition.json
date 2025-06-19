@@ -1,0 +1,162 @@
+{
+  "name": "Sparks of Repetition",
+  "bg": "/story/tenses/bg/future_perfect_continuous_05.png",
+  "glowColor": "#FF7733FF",
+  "bgBlur": "#44110088",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Искры Повтора"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Rin",
+      "name": "Rin",
+      "image": "/story/tenses/npc/npc_rin.png",
+      "s": "f"
+    },
+    {
+      "id": "Lumo",
+      "name": "Lumo",
+      "image": "/story/tenses/npc/npc_lumo.png",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "actor": "",
+      "name": "Sparks of Repetition",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Искры Повтора"
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "Every hammer strike echoes... again and again.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Repetition makes the structure strong. Same with tenses.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "So we’ll repeat Future Perfect Continuous?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Yes. Until your brain starts forging on its own.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "Let’s do this. I want the sparks to stick.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Which sentence is correct?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какое предложение правильное?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "They will have been traveling for five days.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "They have will been traveling since five days.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Write a sentence with: will have been, practicing, for months",
+      "dialogType": "Write",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Составь предложение с will have been, practicing, for months"
+        }
+      ],
+      "actions": [
+        {
+          "name": "We will have been practicing for months.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "For months practicing we will have been.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "I will have been repeating this until I dream it.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Then your spark will burn through the forge.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

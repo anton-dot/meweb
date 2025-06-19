@@ -1,0 +1,191 @@
+{
+  "name": "Steps Toward the Past",
+  "bg": "/story/tenses/bg/future_perfect_continuous_08.png",
+  "glowColor": "#FF7733FF",
+  "bgBlur": "#55220099",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Шаги к Прошлому"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Rin",
+      "name": "Rin",
+      "image": "/story/tenses/npc/npc_rin.png",
+      "s": "f"
+    },
+    {
+      "id": "Lumo",
+      "name": "Lumo",
+      "image": "/story/tenses/npc/npc_lumo.png",
+      "s": "n"
+    },
+    {
+      "id": "ForgeMaster",
+      "name": "ForgeMaster",
+      "image": "/story/tenses/npc/npc_forge_master.png",
+      "s": "m",
+      "isRight": true
+    }
+  ],
+  "items": [
+    {
+      "actor": "",
+      "name": "Steps Toward the Past",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Шаги к Прошлому"
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "The path leads down… and back.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Yes. You’ve mastered the future’s most demanding form.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "ForgeMaster",
+      "name": "You will have been walking with time as your ally.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "I feel ready.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Then let the flame guide you to memory.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "ForgeMaster",
+      "name": "The future is forged. Now face the past.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Which sentence fits Future Perfect Continuous with a time marker?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какое предложение подходит для Future Perfect Continuous с маркером времени?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "They will have been exploring for a week.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "They will explore since a week.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Write a sentence with: will have been, preparing, since yesterday",
+      "dialogType": "Write",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Составь предложение с will have been, preparing, since yesterday"
+        }
+      ],
+      "actions": [
+        {
+          "name": "We will have been preparing since yesterday.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "Since yesterday preparing will have we been.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "By the time I reach the next gate, I’ll have been forging language itself.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "The path to the Past Dunes is open.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "ForgeMaster",
+      "name": "And you walk with fire behind you.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}

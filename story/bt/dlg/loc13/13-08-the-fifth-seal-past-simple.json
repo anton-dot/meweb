@@ -1,0 +1,124 @@
+{
+  "name": "The Fifth Seal: Past Simple",
+  "bg": "/story/tenses/bg/chrono_core_08.png",
+  "glowColor": "#AA8844FF",
+  "bgBlur": "#332200BB",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Пятая Печать: Past Simple"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/tenses/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/tenses/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "TimeLord",
+      "name": "Time Lord",
+      "image": "/story/tenses/npc/npc_time_lord.png",
+      "s": "m",
+      "isRight": true
+    }
+  ],
+  "items": [
+    {
+      "actor": "",
+      "name": "The Fifth Seal: Past Simple",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пятая Печать: Past Simple"
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "The Sandglass of Memory reveals what once was.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lexi",
+      "name": "I stood at the gates. I faced fear. I chose the path.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "TimeLord",
+      "name": "The past is clear. The seal accepts the truth.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "Fifth truth restored.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lexi",
+      "name": "Let’s move on.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "Which sentence is Past Simple?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какое предложение в Past Simple?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "They crossed the desert last night.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "They are crossing the desert now.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    }
+  ]
+}

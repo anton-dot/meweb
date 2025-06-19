@@ -1,0 +1,140 @@
+{
+  "name": "The Broken Flow",
+  "bg": "/story/tenses/bg/zero_point_02.png",
+  "glowColor": "#99CCFFFF",
+  "bgBlur": "#001144FF",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Сломанный Поток"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Rin",
+      "name": "Rin",
+      "image": "/story/tenses/npc/npc_rin.png",
+      "s": "f",
+      "isRight": false
+    },
+    {
+      "id": "Lumo",
+      "name": "Lumo",
+      "image": "/story/tenses/npc/npc_lumo.png",
+      "s": "n"
+    }
+  ],
+  "items": [
+    {
+      "name": "The Broken Flow",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Сломанный Поток"
+        }
+      ],
+      "actions": []
+    },
+    {
+      "name": "You said the flow shattered. What does that mean?",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты сказал, поток разрушился. Что это значит?"
+        }
+      ]
+    },
+    {
+      "name": "Time used to move like a river. Smooth. Predictable. Learnable.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Раньше время текло как река. Плавно. Предсказуемо. Обучаемо."
+        }
+      ]
+    },
+    {
+      "name": "Now it leaks. Loops. Freezes. Sometimes it forgets what tense it should be.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Теперь оно протекает. Зацикливается. Замирает. Иногда забывает, в каком времени должно быть."
+        }
+      ]
+    },
+    {
+      "name": "So... everything is broken because the tenses broke?",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Значит... всё разрушено, потому что сломались времена?"
+        }
+      ]
+    },
+    {
+      "name": "Exactly. Each tense shaped how things happened, happen, or will happen.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Именно. Каждое время формировало, как что-то происходило, происходит или будет происходить."
+        }
+      ]
+    },
+    {
+      "name": "And if I learn them…",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А если я их изучу..."
+        }
+      ]
+    },
+    {
+      "name": "Then you restore one fragment at a time. Like stitching time back together.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты восстановишь один фрагмент за другим. Словно сшиваешь время обратно."
+        }
+      ]
+    },
+    {
+      "name": "Twelve fragments. Twelve tenses.",
+      "actor": "Rin",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Двенадцать фрагментов. Двенадцать времён."
+        }
+      ]
+    },
+    {
+      "name": "And each one has its guardian, its lesson, its purpose.",
+      "actor": "Lumo",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "И у каждого есть свой страж, свой урок и своё предназначение."
+        }
+      ]
+    }
+  ]
+}

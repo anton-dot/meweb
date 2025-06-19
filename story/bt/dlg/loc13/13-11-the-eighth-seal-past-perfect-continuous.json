@@ -1,0 +1,124 @@
+{
+  "name": "The Eighth Seal: Past Perfect Continuous",
+  "bg": "/story/tenses/bg/chrono_core_11.png",
+  "glowColor": "#AA88CCFF",
+  "bgBlur": "#331144DD",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Восьмая Печать: Past Perfect Continuous"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Lexi",
+      "name": "Lexi",
+      "image": "/story/tenses/npc/npc_lexi.png",
+      "s": "f"
+    },
+    {
+      "id": "Buzz",
+      "name": "Buzz",
+      "image": "/story/tenses/npc/npc_buzz.png",
+      "s": "n"
+    },
+    {
+      "id": "TimeLord",
+      "name": "Time Lord",
+      "image": "/story/tenses/npc/npc_time_lord.png",
+      "s": "m",
+      "isRight": true
+    }
+  ],
+  "items": [
+    {
+      "actor": "",
+      "name": "The Eighth Seal: Past Perfect Continuous",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Восьмая Печать: Past Perfect Continuous"
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "The Loop Ring honors what had been ongoing before change.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lexi",
+      "name": "I had been waiting at the cliff for hours before the light appeared.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "TimeLord",
+      "name": "Endurance echoes through the strands.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "Eighth truth restored.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lexi",
+      "name": "We’re getting close.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Buzz",
+      "name": "Which sentence is Past Perfect Continuous?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Какое предложение в Past Perfect Continuous?"
+        }
+      ],
+      "actions": [
+        {
+          "name": "They had been watching the sky for hours before the storm came.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "They watched the sky when the storm came.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "name": "Work in Progress",
+  "bg": "/story/tenses/bg/future_continuous_03.png",
+  "glowColor": "#88D0FFFF",
+  "bgBlur": "#22779999",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Работа в Процессе"
+    }
+  ],
+  "actors": [
+    {
+      "id": "Rin",
+      "name": "Rin",
+      "image": "/story/tenses/npc/npc_rin.png",
+      "s": "f"
+    },
+    {
+      "id": "Lumo",
+      "name": "Lumo",
+      "image": "/story/tenses/npc/npc_lumo.png",
+      "s": "n"
+    },
+    {
+      "id": "Engineer",
+      "name": "Engineer",
+      "image": "/story/tenses/npc/npc_engineer.png",
+      "s": "m",
+      "isRight": true
+    }
+  ],
+  "items": [
+    {
+      "actor": "",
+      "name": "Work in Progress",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Работа в Процессе"
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "Who is that, floating above the gears?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "That’s the Engineer of Flow.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Engineer",
+      "name": "I will be testing the circuits while you speak.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "He’s working… in the future?",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "He always speaks in Future Continuous.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Engineer",
+      "name": "The tower will be rotating at noon.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Engineer",
+      "name": "The drones will be scanning the sky.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Rin",
+      "name": "So he's saying what will be happening at a moment.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Yes. Let’s match his rhythm.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Engineer",
+      "name": "Choose the sentence in Future Continuous:",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери предложение в Future Continuous:"
+        }
+      ],
+      "actions": [
+        {
+          "name": "They will be flying over the clouds.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "They flew over the clouds.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Engineer",
+      "name": "Write a sentence with: will be, working, at midnight",
+      "dialogType": "Write",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Составь предложение с will be, working, at midnight"
+        }
+      ],
+      "actions": [
+        {
+          "name": "He will be working at midnight.",
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "name": "He be will at midnight working.",
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "actor": "Engineer",
+      "name": "You will be adjusting the signals soon.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    },
+    {
+      "actor": "Lumo",
+      "name": "Let’s follow his logic. Time is in motion.",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": ""
+        }
+      ]
+    }
+  ]
+}
