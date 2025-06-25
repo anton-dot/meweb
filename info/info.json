@@ -3,11 +3,11 @@
   "NotesContent": "New content ",
   "Notes": "New UI and updated application. Fast and relaible!",
   "Notes_ru": "Новый интерфейс и обновленное приложение. \nБыстрое и надежное!",
-  "Version": 12,
+  "Version": 13,
   "Appversion": "2.1",
   "AndroidversionNumber": 29,
   "winversionNumber": 15,
-  "webversionNumber": 29,
+  "webversionNumber": 30,
   "DownloadSizeMB": 110,
   "DownloadLinks": [
     "https://anton-dot.github.io/meweb/meweb0.zip",
