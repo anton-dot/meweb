@@ -1,0 +1,260 @@
+{
+  "name": "Grandma’s House",
+  "bg": "/story/rr/bg/05_grandma_house.png",
+  "glowColor": "#FFD8D8FF",
+  "bgBlur": "#FFAAAAFF",
+  "dialogType": "Normal",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Дом бабушки"
+    }
+  ],
+  "actors": [
+    {
+      "id": "RRH",
+      "name": "Little Red Riding Hood",
+      "image": "/story/rr/npc/npc_rr.png",
+      "s": "f"
+    },
+    {
+      "id": "Wolf",
+      "name": "Wolf (disguised)",
+      "image": "/story/rr/npc/npc_wolf_granny.png",
+      "s": "m"
+    }
+  ],
+  "items": [
+    {
+      "name": "Grandma’s House",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дом бабушки"
+        }
+      ]
+    },
+    {
+      "name": "Little Red Riding Hood reaches Grandma’s house.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Красная Шапочка приходит к дому бабушки."
+        }
+      ]
+    },
+    {
+      "name": "The door is open… that’s strange.",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Дверь открыта… странно."
+        }
+      ]
+    },
+    {
+      "name": "She walks in slowly, holding the basket.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Она медленно заходит, держа корзинку."
+        }
+      ]
+    },
+    {
+      "name": "Grandma? It’s me!",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Бабушка? Это я!"
+        }
+      ]
+    },
+    {
+      "name": "Come in, dear. I’m in bed.",
+      "actor": "Wolf",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Заходи, милая. Я в постели."
+        }
+      ]
+    },
+    {
+      "name": "The room is dark. Grandma is under a big blanket.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "В комнате темно. Бабушка под большим одеялом."
+        }
+      ]
+    },
+    {
+      "name": "Grandma… what big eyes you have!",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Бабушка… какие у тебя большие глаза!"
+        }
+      ]
+    },
+    {
+      "name": "All the better to see you with, my dear.",
+      "actor": "Wolf",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Чтобы лучше тебя видеть, моя дорогая."
+        }
+      ]
+    },
+    {
+      "name": "And what big ears you have!",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А какие у тебя большие уши!"
+        }
+      ]
+    },
+    {
+      "name": "All the better to hear you with.",
+      "actor": "Wolf",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Чтобы лучше тебя слышать."
+        }
+      ]
+    },
+    {
+      "name": "And what big hands you have!",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А какие у тебя большие руки!"
+        }
+      ]
+    },
+    {
+      "name": "All the better to hug you with!",
+      "actor": "Wolf",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Чтобы лучше тебя обнимать!"
+        }
+      ]
+    },
+    {
+      "name": "And… what big teeth you have!",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "И… какие у тебя большие зубы!"
+        }
+      ]
+    },
+    {
+      "name": "All the better to EAT you with!",
+      "actor": "Wolf",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Чтобы ЛУЧШЕ ТЕБЯ СЪЕСТЬ!"
+        }
+      ]
+    },
+    {
+      "name": "The wolf jumps out of bed!",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Волк выпрыгивает из кровати!"
+        }
+      ]
+    },
+    {
+      "name": "Ahh! You’re not my Grandma!",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "А-а-а! Ты не моя бабушка!"
+        }
+      ]
+    },
+    {
+      "name": "She drops the basket and runs toward the door.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Она роняет корзину и бежит к двери."
+        }
+      ]
+    },
+    {
+      "name": "Help! Someone help!",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Помогите! Кто-нибудь, помогите!"
+        }
+      ]
+    },
+    {
+      "name": "Suddenly, a loud knock comes from outside.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вдруг снаружи раздаётся громкий стук."
+        }
+      ]
+    },
+    {
+      "name": "It’s the hunter!",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это охотник!"
+        }
+      ]
+    }
+  ]
+}

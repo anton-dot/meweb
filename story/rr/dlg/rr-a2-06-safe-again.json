@@ -1,0 +1,367 @@
+{
+  "name": "Safe Again",
+  "bg": "/story/rr/bg/06_inside_house.png",
+  "glowColor": "#FFD080FF",
+  "bgBlur": "#CC8844FF",
+  "dialogType": "Normal",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Снова в безопасности"
+    }
+  ],
+  "actors": [
+    {
+      "id": "RRH",
+      "name": "Little Red Riding Hood",
+      "image": "/story/rr/npc/npc_rr.png",
+      "s": "f"
+    },
+    {
+      "id": "Grandma",
+      "name": "Grandma",
+      "image": "/story/rr/npc/npc_grandma.png",
+      "s": "f"
+    },
+    {
+      "id": "Hunter",
+      "name": "Hunter",
+      "image": "/story/rr/npc/npc_hunter.png",
+      "s": "m"
+    }
+  ],
+  "items": [
+    {
+      "name": "Safe Again",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Снова в безопасности"
+        }
+      ]
+    },
+    {
+      "name": "The hunter bursts into the house.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Охотник врывается в дом."
+        }
+      ]
+    },
+    {
+      "name": "He sees the wolf and raises his axe.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Он видит волка и поднимает топор."
+        }
+      ]
+    },
+    {
+      "name": "Please help!",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пожалуйста, помогите!"
+        }
+      ]
+    },
+    {
+      "name": "The hunter scares the wolf. The wolf runs away!",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Охотник пугает волка. Волк убегает!"
+        }
+      ]
+    },
+    {
+      "name": "He’s gone!",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Он ушёл!"
+        }
+      ]
+    },
+    {
+      "name": "Are you alright?",
+      "actor": "Hunter",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты в порядке?"
+        }
+      ]
+    },
+    {
+      "name": "Yes… but where is Grandma?",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да… но где бабушка?"
+        }
+      ]
+    },
+    {
+      "name": "The hunter opens the cupboard.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Охотник открывает шкаф."
+        }
+      ]
+    },
+    {
+      "name": "Grandma is inside! She is safe!",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Бабушка внутри! Она в порядке!"
+        }
+      ]
+    },
+    {
+      "name": "Oh my dear! Thank you!",
+      "actor": "Grandma",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "О, моя дорогая! Спасибо!"
+        }
+      ]
+    },
+    {
+      "name": "Grandma!",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Бабушка!"
+        }
+      ]
+    },
+    {
+      "name": "They hug tightly.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Они крепко обнимаются."
+        }
+      ]
+    },
+    {
+      "name": "You were so brave, my little girl.",
+      "actor": "Grandma",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты была такой храброй, моя девочка."
+        }
+      ]
+    },
+    {
+      "name": "I was scared… but I remembered what Mom said.",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мне было страшно… но я вспомнила, что говорила мама."
+        }
+      ]
+    },
+    {
+      "name": "You did well. You stayed calm.",
+      "actor": "Hunter",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Ты хорошо справилась. Ты была спокойна."
+        }
+      ]
+    },
+    {
+      "name": "The house is quiet again. The danger is gone.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "В доме снова тихо. Опасность ушла."
+        }
+      ]
+    },
+    {
+      "name": "Let’s have some tea.",
+      "actor": "Grandma",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Давайте попьём чаю."
+        }
+      ]
+    },
+    {
+      "name": "And bread!",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "И хлеб!"
+        }
+      ]
+    },
+    {
+      "name": "Don’t mind if I do.",
+      "actor": "Hunter",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я бы с удовольствием."
+        }
+      ]
+    },
+    {
+      "name": "Who did what?",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Кто что сделал?"
+        }
+      ],
+      "actions": [
+        {
+          "text": "The hunter opened the cupboard",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Охотник открыл шкаф"
+            }
+          ],
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "text": "The wolf made tea",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Волк приготовил чай"
+            }
+          ],
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "text": "Red Riding Hood hugged Grandma",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Красная Шапочка обняла бабушку"
+            }
+          ],
+          "isCorrect": true,
+          "score": 1
+        }
+      ]
+    },
+    {
+      "name": "They sit together, safe and warm.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Они сидят вместе, в тепле и безопасности."
+        }
+      ]
+    },
+    {
+      "name": "Red Riding Hood learned something important that day.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "В тот день Красная Шапочка узнала важный урок."
+        }
+      ]
+    },
+    {
+      "name": "I must always listen to my mother… and never trust strangers.",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я всегда должна слушаться маму… и не доверять незнакомцам."
+        }
+      ]
+    },
+    {
+      "name": "Yes, and you must always stay on the path.",
+      "actor": "Grandma",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да, и тебе нужно всегда идти по тропинке."
+        }
+      ]
+    },
+    {
+      "name": "The forest is full of wonders… and dangers.",
+      "actor": "Hunter",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Лес полон чудес… и опасностей."
+        }
+      ]
+    },
+    {
+      "name": "And so ends the story of the brave little girl and her clever lesson.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вот и конец истории о храброй девочке и важном уроке, который она усвоила."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "name": "The Task",
+  "bg": "/story/rr/bg/01_home.png",
+  "glowColor": "#FFAF00FF",
+  "bgBlur": "#AA7700FF",
+  "dialogType": "Normal",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Задание"
+    }
+  ],
+  "items": [
+    {
+      "name": "The Task",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Задание"
+        }
+      ]
+    },
+    {
+      "name": "Sweetheart, come here. I have a task for you.",
+      "actor": "Mother",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Милая, подойди. У меня есть для тебя задание."
+        }
+      ]
+    },
+    {
+      "name": "Yes, Mom?",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да, мама?"
+        }
+      ]
+    },
+    {
+      "name": "Please take this basket to Grandma. She is not feeling well.",
+      "actor": "Mother",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пожалуйста, отнеси эту корзину бабушке. Ей нехорошо."
+        }
+      ]
+    },
+    {
+      "name": "Oh no! Is she sick?",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "О нет! Она заболела?"
+        }
+      ]
+    },
+    {
+      "name": "Yes. She needs some food and tea. You must go straight there.",
+      "actor": "Mother",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Да. Ей нужны еда и чай. Ты должна идти прямо к ней."
+        }
+      ]
+    },
+    {
+      "name": "And remember, don’t talk to strangers.",
+      "actor": "Mother",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "И помни, не разговаривай с незнакомцами."
+        }
+      ]
+    },
+    {
+      "name": "I won’t. I promise!",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я не буду. Обещаю!"
+        }
+      ]
+    },
+    {
+      "name": "Good girl. Now, let’s pack the basket.",
+      "actor": "Mother",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошая девочка. Теперь давай соберём корзину."
+        }
+      ]
+    },
+    {
+      "name": "Choose what to pack in the basket:",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери, что положить в корзину:"
+        }
+      ]
+    },
+    {
+      "name": "Choose what to pack in the basket:",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Выбери, что положить в корзину:"
+        }
+      ],
+      "actions": [
+        {
+          "text": "Bread and juice",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Хлеб и сок"
+            }
+          ],
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "text": "Juice and honey",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Сок и мёд"
+            }
+          ],
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "text": "Bread and candy",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Хлеб и конфета"
+            }
+          ],
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "name": "All packed! I’m ready to go!",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Всё собрано! Я готова идти!"
+        }
+      ]
+    },
+    {
+      "name": "Be careful, sweetheart.",
+      "actor": "Mother",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Будь осторожна, милая."
+        }
+      ]
+    },
+    {
+      "name": "Bye, Mom!",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Пока, мама!"
+        }
+      ]
+    },
+    {
+      "name": "Good luck!",
+      "actor": "Mother",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Удачи!"
+        }
+      ]
+    },
+    {
+      "name": "Little Red Riding Hood leaves the house with the basket.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Красная Шапочка выходит из дома с корзиной."
+        }
+      ]
+    },
+    {
+      "name": "She walks into the forest...",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Она входит в лес..."
+        }
+      ]
+    },
+    {
+      "name": "What should I say to Grandma?",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что мне сказать бабушке?"
+        }
+      ]
+    },
+    {
+      "name": "Tell her I love her and she must rest.",
+      "actor": "Mother",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Скажи ей, что я её люблю и что ей нужно отдохнуть."
+        }
+      ]
+    },
+    {
+      "name": "Okay. I will give her a big hug too!",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо. Я ещё крепко её обниму!"
+        }
+      ]
+    },
+    {
+      "name": "That’s sweet. Be gentle and kind.",
+      "actor": "Mother",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Это мило. Будь нежной и доброй."
+        }
+      ]
+    },
+    {
+      "name": "Should I pick some flowers on the way?",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Можно я соберу по дороге цветы?"
+        }
+      ]
+    },
+    {
+      "name": "Only if you stay on the path.",
+      "actor": "Mother",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Только если ты не будешь сходить с тропинки."
+        }
+      ]
+    },
+    {
+      "name": "I promise. I’ll stay on the path.",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Обещаю. Я не сойду с тропинки."
+        }
+      ]
+    },
+    {
+      "name": "Mother gives her the basket with food and tea.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Мама даёт ей корзинку с едой и чаем."
+        }
+      ]
+    },
+    {
+      "name": "Little Red Riding Hood puts on her red hood.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Красная Шапочка надевает свой красный капюшон."
+        }
+      ]
+    },
+    {
+      "name": "Goodbye, Mom!",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "До свидания, мама!"
+        }
+      ]
+    },
+    {
+      "name": "Goodbye, darling. And remember—no talking to strangers!",
+      "actor": "Mother",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "До свидания, милая. И помни — никаких разговоров с незнакомцами!"
+        }
+      ]
+    },
+    {
+      "name": "She steps outside. The sun is shining and birds are singing.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Она выходит из дома. Светит солнце, поют птицы."
+        }
+      ]
+    },
+    {
+      "name": "A small dirt path leads into the woods.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Узкая тропинка ведёт в лес."
+        }
+      ]
+    },
+    {
+      "name": "She takes a deep breath and starts her journey.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Она глубоко вздыхает и начинает своё путешествие."
+        }
+      ]
+    }
+  ],
+  "actors": [
+    {
+      "id": "Mother",
+      "name": "Mother",
+      "image": "/story/rr/npc/npc_mother.png",
+      "s": "f",
+      "isRight": false
+    },
+    {
+      "id": "RRH",
+      "name": "Little Red Riding Hood",
+      "image": "/story/rr/npc/npc_rr.png",
+      "s": "f"
+    }
+  ]
+}

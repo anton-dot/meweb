@@ -1,0 +1,273 @@
+{
+  "name": "The Crossroad",
+  "bg": "/story/rr/bg/04_crossroad.png",
+  "glowColor": "#C0C0E0FF",
+  "bgBlur": "#8080C0FF",
+  "dialogType": "Normal",
+  "translations": [
+    {
+      "lang": "ru-RU",
+      "name": "Перекрёсток"
+    }
+  ],
+  "actors": [
+    {
+      "id": "RRH",
+      "name": "Little Red Riding Hood",
+      "image": "/story/rr/npc/npc_rr.png",
+      "s": "f"
+    },
+    {
+      "id": "Wolf",
+      "name": "Wolf",
+      "image": "/story/rr/npc/npc_wolf.png",
+      "s": "m"
+    }
+  ],
+  "items": [
+    {
+      "name": "The Crossroad",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Перекрёсток"
+        }
+      ]
+    },
+    {
+      "name": "Little Red Riding Hood comes to a forest crossroad.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Красная Шапочка приходит к перекрёстку в лесу."
+        }
+      ]
+    },
+    {
+      "name": "Hmm… Left or right?",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хм… Налево или направо?"
+        }
+      ]
+    },
+    {
+      "name": "Suddenly, a tall grey wolf steps from the shadows.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Вдруг из тени выходит высокий серый волк."
+        }
+      ]
+    },
+    {
+      "name": "Good morning, little girl.",
+      "actor": "Wolf",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Доброе утро, девочка."
+        }
+      ]
+    },
+    {
+      "name": "Oh! Good morning, Mister Wolf.",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "О! Доброе утро, мистер Волк."
+        }
+      ]
+    },
+    {
+      "name": "What are you doing all alone in the forest?",
+      "actor": "Wolf",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что ты делаешь одна в лесу?"
+        }
+      ]
+    },
+    {
+      "name": "I’m going to visit my Grandma. She lives on the other side.",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Я иду навестить бабушку. Она живёт на другой стороне."
+        }
+      ]
+    },
+    {
+      "name": "How sweet of you! What’s in the basket?",
+      "actor": "Wolf",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Как мило! А что у тебя в корзинке?"
+        }
+      ]
+    },
+    {
+      "name": "Just some food and tea.",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Просто немного еды и чаю."
+        }
+      ]
+    },
+    {
+      "name": "Delightful. And which way will you go?",
+      "actor": "Wolf",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Прекрасно. И по какой дороге ты пойдёшь?"
+        }
+      ]
+    },
+    {
+      "name": "What should she say?",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Что ей сказать?"
+        }
+      ],
+      "actions": [
+        {
+          "text": "To the left path.",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "По левой тропинке."
+            }
+          ],
+          "isCorrect": true,
+          "score": 1
+        },
+        {
+          "text": "It’s a secret.",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Это секрет."
+            }
+          ],
+          "isCorrect": false,
+          "score": 0
+        },
+        {
+          "text": "I don’t know.",
+          "translates": [
+            {
+              "lang": "ru-RU",
+              "name": "Я не знаю."
+            }
+          ],
+          "isCorrect": false,
+          "score": 0
+        }
+      ]
+    },
+    {
+      "name": "To the left path, through the forest.",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "По левой тропинке, через лес."
+        }
+      ]
+    },
+    {
+      "name": "Very good. I’ll go the other way. Maybe I’ll see your grandma first!",
+      "actor": "Wolf",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Очень хорошо. Я пойду другим путём. Может, увижу твою бабушку раньше!"
+        }
+      ]
+    },
+    {
+      "name": "Okay… goodbye?",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Хорошо… до свидания?"
+        }
+      ]
+    },
+    {
+      "name": "Farewell, little one. Be careful!",
+      "actor": "Wolf",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Прощай, деточка. Будь осторожна!"
+        }
+      ]
+    },
+    {
+      "name": "The wolf disappears into the trees.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Волк исчезает в лесу."
+        }
+      ]
+    },
+    {
+      "name": "He was polite… but strange.",
+      "actor": "RRH",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Он был вежлив… но странный."
+        }
+      ]
+    },
+    {
+      "name": "She stands for a moment, then continues walking.",
+      "actor": "",
+      "dialogType": "Normal",
+      "translates": [
+        {
+          "lang": "ru-RU",
+          "name": "Она стоит немного, затем продолжает путь."
+        }
+      ]
+    }
+  ]
+}
