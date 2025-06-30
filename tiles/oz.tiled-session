@@ -5,6 +5,7 @@
     },
     "activeFile": "",
     "expandedProjectPaths": [
+        "."
     ],
     "file.lastUsedOpenFilter": "Все файлы (*)",
     "fileStates": {
@@ -37,7 +38,9 @@
             "scaleInDock": 1
         },
         "GIFS.tsx": {
-            "dynamicWrapping": true
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         }
     },
     "last.imagePath": "C:/Users/debug/Downloads",
@@ -46,6 +49,7 @@
     ],
     "project": "oz.tiled-project",
     "recentFiles": [
+        "GIFS.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.type": 1
