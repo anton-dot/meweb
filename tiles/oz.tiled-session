@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "GIFS.tsx",
     "expandedProjectPaths": [
         "."
     ],
@@ -46,6 +46,7 @@
     "last.imagePath": "C:/Users/debug/Downloads",
     "map.fixedSize": false,
     "openFiles": [
+        "GIFS.tsx"
     ],
     "project": "oz.tiled-project",
     "recentFiles": [
