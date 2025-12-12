@@ -1,0 +1,4141 @@
+{
+    "name": "English A0-C1",
+    "description": "English course",
+    "cats": [
+        {
+            "name": "Alphabet \u0026 Sounds",
+            "grcat": "A0",
+            "icon": "abc",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Алфавит и звуки"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Welcome",
+                    "rUrl": "a0c1/u001-n01-welcome",
+                    "img": "",
+                    "icon": "school",
+                    "aType": "Dialog",
+                    "translates": []
+                },
+                {
+                    "name": "Alphabet Intro",
+                    "rUrl": "a0c1/u001-n02-abc",
+                    "img": "",
+                    "icon": "abc",
+                    "content": "\u0022a\u0022, \u0022b\u0022, \u0022c\u0022, \u0022d\u0022, \u0022e\u0022, \u0022f\u0022, \u0022g\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "Vowel Sounds",
+                    "rUrl": "a0c1/u001-n03-vowel",
+                    "img": "",
+                    "icon": "hearing",
+                    "content": "\u0022a\u0022, \u0022e\u0022, \u0022i\u0022, \u0022o\u0022, \u0022u\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "Consonant Sounds",
+                    "rUrl": "a0c1/u001-n04-consonants",
+                    "img": "",
+                    "icon": "hearing",
+                    "content": "\u0022b\u0022, \u0022c\u0022, \u0022d\u0022, \u0022m\u0022, \u0022n\u0022, \u0022p\u0022, \u0022t\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "Simple Syllables",
+                    "rUrl": "a0c1/u001-n05-syllables",
+                    "img": "",
+                    "icon": "text_fields",
+                    "content": "\u0022ba\u0022, \u0022be\u0022, \u0022mi\u0022, \u0022no\u0022, \u0022tu\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "First Simple Words",
+                    "rUrl": "a0c1/u001-n06-simplewords",
+                    "img": "",
+                    "icon": "translate",
+                    "content": "\u0022cat\u0022, \u0022dog\u0022, \u0022sun\u0022, \u0022pen\u0022, \u0022bag\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                }
+            ]
+        },
+        {
+            "name": "Basic Words 1",
+            "grcat": "A0",
+            "icon": "folder_open",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Базовые слова 1"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Objects",
+                    "rUrl": "a0c1/u002-n01-objects",
+                    "img": "",
+                    "icon": "chair",
+                    "content": "\u0022table\u0022, \u0022chair\u0022, \u0022door\u0022, \u0022window\u0022, \u0022bed\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "Animals",
+                    "rUrl": "a0c1/u002-n02-animals",
+                    "img": "",
+                    "icon": "pets",
+                    "content": "\u0022cat\u0022, \u0022dog\u0022, \u0022bird\u0022, \u0022fish\u0022, \u0022mouse\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "Home Items",
+                    "rUrl": "a0c1/u002-n03-homeitems",
+                    "img": "",
+                    "icon": "kitchen",
+                    "content": "\u0022cup\u0022, \u0022plate\u0022, \u0022spoon\u0022, \u0022fork\u0022, \u0022glass\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "Common Nouns",
+                    "rUrl": "a0c1/u002-n04-nouns",
+                    "img": "",
+                    "icon": "people",
+                    "content": "\u0022boy\u0022, \u0022girl\u0022, \u0022friend\u0022, \u0022mother\u0022, \u0022father\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "Places",
+                    "rUrl": "a0c1/u002-n05-places",
+                    "img": "",
+                    "icon": "location_city",
+                    "content": "\u0022home\u0022, \u0022school\u0022, \u0022shop\u0022, \u0022park\u0022, \u0022street\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                }
+            ]
+        },
+        {
+            "name": "Basic Verbs",
+            "grcat": "A0",
+            "icon": "gesture",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Базовые глаголы"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Be",
+                    "rUrl": "a0c1/u003-n01-be",
+                    "img": "",
+                    "icon": "adjust",
+                    "content": "\u0022am\u0022, \u0022is\u0022, \u0022are\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "Have",
+                    "rUrl": "a0c1/u003-n02-have",
+                    "img": "",
+                    "icon": "inventory_2",
+                    "content": "\u0022have\u0022, \u0022has\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "Go \u0026 Come",
+                    "rUrl": "a0c1/u003-n03-go",
+                    "img": "",
+                    "icon": "directions_walk",
+                    "content": "\u0022go\u0022, \u0022goes\u0022, \u0022come\u0022, \u0022came\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "See \u0026 Look",
+                    "rUrl": "a0c1/u003-n04-see",
+                    "img": "",
+                    "icon": "visibility",
+                    "content": "\u0022see\u0022, \u0022look\u0022, \u0022watch\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "Want \u0026 Like",
+                    "rUrl": "a0c1/u003-n05-wantlike",
+                    "img": "",
+                    "icon": "favorite",
+                    "content": "\u0022want\u0022, \u0022like\u0022, \u0022love\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                }
+            ]
+        },
+        {
+            "name": "Pronouns \u0026 Articles",
+            "grcat": "A0",
+            "icon": "person",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Местоимения и артикли"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Personal Pronouns",
+                    "rUrl": "a0c1/u004-n01-pronouns",
+                    "img": "",
+                    "icon": "person",
+                    "content": "\u0022I\u0022, \u0022you\u0022, \u0022he\u0022, \u0022she\u0022, \u0022it\u0022, \u0022we\u0022, \u0022they\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "This \u0026 That",
+                    "rUrl": "a0c1/u004-n02-thisthat",
+                    "img": "",
+                    "icon": "open_with",
+                    "content": "\u0022this\u0022, \u0022that\u0022, \u0022these\u0022, \u0022those\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "A \u0026 An",
+                    "rUrl": "a0c1/u004-n03-aan",
+                    "img": "",
+                    "icon": "text_fields",
+                    "content": "\u0022a\u0022, \u0022an\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "My \u0026 Your",
+                    "rUrl": "a0c1/u004-n04-my",
+                    "img": "",
+                    "icon": "person_pin",
+                    "content": "\u0022my\u0022, \u0022your\u0022, \u0022his\u0022, \u0022her\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "Question Words",
+                    "rUrl": "a0c1/u004-n05-questions",
+                    "img": "",
+                    "icon": "help",
+                    "content": "\u0022what\u0022, \u0022who\u0022, \u0022where\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                }
+            ]
+        },
+        {
+            "name": "Mini Phrases",
+            "grcat": "A0",
+            "icon": "chat",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Мини-фразы"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Hello \u0026 Goodbye",
+                    "rUrl": "a0c1/u005-n01-hello",
+                    "img": "",
+                    "icon": "waving_hand",
+                    "content": "\u0022hello\u0022, \u0022hi\u0022, \u0022goodbye\u0022, \u0022bye\u0022, \u0022see you\u0022",
+                    "aType": "ListSwipe",
+                    "translates": [],
+                    "isText": true
+                },
+                {
+                    "name": "Thanks \u0026 Please",
+                    "rUrl": "a0c1/u005-n02-thanks",
+                    "img": "",
+                    "icon": "thumb_up",
+                    "content": "\u0022thank you\u0022, \u0022thanks\u0022, \u0022please\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "Yes \u0026 No",
+                    "rUrl": "a0c1/u005-n03-yesno",
+                    "img": "",
+                    "icon": "done",
+                    "content": "\u0022yes\u0022, \u0022no\u0022, \u0022maybe\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "Sorry \u0026 Excuse",
+                    "rUrl": "a0c1/u005-n04-sorry",
+                    "img": "",
+                    "icon": "sentiment_dissatisfied",
+                    "content": "\u0022sorry\u0022, \u0022excuse me\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "Simple Requests",
+                    "rUrl": "a0c1/u005-n05-requests",
+                    "img": "",
+                    "icon": "touch_app",
+                    "content": "\u0022come here\u0022, \u0022sit down\u0022, \u0022stand up\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                }
+            ]
+        },
+        {
+            "name": "Numbers \u0026 Colors",
+            "grcat": "A0",
+            "icon": "calculate",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Числа и цвета"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Numbers 1–10",
+                    "rUrl": "a0c1/u006-n01-num1",
+                    "img": "",
+                    "icon": "looks_one",
+                    "content": "\u0022one\u0022, \u0022two\u0022, \u0022three\u0022, \u0022four\u0022, \u0022five\u0022, \u0022six\u0022, \u0022seven\u0022, \u0022eight\u0022, \u0022nine\u0022, \u0022ten\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "Numbers 10–100",
+                    "rUrl": "a0c1/u006-n02-num10",
+                    "img": "",
+                    "icon": "calculate",
+                    "content": "\u0022ten\u0022, \u0022twenty\u0022, \u0022thirty\u0022, \u0022forty\u0022, \u0022fifty\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "Colors Basic",
+                    "rUrl": "a0c1/u006-n03-colors",
+                    "img": "",
+                    "icon": "palette",
+                    "content": "\u0022red\u0022, \u0022blue\u0022, \u0022green\u0022, \u0022yellow\u0022, \u0022black\u0022, \u0022white\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "Shapes",
+                    "rUrl": "a0c1/u006-n04-shapes",
+                    "img": "",
+                    "icon": "category",
+                    "content": "\u0022circle\u0022, \u0022square\u0022, \u0022triangle\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                },
+                {
+                    "name": "Sizes",
+                    "rUrl": "a0c1/u006-n05-sizes",
+                    "img": "",
+                    "icon": "straighten",
+                    "content": "\u0022big\u0022, \u0022small\u0022, \u0022long\u0022, \u0022short\u0022",
+                    "aType": "ListSwipe",
+                    "translates": []
+                }
+            ]
+        },
+        {
+            "name": "Starter Dialogues",
+            "grcat": "A0",
+            "icon": "chat_bubble",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Стартовые диалоги"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Dialogue: Hello",
+                    "rUrl": "a0c1/u007-n01-dialoghello",
+                    "img": "",
+                    "icon": "chat",
+                    "content": "\u0022hello\u0022, \u0022hi\u0022, \u0022name\u0022, \u0022I am\u0022, \u0022nice to meet you\u0022",
+                    "aType": "Dialog",
+                    "translates": []
+                },
+                {
+                    "name": "Dialogue: Home",
+                    "rUrl": "a0c1/u007-n02-dialoghome",
+                    "img": "",
+                    "icon": "home",
+                    "content": "\u0022home\u0022, \u0022room\u0022, \u0022bed\u0022, \u0022kitchen\u0022, \u0022family\u0022",
+                    "aType": "Dialog",
+                    "translates": []
+                },
+                {
+                    "name": "Dialogue: School",
+                    "rUrl": "a0c1/u007-n03-dialogschool",
+                    "img": "",
+                    "icon": "school",
+                    "content": "\u0022school\u0022, \u0022teacher\u0022, \u0022class\u0022, \u0022book\u0022, \u0022friend\u0022",
+                    "aType": "Dialog",
+                    "translates": []
+                }
+            ]
+        },
+        {
+            "name": "People & Family",
+            "grcat": "A1",
+            "icon": "groups",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Люди и семья"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Family 1",
+                    "rUrl": "a0c1/a1/u001-n01-family1",
+                    "img": "",
+                    "icon": "family_restroom",
+                    "aType": "ListSwipe",
+                    "content": "\"mother\", \"father\", \"sister\", \"brother\", \"parents\""
+                },
+                {
+                    "name": "Family 2",
+                    "rUrl": "a0c1/a1/u001-n02-family2",
+                    "img": "",
+                    "icon": "diversity_3",
+                    "aType": "ListSwipe",
+                    "content": "\"son\", \"daughter\", \"grandmother\", \"grandfather\", \"children\""
+                },
+                {
+                    "name": "Describing People 1",
+                    "rUrl": "a0c1/a1/u001-n03-describing",
+                    "img": "",
+                    "icon": "tag_faces",
+                    "aType": "ListSwipe",
+                    "content": "\"tall\", \"short\", \"young\", \"old\", \"beautiful\""
+                },
+                {
+                    "name": "Jobs Basic",
+                    "rUrl": "a0c1/a1/u001-n04-jobs",
+                    "img": "",
+                    "icon": "work",
+                    "aType": "ListSwipe",
+                    "content": "\"teacher\", \"doctor\", \"driver\", \"student\", \"worker\""
+                },
+                {
+                    "name": "People Phrases",
+                    "rUrl": "a0c1/a1/u001-n05-peoplephrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"This is my mother\", \"He is my friend\", \"I have a brother\""
+                }
+            ]
+        },
+        {
+            "name": "Food & Drinks 1",
+            "grcat": "A1",
+            "icon": "restaurant",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Еда и напитки 1"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Fruits",
+                    "rUrl": "a0c1/a1/u002-n01-fruits",
+                    "img": "",
+                    "icon": "local_grocery_store",
+                    "aType": "ListSwipe",
+                    "content": "\"apple\", \"banana\", \"orange\", \"grape\", \"pear\""
+                },
+                {
+                    "name": "Vegetables",
+                    "rUrl": "a0c1/a1/u002-n02-vegetables",
+                    "img": "",
+                    "icon": "spa",
+                    "aType": "ListSwipe",
+                    "content": "\"tomato\", \"potato\", \"carrot\", \"onion\", \"cucumber\""
+                },
+                {
+                    "name": "Drinks Basic",
+                    "rUrl": "a0c1/a1/u002-n03-drinks",
+                    "img": "",
+                    "icon": "local_cafe",
+                    "aType": "ListSwipe",
+                    "content": "\"water\", \"tea\", \"coffee\", \"juice\", \"milk\""
+                },
+                {
+                    "name": "Meals Basic",
+                    "rUrl": "a0c1/a1/u002-n04-meals",
+                    "img": "",
+                    "icon": "restaurant_menu",
+                    "aType": "ListSwipe",
+                    "content": "\"breakfast\", \"lunch\", \"dinner\", \"snack\", \"meal\""
+                },
+                {
+                    "name": "Food Phrases",
+                    "rUrl": "a0c1/a1/u002-n05-foodphrases",
+                    "img": "",
+                    "icon": "chat_bubble",
+                    "aType": "ListSwipe",
+                    "content": "\"I am hungry\", \"I like pizza\", \"I drink coffee\""
+                }
+            ]
+        },
+        {
+            "name": "Daily Routines",
+            "grcat": "A1",
+            "icon": "schedule",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Ежедневные дела"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Morning",
+                    "rUrl": "a0c1/a1/u003-n01-morning",
+                    "img": "",
+                    "icon": "wb_sunny",
+                    "aType": "ListSwipe",
+                    "content": "\"wake up\", \"get up\", \"brush teeth\", \"wash face\", \"have breakfast\""
+                },
+                {
+                    "name": "Afternoon",
+                    "rUrl": "a0c1/a1/u003-n02-afternoon",
+                    "img": "",
+                    "icon": "wb_twilight",
+                    "aType": "ListSwipe",
+                    "content": "\"have lunch\", \"study\", \"work\", \"meet friends\""
+                },
+                {
+                    "name": "Evening",
+                    "rUrl": "a0c1/a1/u003-n03-evening",
+                    "img": "",
+                    "icon": "nights_stay",
+                    "aType": "ListSwipe",
+                    "content": "\"have dinner\", \"watch TV\", \"read\", \"go to bed\""
+                },
+                {
+                    "name": "Frequency Words",
+                    "rUrl": "a0c1/a1/u003-n04-frequency",
+                    "img": "",
+                    "icon": "repeat",
+                    "aType": "ListSwipe",
+                    "content": "\"always\", \"usually\", \"often\", \"sometimes\", \"never\""
+                },
+                {
+                    "name": "Routine Phrases",
+                    "rUrl": "a0c1/a1/u003-n05-routinephrases",
+                    "img": "",
+                    "icon": "chat_bubble_outline",
+                    "aType": "ListSwipe",
+                    "content": "\"I go to work\", \"I study English every day\", \"I go to bed at ten\""
+                }
+            ]
+        },
+        {
+            "name": "Places & Shops",
+            "grcat": "A1",
+            "icon": "storefront",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Места и магазины"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "City Basics",
+                    "rUrl": "a0c1/a1/u004-n01-city",
+                    "img": "",
+                    "icon": "location_city",
+                    "aType": "ListSwipe",
+                    "content": "\"street\", \"square\", \"bridge\", \"river\", \"park\""
+                },
+                {
+                    "name": "Shops",
+                    "rUrl": "a0c1/a1/u004-n02-shops",
+                    "img": "",
+                    "icon": "shopping_bag",
+                    "aType": "ListSwipe",
+                    "content": "\"supermarket\", \"bakery\", \"pharmacy\", \"bookshop\", \"market\""
+                },
+                {
+                    "name": "Directions Basic",
+                    "rUrl": "a0c1/a1/u004-n03-directions",
+                    "img": "",
+                    "icon": "explore",
+                    "aType": "ListSwipe",
+                    "content": "\"left\", \"right\", \"straight\", \"near\", \"far\""
+                },
+                {
+                    "name": "Place Phrases",
+                    "rUrl": "a0c1/a1/u004-n04-placephrases",
+                    "img": "",
+                    "icon": "assistant_direction",
+                    "aType": "ListSwipe",
+                    "content": "\"Where is the bank?\", \"Go straight and turn left\", \"It is near the park\""
+                }
+            ]
+        },
+        {
+            "name": "Time & Calendar",
+            "grcat": "A1",
+            "icon": "calendar_month",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Время и календарь"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Days of Week",
+                    "rUrl": "a0c1/a1/u005-n01-days",
+                    "img": "",
+                    "icon": "view_week",
+                    "aType": "ListSwipe",
+                    "content": "\"Monday\", \"Tuesday\", \"Wednesday\", \"Thursday\", \"Friday\", \"Saturday\", \"Sunday\""
+                },
+                {
+                    "name": "Months",
+                    "rUrl": "a0c1/a1/u005-n02-months",
+                    "img": "",
+                    "icon": "date_range",
+                    "aType": "ListSwipe",
+                    "content": "\"January\", \"February\", \"March\", \"April\", \"May\", \"June\""
+                },
+                {
+                    "name": "Simple Time",
+                    "rUrl": "a0c1/a1/u005-n03-time",
+                    "img": "",
+                    "icon": "schedule",
+                    "aType": "ListSwipe",
+                    "content": "\"morning\", \"afternoon\", \"evening\", \"night\", \"today\", \"tomorrow\""
+                },
+                {
+                    "name": "Time Phrases",
+                    "rUrl": "a0c1/a1/u005-n04-timephrases",
+                    "img": "",
+                    "icon": "alarm",
+                    "aType": "ListSwipe",
+                    "content": "\"What time is it?\", \"See you tomorrow\", \"Today is Monday\""
+                }
+            ]
+        },
+        {
+            "name": "Feelings 1",
+            "grcat": "A1",
+            "icon": "mood",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Чувства 1"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Basic Feelings",
+                    "rUrl": "a0c1/a1/u006-n01-feelings",
+                    "img": "",
+                    "icon": "sentiment_satisfied",
+                    "aType": "ListSwipe",
+                    "content": "\"happy\", \"sad\", \"angry\", \"afraid\", \"tired\""
+                },
+                {
+                    "name": "Physical States",
+                    "rUrl": "a0c1/a1/u006-n02-states",
+                    "img": "",
+                    "icon": "sick",
+                    "aType": "ListSwipe",
+                    "content": "\"hungry\", \"thirsty\", \"hot\", \"cold\""
+                },
+                {
+                    "name": "Feeling Phrases",
+                    "rUrl": "a0c1/a1/u006-n03-feelingphrases",
+                    "img": "",
+                    "icon": "sms",
+                    "aType": "ListSwipe",
+                    "content": "\"I am happy\", \"I feel tired\", \"I am cold\""
+                }
+            ]
+        },
+        {
+            "name": "Starter Dialogues A1",
+            "grcat": "A1",
+            "icon": "chat_bubble",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Стартовые диалоги A1"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Dialogue: At Home",
+                    "rUrl": "a0c1/a1/u007-n01-dialog-home",
+                    "img": "",
+                    "icon": "home",
+                    "aType": "Dialog",
+                    "content": "\"room\", \"kitchen\", \"living room\", \"clean\", \"cook\""
+                },
+                {
+                    "name": "Dialogue: At the Shop",
+                    "rUrl": "a0c1/a1/u007-n02-dialog-shop",
+                    "img": "",
+                    "icon": "shopping_cart",
+                    "aType": "Dialog",
+                    "content": "\"How much is it?\", \"I would like this\", \"Do you have\", \"cash\", \"card\""
+                },
+                {
+                    "name": "Dialogue: At School",
+                    "rUrl": "a0c1/a1/u007-n03-dialog-school",
+                    "img": "",
+                    "icon": "school",
+                    "aType": "Dialog",
+                    "content": "\"lesson\", \"homework\", \"teacher\", \"break\", \"classroom\""
+                },
+                {
+                    "name": "Dialogue: At Café",
+                    "rUrl": "a0c1/a1/u007-n04-dialog-cafe",
+                    "img": "",
+                    "icon": "local_cafe",
+                    "aType": "Dialog",
+                    "content": "\"menu\", \"table\", \"order\", \"bill\", \"tip\""
+                }
+            ]
+        },
+        {
+            "name": "Food & Drinks 2",
+            "grcat": "A1+",
+            "icon": "restaurant_menu",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Еда и напитки 2"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Dishes",
+                    "rUrl": "a0c1/a1p/u001-n01-dishes",
+                    "img": "",
+                    "icon": "restaurant",
+                    "aType": "ListSwipe",
+                    "content": "\"soup\", \"salad\", \"burger\", \"sandwich\", \"pasta\", \"steak\", \"omelet\""
+                },
+                {
+                    "name": "Ingredients",
+                    "rUrl": "a0c1/a1p/u001-n02-ingredients",
+                    "img": "",
+                    "icon": "kitchen",
+                    "aType": "ListSwipe",
+                    "content": "\"salt\", \"sugar\", \"butter\", \"oil\", \"flour\", \"cheese\", \"spice\""
+                },
+                {
+                    "name": "Taste Words",
+                    "rUrl": "a0c1/a1p/u001-n03-taste",
+                    "img": "",
+                    "icon": "emoji_food_beverage",
+                    "aType": "ListSwipe",
+                    "content": "\"sweet\", \"sour\", \"bitter\", \"salty\", \"spicy\", \"tasty\", \"delicious\""
+                },
+                {
+                    "name": "Restaurant Items",
+                    "rUrl": "a0c1/a1p/u001-n04-rest-items",
+                    "img": "",
+                    "icon": "local_dining",
+                    "aType": "ListSwipe",
+                    "content": "\"menu\", \"bill\", \"napkin\", \"plate\", \"knife\", \"fork\", \"spoon\", \"glass\""
+                },
+                {
+                    "name": "Table Verbs",
+                    "rUrl": "a0c1/a1p/u001-n05-table-verbs",
+                    "img": "",
+                    "icon": "gesture",
+                    "aType": "ListSwipe",
+                    "content": "\"order\", \"serve\", \"taste\", \"share\", \"pay\", \"eat out\""
+                },
+                {
+                    "name": "Food Phrases 2",
+                    "rUrl": "a0c1/a1p/u001-n06-foodphrases2",
+                    "img": "",
+                    "icon": "chat_bubble",
+                    "aType": "ListSwipe",
+                    "content": "\"Can I see the menu?\", \"I would like to order\", \"The food is delicious\", \"Can I have the bill?\", \"I am full\""
+                }
+            ]
+        },
+        {
+            "name": "Weather",
+            "grcat": "A1+",
+            "icon": "cloud",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Погода"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Weather Words",
+                    "rUrl": "a0c1/a1p/u002-n01-weather",
+                    "img": "",
+                    "icon": "cloud",
+                    "aType": "ListSwipe",
+                    "content": "\"sunny\", \"cloudy\", \"rainy\", \"snowy\", \"windy\", \"stormy\""
+                },
+                {
+                    "name": "Seasons",
+                    "rUrl": "a0c1/a1p/u002-n02-seasons",
+                    "img": "",
+                    "icon": "wb_sunny",
+                    "aType": "ListSwipe",
+                    "content": "\"spring\", \"summer\", \"autumn\", \"fall\", \"winter\""
+                },
+                {
+                    "name": "Temperature",
+                    "rUrl": "a0c1/a1p/u002-n03-temperature",
+                    "img": "",
+                    "icon": "device_thermostat",
+                    "aType": "ListSwipe",
+                    "content": "\"hot\", \"warm\", \"cool\", \"cold\", \"freezing\""
+                },
+                {
+                    "name": "Weather Actions",
+                    "rUrl": "a0c1/a1p/u002-n04-weather-verbs",
+                    "img": "",
+                    "icon": "grain",
+                    "aType": "ListSwipe",
+                    "content": "\"rain\", \"snow\", \"blow\", \"shine\", \"freeze\""
+                },
+                {
+                    "name": "Weather Phrases",
+                    "rUrl": "a0c1/a1p/u002-n05-weather-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"It is sunny today\", \"It is going to rain\", \"The weather is terrible\", \"It is very cold outside\", \"What is the weather like?\""
+                }
+            ]
+        },
+        {
+            "name": "Transport Basics",
+            "grcat": "A1+",
+            "icon": "directions_bus",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Транспорт (база)"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Public Transport",
+                    "rUrl": "a0c1/a1p/u003-n01-public",
+                    "img": "",
+                    "icon": "directions_bus",
+                    "aType": "ListSwipe",
+                    "content": "\"bus\", \"train\", \"metro\", \"tram\", \"station\", \"stop\""
+                },
+                {
+                    "name": "Private Transport",
+                    "rUrl": "a0c1/a1p/u003-n02-private",
+                    "img": "",
+                    "icon": "directions_car",
+                    "aType": "ListSwipe",
+                    "content": "\"car\", \"bike\", \"bicycle\", \"taxi\", \"motorbike\""
+                },
+                {
+                    "name": "Travel Verbs",
+                    "rUrl": "a0c1/a1p/u003-n03-travel-verbs",
+                    "img": "",
+                    "icon": "alt_route",
+                    "aType": "ListSwipe",
+                    "content": "\"drive\", \"ride\", \"take\", \"get on\", \"get off\", \"arrive\", \"leave\""
+                },
+                {
+                    "name": "Tickets & Signs",
+                    "rUrl": "a0c1/a1p/u003-n04-tickets",
+                    "img": "",
+                    "icon": "confirmation_number",
+                    "aType": "ListSwipe",
+                    "content": "\"ticket\", \"platform\", \"gate\", \"arrival\", \"departure\", \"delay\""
+                },
+                {
+                    "name": "Transport Phrases",
+                    "rUrl": "a0c1/a1p/u003-n05-transport-phrases",
+                    "img": "",
+                    "icon": "chat_bubble",
+                    "aType": "ListSwipe",
+                    "content": "\"Where is the bus stop?\", \"I need a taxi\", \"The train is late\", \"Which platform is it?\", \"How much is the ticket?\""
+                }
+            ]
+        },
+        {
+            "name": "Jobs & Professions",
+            "grcat": "A1+",
+            "icon": "work",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Профессии"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Jobs 1",
+                    "rUrl": "a0c1/a1p/u004-n01-jobs1",
+                    "img": "",
+                    "icon": "badge",
+                    "aType": "ListSwipe",
+                    "content": "\"teacher\", \"doctor\", \"nurse\", \"engineer\", \"driver\""
+                },
+                {
+                    "name": "Jobs 2",
+                    "rUrl": "a0c1/a1p/u004-n02-jobs2",
+                    "img": "",
+                    "icon": "engineering",
+                    "aType": "ListSwipe",
+                    "content": "\"chef\", \"waiter\", \"police officer\", \"cashier\", \"manager\""
+                },
+                {
+                    "name": "Workplaces",
+                    "rUrl": "a0c1/a1p/u004-n03-workplaces",
+                    "img": "",
+                    "icon": "apartment",
+                    "aType": "ListSwipe",
+                    "content": "\"office\", \"hospital\", \"restaurant\", \"factory\", \"store\""
+                },
+                {
+                    "name": "Job Actions",
+                    "rUrl": "a0c1/a1p/u004-n04-job-verbs",
+                    "img": "",
+                    "icon": "build",
+                    "aType": "ListSwipe",
+                    "content": "\"work\", \"earn\", \"help\", \"serve\", \"build\", \"fix\""
+                },
+                {
+                    "name": "Job Phrases",
+                    "rUrl": "a0c1/a1p/u004-n05-job-phrases",
+                    "img": "",
+                    "icon": "record_voice_over",
+                    "aType": "ListSwipe",
+                    "content": "\"What do you do?\", \"I work in an office\", \"She is a doctor\", \"He works at a restaurant\""
+                }
+            ]
+        },
+        {
+            "name": "At Home",
+            "grcat": "A1+",
+            "icon": "holiday_village",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Дома"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Rooms",
+                    "rUrl": "a0c1/a1p/u005-n01-rooms",
+                    "img": "",
+                    "icon": "holiday_village",
+                    "aType": "ListSwipe",
+                    "content": "\"living room\", \"bedroom\", \"kitchen\", \"bathroom\", \"hall\""
+                },
+                {
+                    "name": "Furniture",
+                    "rUrl": "a0c1/a1p/u005-n02-furniture",
+                    "img": "",
+                    "icon": "weekend",
+                    "aType": "ListSwipe",
+                    "content": "\"sofa\", \"chair\", \"table\", \"desk\", \"wardrobe\""
+                },
+                {
+                    "name": "Household Items",
+                    "rUrl": "a0c1/a1p/u005-n03-household",
+                    "img": "",
+                    "icon": "cleaning_services",
+                    "aType": "ListSwipe",
+                    "content": "\"lamp\", \"mirror\", \"clock\", \"carpet\", \"curtain\""
+                },
+                {
+                    "name": "Home Phrases",
+                    "rUrl": "a0c1/a1p/u005-n04-home-phrases",
+                    "img": "",
+                    "icon": "home",
+                    "aType": "ListSwipe",
+                    "content": "\"I live in a flat\", \"My room is small\", \"The kitchen is big\""
+                }
+            ]
+        },
+        {
+            "name": "Travel Phrases",
+            "grcat": "A1+",
+            "icon": "flight",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Фразы для путешествий"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "At the Station",
+                    "rUrl": "a0c1/a1p/u006-n01-station",
+                    "img": "",
+                    "icon": "train",
+                    "aType": "ListSwipe",
+                    "content": "\"Where is the station?\", \"When does the train leave?\", \"Which platform?\""
+                },
+                {
+                    "name": "In the City",
+                    "rUrl": "a0c1/a1p/u006-n02-city-travel",
+                    "img": "",
+                    "icon": "location_on",
+                    "aType": "ListSwipe",
+                    "content": "\"How do I get to\", \"Is it far?\", \"Can I walk there?\""
+                },
+                {
+                    "name": "At the Hotel",
+                    "rUrl": "a0c1/a1p/u006-n03-hotel-travel",
+                    "img": "",
+                    "icon": "hotel",
+                    "aType": "ListSwipe",
+                    "content": "\"I have a reservation\", \"I need a room\", \"What time is checkout?\""
+                },
+                {
+                    "name": "Emergency Phrases",
+                    "rUrl": "a0c1/a1p/u006-n04-emergency",
+                    "img": "",
+                    "icon": "report_problem",
+                    "aType": "ListSwipe",
+                    "content": "\"I need help\", \"Call the police\", \"I am lost\""
+                }
+            ]
+        },
+        {
+            "name": "Dialogues A1+",
+            "grcat": "A1+",
+            "icon": "chat_bubble",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Диалоги A1+"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Dialogue: Restaurant",
+                    "rUrl": "a0c1/a1p/u007-n01-dialog-restaurant",
+                    "img": "",
+                    "icon": "restaurant",
+                    "aType": "Dialog",
+                    "content": "\"table\", \"menu\", \"order\", \"bill\", \"tip\""
+                },
+                {
+                    "name": "Dialogue: Transport",
+                    "rUrl": "a0c1/a1p/u007-n02-dialog-transport",
+                    "img": "",
+                    "icon": "directions_bus",
+                    "aType": "Dialog",
+                    "content": "\"bus stop\", \"ticket\", \"get on\", \"get off\", \"next station\""
+                },
+                {
+                    "name": "Dialogue: Doctor",
+                    "rUrl": "a0c1/a1p/u007-n03-dialog-doctor",
+                    "img": "",
+                    "icon": "local_hospital",
+                    "aType": "Dialog",
+                    "content": "\"I feel sick\", \"I have a headache\", \"How long?\", \"Take this medicine\""
+                }
+            ]
+        },
+        {
+            "name": "Travel: Airport & Flight",
+            "grcat": "A2",
+            "icon": "flight_takeoff",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Путешествия: аэропорт и перелет"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Airport Words 1",
+                    "rUrl": "a0c1/a2/u001-n01-airport1",
+                    "img": "",
+                    "icon": "flight_takeoff",
+                    "aType": "ListSwipe",
+                    "content": "\"airport\", \"terminal\", \"check in\", \"boarding\", \"gate\""
+                },
+                {
+                    "name": "Airport Words 2",
+                    "rUrl": "a0c1/a2/u001-n02-airport2",
+                    "img": "",
+                    "icon": "luggage",
+                    "aType": "ListSwipe",
+                    "content": "\"security\", \"passport\", \"luggage\", \"carry on\", \"boarding pass\""
+                },
+                {
+                    "name": "Flight Problems",
+                    "rUrl": "a0c1/a2/u001-n03-flight-problems",
+                    "img": "",
+                    "icon": "report_problem",
+                    "aType": "ListSwipe",
+                    "content": "\"delay\", \"cancelled\", \"lost luggage\", \"missed flight\", \"connection\""
+                },
+                {
+                    "name": "Travel Phrases: Airport",
+                    "rUrl": "a0c1/a2/u001-n04-airport-phrases",
+                    "img": "",
+                    "icon": "record_voice_over",
+                    "aType": "ListSwipe",
+                    "content": "\"Where is the check in?\", \"When does the flight leave?\", \"My luggage is lost\", \"Where is gate ten?\""
+                }
+            ]
+        },
+        {
+            "name": "Travel: Hotel & Accommodation",
+            "grcat": "A2",
+            "icon": "hotel",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Путешествия: отель и жилье"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Hotel Words 1",
+                    "rUrl": "a0c1/a2/u002-n01-hotel1",
+                    "img": "",
+                    "icon": "hotel",
+                    "aType": "ListSwipe",
+                    "content": "\"reception\", \"reservation\", \"single room\", \"double room\", \"key\""
+                },
+                {
+                    "name": "Hotel Words 2",
+                    "rUrl": "a0c1/a2/u002-n02-hotel2",
+                    "img": "",
+                    "icon": "meeting_room",
+                    "aType": "ListSwipe",
+                    "content": "\"check in\", \"check out\", \"breakfast\", \"wifi\", \"air conditioning\""
+                },
+                {
+                    "name": "Hotel Problems",
+                    "rUrl": "a0c1/a2/u002-n03-hotel-problems",
+                    "img": "",
+                    "icon": "report",
+                    "aType": "ListSwipe",
+                    "content": "\"noise\", \"dirty\", \"broken\", \"too small\", \"too expensive\""
+                },
+                {
+                    "name": "Travel Phrases: Hotel",
+                    "rUrl": "a0c1/a2/u002-n04-hotel-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"I have a reservation\", \"I would like a room\", \"Can I change my room?\", \"What time is check out?\""
+                }
+            ]
+        },
+        {
+            "name": "City & Directions 2",
+            "grcat": "A2",
+            "icon": "location_on",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Город и маршруты 2"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "City Places 2",
+                    "rUrl": "a0c1/a2/u003-n01-city2",
+                    "img": "",
+                    "icon": "location_city",
+                    "aType": "ListSwipe",
+                    "content": "\"museum\", \"bank\", \"post office\", \"bus station\", \"railway station\""
+                },
+                {
+                    "name": "Street Objects",
+                    "rUrl": "a0c1/a2/u003-n02-street",
+                    "img": "",
+                    "icon": "signpost",
+                    "aType": "ListSwipe",
+                    "content": "\"crossing\", \"traffic lights\", \"corner\", \"sidewalk\", \"parking\""
+                },
+                {
+                    "name": "Directions 2",
+                    "rUrl": "a0c1/a2/u003-n03-directions2",
+                    "img": "",
+                    "icon": "assistant_direction",
+                    "aType": "ListSwipe",
+                    "content": "\"turn left\", \"turn right\", \"go past\", \"across from\", \"next to\""
+                },
+                {
+                    "name": "Direction Phrases",
+                    "rUrl": "a0c1/a2/u003-n04-direction-phrases",
+                    "img": "",
+                    "icon": "explore",
+                    "aType": "ListSwipe",
+                    "content": "\"How do I get to the museum?\", \"Is it far?\", \"Go straight and then turn right\", \"It is across from the bank\""
+                }
+            ]
+        },
+        {
+            "name": "Work & Office 1",
+            "grcat": "A2",
+            "icon": "work",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Работа и офис 1"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Office Objects",
+                    "rUrl": "a0c1/a2/u004-n01-office-objects",
+                    "img": "",
+                    "icon": "desktop_windows",
+                    "aType": "ListSwipe",
+                    "content": "\"desk\", \"computer\", \"printer\", \"notebook\", \"folder\""
+                },
+                {
+                    "name": "Office People",
+                    "rUrl": "a0c1/a2/u004-n02-office-people",
+                    "img": "",
+                    "icon": "groups",
+                    "aType": "ListSwipe",
+                    "content": "\"manager\", \"assistant\", \"colleague\", \"client\", \"team\""
+                },
+                {
+                    "name": "Work Tasks",
+                    "rUrl": "a0c1/a2/u004-n03-work-tasks",
+                    "img": "",
+                    "icon": "checklist",
+                    "aType": "ListSwipe",
+                    "content": "\"task\", \"meeting\", \"deadline\", \"project\", \"presentation\""
+                },
+                {
+                    "name": "Office Phrases",
+                    "rUrl": "a0c1/a2/u004-n04-office-phrases",
+                    "img": "",
+                    "icon": "record_voice_over",
+                    "aType": "ListSwipe",
+                    "content": "\"I work full time\", \"We have a meeting today\", \"The deadline is tomorrow\", \"I need to finish this project\""
+                }
+            ]
+        },
+        {
+            "name": "Health & Body",
+            "grcat": "A2",
+            "icon": "healing",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Здоровье и тело"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Body Parts",
+                    "rUrl": "a0c1/a2/u005-n01-body",
+                    "img": "",
+                    "icon": "accessibility_new",
+                    "aType": "ListSwipe",
+                    "content": "\"head\", \"arm\", \"leg\", \"back\", \"stomach\""
+                },
+                {
+                    "name": "Common Symptoms",
+                    "rUrl": "a0c1/a2/u005-n02-symptoms",
+                    "img": "",
+                    "icon": "sick",
+                    "aType": "ListSwipe",
+                    "content": "\"headache\", \"cold\", \"cough\", \"fever\", \"pain\""
+                },
+                {
+                    "name": "At the Doctor",
+                    "rUrl": "a0c1/a2/u005-n03-doctor-words",
+                    "img": "",
+                    "icon": "local_hospital",
+                    "aType": "ListSwipe",
+                    "content": "\"appointment\", \"medicine\", \"pill\", \"prescription\", \"clinic\""
+                },
+                {
+                    "name": "Health Phrases",
+                    "rUrl": "a0c1/a2/u005-n04-health-phrases",
+                    "img": "",
+                    "icon": "chat_bubble",
+                    "aType": "ListSwipe",
+                    "content": "\"I do not feel well\", \"I have a headache\", \"I need to see a doctor\", \"Take this medicine twice a day\""
+                }
+            ]
+        },
+        {
+            "name": "Clothes & Shopping",
+            "grcat": "A2",
+            "icon": "checkroom",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Одежда и покупки"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Clothes 1",
+                    "rUrl": "a0c1/a2/u006-n01-clothes1",
+                    "img": "",
+                    "icon": "checkroom",
+                    "aType": "ListSwipe",
+                    "content": "\"shirt\", \"T-shirt\", \"jacket\", \"coat\", \"trousers\""
+                },
+                {
+                    "name": "Clothes 2",
+                    "rUrl": "a0c1/a2/u006-n02-clothes2",
+                    "img": "",
+                    "icon": "shopping_bag",
+                    "aType": "ListSwipe",
+                    "content": "\"skirt\", \"dress\", \"shoes\", \"boots\", \"hat\""
+                },
+                {
+                    "name": "Sizes & Prices",
+                    "rUrl": "a0c1/a2/u006-n03-sizes-prices",
+                    "img": "",
+                    "icon": "price_change",
+                    "aType": "ListSwipe",
+                    "content": "\"size\", \"small\", \"medium\", \"large\", \"price\", \"discount\""
+                },
+                {
+                    "name": "Shopping Phrases",
+                    "rUrl": "a0c1/a2/u006-n04-shopping-phrases",
+                    "img": "",
+                    "icon": "shopping_cart",
+                    "aType": "ListSwipe",
+                    "content": "\"Can I try this on?\", \"Do you have a bigger size?\", \"How much is it?\", \"I will take it\""
+                }
+            ]
+        },
+        {
+            "name": "Free Time & Hobbies",
+            "grcat": "A2",
+            "icon": "sports_esports",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Свободное время и хобби"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Hobbies",
+                    "rUrl": "a0c1/a2/u007-n01-hobbies",
+                    "img": "",
+                    "icon": "self_improvement",
+                    "aType": "ListSwipe",
+                    "content": "\"reading\", \"cooking\", \"painting\", \"playing games\", \"gardening\""
+                },
+                {
+                    "name": "Sports",
+                    "rUrl": "a0c1/a2/u007-n02-sports",
+                    "img": "",
+                    "icon": "sports_soccer",
+                    "aType": "ListSwipe",
+                    "content": "\"football\", \"basketball\", \"swimming\", \"running\", \"cycling\""
+                },
+                {
+                    "name": "Leisure Places",
+                    "rUrl": "a0c1/a2/u007-n03-leisure-places",
+                    "img": "",
+                    "icon": "theaters",
+                    "aType": "ListSwipe",
+                    "content": "\"cinema\", \"gym\", \"park\", \"stadium\", \"swimming pool\""
+                },
+                {
+                    "name": "Free Time Phrases",
+                    "rUrl": "a0c1/a2/u007-n04-free-time-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"In my free time I read\", \"I like going to the gym\", \"We play football every weekend\""
+                }
+            ]
+        },
+        {
+            "name": "Dialogues A2",
+            "grcat": "A2",
+            "icon": "chat_bubble",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Диалоги A2"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Dialogue: Airport",
+                    "rUrl": "a0c1/a2/u008-n01-dialog-airport",
+                    "img": "",
+                    "icon": "flight",
+                    "aType": "Dialog",
+                    "content": "\"check in\", \"boarding pass\", \"delay\", \"gate\", \"luggage\""
+                },
+                {
+                    "name": "Dialogue: Hotel",
+                    "rUrl": "a0c1/a2/u008-n02-dialog-hotel",
+                    "img": "",
+                    "icon": "hotel",
+                    "aType": "Dialog",
+                    "content": "\"reservation\", \"room\", \"breakfast\", \"change my room\", \"too noisy\""
+                },
+                {
+                    "name": "Dialogue: Doctor",
+                    "rUrl": "a0c1/a2/u008-n03-dialog-doctor",
+                    "img": "",
+                    "icon": "local_hospital",
+                    "aType": "Dialog",
+                    "content": "\"What is the problem?\", \"I have a cough\", \"You need some rest\", \"Take this medicine\""
+                },
+                {
+                    "name": "Dialogue: Shopping",
+                    "rUrl": "a0c1/a2/u008-n04-dialog-shopping",
+                    "img": "",
+                    "icon": "shopping_cart",
+                    "aType": "Dialog",
+                    "content": "\"Can I help you?\", \"I am looking for a jacket\", \"Do you have this in blue?\", \"I will pay by card\""
+                }
+            ]
+        },
+        {
+            "name": "Extended Verbs",
+            "grcat": "A2+",
+            "icon": "bolt",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Расширенные глаголы"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Common Verbs 3",
+                    "rUrl": "a0c1/a2p/u001-n01-verbs3",
+                    "img": "",
+                    "icon": "bolt",
+                    "aType": "ListSwipe",
+                    "content": "\"borrow\", \"lend\", \"bring\", \"take\", \"keep\", \"break\""
+                },
+                {
+                    "name": "Movement Verbs",
+                    "rUrl": "a0c1/a2p/u001-n02-move-verbs",
+                    "img": "",
+                    "icon": "directions_run",
+                    "aType": "ListSwipe",
+                    "content": "\"enter\", \"exit\", \"approach\", \"leave\", \"hurry\", \"slow down\""
+                },
+                {
+                    "name": "Small Phrasal Verbs (Intro)",
+                    "rUrl": "a0c1/a2p/u001-n03-phrasal-intro",
+                    "img": "",
+                    "icon": "arrow_circle_right",
+                    "aType": "ListSwipe",
+                    "content": "\"look for\", \"look after\", \"turn on\", \"turn off\", \"pick up\", \"put down\""
+                },
+                {
+                    "name": "Verb Phrases",
+                    "rUrl": "a0c1/a2p/u001-n04-verb-phrases",
+                    "img": "",
+                    "icon": "chat_bubble",
+                    "aType": "ListSwipe",
+                    "content": "\"I will pick you up\", \"Please turn off the light\", \"I am looking for my keys\""
+                }
+            ]
+        },
+        {
+            "name": "Daily Situations",
+            "grcat": "A2+",
+            "icon": "home_repair_service",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Повседневные ситуации"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "At the Pharmacy",
+                    "rUrl": "a0c1/a2p/u002-n01-pharmacy",
+                    "img": "",
+                    "icon": "medication",
+                    "aType": "ListSwipe",
+                    "content": "\"medicine\", \"painkiller\", \"bandage\", \"cream\", \"allergy\""
+                },
+                {
+                    "name": "Home Problems",
+                    "rUrl": "a0c1/a2p/u002-n02-home-problems",
+                    "img": "",
+                    "icon": "build",
+                    "aType": "ListSwipe",
+                    "content": "\"broken\", \"leak\", \"no hot water\", \"electricity\", \"repair\""
+                },
+                {
+                    "name": "Service Words",
+                    "rUrl": "a0c1/a2p/u002-n03-service",
+                    "img": "",
+                    "icon": "home_repair_service",
+                    "aType": "ListSwipe",
+                    "content": "\"service\", \"appointment\", \"bill\", \"customer\", \"support\""
+                },
+                {
+                    "name": "Situation Phrases",
+                    "rUrl": "a0c1/a2p/u002-n04-situation-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"Can you help me?\", \"Something is broken\", \"I need assistance\", \"Where can I buy this?\""
+                }
+            ]
+        },
+        {
+            "name": "Restaurants Advanced",
+            "grcat": "A2+",
+            "icon": "local_dining",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Рестораны (продвинуто)"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Restaurant Words 2",
+                    "rUrl": "a0c1/a2p/u003-n01-rest2",
+                    "img": "",
+                    "icon": "restaurant_menu",
+                    "aType": "ListSwipe",
+                    "content": "\"reservation\", \"waiter\", \"chef\", \"special\", \"allergy\""
+                },
+                {
+                    "name": "Meals & Courses",
+                    "rUrl": "a0c1/a2p/u003-n02-meals-courses",
+                    "img": "",
+                    "icon": "restaurant",
+                    "aType": "ListSwipe",
+                    "content": "\"starter\", \"main course\", \"dessert\", \"side dish\", \"beverage\""
+                },
+                {
+                    "name": "Restaurant Problems",
+                    "rUrl": "a0c1/a2p/u003-n03-rest-problems",
+                    "img": "",
+                    "icon": "error",
+                    "aType": "ListSwipe",
+                    "content": "\"cold food\", \"wrong order\", \"too slow\", \"too salty\", \"overcooked\""
+                },
+                {
+                    "name": "Restaurant Phrases 2",
+                    "rUrl": "a0c1/a2p/u003-n04-rest-phrases2",
+                    "img": "",
+                    "icon": "chat_bubble",
+                    "aType": "ListSwipe",
+                    "content": "\"Can we have the menu?\", \"This is not what I ordered\", \"Could you warm this up?\", \"The food is excellent\""
+                }
+            ]
+        },
+        {
+            "name": "Transport Advanced",
+            "grcat": "A2+",
+            "icon": "commute",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Транспорт (продвинуто)"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Transport Words 2",
+                    "rUrl": "a0c1/a2p/u004-n01-transport2",
+                    "img": "",
+                    "icon": "tram",
+                    "aType": "ListSwipe",
+                    "content": "\"platform\", \"schedule\", \"arrival\", \"departure\", \"express\""
+                },
+                {
+                    "name": "Tickets & Payments",
+                    "rUrl": "a0c1/a2p/u004-n02-tickets-pay",
+                    "img": "",
+                    "icon": "confirmation_number",
+                    "aType": "ListSwipe",
+                    "content": "\"ticket office\", \"return ticket\", \"single ticket\", \"cash\", \"card\""
+                },
+                {
+                    "name": "Traffic Words",
+                    "rUrl": "a0c1/a2p/u004-n03-traffic",
+                    "img": "",
+                    "icon": "traffic",
+                    "aType": "ListSwipe",
+                    "content": "\"traffic jam\", \"accident\", \"speed limit\", \"roundabout\", \"highway\""
+                },
+                {
+                    "name": "Transport Phrases 2",
+                    "rUrl": "a0c1/a2p/u004-n04-transport-phrases2",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"Where does this train go?\", \"Is this the right bus?\", \"The traffic is terrible today\", \"How long is the ride?\""
+                }
+            ]
+        },
+        {
+            "name": "Opinions & Reactions",
+            "grcat": "A2+",
+            "icon": "forum",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Мнения и реакции"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Opinion Words",
+                    "rUrl": "a0c1/a2p/u005-n01-opinion-words",
+                    "img": "",
+                    "icon": "record_voice_over",
+                    "aType": "ListSwipe",
+                    "content": "\"I think\", \"I guess\", \"I believe\", \"in my opinion\", \"probably\""
+                },
+                {
+                    "name": "Agree & Disagree",
+                    "rUrl": "a0c1/a2p/u005-n02-agree-disagree",
+                    "img": "",
+                    "icon": "thumbs_up_down",
+                    "aType": "ListSwipe",
+                    "content": "\"I agree\", \"I disagree\", \"maybe you’re right\", \"I am not sure\""
+                },
+                {
+                    "name": "Reactions",
+                    "rUrl": "a0c1/a2p/u005-n03-reactions",
+                    "img": "",
+                    "icon": "emoji_emotions",
+                    "aType": "ListSwipe",
+                    "content": "\"really?\", \"wow\", \"that’s great\", \"that’s terrible\", \"oh no\""
+                },
+                {
+                    "name": "Opinion Phrases",
+                    "rUrl": "a0c1/a2p/u005-n04-opinion-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"I think it's too expensive\", \"Maybe we should go\", \"I am not sure about this\", \"It sounds good\""
+                }
+            ]
+        },
+        {
+            "name": "Shopping Advanced",
+            "grcat": "A2+",
+            "icon": "shopping_cart",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Покупки (продвинуто)"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Shopping Words 2",
+                    "rUrl": "a0c1/a2p/u006-n01-shopping2",
+                    "img": "",
+                    "icon": "shopping_bag",
+                    "aType": "ListSwipe",
+                    "content": "\"cashier\", \"receipt\", \"refund\", \"discount\", \"sale\""
+                },
+                {
+                    "name": "Quality & Description",
+                    "rUrl": "a0c1/a2p/u006-n02-quality",
+                    "img": "",
+                    "icon": "fact_check",
+                    "aType": "ListSwipe",
+                    "content": "\"cheap\", \"expensive\", \"high quality\", \"broken\", \"brand new\""
+                },
+                {
+                    "name": "Problems in Shopping",
+                    "rUrl": "a0c1/a2p/u006-n03-shopping-problems",
+                    "img": "",
+                    "icon": "error",
+                    "aType": "ListSwipe",
+                    "content": "\"wrong size\", \"wrong item\", \"missing part\", \"too expensive\", \"out of stock\""
+                },
+                {
+                    "name": "Shopping Phrases 2",
+                    "rUrl": "a0c1/a2p/u006-n04-shopping-phrases2",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"I want to return this\", \"Do you have this in another color?\", \"Is this on sale?\", \"Can I get a refund?\""
+                }
+            ]
+        },
+        {
+            "name": "Communication & Small Talk",
+            "grcat": "A2+",
+            "icon": "sms",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Общение и small talk"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Conversation Starters",
+                    "rUrl": "a0c1/a2p/u007-n01-starters",
+                    "img": "",
+                    "icon": "emoji_people",
+                    "aType": "ListSwipe",
+                    "content": "\"How is it going?\", \"What do you do?\", \"Where are you from?\", \"Nice weather today\""
+                },
+                {
+                    "name": "Maintaining Conversation",
+                    "rUrl": "a0c1/a2p/u007-n02-keeping-talk",
+                    "img": "",
+                    "icon": "chat_bubble_outline",
+                    "aType": "ListSwipe",
+                    "content": "\"Really?\", \"Tell me more\", \"What about you?\", \"That's interesting\""
+                },
+                {
+                    "name": "Ending a Conversation",
+                    "rUrl": "a0c1/a2p/u007-n03-ending-talk",
+                    "img": "",
+                    "icon": "call_end",
+                    "aType": "ListSwipe",
+                    "content": "\"I have to go\", \"Talk to you later\", \"Nice talking to you\", \"Have a good day\""
+                },
+                {
+                    "name": "Small Talk Phrases",
+                    "rUrl": "a0c1/a2p/u007-n04-smalltalk-phrases",
+                    "img": "",
+                    "icon": "record_voice_over",
+                    "aType": "ListSwipe",
+                    "content": "\"The weather is great today\", \"I love this place\", \"Do you come here often?\""
+                }
+            ]
+        },
+        {
+            "name": "Dialogues A2+",
+            "grcat": "A2+",
+            "icon": "chat_bubble",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Диалоги A2+"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Dialogue: At the Pharmacy",
+                    "rUrl": "a0c1/a2p/u008-n01-dialog-pharmacy",
+                    "img": "",
+                    "icon": "medication",
+                    "aType": "Dialog",
+                    "content": "\"I need something for a headache\", \"Take this pill twice a day\", \"Do you have allergies?\""
+                },
+                {
+                    "name": "Dialogue: Home Repair",
+                    "rUrl": "a0c1/a2p/u008-n02-dialog-repair",
+                    "img": "",
+                    "icon": "home_repair_service",
+                    "aType": "Dialog",
+                    "content": "\"The sink is leaking\", \"We will fix it tomorrow\", \"Is there anything else?\""
+                },
+                {
+                    "name": "Dialogue: Restaurant",
+                    "rUrl": "a0c1/a2p/u008-n03-dialog-restaurant2",
+                    "img": "",
+                    "icon": "restaurant",
+                    "aType": "Dialog",
+                    "content": "\"We would like to order\", \"Could you recommend something?\", \"The food is undercooked\""
+                },
+                {
+                    "name": "Dialogue: City Navigation",
+                    "rUrl": "a0c1/a2p/u008-n04-dialog-navigation",
+                    "img": "",
+                    "icon": "explore",
+                    "aType": "Dialog",
+                    "content": "\"How do I get to the museum?\", \"Go straight then turn right\", \"It’s close\""
+                }
+            ]
+        },
+        {
+            "name": "Plans & Future",
+            "grcat": "B1",
+            "icon": "event_available",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Планы и будущее"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Future Time Words",
+                    "rUrl": "a0c1/b1/u001-n01-future-words",
+                    "img": "",
+                    "icon": "update",
+                    "aType": "ListSwipe",
+                    "content": "\"next week\", \"in the future\", \"soon\", \"later\", \"in two days\""
+                },
+                {
+                    "name": "Making Plans",
+                    "rUrl": "a0c1/b1/u001-n02-making-plans",
+                    "img": "",
+                    "icon": "event_note",
+                    "aType": "ListSwipe",
+                    "content": "\"I am going to\", \"I plan to\", \"I hope to\", \"I would like to\""
+                },
+                {
+                    "name": "Arrangements",
+                    "rUrl": "a0c1/b1/u001-n03-arrangements",
+                    "img": "",
+                    "icon": "schedule",
+                    "aType": "ListSwipe",
+                    "content": "\"meeting\", \"appointment\", \"schedule\", \"cancel\", \"reschedule\""
+                },
+                {
+                    "name": "Future Phrases",
+                    "rUrl": "a0c1/b1/u001-n04-future-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"We are meeting tomorrow\", \"I am not sure yet\", \"Let's plan it later\""
+                }
+            ]
+        },
+        {
+            "name": "Work & Office 2",
+            "grcat": "B1",
+            "icon": "business_center",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Работа и офис 2"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Office Equipment 2",
+                    "rUrl": "a0c1/b1/u002-n01-office2",
+                    "img": "",
+                    "icon": "print",
+                    "aType": "ListSwipe",
+                    "content": "\"projector\", \"whiteboard\", \"scanner\", \"server\", \"headset\""
+                },
+                {
+                    "name": "Work Communication",
+                    "rUrl": "a0c1/b1/u002-n02-work-communication",
+                    "img": "",
+                    "icon": "chat_bubble",
+                    "aType": "ListSwipe",
+                    "content": "\"feedback\", \"discuss\", \"explain\", \"suggest\", \"report\""
+                },
+                {
+                    "name": "Office Situations",
+                    "rUrl": "a0c1/b1/u002-n03-office-situations",
+                    "img": "",
+                    "icon": "domain",
+                    "aType": "ListSwipe",
+                    "content": "\"deadline\", \"overtime\", \"promotion\", \"salary\", \"teamwork\""
+                },
+                {
+                    "name": "Work Phrases",
+                    "rUrl": "a0c1/b1/u002-n04-office-phrases",
+                    "img": "",
+                    "icon": "record_voice_over",
+                    "aType": "ListSwipe",
+                    "content": "\"Can we discuss this later?\", \"I need more information\", \"Let's solve this together\""
+                }
+            ]
+        },
+        {
+            "name": "Technology & Internet",
+            "grcat": "B1",
+            "icon": "devices",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Технологии и интернет"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Tech Words",
+                    "rUrl": "a0c1/b1/u003-n01-tech-words",
+                    "img": "",
+                    "icon": "computer",
+                    "aType": "ListSwipe",
+                    "content": "\"upload\", \"download\", \"software\", \"hardware\", \"application\""
+                },
+                {
+                    "name": "Social Media",
+                    "rUrl": "a0c1/b1/u003-n02-socialmedia",
+                    "img": "",
+                    "icon": "share",
+                    "aType": "ListSwipe",
+                    "content": "\"post\", \"comment\", \"follow\", \"message\", \"privacy\""
+                },
+                {
+                    "name": "Online Problems",
+                    "rUrl": "a0c1/b1/u003-n03-online-problems",
+                    "img": "",
+                    "icon": "signal_wifi_bad",
+                    "aType": "ListSwipe",
+                    "content": "\"connection issue\", \"slow internet\", \"error\", \"update needed\""
+                },
+                {
+                    "name": "Tech Phrases",
+                    "rUrl": "a0c1/b1/u003-n04-tech-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"The system is not working\", \"I can't log in\", \"The file won't open\""
+                }
+            ]
+        },
+        {
+            "name": "Nature & Environment",
+            "grcat": "B1",
+            "icon": "forest",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Природа и окружающая среда"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Nature Words 2",
+                    "rUrl": "a0c1/b1/u004-n01-nature2",
+                    "img": "",
+                    "icon": "terrain",
+                    "aType": "ListSwipe",
+                    "content": "\"forest\", \"mountain\", \"valley\", \"river\", \"lake\""
+                },
+                {
+                    "name": "Environment Problems",
+                    "rUrl": "a0c1/b1/u004-n02-environment-problems",
+                    "img": "",
+                    "icon": "warning",
+                    "aType": "ListSwipe",
+                    "content": "\"pollution\", \"climate change\", \"recycling\", \"waste\", \"global warming\""
+                },
+                {
+                    "name": "Natural Events",
+                    "rUrl": "a0c1/b1/u004-n03-natural-events",
+                    "img": "",
+                    "icon": "filter_drama",
+                    "aType": "ListSwipe",
+                    "content": "\"rainstorm\", \"flood\", \"earthquake\", \"drought\", \"heatwave\""
+                },
+                {
+                    "name": "Environment Phrases",
+                    "rUrl": "a0c1/b1/u004-n04-env-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"We should protect nature\", \"The air is polluted\", \"People need to recycle more\""
+                }
+            ]
+        },
+        {
+            "name": "Media & Culture",
+            "grcat": "B1",
+            "icon": "theaters",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Медиа и культура"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Media Types",
+                    "rUrl": "a0c1/b1/u005-n01-mediatypes",
+                    "img": "",
+                    "icon": "movie",
+                    "aType": "ListSwipe",
+                    "content": "\"news\", \"podcast\", \"documentary\", \"series\", \"broadcast\""
+                },
+                {
+                    "name": "Culture Words",
+                    "rUrl": "a0c1/b1/u005-n02-culture-words",
+                    "img": "",
+                    "icon": "museum",
+                    "aType": "ListSwipe",
+                    "content": "\"tradition\", \"festival\", \"heritage\", \"art\", \"performance\""
+                },
+                {
+                    "name": "Entertainment",
+                    "rUrl": "a0c1/b1/u005-n03-entertainment",
+                    "img": "",
+                    "icon": "celebration",
+                    "aType": "ListSwipe",
+                    "content": "\"concert\", \"theater\", \"exhibition\", \"ticket\", \"audience\""
+                },
+                {
+                    "name": "Media Phrases",
+                    "rUrl": "a0c1/b1/u005-n04-media-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"I saw this on the news\", \"The show was amazing\", \"I listen to podcasts every day\""
+                }
+            ]
+        },
+        {
+            "name": "Feelings & Emotions 2",
+            "grcat": "B1",
+            "icon": "sentiment_neutral",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Чувства и эмоции 2"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Complex Feelings",
+                    "rUrl": "a0c1/b1/u006-n01-complex-feelings",
+                    "img": "",
+                    "icon": "psychology",
+                    "aType": "ListSwipe",
+                    "content": "\"confused\", \"nervous\", \"bored\", \"excited\", \"upset\""
+                },
+                {
+                    "name": "Personality Words",
+                    "rUrl": "a0c1/b1/u006-n02-personality",
+                    "img": "",
+                    "icon": "emoji_people",
+                    "aType": "ListSwipe",
+                    "content": "\"friendly\", \"lazy\", \"ambitious\", \"creative\", \"kind\""
+                },
+                {
+                    "name": "Describing Emotions",
+                    "rUrl": "a0c1/b1/u006-n03-emotion-descriptions",
+                    "img": "",
+                    "icon": "emoji_objects",
+                    "aType": "ListSwipe",
+                    "content": "\"He feels nervous\", \"I am excited about it\", \"She looks upset\""
+                },
+                {
+                    "name": "Emotion Phrases",
+                    "rUrl": "a0c1/b1/u006-n04-emotion-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"This makes me happy\", \"I feel a bit stressed\", \"It was surprising\""
+                }
+            ]
+        },
+        {
+            "name": "Health & Lifestyle",
+            "grcat": "B1",
+            "icon": "favorite",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Здоровье и образ жизни"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Healthy Habits",
+                    "rUrl": "a0c1/b1/u007-n01-healthy-habits",
+                    "img": "",
+                    "icon": "volunteer_activism",
+                    "aType": "ListSwipe",
+                    "content": "\"exercise\", \"diet\", \"sleep well\", \"stay active\", \"drink water\""
+                },
+                {
+                    "name": "Lifestyle Words",
+                    "rUrl": "a0c1/b1/u007-n02-lifestyle",
+                    "img": "",
+                    "icon": "grass",
+                    "aType": "ListSwipe",
+                    "content": "\"routine\", \"balance\", \"habit\", \"stress\", \"relaxation\""
+                },
+                {
+                    "name": "Health Problems 2",
+                    "rUrl": "a0c1/b1/u007-n03-health-problems2",
+                    "img": "",
+                    "icon": "healing",
+                    "aType": "ListSwipe",
+                    "content": "\"back pain\", \"sore throat\", \"injury\", \"dizzy\", \"fatigue\""
+                },
+                {
+                    "name": "Lifestyle Phrases",
+                    "rUrl": "a0c1/b1/u007-n04-lifestyle-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"I try to stay healthy\", \"I go to the gym\", \"I need more rest\""
+                }
+            ]
+        },
+        {
+            "name": "Dialogues B1",
+            "grcat": "B1",
+            "icon": "chat_bubble",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Диалоги B1"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Dialogue: Work Meeting",
+                    "rUrl": "a0c1/b1/u008-n01-dialog-work",
+                    "img": "",
+                    "icon": "domain",
+                    "aType": "Dialog",
+                    "content": "\"Let's discuss the project\", \"We need a solution\", \"I agree with your idea\""
+                },
+                {
+                    "name": "Dialogue: Making Plans",
+                    "rUrl": "a0c1/b1/u008-n02-dialog-plans",
+                    "img": "",
+                    "icon": "event",
+                    "aType": "Dialog",
+                    "content": "\"What are you doing this weekend?\", \"Let's meet on Saturday\", \"Sounds good\""
+                },
+                {
+                    "name": "Dialogue: Tech Troubles",
+                    "rUrl": "a0c1/b1/u008-n03-dialog-tech",
+                    "img": "",
+                    "icon": "devices",
+                    "aType": "Dialog",
+                    "content": "\"The system crashed\", \"Try restarting it\", \"I will send a report\""
+                },
+                {
+                    "name": "Dialogue: Health & Lifestyle",
+                    "rUrl": "a0c1/b1/u008-n04-dialog-health",
+                    "img": "",
+                    "icon": "health_and_safety",
+                    "aType": "Dialog",
+                    "content": "\"I feel tired lately\", \"You should sleep more\", \"Maybe you need a break\""
+                }
+            ]
+        },
+        {
+            "name": "Arguments & Opinions",
+            "grcat": "B1+",
+            "icon": "thumbs_up_down",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Аргументы и мнения"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Opinion Words 2",
+                    "rUrl": "a0c1/b1p/u001-n01-opinion2",
+                    "img": "",
+                    "icon": "emoji_objects",
+                    "aType": "ListSwipe",
+                    "content": "\"definitely\", \"probably\", \"in my view\", \"personally\", \"as far as I know\""
+                },
+                {
+                    "name": "Giving Reasons",
+                    "rUrl": "a0c1/b1p/u001-n02-giving-reasons",
+                    "img": "",
+                    "icon": "question_answer",
+                    "aType": "ListSwipe",
+                    "content": "\"because\", \"therefore\", \"as a result\", \"the reason is\", \"due to\""
+                },
+                {
+                    "name": "Arguments For & Against",
+                    "rUrl": "a0c1/b1p/u001-n03-for-against",
+                    "img": "",
+                    "icon": "compare_arrows",
+                    "aType": "ListSwipe",
+                    "content": "\"on the one hand\", \"on the other hand\", \"however\", \"in contrast\", \"similarly\""
+                },
+                {
+                    "name": "Opinion Phrases 2",
+                    "rUrl": "a0c1/b1p/u001-n04-opinion-phrases2",
+                    "img": "",
+                    "icon": "forum",
+                    "aType": "ListSwipe",
+                    "content": "\"I understand your point\", \"I see what you mean\", \"I partly agree\", \"Let me explain why\""
+                }
+            ]
+        },
+        {
+            "name": "Work & Office 3 (Projects & Processes)",
+            "grcat": "B1+",
+            "icon": "assignment",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Работа и офис 3 (проекты и процессы)"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Project Words",
+                    "rUrl": "a0c1/b1p/u002-n01-project",
+                    "img": "",
+                    "icon": "assignment",
+                    "aType": "ListSwipe",
+                    "content": "\"progress\", \"milestone\", \"priority\", \"risk\", \"resource\""
+                },
+                {
+                    "name": "Work Processes",
+                    "rUrl": "a0c1/b1p/u002-n02-processes",
+                    "img": "",
+                    "icon": "sync_alt",
+                    "aType": "ListSwipe",
+                    "content": "\"develop\", \"review\", \"approve\", \"deliver\", \"coordinate\""
+                },
+                {
+                    "name": "Collaboration Words",
+                    "rUrl": "a0c1/b1p/u002-n03-collaboration",
+                    "img": "",
+                    "icon": "groups",
+                    "aType": "ListSwipe",
+                    "content": "\"teamwork\", \"cooperation\", \"conflict\", \"agreement\", \"feedback session\""
+                },
+                {
+                    "name": "Work Phrases 3",
+                    "rUrl": "a0c1/b1p/u002-n04-work-phrases3",
+                    "img": "",
+                    "icon": "record_voice_over",
+                    "aType": "ListSwipe",
+                    "content": "\"We need to improve this\", \"Let's review the plan\", \"Who is responsible for this part?\", \"We are behind schedule\""
+                }
+            ]
+        },
+        {
+            "name": "Travel & Experiences",
+            "grcat": "B1+",
+            "icon": "explore",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Путешествия и опыт"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Experience Words",
+                    "rUrl": "a0c1/b1p/u003-n01-experience",
+                    "img": "",
+                    "icon": "travel_explore",
+                    "aType": "ListSwipe",
+                    "content": "\"experience\", \"adventure\", \"journey\", \"trip\", \"destination\""
+                },
+                {
+                    "name": "Describing Trips",
+                    "rUrl": "a0c1/b1p/u003-n02-describing-trips",
+                    "img": "",
+                    "icon": "flight",
+                    "aType": "ListSwipe",
+                    "content": "\"amazing\", \"exhausting\", \"fascinating\", \"crowded\", \"beautiful\""
+                },
+                {
+                    "name": "Storytelling Words",
+                    "rUrl": "a0c1/b1p/u003-n03-storytelling",
+                    "img": "",
+                    "icon": "menu_book",
+                    "aType": "ListSwipe",
+                    "content": "\"first\", \"then\", \"after that\", \"finally\", \"in the end\""
+                },
+                {
+                    "name": "Travel Phrases 3",
+                    "rUrl": "a0c1/b1p/u003-n04-travel-phrases3",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"We got lost\", \"The view was amazing\", \"The hotel was disappointing\", \"It was worth it\""
+                }
+            ]
+        },
+        {
+            "name": "Society & Problems",
+            "grcat": "B1+",
+            "icon": "public",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Общество и проблемы"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Social Issues",
+                    "rUrl": "a0c1/b1p/u004-n01-social-issues",
+                    "img": "",
+                    "icon": "warning",
+                    "aType": "ListSwipe",
+                    "content": "\"crime\", \"poverty\", \"traffic\", \"education\", \"healthcare\""
+                },
+                {
+                    "name": "Community Words",
+                    "rUrl": "a0c1/b1p/u004-n02-community",
+                    "img": "",
+                    "icon": "groups_2",
+                    "aType": "ListSwipe",
+                    "content": "\"neighborhood\", \"local\", \"volunteer\", \"support\", \"safety\""
+                },
+                {
+                    "name": "Describing Problems",
+                    "rUrl": "a0c1/b1p/u004-n03-problem-descriptions",
+                    "img": "",
+                    "icon": "report_problem",
+                    "aType": "ListSwipe",
+                    "content": "\"serious\", \"common\", \"global\", \"urgent\", \"minor\""
+                },
+                {
+                    "name": "Problem Phrases",
+                    "rUrl": "a0c1/b1p/u004-n04-problem-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"One big issue is...\", \"The main problem is...\", \"We need a solution\", \"This affects everyone\""
+                }
+            ]
+        },
+        {
+            "name": "Education & Learning",
+            "grcat": "B1+",
+            "icon": "school",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Образование и обучение"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Education Words",
+                    "rUrl": "a0c1/b1p/u005-n01-education",
+                    "img": "",
+                    "icon": "school",
+                    "aType": "ListSwipe",
+                    "content": "\"subject\", \"lecture\", \"assignment\", \"exam\", \"grade\""
+                },
+                {
+                    "name": "Learning Skills",
+                    "rUrl": "a0c1/b1p/u005-n02-learning-skills",
+                    "img": "",
+                    "icon": "emoji_objects",
+                    "aType": "ListSwipe",
+                    "content": "\"memorize\", \"practice\", \"revise\", \"explain\", \"analyze\""
+                },
+                {
+                    "name": "Study Problems",
+                    "rUrl": "a0c1/b1p/u005-n03-study-problems",
+                    "img": "",
+                    "icon": "sentiment_dissatisfied",
+                    "aType": "ListSwipe",
+                    "content": "\"lack of time\", \"hard topic\", \"stress\", \"distraction\""
+                },
+                {
+                    "name": "Study Phrases",
+                    "rUrl": "a0c1/b1p/u005-n04-study-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"I find this difficult\", \"I need to revise\", \"This topic is confusing\""
+                }
+            ]
+        },
+        {
+            "name": "Media & Communication 2",
+            "grcat": "B1+",
+            "icon": "campaign",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Медиа и коммуникация 2"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Communication Words",
+                    "rUrl": "a0c1/b1p/u006-n01-communication2",
+                    "img": "",
+                    "icon": "contact_mail",
+                    "aType": "ListSwipe",
+                    "content": "\"announce\", \"inform\", \"confirm\", \"explain\", \"interrupt\""
+                },
+                {
+                    "name": "News & Reports",
+                    "rUrl": "a0c1/b1p/u006-n02-news-reports",
+                    "img": "",
+                    "icon": "newspaper",
+                    "aType": "ListSwipe",
+                    "content": "\"headline\", \"reporter\", \"article\", \"source\", \"interview\""
+                },
+                {
+                    "name": "Media Issues",
+                    "rUrl": "a0c1/b1p/u006-n03-media-issues",
+                    "img": "",
+                    "icon": "report",
+                    "aType": "ListSwipe",
+                    "content": "\"fake news\", \"privacy\", \"advertising\", \"influence\", \"public opinion\""
+                },
+                {
+                    "name": "Communication Phrases",
+                    "rUrl": "a0c1/b1p/u006-n04-communication-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"Let me explain\", \"According to the report\", \"I heard on the news\", \"This information isn't accurate\""
+                }
+            ]
+        },
+        {
+            "name": "Complex Feelings & Reactions",
+            "grcat": "B1+",
+            "icon": "psychology_alt",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Сложные чувства и реакции"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Advanced Feelings",
+                    "rUrl": "a0c1/b1p/u007-n01-adv-feelings",
+                    "img": "",
+                    "icon": "sentiment_very_dissatisfied",
+                    "aType": "ListSwipe",
+                    "content": "\"frustrated\", \"relieved\", \"disappointed\", \"satisfied\", \"embarrassed\""
+                },
+                {
+                    "name": "Reactions 2",
+                    "rUrl": "a0c1/b1p/u007-n02-reactions2",
+                    "img": "",
+                    "icon": "emoji_emotions",
+                    "aType": "ListSwipe",
+                    "content": "\"What a surprise!\", \"I didn't expect that\", \"That's unbelievable\", \"Oh, that's too bad\""
+                },
+                {
+                    "name": "Describing Situations",
+                    "rUrl": "a0c1/b1p/u007-n03-describing-situations",
+                    "img": "",
+                    "icon": "notes",
+                    "aType": "ListSwipe",
+                    "content": "\"It was embarrassing\", \"The situation got worse\", \"I felt relieved\""
+                },
+                {
+                    "name": "Emotion Phrases 3",
+                    "rUrl": "a0c1/b1p/u007-n04-emotion-phrases3",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"Honestly, I was shocked\", \"I felt really frustrated\", \"It made me happy in the end\""
+                }
+            ]
+        },
+        {
+            "name": "Dialogues B1+",
+            "grcat": "B1+",
+            "icon": "chat_bubble",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Диалоги B1+"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Dialogue: Big Problem at Work",
+                    "rUrl": "a0c1/b1p/u008-n01-dialog-work-problem",
+                    "img": "",
+                    "icon": "work",
+                    "aType": "Dialog",
+                    "content": "\"We have a serious issue\", \"Let's find a solution\", \"We need to coordinate\""
+                },
+                {
+                    "name": "Dialogue: Travel Story",
+                    "rUrl": "a0c1/b1p/u008-n02-dialog-travel-story",
+                    "img": "",
+                    "icon": "explore",
+                    "aType": "Dialog",
+                    "content": "\"First we got lost\", \"Then it started raining\", \"In the end it was amazing\""
+                },
+                {
+                    "name": "Dialogue: News & Media",
+                    "rUrl": "a0c1/b1p/u008-n03-dialog-media",
+                    "img": "",
+                    "icon": "newspaper",
+                    "aType": "Dialog",
+                    "content": "\"Did you read the article?\", \"The report says...\", \"People are discussing it online\""
+                },
+                {
+                    "name": "Dialogue: Emotional Situation",
+                    "rUrl": "a0c1/b1p/u008-n04-dialog-emotion",
+                    "img": "",
+                    "icon": "psychology",
+                    "aType": "Dialog",
+                    "content": "\"I was really disappointed\", \"I understand how you feel\", \"Things got better later\""
+                }
+            ]
+        },
+        {
+            "name": "Complex Opinions & Debate",
+            "grcat": "B2",
+            "icon": "forum",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Сложные мнения и дебаты"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Opinion Structures",
+                    "rUrl": "a0c1/b2/u001-n01-opinion-structures",
+                    "img": "",
+                    "icon": "format_quote",
+                    "aType": "ListSwipe",
+                    "content": "\"from my perspective\", \"it seems to me\", \"as far as I can tell\", \"I tend to believe\", \"I am convinced that\""
+                },
+                {
+                    "name": "Argumentation Tools",
+                    "rUrl": "a0c1/b2/u001-n02-argument-tools",
+                    "img": "",
+                    "icon": "gavel",
+                    "aType": "ListSwipe",
+                    "content": "\"consequently\", \"moreover\", \"in contrast\", \"nevertheless\", \"on the contrary\""
+                },
+                {
+                    "name": "Debate Vocabulary",
+                    "rUrl": "a0c1/b2/u001-n03-debate-vocab",
+                    "img": "",
+                    "icon": "record_voice_over",
+                    "aType": "ListSwipe",
+                    "content": "\"claim\", \"counterargument\", \"evidence\", \"perspective\", \"fallacy\""
+                },
+                {
+                    "name": "Debate Phrases",
+                    "rUrl": "a0c1/b2/u001-n04-debate-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"I completely disagree for several reasons\", \"Let me address your point\", \"This argument lacks evidence\", \"I see your reasoning but...\""
+                }
+            ]
+        },
+        {
+            "name": "Advanced Work & Business",
+            "grcat": "B2",
+            "icon": "business",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Продвинутая работа и бизнес"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Business Terms",
+                    "rUrl": "a0c1/b2/u002-n01-business-terms",
+                    "img": "",
+                    "icon": "trending_up",
+                    "aType": "ListSwipe",
+                    "content": "\"revenue\", \"expenses\", \"market share\", \"strategy\", \"negotiation\""
+                },
+                {
+                    "name": "Work Conflicts",
+                    "rUrl": "a0c1/b2/u002-n02-work-conflicts",
+                    "img": "",
+                    "icon": "warning",
+                    "aType": "ListSwipe",
+                    "content": "\"miscommunication\", \"disagreement\", \"tension\", \"compromise\", \"resolution\""
+                },
+                {
+                    "name": "Leadership Words",
+                    "rUrl": "a0c1/b2/u002-n03-leadership",
+                    "img": "",
+                    "icon": "emoji_events",
+                    "aType": "ListSwipe",
+                    "content": "\"leadership\", \"initiative\", \"vision\", \"delegation\", \"accountability\""
+                },
+                {
+                    "name": "Business Phrases",
+                    "rUrl": "a0c1/b2/u002-n04-business-phrases",
+                    "img": "",
+                    "icon": "domain",
+                    "aType": "ListSwipe",
+                    "content": "\"We need a long-term strategy\", \"Let's negotiate the terms\", \"The market is changing rapidly\", \"We must reduce risks\""
+                }
+            ]
+        },
+        {
+            "name": "Technology & Innovation",
+            "grcat": "B2",
+            "icon": "memory",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Технологии и инновации"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Advanced Tech Terms",
+                    "rUrl": "a0c1/b2/u003-n01-adv-tech",
+                    "img": "",
+                    "icon": "memory",
+                    "aType": "ListSwipe",
+                    "content": "\"algorithm\", \"automation\", \"data analysis\", \"artificial intelligence\", \"cybersecurity\""
+                },
+                {
+                    "name": "Digital Life",
+                    "rUrl": "a0c1/b2/u003-n02-digital-life",
+                    "img": "",
+                    "icon": "devices_other",
+                    "aType": "ListSwipe",
+                    "content": "\"privacy settings\", \"notifications\", \"digital footprint\", \"cloud storage\", \"encryption\""
+                },
+                {
+                    "name": "Tech Problems 2",
+                    "rUrl": "a0c1/b2/u003-n03-tech-problems2",
+                    "img": "",
+                    "icon": "bug_report",
+                    "aType": "ListSwipe",
+                    "content": "\"system failure\", \"bug\", \"data loss\", \"compatibility issue\", \"overload\""
+                },
+                {
+                    "name": "Tech Phrases 2",
+                    "rUrl": "a0c1/b2/u003-n04-tech-phrases2",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"The system needs an update\", \"This feature is outdated\", \"We need to optimize performance\""
+                }
+            ]
+        },
+        {
+            "name": "Culture & Society",
+            "grcat": "B2",
+            "icon": "public",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Культура и общество"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Culture Words 2",
+                    "rUrl": "a0c1/b2/u004-n01-culture2",
+                    "img": "",
+                    "icon": "theaters",
+                    "aType": "ListSwipe",
+                    "content": "\"identity\", \"tradition\", \"heritage\", \"custom\", \"diversity\""
+                },
+                {
+                    "name": "Social Concepts",
+                    "rUrl": "a0c1/b2/u004-n02-social-concepts",
+                    "img": "",
+                    "icon": "groups",
+                    "aType": "ListSwipe",
+                    "content": "\"equality\", \"freedom\", \"justice\", \"opportunity\", \"discrimination\""
+                },
+                {
+                    "name": "Modern Issues",
+                    "rUrl": "a0c1/b2/u004-n03-modern-issues",
+                    "img": "",
+                    "icon": "warning_amber",
+                    "aType": "ListSwipe",
+                    "content": "\"immigration\", \"urbanization\", \"misinformation\", \"mental health\", \"sustainability\""
+                },
+                {
+                    "name": "Society Phrases",
+                    "rUrl": "a0c1/b2/u004-n04-society-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"This plays an important role in society\", \"One major challenge is...\", \"It affects people differently\""
+                }
+            ]
+        },
+        {
+            "name": "Advanced Communication",
+            "grcat": "B2",
+            "icon": "emoji_people",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Продвинутая коммуникация"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Expressions & Idioms",
+                    "rUrl": "a0c1/b2/u005-n01-idioms",
+                    "img": "",
+                    "icon": "emoji_objects",
+                    "aType": "ListSwipe",
+                    "content": "\"break the ice\", \"get to the point\", \"on the same page\", \"hit the nail on the head\", \"in the long run\""
+                },
+                {
+                    "name": "Discourse Markers",
+                    "rUrl": "a0c1/b2/u005-n02-discourse",
+                    "img": "",
+                    "icon": "linear_scale",
+                    "aType": "ListSwipe",
+                    "content": "\"actually\", \"basically\", \"after all\", \"in fact\", \"by the way\""
+                },
+                {
+                    "name": "Softening & Politeness",
+                    "rUrl": "a0c1/b2/u005-n03-softening",
+                    "img": "",
+                    "icon": "sentiment_satisfied",
+                    "aType": "ListSwipe",
+                    "content": "\"I might be wrong but...\", \"Would you mind if...\", \"I was wondering whether...\", \"It's kind of...\""
+                },
+                {
+                    "name": "Communication Phrases 3",
+                    "rUrl": "a0c1/b2/u005-n04-communication3",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"Let me clarify\", \"What I mean is...\", \"Could you elaborate?\", \"Let’s focus on the main point\""
+                }
+            ]
+        },
+        {
+            "name": "Complex Emotions & Psychology",
+            "grcat": "B2",
+            "icon": "psychology",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Сложные эмоции и психология"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Advanced Emotion Words",
+                    "rUrl": "a0c1/b2/u006-n01-adv-emotions",
+                    "img": "",
+                    "icon": "sentiment_neutral",
+                    "aType": "ListSwipe",
+                    "content": "\"overwhelmed\", \"anxious\", \"motivated\", \"grateful\", \"insecure\""
+                },
+                {
+                    "name": "Explaining Feelings",
+                    "rUrl": "a0c1/b2/u006-n02-explaining-feelings",
+                    "img": "",
+                    "icon": "emoji_emotions",
+                    "aType": "ListSwipe",
+                    "content": "\"I feel this way because...\", \"It made me realize...\", \"I became aware that...\""
+                },
+                {
+                    "name": "Psychology Concepts",
+                    "rUrl": "a0c1/b2/u006-n03-psych-concepts",
+                    "img": "",
+                    "icon": "psychology",
+                    "aType": "ListSwipe",
+                    "content": "\"stress\", \"motivation\", \"self-esteem\", \"influence\", \"behavior\""
+                },
+                {
+                    "name": "Emotion Phrases 4",
+                    "rUrl": "a0c1/b2/u006-n04-emotion-phrases4",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"I felt overwhelmed at first\", \"It helped me grow\", \"It changed my perspective\""
+                }
+            ]
+        },
+        {
+            "name": "Dialogues B2",
+            "grcat": "B2",
+            "icon": "chat_bubble",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Диалоги B2"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Dialogue: Business Negotiation",
+                    "rUrl": "a0c1/b2/u007-n01-dialog-negotiation",
+                    "img": "",
+                    "icon": "handshake",
+                    "aType": "Dialog",
+                    "content": "\"Let's discuss the terms\", \"We need a better offer\", \"This solution benefits both sides\""
+                },
+                {
+                    "name": "Dialogue: Innovation & Technology",
+                    "rUrl": "a0c1/b2/u007-n02-dialog-innovation",
+                    "img": "",
+                    "icon": "lightbulb",
+                    "aType": "Dialog",
+                    "content": "\"This technology is outdated\", \"The algorithm improves accuracy\", \"We should automate this process\""
+                },
+                {
+                    "name": "Dialogue: Social Issue Debate",
+                    "rUrl": "a0c1/b2/u007-n03-dialog-social",
+                    "img": "",
+                    "icon": "public",
+                    "aType": "Dialog",
+                    "content": "\"The main issue is inequality\", \"We could improve education\", \"It's a complicated problem\""
+                },
+                {
+                    "name": "Dialogue: Emotional Support",
+                    "rUrl": "a0c1/b2/u007-n04-dialog-support",
+                    "img": "",
+                    "icon": "favorite",
+                    "aType": "Dialog",
+                    "content": "\"I know it’s difficult\", \"You are not alone\", \"Things will get better with time\""
+                }
+            ]
+        },
+        {
+            "name": "Advanced Arguments & Critical Thinking",
+            "grcat": "B2+",
+            "icon": "balance",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Продвинутая аргументация и критическое мышление"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Critical Thinking Words",
+                    "rUrl": "a0c1/b2p/u001-n01-critical-words",
+                    "img": "",
+                    "icon": "psychology",
+                    "aType": "ListSwipe",
+                    "content": "\"evaluate\", \"justify\", \"assume\", \"hypothesis\", \"evidence\""
+                },
+                {
+                    "name": "Making Strong Arguments",
+                    "rUrl": "a0c1/b2p/u001-n02-strong-arguments",
+                    "img": "",
+                    "icon": "gavel",
+                    "aType": "ListSwipe",
+                    "content": "\"undeniably\", \"significantly\", \"from a broader perspective\", \"it follows that\", \"one could argue\""
+                },
+                {
+                    "name": "Speculation & Assumptions",
+                    "rUrl": "a0c1/b2p/u001-n03-speculation",
+                    "img": "",
+                    "icon": "help_center",
+                    "aType": "ListSwipe",
+                    "content": "\"it might be\", \"it appears that\", \"it is likely that\", \"I suspect\", \"there is a chance that\""
+                },
+                {
+                    "name": "Critical Thinking Phrases",
+                    "rUrl": "a0c1/b2p/u001-n04-critical-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"Let’s analyze this\", \"The main assumption here is...\", \"This conclusion lacks strong evidence\""
+                }
+            ]
+        },
+        {
+            "name": "Professional Communication",
+            "grcat": "B2+",
+            "icon": "work",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Профессиональная коммуникация"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Formal Email Words",
+                    "rUrl": "a0c1/b2p/u002-n01-formal-email",
+                    "img": "",
+                    "icon": "mail",
+                    "aType": "ListSwipe",
+                    "content": "\"regarding\", \"attached\", \"request\", \"confirm\", \"appreciate\""
+                },
+                {
+                    "name": "Workplace Diplomacy",
+                    "rUrl": "a0c1/b2p/u002-n02-diplomacy",
+                    "img": "",
+                    "icon": "handshake",
+                    "aType": "ListSwipe",
+                    "content": "\"properly\", \"respectfully\", \"professionally\", \"appropriately\", \"constructively\""
+                },
+                {
+                    "name": "Negotiation Tools",
+                    "rUrl": "a0c1/b2p/u002-n03-negotiation-tools",
+                    "img": "",
+                    "icon": "attach_money",
+                    "aType": "ListSwipe",
+                    "content": "\"compromise\", \"counter-offer\", \"agreement\", \"terms\", \"conditions\""
+                },
+                {
+                    "name": "Professional Phrases",
+                    "rUrl": "a0c1/b2p/u002-n04-professional-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"I would appreciate your feedback\", \"Let’s discuss the next steps\", \"This requires careful consideration\""
+                }
+            ]
+        },
+        {
+            "name": "Advanced Technology & Digital Literacy",
+            "grcat": "B2+",
+            "icon": "terminal",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Продвинутая технология и цифровая грамотность"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Tech Words 3",
+                    "rUrl": "a0c1/b2p/u003-n01-tech3",
+                    "img": "",
+                    "icon": "terminal",
+                    "aType": "ListSwipe",
+                    "content": "\"database\", \"encryption\", \"machine learning\", \"user interface\", \"cloud infrastructure\""
+                },
+                {
+                    "name": "Digital Behavior",
+                    "rUrl": "a0c1/b2p/u003-n02-digital-behavior",
+                    "img": "",
+                    "icon": "devices",
+                    "aType": "ListSwipe",
+                    "content": "\"digital wellbeing\", \"online presence\", \"data privacy\", \"cyberbullying\", \"algorithm bias\""
+                },
+                {
+                    "name": "Tech Trends",
+                    "rUrl": "a0c1/b2p/u003-n03-tech-trends",
+                    "img": "",
+                    "icon": "change_circle",
+                    "aType": "ListSwipe",
+                    "content": "\"automation\", \"blockchain\", \"virtual reality\", \"big data\", \"innovation\""
+                },
+                {
+                    "name": "Tech Phrases 3",
+                    "rUrl": "a0c1/b2p/u003-n04-tech-phrases3",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"This system requires optimization\", \"We need to reduce technical debt\", \"The results depend on accurate data\""
+                }
+            ]
+        },
+        {
+            "name": "Global Issues & Perspectives",
+            "grcat": "B2+",
+            "icon": "public",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Глобальные проблемы и перспективы"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Global Issues",
+                    "rUrl": "a0c1/b2p/u004-n01-global-issues",
+                    "img": "",
+                    "icon": "public",
+                    "aType": "ListSwipe",
+                    "content": "\"poverty\", \"corruption\", \"unemployment\", \"immigration\", \"inequality\""
+                },
+                {
+                    "name": "Environmental Challenges",
+                    "rUrl": "a0c1/b2p/u004-n02-environmental2",
+                    "img": "",
+                    "icon": "eco",
+                    "aType": "ListSwipe",
+                    "content": "\"carbon footprint\", \"renewable energy\", \"deforestation\", \"pollution levels\", \"ecosystem damage\""
+                },
+                {
+                    "name": "Political & Social Terms",
+                    "rUrl": "a0c1/b2p/u004-n03-political-social",
+                    "img": "",
+                    "icon": "gavel",
+                    "aType": "ListSwipe",
+                    "content": "\"regulation\", \"civil rights\", \"public policy\", \"activism\", \"government reform\""
+                },
+                {
+                    "name": "Global Phrases",
+                    "rUrl": "a0c1/b2p/u004-n04-global-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"This issue affects the entire world\", \"We must consider long-term consequences\", \"This requires international cooperation\""
+                }
+            ]
+        },
+        {
+            "name": "Advanced Culture & Art",
+            "grcat": "B2+",
+            "icon": "museum",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Продвинутая культура и искусство"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Art Words 2",
+                    "rUrl": "a0c1/b2p/u005-n01-art2",
+                    "img": "",
+                    "icon": "palette",
+                    "aType": "ListSwipe",
+                    "content": "\"abstract\", \"composition\", \"perspective\", \"symbolism\", \"masterpiece\""
+                },
+                {
+                    "name": "Cultural Analysis",
+                    "rUrl": "a0c1/b2p/u005-n02-cultural-analysis",
+                    "img": "",
+                    "icon": "theaters",
+                    "aType": "ListSwipe",
+                    "content": "\"interpretation\", \"representation\", \"cultural context\", \"theme\", \"concept\""
+                },
+                {
+                    "name": "Art Criticism",
+                    "rUrl": "a0c1/b2p/u005-n03-art-criticism",
+                    "img": "",
+                    "icon": "edit_note",
+                    "aType": "ListSwipe",
+                    "content": "\"criticize\", \"evaluate\", \"admire\", \"contrast\", \"highlight\""
+                },
+                {
+                    "name": "Art Phrases",
+                    "rUrl": "a0c1/b2p/u005-n04-art-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"The artist conveys a deep message\", \"The composition is balanced\", \"This piece challenges traditional ideas\""
+                }
+            ]
+        },
+        {
+            "name": "Complex Feelings & Self-Reflection",
+            "grcat": "B2+",
+            "icon": "self_improvement",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Сложные чувства и самоанализ"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Deep Emotions",
+                    "rUrl": "a0c1/b2p/u006-n01-deep-emotions",
+                    "img": "",
+                    "icon": "sentiment_very_satisfied",
+                    "aType": "ListSwipe",
+                    "content": "\"resentful\", \"nostalgic\", \"hopeful\", \"determined\", \"overwhelmed\""
+                },
+                {
+                    "name": "Introspection Tools",
+                    "rUrl": "a0c1/b2p/u006-n02-introspection",
+                    "img": "",
+                    "icon": "insights",
+                    "aType": "ListSwipe",
+                    "content": "\"reflect\", \"realize\", \"come to understand\", \"reevaluate\", \"gain insight\""
+                },
+                {
+                    "name": "Emotional Reasoning",
+                    "rUrl": "a0c1/b2p/u006-n03-emotional-reasoning",
+                    "img": "",
+                    "icon": "psychology_alt",
+                    "aType": "ListSwipe",
+                    "content": "\"It made me question myself\", \"I realized the importance of...\", \"I learned to handle it better\""
+                },
+                {
+                    "name": "Self-Reflection Phrases",
+                    "rUrl": "a0c1/b2p/u006-n04-reflection-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"Looking back, I understand why it happened\", \"It helped me grow emotionally\", \"I needed time to reflect\""
+                }
+            ]
+        },
+        {
+            "name": "Dialogues B2+",
+            "grcat": "B2+",
+            "icon": "chat_bubble",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Диалоги B2+"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Dialogue: Debate on Global Issues",
+                    "rUrl": "a0c1/b2p/u007-n01-dialog-global",
+                    "img": "",
+                    "icon": "public",
+                    "aType": "Dialog",
+                    "content": "\"We must discuss the root causes\", \"This solution isn't sustainable\", \"Let's consider international examples\""
+                },
+                {
+                    "name": "Dialogue: Complex Work Negotiation",
+                    "rUrl": "a0c1/b2p/u007-n02-dialog-work2",
+                    "img": "",
+                    "icon": "handshake",
+                    "aType": "Dialog",
+                    "content": "\"We need to renegotiate the timeline\", \"This requires additional resources\", \"What compromises are possible?\""
+                },
+                {
+                    "name": "Dialogue: Emotional Reflection",
+                    "rUrl": "a0c1/b2p/u007-n03-dialog-reflection",
+                    "img": "",
+                    "icon": "self_improvement",
+                    "aType": "Dialog",
+                    "content": "\"I finally understood why it affected me\", \"It changed my perspective\", \"I became stronger after this experience\""
+                },
+                {
+                    "name": "Dialogue: Technology & Ethics",
+                    "rUrl": "a0c1/b2p/u007-n04-dialog-tech-ethics",
+                    "img": "",
+                    "icon": "lightbulb",
+                    "aType": "Dialog",
+                    "content": "\"AI raises ethical concerns\", \"We must respect privacy\", \"Innovation must be balanced with responsibility\""
+                }
+            ]
+        },
+        {
+            "name": "Advanced Academic Vocabulary",
+            "grcat": "C1",
+            "icon": "school",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Продвинутая академическая лексика"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Academic Words 1",
+                    "rUrl": "a0c1/c1/u001-n01-academic1",
+                    "img": "",
+                    "icon": "menu_book",
+                    "aType": "ListSwipe",
+                    "content": "\"concept\", \"framework\", \"approach\", \"methodology\", \"perspective\""
+                },
+                {
+                    "name": "Academic Words 2",
+                    "rUrl": "a0c1/c1/u001-n02-academic2",
+                    "img": "",
+                    "icon": "science",
+                    "aType": "ListSwipe",
+                    "content": "\"hypothesis\", \"validity\", \"interpretation\", \"assumption\", \"paradigm\""
+                },
+                {
+                    "name": "Academic Verbs",
+                    "rUrl": "a0c1/c1/u001-n03-academic-verbs",
+                    "img": "",
+                    "icon": "psychology",
+                    "aType": "ListSwipe",
+                    "content": "\"demonstrate\", \"illustrate\", \"evaluate\", \"highlight\", \"challenge\""
+                },
+                {
+                    "name": "Academic Phrases",
+                    "rUrl": "a0c1/c1/u001-n04-academic-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"The results indicate that...\", \"This suggests a strong connection\", \"The evidence supports this claim\""
+                }
+            ]
+        },
+        {
+            "name": "High-Level Communication",
+            "grcat": "C1",
+            "icon": "record_voice_over",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Продвинутая коммуникация"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "C1 Idioms & Expressions",
+                    "rUrl": "a0c1/c1/u002-n01-idioms-c1",
+                    "img": "",
+                    "icon": "emoji_objects",
+                    "aType": "ListSwipe",
+                    "content": "\"touch base\", \"beat around the bush\", \"take something for granted\", \"go the extra mile\", \"on the flip side\""
+                },
+                {
+                    "name": "C1 Discourse Markers",
+                    "rUrl": "a0c1/c1/u002-n02-discourse-c1",
+                    "img": "",
+                    "icon": "linear_scale",
+                    "aType": "ListSwipe",
+                    "content": "\"notably\", \"essentially\", \"at the same time\", \"granted\", \"conversely\""
+                },
+                {
+                    "name": "Advanced Politeness",
+                    "rUrl": "a0c1/c1/u002-n03-politeness-c1",
+                    "img": "",
+                    "icon": "sentiment_satisfied_alt",
+                    "aType": "ListSwipe",
+                    "content": "\"I genuinely appreciate your concern\", \"If it's not too much trouble\", \"I completely understand your point\""
+                },
+                {
+                    "name": "Communication Phrases C1",
+                    "rUrl": "a0c1/c1/u002-n04-communication-c1",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"To put it differently\", \"What I'm trying to emphasize is...\", \"Let me clarify my position\""
+                }
+            ]
+        },
+        {
+            "name": "Systems Thinking & Complexity",
+            "grcat": "C1",
+            "icon": "hub",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Системное мышление и сложность"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Systems Words",
+                    "rUrl": "a0c1/c1/u003-n01-systems-words",
+                    "img": "",
+                    "icon": "hub",
+                    "aType": "ListSwipe",
+                    "content": "\"component\", \"interaction\", \"interdependence\", \"feedback loop\", \"emergence\""
+                },
+                {
+                    "name": "Processes & Causality",
+                    "rUrl": "a0c1/c1/u003-n02-causality",
+                    "img": "",
+                    "icon": "sync_alt",
+                    "aType": "ListSwipe",
+                    "content": "\"underlying cause\", \"chain reaction\", \"influence\", \"pattern\", \"root cause\""
+                },
+                {
+                    "name": "Complexity Vocabulary",
+                    "rUrl": "a0c1/c1/u003-n03-complexity",
+                    "img": "",
+                    "icon": "psychology_alt",
+                    "aType": "ListSwipe",
+                    "content": "\"ambiguity\", \"uncertainty\", \"dynamic system\", \"non-linear\", \"multifactor\""
+                },
+                {
+                    "name": "Systems Thinking Phrases",
+                    "rUrl": "a0c1/c1/u003-n04-systems-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"This issue has multiple layers\", \"It depends on several interacting factors\", \"There is no simple solution\""
+                }
+            ]
+        },
+        {
+            "name": "Advanced Work & Leadership",
+            "grcat": "C1",
+            "icon": "workspace_premium",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Продвинутая работа и лидерство"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Leadership Vocabulary",
+                    "rUrl": "a0c1/c1/u004-n01-leadership-vocab",
+                    "img": "",
+                    "icon": "emoji_events",
+                    "aType": "ListSwipe",
+                    "content": "\"influence\", \"resilience\", \"visionary\", \"strategic\", \"inspirational\""
+                },
+                {
+                    "name": "Management Concepts",
+                    "rUrl": "a0c1/c1/u004-n02-management",
+                    "img": "",
+                    "icon": "supervisor_account",
+                    "aType": "ListSwipe",
+                    "content": "\"stakeholders\", \"long-term planning\", \"delegation\", \"accountability\", \"organizational culture\""
+                },
+                {
+                    "name": "Decision-Making",
+                    "rUrl": "a0c1/c1/u004-n03-decision-making",
+                    "img": "",
+                    "icon": "rule",
+                    "aType": "ListSwipe",
+                    "content": "\"evaluate options\", \"weigh the risks\", \"make an informed choice\", \"trade-offs\", \"consider the consequences\""
+                },
+                {
+                    "name": "Work Phrases C1",
+                    "rUrl": "a0c1/c1/u004-n04-work-phrases-c1",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"We must think strategically\", \"This requires cross-functional cooperation\", \"We need a more holistic view\""
+                }
+            ]
+        },
+        {
+            "name": "Philosophy & Abstract Thinking",
+            "grcat": "C1",
+            "icon": "lightbulb",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Философия и абстрактное мышление"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Philosophical Words",
+                    "rUrl": "a0c1/c1/u005-n01-philosophy",
+                    "img": "",
+                    "icon": "lightbulb",
+                    "aType": "ListSwipe",
+                    "content": "\"ethics\", \"morality\", \"existence\", \"consciousness\", \"free will\""
+                },
+                {
+                    "name": "Abstract Concepts",
+                    "rUrl": "a0c1/c1/u005-n02-abstract",
+                    "img": "",
+                    "icon": "auto_awesome",
+                    "aType": "ListSwipe",
+                    "content": "\"uncertainty\", \"identity\", \"perception\", \"intuition\", \"contradiction\""
+                },
+                {
+                    "name": "Arguments in Philosophy",
+                    "rUrl": "a0c1/c1/u005-n03-philosophy-arguments",
+                    "img": "",
+                    "icon": "gavel",
+                    "aType": "ListSwipe",
+                    "content": "\"rational argument\", \"principle\", \"assumption\", \"paradox\", \"conclusion\""
+                },
+                {
+                    "name": "Philosophy Phrases",
+                    "rUrl": "a0c1/c1/u005-n04-philosophy-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"This raises an interesting question\", \"It depends on how we define it\", \"There are multiple interpretations\""
+                }
+            ]
+        },
+        {
+            "name": "Social Dynamics & Human Behavior",
+            "grcat": "C1",
+            "icon": "groups_3",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Социальная динамика и поведение людей"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Behavior Words",
+                    "rUrl": "a0c1/c1/u006-n01-behavior",
+                    "img": "",
+                    "icon": "psychology_alt",
+                    "aType": "ListSwipe",
+                    "content": "\"motivation\", \"bias\", \"group pressure\", \"conformity\", \"empathy\""
+                },
+                {
+                    "name": "Dynamics & Interaction",
+                    "rUrl": "a0c1/c1/u006-n02-dynamics",
+                    "img": "",
+                    "icon": "groups_2",
+                    "aType": "ListSwipe",
+                    "content": "\"power imbalance\", \"hierarchy\", \"conflict escalation\", \"cooperation\", \"social influence\""
+                },
+                {
+                    "name": "Interpreting Behavior",
+                    "rUrl": "a0c1/c1/u006-n03-behavior-interpretation",
+                    "img": "",
+                    "icon": "psychology",
+                    "aType": "ListSwipe",
+                    "content": "\"He acted out of fear\", \"Her reaction was predictable\", \"This behavior reflects social pressure\""
+                },
+                {
+                    "name": "Social Phrases C1",
+                    "rUrl": "a0c1/c1/u006-n04-social-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"People tend to behave this way under stress\", \"This dynamic creates tension\", \"It depends on cultural background\""
+                }
+            ]
+        },
+        {
+            "name": "Dialogues C1",
+            "grcat": "C1",
+            "icon": "chat_bubble",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Диалоги C1"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Dialogue: Leadership",
+                    "rUrl": "a0c1/c1/u007-n01-dialog-leadership",
+                    "img": "",
+                    "icon": "workspace_premium",
+                    "aType": "Dialog",
+                    "content": "\"We must rethink our long-term strategy\", \"This requires coordinated leadership\", \"Let’s address the root issue\""
+                },
+                {
+                    "name": "Dialogue: Academic Debate",
+                    "rUrl": "a0c1/c1/u007-n02-dialog-academic",
+                    "img": "",
+                    "icon": "school",
+                    "aType": "Dialog",
+                    "content": "\"The evidence suggests a different interpretation\", \"Let's compare methodologies\", \"This requires more analysis\""
+                },
+                {
+                    "name": "Dialogue: Philosophy",
+                    "rUrl": "a0c1/c1/u007-n03-dialog-philosophy",
+                    "img": "",
+                    "icon": "psychology_alt",
+                    "aType": "Dialog",
+                    "content": "\"What do we mean by consciousness?\", \"There is a contradiction here\", \"How do we define identity?\""
+                },
+                {
+                    "name": "Dialogue: Social Dynamics",
+                    "rUrl": "a0c1/c1/u007-n04-dialog-social",
+                    "img": "",
+                    "icon": "groups",
+                    "aType": "Dialog",
+                    "content": "\"This behavior is shaped by cultural norms\", \"There is an inherent bias\", \"We need to consider group influence\""
+                }
+            ]
+        },
+        {
+            "name": "Expert Argumentation & Rhetoric",
+            "grcat": "C1+",
+            "icon": "campaign",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Экспертная аргументация и риторика"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Rhetorical Devices",
+                    "rUrl": "a0c1/c1p/u001-n01-rhetoric-devices",
+                    "img": "",
+                    "icon": "auto_stories",
+                    "aType": "ListSwipe",
+                    "content": "\"analogy\", \"metaphor\", \"contrast\", \"emphasis\", \"counterexample\""
+                },
+                {
+                    "name": "Persuasion Tools",
+                    "rUrl": "a0c1/c1p/u001-n02-persuasive-techniques",
+                    "img": "",
+                    "icon": "gavel",
+                    "aType": "ListSwipe",
+                    "content": "\"emotional appeal\", \"logical reasoning\", \"credibility\", \"call to action\", \"framing\""
+                },
+                {
+                    "name": "Subtle Argumentation",
+                    "rUrl": "a0c1/c1p/u001-n03-subtle-argument",
+                    "img": "",
+                    "icon": "psychology_alt",
+                    "aType": "ListSwipe",
+                    "content": "\"implicitly\", \"implicitly suggests\", \"nuanced\", \"partially supports\", \"opens the possibility\""
+                },
+                {
+                    "name": "Rhetoric Phrases C1+",
+                    "rUrl": "a0c1/c1p/u001-n04-rhetoric-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"What this really implies is...\", \"This argument rests on a subtle assumption\", \"Let me draw a parallel here\""
+                }
+            ]
+        },
+        {
+            "name": "High-Level Professional Contexts",
+            "grcat": "C1+",
+            "icon": "business_center",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Профессиональные контексты высокого уровня"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Executive Vocabulary",
+                    "rUrl": "a0c1/c1p/u002-n01-executive",
+                    "img": "",
+                    "icon": "workspace_premium",
+                    "aType": "ListSwipe",
+                    "content": "\"initiative\", \"governance\", \"transparency\", \"alignment\", \"long-term vision\""
+                },
+                {
+                    "name": "Strategic Thinking",
+                    "rUrl": "a0c1/c1p/u002-n02-strategic",
+                    "img": "",
+                    "icon": "lightbulb",
+                    "aType": "ListSwipe",
+                    "content": "\"trade-off\", \"trajectory\", \"macro impact\", \"scalability\", \"risk mitigation\""
+                },
+                {
+                    "name": "Organizational Dynamics",
+                    "rUrl": "a0c1/c1p/u002-n03-organizational",
+                    "img": "",
+                    "icon": "account_tree",
+                    "aType": "ListSwipe",
+                    "content": "\"governance\", \"stakeholder management\", \"cross-functional\", \"organizational inertia\", \"alignment\""
+                },
+                {
+                    "name": "Executive Phrases C1+",
+                    "rUrl": "a0c1/c1p/u002-n04-executive-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"We need to align our priorities\", \"Let's evaluate long-term impact\", \"This requires a strategic shift\""
+                }
+            ]
+        },
+        {
+            "name": "Advanced Technology & Ethics",
+            "grcat": "C1+",
+            "icon": "device_hub",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Продвинутая технология и этика"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Emerging Tech",
+                    "rUrl": "a0c1/c1p/u003-n01-emerging-tech",
+                    "img": "",
+                    "icon": "memory",
+                    "aType": "ListSwipe",
+                    "content": "\"general AI\", \"neural interface\", \"genetic engineering\", \"quantum computing\", \"autonomous systems\""
+                },
+                {
+                    "name": "Tech Ethics",
+                    "rUrl": "a0c1/c1p/u003-n02-tech-ethics",
+                    "img": "",
+                    "icon": "balance",
+                    "aType": "ListSwipe",
+                    "content": "\"ethical dilemma\", \"bias amplification\", \"data sovereignty\", \"algorithmic transparency\", \"digital rights\""
+                },
+                {
+                    "name": "Philosophy of Technology",
+                    "rUrl": "a0c1/c1p/u003-n03-tech-philosophy",
+                    "img": "",
+                    "icon": "psychology",
+                    "aType": "ListSwipe",
+                    "content": "\"human augmentation\", \"post-humanism\", \"technological determinism\", \"digital dualism\", \"collective intelligence\""
+                },
+                {
+                    "name": "Tech Phrases C1+",
+                    "rUrl": "a0c1/c1p/u003-n04-tech-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"This innovation raises fundamental ethical questions\", \"We must consider unintended consequences\", \"The algorithm shapes human behavior\""
+                }
+            ]
+        },
+        {
+            "name": "Global Systems & Geopolitics",
+            "grcat": "C1+",
+            "icon": "public",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Глобальные системы и геополитика"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Geopolitical Vocabulary",
+                    "rUrl": "a0c1/c1p/u004-n01-geopolitics",
+                    "img": "",
+                    "icon": "public",
+                    "aType": "ListSwipe",
+                    "content": "\"sovereignty\", \"sanctions\", \"global governance\", \"diplomatic relations\", \"economic leverage\""
+                },
+                {
+                    "name": "International Relations",
+                    "rUrl": "a0c1/c1p/u004-n02-IR",
+                    "img": "",
+                    "icon": "flag",
+                    "aType": "ListSwipe",
+                    "content": "\"multilateral\", \"bilateral\", \"strategic alliance\", \"neutrality\", \"conflict mediation\""
+                },
+                {
+                    "name": "Global Systems Thinking",
+                    "rUrl": "a0c1/c1p/u004-n03-global-systems",
+                    "img": "",
+                    "icon": "hub",
+                    "aType": "ListSwipe",
+                    "content": "\"complex interdependence\", \"geoeconomics\", \"global supply chain\", \"systemic risk\", \"structural imbalance\""
+                },
+                {
+                    "name": "Geopolitical Phrases C1+",
+                    "rUrl": "a0c1/c1p/u004-n04-geopolitical-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"This shift affects global stability\", \"The dynamics are highly interconnected\", \"The diplomatic implications are significant\""
+                }
+            ]
+        },
+        {
+            "name": "Advanced Culture, Art & Interpretation",
+            "grcat": "C1+",
+            "icon": "palette",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Продвинутая культура, искусство и интерпретация"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Interpretation Vocabulary",
+                    "rUrl": "a0c1/c1p/u005-n01-interpretation",
+                    "img": "",
+                    "icon": "palette",
+                    "aType": "ListSwipe",
+                    "content": "\"symbolic meaning\", \"underlying message\", \"subtext\", \"stylistic choice\", \"cultural resonance\""
+                },
+                {
+                    "name": "Art Analysis Level 2",
+                    "rUrl": "a0c1/c1p/u005-n02-art-analysis",
+                    "img": "",
+                    "icon": "theaters",
+                    "aType": "ListSwipe",
+                    "content": "\"narrative structure\", \"aesthetic contrast\", \"evocative imagery\", \"thematic layering\", \"emotional palette\""
+                },
+                {
+                    "name": "Literary Concepts",
+                    "rUrl": "a0c1/c1p/u005-n03-literature",
+                    "img": "",
+                    "icon": "menu_book",
+                    "aType": "ListSwipe",
+                    "content": "\"metafiction\", \"allegory\", \"narrator bias\", \"unreliable narrator\", \"symbolism\""
+                },
+                {
+                    "name": "Interpretation Phrases C1+",
+                    "rUrl": "a0c1/c1p/u005-n04-interpretation-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"This piece invites multiple interpretations\", \"The symbolism suggests a deeper tension\", \"It challenges traditional aesthetic norms\""
+                }
+            ]
+        },
+        {
+            "name": "Metacognition & Deep Self-Reflection",
+            "grcat": "C1+",
+            "icon": "self_improvement",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Метапознание и глубокая саморефлексия"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Metacognitive Vocabulary",
+                    "rUrl": "a0c1/c1p/u006-n01-metacognition",
+                    "img": "",
+                    "icon": "insights",
+                    "aType": "ListSwipe",
+                    "content": "\"self-awareness\", \"cognitive bias\", \"meta-level\", \"internal conflict\", \"reflective thinking\""
+                },
+                {
+                    "name": "Deep Self-Analysis",
+                    "rUrl": "a0c1/c1p/u006-n02-self-analysis",
+                    "img": "",
+                    "icon": "psychology",
+                    "aType": "ListSwipe",
+                    "content": "\"reconcile contradictions\", \"understand emotional triggers\", \"reframe experiences\", \"identify blind spots\""
+                },
+                {
+                    "name": "Inner Dialogue Tools",
+                    "rUrl": "a0c1/c1p/u006-n03-inner-dialogue",
+                    "img": "",
+                    "icon": "psychology_alt",
+                    "aType": "ListSwipe",
+                    "content": "\"My initial reaction was...\", \"Upon reflection, I realized...\", \"This feeling stems from...\""
+                },
+                {
+                    "name": "Self-Reflection Phrases C1+",
+                    "rUrl": "a0c1/c1p/u006-n04-selfreflection-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"This experience reshaped my internal narrative\", \"It exposed a deeper conflict within me\", \"I learned to reinterpret the situation\""
+                }
+            ]
+        },
+        {
+            "name": "Dialogues C1+",
+            "grcat": "C1+",
+            "icon": "chat_bubble",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Диалоги C1+"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Dialogue: Complex Geopolitics",
+                    "rUrl": "a0c1/c1p/u007-n01-dialog-geopolitics",
+                    "img": "",
+                    "icon": "public",
+                    "aType": "Dialog",
+                    "content": "\"The geopolitical implications are profound\", \"We must analyze structural dependencies\", \"This impacts regional stability\""
+                },
+                {
+                    "name": "Dialogue: Art Interpretation",
+                    "rUrl": "a0c1/c1p/u007-n02-dialog-art",
+                    "img": "",
+                    "icon": "palette",
+                    "aType": "Dialog",
+                    "content": "\"The imagery is deeply symbolic\", \"This interpretation challenges traditional views\", \"There is an underlying emotional tension\""
+                },
+                {
+                    "name": "Dialogue: Tech Ethics",
+                    "rUrl": "a0c1/c1p/u007-n03-dialog-tech",
+                    "img": "",
+                    "icon": "memory",
+                    "aType": "Dialog",
+                    "content": "\"This raises fundamental ethical concerns\", \"Algorithmic bias is a systemic issue\", \"We must evaluate long-term implications\""
+                },
+                {
+                    "name": "Dialogue: Advanced Self-Reflection",
+                    "rUrl": "a0c1/c1p/u007-n04-dialog-inner",
+                    "img": "",
+                    "icon": "self_improvement",
+                    "aType": "Dialog",
+                    "content": "\"This situation made me question my assumptions\", \"I uncovered a deeper motivation\", \"It reshaped my understanding of myself\""
+                }
+            ]
+        },
+        {
+            "name": "Theory, Models & High Abstraction",
+            "grcat": "C2",
+            "icon": "auto_awesome",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Теории, модели и высокая абстракция"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Theoretical Vocabulary",
+                    "rUrl": "a0c1/c2/u001-n01-theoretical",
+                    "img": "",
+                    "icon": "auto_awesome",
+                    "aType": "ListSwipe",
+                    "content": "\"phenomenology\", \"dialectics\", \"axiom\", \"meta-framework\", \"ontological structure\""
+                },
+                {
+                    "name": "Advanced Concepts",
+                    "rUrl": "a0c1/c2/u001-n02-advanced-concepts",
+                    "img": "",
+                    "icon": "light",
+                    "aType": "ListSwipe",
+                    "content": "\"emergent properties\", \"recursive process\", \"epistemic uncertainty\", \"semantic drift\", \"causal architecture\""
+                },
+                {
+                    "name": "Models & Meta-Models",
+                    "rUrl": "a0c1/c2/u001-n03-models",
+                    "img": "",
+                    "icon": "hub",
+                    "aType": "ListSwipe",
+                    "content": "\"paradigm shift\", \"formal model\", \"axiomatic base\", \"meta-analysis\", \"conceptual mapping\""
+                },
+                {
+                    "name": "Abstraction Phrases C2",
+                    "rUrl": "a0c1/c2/u001-n04-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"At a meta-level, this implies...\", \"This illustrates a deeper structural pattern\", \"The conceptual boundary is fluid\""
+                }
+            ]
+        },
+        {
+            "name": "Advanced Rhetoric & Discourse Mastery",
+            "grcat": "C2",
+            "icon": "campaign",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Продвинутая риторика и дискурс"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "High-Level Rhetoric",
+                    "rUrl": "a0c1/c2/u002-n01-rhetoric",
+                    "img": "",
+                    "icon": "campaign",
+                    "aType": "ListSwipe",
+                    "content": "\"dialectical reasoning\", \"implicit contradiction\", \"semantic framing\", \"rhetorical inversion\", \"meta-commentary\""
+                },
+                {
+                    "name": "Discourse Structures",
+                    "rUrl": "a0c1/c2/u002-n02-discourse",
+                    "img": "",
+                    "icon": "format_align_left",
+                    "aType": "ListSwipe",
+                    "content": "\"discursive shift\", \"narrative stance\", \"authorial voice\", \"macro-structure\", \"rhetorical layering\""
+                },
+                {
+                    "name": "C2 Debate Tools",
+                    "rUrl": "a0c1/c2/u002-n03-debate",
+                    "img": "",
+                    "icon": "gavel",
+                    "aType": "ListSwipe",
+                    "content": "\"refute implicitly\", \"reframe the premise\", \"challenge foundational logic\", \"construct counter-narrative\""
+                },
+                {
+                    "name": "Rhetoric Phrases C2",
+                    "rUrl": "a0c1/c2/u002-n04-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"The argument collapses under closer scrutiny\", \"This rests on a flawed premise\", \"Let me contextualize the core idea\""
+                }
+            ]
+        },
+        {
+            "name": "Philosophy, Metaphysics & Epistemology",
+            "grcat": "C2",
+            "icon": "psychology_alt",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Философия, метафизика и эпистемология"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Philosophical Theory",
+                    "rUrl": "a0c1/c2/u003-n01-philosophy-theory",
+                    "img": "",
+                    "icon": "menu_book",
+                    "aType": "ListSwipe",
+                    "content": "\"dualism\", \"monism\", \"epistemology\", \"teleology\", \"existential inquiry\""
+                },
+                {
+                    "name": "Metaphysical Vocabulary",
+                    "rUrl": "a0c1/c2/u003-n02-metaphysics",
+                    "img": "",
+                    "icon": "auto_awesome",
+                    "aType": "ListSwipe",
+                    "content": "\"essence\", \"substance\", \"continuity\", \"potentiality\", \"metaphysical claim\""
+                },
+                {
+                    "name": "Philosophical Methodology",
+                    "rUrl": "a0c1/c2/u003-n03-method",
+                    "img": "",
+                    "icon": "psychology",
+                    "aType": "ListSwipe",
+                    "content": "\"dialectical method\", \"rational deduction\", \"phenomenological reduction\", \"analytic reasoning\""
+                },
+                {
+                    "name": "Philosophy Phrases C2",
+                    "rUrl": "a0c1/c2/u003-n04-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"This raises an epistemic paradox\", \"We must examine the metaphysical assumptions\", \"The concept transcends empirical boundaries\""
+                }
+            ]
+        },
+        {
+            "name": "Expert Systems Thinking & Structural Analysis",
+            "grcat": "C2",
+            "icon": "hub",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Экспертное системное мышление и структурный анализ"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Complex Systems Vocabulary",
+                    "rUrl": "a0c1/c2/u004-n01-systems",
+                    "img": "",
+                    "icon": "hub",
+                    "aType": "ListSwipe",
+                    "content": "\"systemic feedback\", \"structural dependency\", \"boundary condition\", \"adaptive cycle\", \"macro-dynamics\""
+                },
+                {
+                    "name": "Structural Analysis Tools",
+                    "rUrl": "a0c1/c2/u004-n02-structural-tools",
+                    "img": "",
+                    "icon": "architecture",
+                    "aType": "ListSwipe",
+                    "content": "\"hierarchical structure\", \"system mapping\", \"dynamic equilibrium\", \"causal chains\", \"structural coherence\""
+                },
+                {
+                    "name": "Interdisciplinary Integration",
+                    "rUrl": "a0c1/c2/u004-n03-integration",
+                    "img": "",
+                    "icon": "science",
+                    "aType": "ListSwipe",
+                    "content": "\"cross-disciplinary synthesis\", \"convergent theory\", \"transdisciplinary approach\", \"integrated perspective\""
+                },
+                {
+                    "name": "Systems Phrases C2",
+                    "rUrl": "a0c1/c2/u004-n04-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"This pattern emerges across multiple layers\", \"The system stabilizes through feedback loops\", \"The structure reveals hidden dependencies\""
+                }
+            ]
+        },
+        {
+            "name": "Ultra-Advanced Communication & Nuance",
+            "grcat": "C2",
+            "icon": "forum",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Ультрапродвинутая коммуникация и нюанс"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Nuanced Vocabulary",
+                    "rUrl": "a0c1/c2/u005-n01-nuance",
+                    "img": "",
+                    "icon": "gesture",
+                    "aType": "ListSwipe",
+                    "content": "\"implicit meaning\", \"subtle distinction\", \"cultural nuance\", \"pragmatic implication\", \"discursive tone\""
+                },
+                {
+                    "name": "High-Level Idioms",
+                    "rUrl": "a0c1/c2/u005-n02-idioms-c2",
+                    "img": "",
+                    "icon": "emoji_objects",
+                    "aType": "ListSwipe",
+                    "content": "\"the elephant in the room\", \"move the needle\", \"read between the lines\", \"shift the paradigm\""
+                },
+                {
+                    "name": "Subtext & Implicit Messages",
+                    "rUrl": "a0c1/c2/u005-n03-subtext",
+                    "img": "",
+                    "icon": "visibility",
+                    "aType": "ListSwipe",
+                    "content": "\"implied intention\", \"underlying motive\", \"suggestive tone\", \"veiled criticism\""
+                },
+                {
+                    "name": "Communication Phrases C2",
+                    "rUrl": "a0c1/c2/u005-n04-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"Let me articulate this precisely\", \"The implication is subtle yet important\", \"This requires careful interpretation\""
+                }
+            ]
+        },
+        {
+            "name": "Global Order, Economics & Geopolitical Theory",
+            "grcat": "C2",
+            "icon": "public",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Мировой порядок, экономика и геополитическая теория"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Political-Economic Vocabulary",
+                    "rUrl": "a0c1/c2/u006-n01-political-econ",
+                    "img": "",
+                    "icon": "public",
+                    "aType": "ListSwipe",
+                    "content": "\"macroeconomic forces\", \"geopolitical leverage\", \"regulatory framework\", \"economic interdependence\""
+                },
+                {
+                    "name": "Global Theory",
+                    "rUrl": "a0c1/c2/u006-n02-global-theory",
+                    "img": "",
+                    "icon": "hub",
+                    "aType": "ListSwipe",
+                    "content": "\"theoretical construct\", \"global equilibrium\", \"systemic shift\", \"strategic landscape\""
+                },
+                {
+                    "name": "Advanced Analysis",
+                    "rUrl": "a0c1/c2/u006-n03-analysis",
+                    "img": "",
+                    "icon": "psychology_alt",
+                    "aType": "ListSwipe",
+                    "content": "\"macro-analysis\", \"scenario projection\", \"structural tension\", \"externalities\""
+                },
+                {
+                    "name": "Geopolitical Phrases C2",
+                    "rUrl": "a0c1/c2/u006-n04-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"The geopolitical calculus has shifted\", \"This represents a systemic reconfiguration\", \"The long-term implications are profound\""
+                }
+            ]
+        },
+        {
+            "name": "Metaphor, Symbolism & Deep Interpretation",
+            "grcat": "C2",
+            "icon": "palette",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Метафора, символизм и глубокая интерпретация"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Symbolic Vocabulary",
+                    "rUrl": "a0c1/c2/u007-n01-symbolic",
+                    "img": "",
+                    "icon": "palette",
+                    "aType": "ListSwipe",
+                    "content": "\"archetype\", \"motif\", \"symbolic structure\", \"metaphorical mapping\", \"allegorical layer\""
+                },
+                {
+                    "name": "Interpretive Tools",
+                    "rUrl": "a0c1/c2/u007-n02-tools",
+                    "img": "",
+                    "icon": "format_quote",
+                    "aType": "ListSwipe",
+                    "content": "\"deconstruction\", \"thematic synthesis\", \"interpretive lens\", \"semantic layering\""
+                },
+                {
+                    "name": "C2 Literary Terms",
+                    "rUrl": "a0c1/c2/u007-n03-literary",
+                    "img": "",
+                    "icon": "menu_book",
+                    "aType": "ListSwipe",
+                    "content": "\"metanarrative\", \"intersubjectivity\", \"symbolic resonance\", \"meta-fictional element\""
+                },
+                {
+                    "name": "Interpretation Phrases C2",
+                    "rUrl": "a0c1/c2/u007-n04-phrases",
+                    "img": "",
+                    "icon": "chat",
+                    "aType": "ListSwipe",
+                    "content": "\"This metaphor redefines the conceptual field\", \"The symbolism transcends narrative boundaries\", \"The interpretive depth is remarkable\""
+                }
+            ]
+        },
+        {
+            "name": "C2 Dialogues (Master Level)",
+            "grcat": "C2",
+            "icon": "chat_bubble",
+            "translates": [
+                {
+                    "lang": "ru-RU",
+                    "name": "Диалоги C2 (уровень мастерства)"
+                }
+            ],
+            "activities": [
+                {
+                    "name": "Dialogue: Metaphysics",
+                    "rUrl": "a0c1/c2/u008-n01-dialog-metaphysics",
+                    "img": "",
+                    "icon": "psychology_alt",
+                    "aType": "Dialog",
+                    "content": "\"The metaphysical premises require revisiting\", \"This concept transcends empirical reality\""
+                },
+                {
+                    "name": "Dialogue: Expert Systems Thinking",
+                    "rUrl": "a0c1/c2/u008-n02-dialog-systems",
+                    "img": "",
+                    "icon": "hub",
+                    "aType": "Dialog",
+                    "content": "\"The structure implies recursive dynamics\", \"The feedback loops stabilize the system\""
+                },
+                {
+                    "name": "Dialogue: Rhetoric & Discourse",
+                    "rUrl": "a0c1/c2/u008-n03-dialog-rhetoric",
+                    "img": "",
+                    "icon": "campaign",
+                    "aType": "Dialog",
+                    "content": "\"Your argument reframes the premise\", \"Let’s analyze the implicit assumptions\""
+                },
+                {
+                    "name": "Dialogue: Global Structure",
+                    "rUrl": "a0c1/c2/u008-n04-dialog-global",
+                    "img": "",
+                    "icon": "public",
+                    "aType": "Dialog",
+                    "content": "\"This represents a systemic shift\", \"The geopolitical implications are far-reaching\""
+                }
+            ]
+        }
+    ]
+}
